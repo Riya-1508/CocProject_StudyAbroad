@@ -10,9 +10,11 @@ const JWT_SECRET = 'Harryisagoodb$oy';
 
 // ROUTE 1: Create a User using: POST "/api/auth/createuser". No login required
 router.post('/createuser', [
-  body('name', 'Enter a valid name').isLength({ min: 3 }),
+  // body('firstname', 'Enter a valid  first name').isLength({ min: 3 }),
+  // body('secondname', 'Enter a valid second name').isLength({ min: 3 }),
   body('email', 'Enter a valid email').isEmail(),
   body('password', 'Password must be atleast 5 characters').isLength({ min: 5 }),
+  body('phnNumber', 'Enter a valid phone number').isLength({ max: 10 }),
 ], async (req, res) => {
   // If there are errors, return Bad request and the errors
   const errors = validationResult(req);
@@ -25,14 +27,20 @@ router.post('/createuser', [
     if (user) {
       return res.status(400).json({ error: "Sorry a user with this email already exists" })
     }
+    let user1 = await User.findOne({ phnNumber: req.body.phnNumber });
+    if (user1) {
+      return res.status(400).json({ error: "Sorry a user with this phone number already exists" })
+    }
     const salt = await bcrypt.genSalt(10);
     const secPass = await bcrypt.hash(req.body.password, salt);
 
     // Create a new user
     user = await User.create({
-      name: req.body.name,
+      firstname: req.body.firstname,
+      lastname: req.body.lastname,
       password: secPass,
       email: req.body.email,
+      phnNumber:req.body.phnNumber
     });
     const data = {
       user: {
@@ -42,8 +50,8 @@ router.post('/createuser', [
     const authtoken = jwt.sign(data, JWT_SECRET);
 
 
-    //res.json(user)
-     res.json({ authtoken })
+    res.json({user, authtoken})
+     
 
   } catch (error) {
     console.error(error.message);
@@ -77,7 +85,7 @@ router.post('/login', [
       success = false
       return res.status(400).json({ success, error: "Please try to login with correct credentials" });
     }
-
+   
     const data = {
       user: {
         id: user.id
@@ -86,6 +94,7 @@ router.post('/login', [
     const authtoken = jwt.sign(data, JWT_SECRET);
     success = true;
     res.json({ success, authtoken })
+  
 
   } catch (error) {
     console.error(error.message);
