@@ -10,6 +10,11 @@ const UserSchema = new Schema({
         type: String,
         required: true
     },
+    phnNumber:{
+        type: Number,
+       required:true,
+       unique:true
+    },
     email:{
         type: String,
         required: true,
@@ -19,10 +24,9 @@ const UserSchema = new Schema({
         type: String,
         required: true
     },
-    phnNumber:{
+    confirmpassword:{
         type: String,
-       required:true,
-       unique:true
+        required: true
     },
   });
   const User = mongoose.model('user', UserSchema);
