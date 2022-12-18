@@ -11,7 +11,7 @@ const UserSchema = new Schema({
         required: true
     },
     phnNumber:{
-        type: Number,
+        type: String,
        required:true,
        unique:true
     },
