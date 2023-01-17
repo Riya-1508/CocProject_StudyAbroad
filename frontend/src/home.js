@@ -1,13 +1,13 @@
 import React from "react";
-import HomeP from './image/homephoto.png';
-import Ellipse from './image/Ellipse.png';
-import USA from './image/USA.jpg';
-import Canada from './image/Canada.jpg';
-import Germany from './image/Germany.jpg';
-import Logo1 from './image/Logo1.png';
-import Logo2 from './image/Logo2.png';
-import Logo3 from './image/Logo3.png';
-import Logo4 from './image/Logo4.png';
+// import HomeP from './image/homephoto.png';
+// import Ellipse from './image/Ellipse.png';
+// import USA from './image/USA.jpg';
+// import Canada from './image/Canada.jpg';
+// import Germany from './image/Germany.jpg';
+// import Logo1 from './image/Logo1.png';
+// import Logo2 from './image/Logo2.png';
+// import Logo3 from './image/Logo3.png';
+// import Logo4 from './image/Logo4.png';
 import "./home.css";
 import Navigation from "./Navigation.js";
 import Footer from "./Footer.js";
@@ -26,7 +26,7 @@ function Home() {
                             <p className="m-4 font-serif text-3xl">Welcome to Study Abroad</p>
                             <p className="m-4 font-medium text-xl">We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
                         </div>
-                        <div className="flex flex-row ">
+                        {/* <div className="flex flex-row ">
                             <img className="w-[450px] h-[650px] m-auto rounded-xl" src={HomeP} alt="office content 1"></img>
                             <img
                                 src={Ellipse}
@@ -48,7 +48,7 @@ function Home() {
                                 className="z-20 brightness-200 animate-ping w-16 absolute right-20 bottom-32"
                                 alt=""
                             />
-                        </div>
+                        </div> */}
                     </div>
                 </section>
             </div >
@@ -87,12 +87,12 @@ function Home() {
             <section>
                 <div className="h-72 bg-gray-400">
                     <h1 className="font-bold text-2xl text-center pt-4 font-serif">Graduation Universites</h1>
-                    <div className="flex flex-row justify-center space-x-40 mt-10">
+                    {/* <div className="flex flex-row justify-center space-x-40 mt-10">
                         <img src={Logo1} alt="" className="w-56 h-36"></img>
                         <img src={Logo2} alt="" className="w-56 h-40"></img>
                         <img src={Logo3} alt="" className="w-56 h-36"></img>
                         <img src={Logo4} alt="" className="w-56 h-36"></img>
-                    </div>
+                    </div> */}
                 </div>
             </section>
             {/* Post Graduation */}
@@ -120,9 +120,9 @@ function Home() {
                     <div
                         className="relative preserve-3d group-hover:my-rotate-y-180 w-full h-full duration-1000"
                     >
-                        <div className="absolute backface-hidden-2 w-full h-full">
+                        {/* <div className="absolute backface-hidden-2 w-full h-full">
                             <img src={USA} alt="" className="w-full h-full" />
-                        </div>
+                        </div> */}
                         <div
                             className="absolute my-rotate-y-180 backface-hidden w-full h-full bg-gray-100 overflow-hidden"
                         >
@@ -148,9 +148,9 @@ function Home() {
                     <div
                         className="relative preserve-3d group-hover:my-rotate-y-180 w-full h-full duration-1000"
                     >
-                        <div className="absolute backface-hidden-2 w-full h-full">
+                        {/* <div className="absolute backface-hidden-2 w-full h-full">
                             <img src={Canada} alt="" className="w-full h-full" />
-                        </div>
+                        </div> */}
                         <div
                             className="absolute my-rotate-y-180 backface-hidden w-full h-full bg-gray-100 overflow-hidden"
                         >
@@ -177,9 +177,9 @@ function Home() {
                     <div
                         className="relative preserve-3d group-hover:my-rotate-y-180 w-full h-full duration-1000"
                     >
-                        <div className="absolute backface-hidden-2 w-full h-full">
+                        {/* <div className="absolute backface-hidden-2 w-full h-full">
                             <img src={Germany} alt="" className="w-full h-full" />
-                        </div>
+                        </div> */}
                         <div
                             className="absolute my-rotate-y-180 backface-hidden w-full h-full bg-gray-100 overflow-hidden"
                         >
