@@ -1,6 +1,6 @@
 import React from "react";
 import "./SignUp.css"
-//import Photo_Sign from './image/Photo_SignUp.png';
+import Photo_Sign from './image/Photo_SignUp.png';
 import {useState} from "react";
 import axios from "axios"
 import ErrorMessage from "./ErrorMesssge";
@@ -58,7 +58,7 @@ function SignUp() {
                 <div className="mt-20" >
                 <p className="ml-[330px] text-4xl capitalize font-bold font-mono">Create</p>
                 <span className="ml-80 text-4xl capitalize font-bold font-mono">Account</span>
-                    <img className="w-[700px] h-[500px] ml-36"  alt="" />
+                    <img className="w-[700px] h-[500px] ml-36" src={Photo_Sign} alt="" />
                 </div>
                 <div className="border-4 border-white h-screen "></div>
                 <div className="flex justify-end py-1 pr-40">

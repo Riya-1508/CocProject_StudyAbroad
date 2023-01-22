@@ -1,9 +1,9 @@
 @tailwind base;
 @tailwind components;
 
-/* .BGGI
+.BGGI
 {
     background-image: url(./image/PGBGI.jpg);
-} */
+}
 
 @tailwind utilities;
