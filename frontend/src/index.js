@@ -1,43 +1,44 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './index.css';
- import App from './App';
-import Login from './Login.js';
-import SignUp from './SignUp';
+// import LogIn from './Login.js';
 import Home from './home.js';
-
+// import Practice from './practice.js'
+// import SignUp from './SignUp.js';
 import Graduation from './Graduation.js';
-import PostGraduation from './PostGraduation.js';
-import Navigation from './Navigation.js';
-//import './Login.css';
+// import PostGraduation from './PostGraduation.js';
+import GraduationCountry from './GraduationCountries.js';
+// import Canada from './Canada.js'
+// import GCountryNames from './GCountryNames.js';
 import reportWebVitals from './reportWebVitals';
-const WebPages = () => {
-  document.title = "Study Abroad";
+
+
+const GraduationCollegePages = () => {
   return (
-    <section className="listofwebpages">
-      <BrowserRouter>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="Graduation" element={<Graduation />} />
-          <Route path="PostGraduation" element={<PostGraduation />} />
-          <Route path="SignUp" element={<SignUp />} />
-          <Route path="Login" element={<Login />} />
-        </Routes>
-      </BrowserRouter>
-    </section>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/GCountryNames" element={<Graduation />} />
+        <Route path="/GCountryNames/:id" element={<GraduationCountry />} />
+      </Routes>
+    </BrowserRouter>
   )
 }
+
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Login />
-    {/* <SignUp/> */}
-    {/* <Home/> */}
-    {/* <PostGraduation/> */}
-    {/* <Graduation/> */}
-    {/* <WebPages /> */}
-    
+    {/* <LogIn /> */}
+    {/* <SignUp /> */}
+    {/* <Graduation /> */}
+    {/* <Canada /> */}
+    {/* <Practice /> */}
+    <GraduationCollegePages />
+    {/* <GraduationCountry /> */}
+    {/* <PostGraduation /> */}
+    {/* <Home /> */}
   </React.StrictMode>
 );
 
@@ -45,3 +46,4 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
