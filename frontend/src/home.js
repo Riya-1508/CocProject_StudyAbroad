@@ -5,10 +5,11 @@ import USA from './image/USA.jpg';
 import Canada from './image/Canada.jpg';
 import Germany from './image/Germany.jpg';
 import Logo1 from './image/Logo1.png';
-import Logo2 from './image/Logo2.png';
+import Logo2 from './image/Logo2.jpg';
 import Logo3 from './image/Logo3.png';
 import Logo4 from './image/Logo4.png';
 import "./home.css";
+import { Link } from "react-router-dom";
 import Navigation from "./Navigation.js";
 import Footer from "./Footer.js";
 
@@ -78,24 +79,24 @@ function Home() {
                             <h2 className="m-8 font-bold text-6xl">Hello Students</h2>
                             <p className="m-4 font-serif text-3xl">Welcome to Study Abroad</p>
                             <p className="m-4 font-medium text-xl">We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
-                            <button type="button" className="inline-block px-6 py-2.5 bg-purple-400 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-purple-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-purple-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-purple-800 active:shadow-lg transition duration-150 ease-in-out">Know More</button>
+                            <Link to="/GCountryNames" className="inline-block px-6 py-2.5 bg-purple-400 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-purple-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-purple-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-purple-800 active:shadow-lg transition duration-150 ease-in-out">Know More</Link>
                         </div>
                     </div>
                 </div>
             </section>
             {/* Logo Graduation */}
             <section>
-                <div className="h-72 bg-gray-400">
-                    <h1 className="font-bold text-2xl text-center pt-4 font-serif">Graduation Universites</h1>
-                    <div className="flex flex-row justify-center space-x-40 mt-10">
-                        <img src={Logo1} alt="" className="w-56 h-36"></img>
-                        <img src={Logo2} alt="" className="w-56 h-40"></img>
-                        <img src={Logo3} alt="" className="w-56 h-36"></img>
-                        <img src={Logo4} alt="" className="w-56 h-36"></img>
+                <div className="h-auto bg-gray-400">
+                    <h1 className="font-bold text-2xl text-center p-4 font-serif">Graduation Universites</h1>
+                    <div className="flex flex-row flex-wrap justify-center space-x-40 mt-10">
+                        <img src={Logo1} alt="" className="w-56 h-36 aspect-square object-contain mix-blend-color-burn"></img>
+                        <img src={Logo2} alt="" className="w-56 h-40 aspect-square object-contain mix-blend-color-burn"></img>
+                        <img src={Logo3} alt="" className="w-56 h-36 aspect-square object-contain mix-blend-color-burn"></img>
+                        <img src={Logo4} alt="" className="w-56 h-36 aspect-square object-contain mix-blend-color-burn"></img>
                     </div>
                 </div>
             </section>
-            Post Graduation
+            {/* Post Graduation */}
             <section>
                 <div className="flex flex-row bg-gradient-to-bl from-purple-200 via-purple-400 to-purple-800 h-screen space-x-44">
                     <div className="w-[700px] h-[400px] mt-auto mb-auto text-center">
@@ -103,7 +104,7 @@ function Home() {
                             <h2 className="m-8 font-bold text-6xl">Hello Students</h2>
                             <p className="m-4 font-serif text-3xl">Welcome to Study Abroad</p>
                             <p className="m-4 font-medium text-xl">We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
-                            <button type="button" className="inline-block px-6 py-2.5 bg-purple-400 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-purple-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-purple-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-purple-800 active:shadow-lg transition duration-150 ease-in-out">Know More</button>
+                            <Link to="/PGCountryNames" type="button" className="inline-block px-6 py-2.5 bg-purple-400 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-purple-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-purple-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-purple-800 active:shadow-lg transition duration-150 ease-in-out">Know More</Link>
                         </div>
                     </div>
                     <div className="flex flex-row space-x-28">

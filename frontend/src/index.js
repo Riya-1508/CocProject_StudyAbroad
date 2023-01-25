@@ -7,10 +7,11 @@ import Home from './home.js';
 // import Practice from './practice.js'
 // import SignUp from './SignUp.js';
 import Graduation from './Graduation.js';
-// import PostGraduation from './PostGraduation.js';
+import PostGraduation from './PostGraduation.js';
 import GraduationCountry from './GraduationCountries.js';
-// import Canada from './Canada.js'
+import PostGraduationCountry from './PostGraduationCountries'
 // import GCountryNames from './GCountryNames.js';
+import Parent from './h';
 import reportWebVitals from './reportWebVitals';
 
 
@@ -20,7 +21,9 @@ const GraduationCollegePages = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/GCountryNames" element={<Graduation />} />
-        <Route path="/GCountryNames/:id" element={<GraduationCountry />} />
+        <Route path="/GCountryNames/:name" element={<GraduationCountry />} />
+        <Route path="/PGCountryNames" element={<PostGraduation />} />
+        <Route path="/PGCountryNames/:name" element={<PostGraduationCountry />} />
       </Routes>
     </BrowserRouter>
   )
@@ -35,7 +38,8 @@ root.render(
     {/* <Graduation /> */}
     {/* <Canada /> */}
     {/* <Practice /> */}
-    <GraduationCollegePages />
+    {/* <GraduationCollegePages /> */}
+    <Parent/>
     {/* <GraduationCountry /> */}
     {/* <PostGraduation /> */}
     {/* <Home /> */}

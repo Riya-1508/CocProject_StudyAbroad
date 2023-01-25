@@ -13,11 +13,11 @@ router.get('/collegename',async(req,res) =>{
  
 // async function getCollegeInfo() {
     
-    const url1 = `https://collegedunia.com/australia/college/595-queensland-university-of-technology-brisbane/programs?course_id=136987`;
+    const url1 = `https://collegedunia.com/australia/college/595-queensland-university-of-technology-brisbane/programs?course_id=136985`;
   const { data: html } = await axios.get(url1,
   {
     headers: {
-        Accept:'*/*', 
+        Accept:'/', 
         
        Host: 'collegedunia.com',
         scheme: 'https',
@@ -51,7 +51,8 @@ entry.save().then(() => {
     console.log(err,result.title,'saved')
 })
  })
- router.post('/getcollege/:id', async (req, res) => {
+
+ router.get('/getcollege/:id', async (req, res) => {
 
  collection.findOne({"_id": new ObjectId(req.params.id)},(error,result)=>{
   if(error) {
