@@ -6,7 +6,7 @@ import './index.css';
 import Login from './Login.js';
 import SignUp from './SignUp';
 import Home from './home.js';
-
+import GradCountry from './GraduationCountries.js';
 import Graduation from './Graduation.js';
 import PostGraduation from './PostGraduation.js';
 import Navigation from './Navigation.js';
@@ -31,11 +31,12 @@ const WebPages = () => {
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Login />
+    {/* <Login /> */}
     {/* <SignUp/> */}
     {/* <Home/> */}
     {/* <PostGraduation/> */}
     {/* <Graduation/> */}
+    {/* <GradCountry/> */}
     {/* <WebPages /> */}
     
   </React.StrictMode>

@@ -2,6 +2,18 @@ const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
 const CollegeSchema = new Schema({
+    name:{
+        type: String,
+       
+    },
+    details:{
+        type: String,
+       
+    },
+    img:{
+        type: String,
+       
+    },
     title:{
         type: String,
        
