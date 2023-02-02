@@ -114,7 +114,23 @@ https://github.com/Riya-1508/CocProject_StudyAbroad
 This is how the project is started.
 
 ## 💻Usage
+1.Firstly the home page of the website opens on running the server.
 
+2.To access more pages the user has to signup by filling proper details and then the user will be redirected to login page where he has to log in with proper credentials.
+
+3.The user can choose between graduation and post graduation page.
+
+4.Suppose if he clicks on the graduation page,he gets to choose from 5 countries namely Australia,UK,USA,Canada and Germany.
+
+5.When he chooses one of the countries,he is redirected to a page which has list of courses.
+
+6.When a course is chosen,list of top colleges providing that course appears.
+
+7.The user can get info on the exams,courses taught,scholarships and accodomation provided by that college.
+
+8.User can search for a college in the search bar which filters the search according to the first 2-3 letters of the college name.
+
+This is how our website works.
 
 ## 👨‍💻Team Members
 
