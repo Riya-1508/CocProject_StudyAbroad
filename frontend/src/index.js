@@ -8,6 +8,7 @@ import Practice from './practice.js'
 import SignUp from './SignUp.js';
 import G from './h.js';
 import Navigation from './Navigation';
+
 import Graduation from './Graduation.js';
 import PostGraduation from './PostGraduation.js';
 import GraduationCountry from './GraduationCountries.js';
@@ -57,6 +58,13 @@ root.render(
     {/* <GraduationCountry /> */}
     {/* <PostGraduation /> */}
     {/* <Home /> */}
+    <LogIn />
+    {/* <SignUp/> */}
+    {/* <Home/> */}
+    {/* <PostGraduation/> */}
+    {/* <Graduation/> */}
+    {/* <WebPages /> */}
+    
   </React.StrictMode>
 );
 

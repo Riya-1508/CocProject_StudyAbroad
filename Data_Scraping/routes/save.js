@@ -4,53 +4,88 @@ const express = require('express');
 const router = express.Router();
 const College = require('../models/Colleges');
 const { collection } = require('../models/Colleges');
+const { get } = require('mongoose');
 const ObjectId = require('mongodb').ObjectId;
 
 
-router.get('/collegename',async(req,res) =>{
+// router.get('/collegename',async(req,res) =>{
   
   
  
-// async function getCollegeInfo() {
+// // async function getCollegeInfo() {
+
+//     async function getCollegeInfo(collegename,courseid)
+//     {
+//     const url1 = `https://collegedunia.com/canada/college/${collegename}/${courseid}`;
+
     
-    const url1 = `https://collegedunia.com/australia/college/595-queensland-university-of-technology-brisbane/programs?course_id=136985`;
-  const { data: html } = await axios.get(url1,
-  {
-    headers: {
-        Accept:'/', 
+//     const url1 = `https://collegedunia.com/australia/college/595-queensland-university-of-technology-brisbane/programs?course_id=136985`;
+
+//   const { data: html } = await axios.get(url1,
+//   {
+//     headers: {
+//         Accept:'/', 
         
-       Host: 'collegedunia.com',
-        scheme: 'https',
-        'accept-encoding': 'gzip, deflate, br',
-        'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
-        Pragma: 'no-cache',
-        'cache-control': 'no-cache'
-    }
-    });
-    
- 
-  const dom = new JSDOM(html);
-  const $ = (selector) => dom.window.document.querySelector(selector);
+//        Host: 'collegedunia.com',
+//         scheme: 'https',
+//         'accept-encoding': 'gzip, deflate, br',
+//         'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
+//         Pragma: 'no-cache',
+//         'cache-control': 'no-cache'
+//     }
+//     });
+//     const dom = new JSDOM(html);
+//     const $ = (selector) => dom.window.document.querySelector(selector);
+//     let result = {};
+// result.name = "Humber College";
+// result.details = "Humber College, also known as the Humber College Institute of Technology & Advanced Learning, is a public Applied Arts and Technology College in Toronto, Ontario, Canada. Humber College courses are available at three Campuses- North Campus, Lakeshore Campus, and Downtown Campus. Collectively, the campuses offer 220+ programs across 40 academic areas. The highest degree available at Humber is a bachelor's degree, other than that, the institution offers majorly certificate and diploma courses. Amongst Indian students, Humber College’s postgraduate diploma and certificate courses are highly in-demand.The admission process at Humber College is quite straightforward; the majority of courses have two intakes- January and/or September. A minimum academic score of 70% is required for admission for all students. To prove english proficiency all Indian students are mandatory to submit a minimum IELTS score of 6.5 for UG and 6.0 for PG programs. Personal essays and reference letters are optional for a few courses, but if you are an international student then it’s highly recommended to submit these supplementary documents."
+// result.img = "https://tse1.mm.bing.net/th?id=OIP.nSHPIq9VlchbFj3eQsOHuwHaD3&pid=Api&P=0"
+// // result.title = $('.single-program-name').textContent;
+// // result.info = $('.jsx-1117311724').textContent;
+// // result.fees = $('.overflow-x-auto .jsx-2735629048').textContent;
+// // result.exams = $('.text-lg .content-section').textContent;
+// const entry = new College(result)
+
+//   entry.save().then(() => {
+//       console.log(result.fees)
+//   }).catch(err => {
+//       console.log(err,result.title,'saved')
+//   })
+//   }
   
-//    title = $('.single-program-name').textContent;
-//    info = $('.jsx-1117311724').textContent;
-// //   const fees = $('.overflow-x-auto').textContent;
-//    exams = $('.text-lg .content-section').textContent;
+  
 
-let result = {};
-result.title = $('.single-program-name').textContent;
-result.info = $('.jsx-1117311724').textContent;
-result.fees = $('.overflow-x-auto').textContent;
-result.exams = $('.text-lg .content-section').textContent;
+ 
+//  })
+ 
+ router.get('/collegelist',async(req,res) =>{
+  
+  
+ 
+  // async function getCollegeInfo() {
+      
+     
+      
+      let result = {};
+  result.name = "University of Bristol";
+  result.details = "University of Bristol combines academic excellence with an independent and forward-thinking spirit, the university is renowned for its top-notch teaching and research excellence. Ranked in the world's top 62 in the QS World University Rankings 2022, University of Bristol offers 600+ programs through its 6 faculties and 23 academic schools. Home to over 20,000 UG students and 7,000 PG students. "
+  result.img = "https://tse4.mm.bing.net/th?id=OIP.hmZphGPpBbdi2nTCt_vEcwHaE7&pid=Api&P=0"
+  
+  const entry = new College(result)
+  
+    entry.save().then(() => {
+        console.log(result.name)
+    }).catch(err => {
+        console.log(err,result.title,'saved')
+    })
+    
+    
+    
+  
+   
+   })
 
-const entry = new College(result)
 
-entry.save().then(() => {
-    console.log(result.title)
-}).catch(err => {
-    console.log(err,result.title,'saved')
-})
- })
 
  router.get('/getcollege/:id', async (req, res) => {
 
@@ -58,7 +93,7 @@ entry.save().then(() => {
   if(error) {
     return res.status(500).send(error);
   }
-  res.send(result);
+  res.json(result);
  });
 });
 module.exports = router
