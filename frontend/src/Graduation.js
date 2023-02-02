@@ -1,8 +1,10 @@
 import React from "react";
 import "./Graduation.css";
+import { Link } from "react-router-dom";
 import Navigation from "./Navigation.js";
 import Footer from "./Footer";
 import GCountryNames from "./GCountryNames.js";
+
 
 function Graduation() {
   return (
@@ -56,40 +58,34 @@ const Countries = () => {
   return (
     <>
       {
-        GCountryNames.map((CountryData, index) => {
-          return <CountryImage key={index} CountryData={CountryData}></CountryImage>
+        GCountryNames.map((CountryData) => {
+          const { id, Names, img } = CountryData
+          return (
+            <div class="h-auto">
+              <div key={id} class="rounded-lg shadow-lg bg-white max-w-sm border-2 border-gray-300">
+                <div class="p-6">
+                  <h5 class="text-gray-900 text-4xl font-medium mb-4 text-center">{Names}</h5>
+                  <a href="#!">
+                    <img
+                      class="rounded-t-lg py-3"
+                      src={img}
+                      alt=""
+                    />
+                  </a>
+                  <Link to={`/GCountryNames/${Names}`}
+                    type="button"
+                    class=" inline-block px-6 py-3 ml-24 bg-purple-500 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-purple-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-purple-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-purple-800 active:shadow-lg transition duration-150 ease-in-out"
+                  >
+                    Check Out
+                  </Link>
+                </div>
+              </div>
+            </div>
+          )
         }
         )}
     </>
   )
 }
-
-
-const CountryImage = (data) => {
-  const { Names, img } = data.CountryData
-  return (
-    <div class="h-auto">
-      <div class="rounded-lg shadow-lg bg-white max-w-sm border-2 border-gray-300">
-        <div class="p-6">
-          <h5 class="text-gray-900 text-4xl font-medium mb-4 text-center">{Names}</h5>
-          <a href="#!">
-            <img
-              class="rounded-t-lg py-3"
-              src={img}
-              alt=""
-            />
-          </a>
-          <button
-            type="button"
-            class=" inline-block px-6 py-3 ml-24 bg-purple-500 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-purple-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-purple-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-purple-800 active:shadow-lg transition duration-150 ease-in-out"
-          >
-            Check Out
-          </button>
-        </div>
-      </div>
-    </div>
-  );
-}
-
 
 export default Graduation;

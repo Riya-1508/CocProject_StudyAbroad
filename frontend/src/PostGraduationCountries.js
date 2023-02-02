@@ -1,18 +1,17 @@
 import React from "react";
 import { useState } from "react";
-import './GraduationCountries.css';
+import './PostGraduationCountries.css';
 import Navigation from "./Navigation.js";
 import Footer from "./Footer";
 import redarrow from './image/red arrow.png';
-import { getCountries } from "./GCountriesDetails";
-// import { getListofCollege } from "./ListofCollege";
+import { getPGCountries } from "./PGCountriesDetails";
 // import GCountries from "./CountriesDetails";
 import { useParams } from "react-router-dom"
 // import GCountryNames from "./GCountryNames";
 
 function GraduationCountry() {
   const {name} = useParams();
-  const Countries = getCountries(name)
+  const Countries = getPGCountries(name)
   return (
     <div className="" >
       <Navigation />
@@ -52,7 +51,7 @@ function GraduationCountry() {
 
 const Courses = () => {
   const {name} = useParams();
-  const Countries = getCountries(name)
+  const Countries = getPGCountries(name)
   return (
     <>
 
@@ -95,7 +94,7 @@ const Courses = () => {
 
 const ButtonCourse = () => {
   const {name} = useParams();
-  const Countries = getCountries(name)
+  const Countries = getPGCountries(name)
   const [show, setShow] = useState(false);
   const [show2, setShow2] = useState(false);
   const [show3, setShow3] = useState(false);
@@ -142,7 +141,7 @@ const ButtonCourse = () => {
 
 const UniversitiesInfo = () => {
   const {name} = useParams();
-  const Countries = getCountries(name)
+  const Countries = getPGCountries(name)
   return (
     <>
         <div className="w-[1000px] h-auto bg-gray-300 rounded-lg mb-16">
@@ -171,7 +170,7 @@ const UniversitiesInfo = () => {
 
 const UniversitiesInfo2 = () => {
   const {name} = useParams();
-  const Countries = getCountries(name)
+  const Countries = getPGCountries(name)
   return (
     <>
         <div className="w-[1000px] h-auto bg-gray-300 rounded-lg mb-16">
@@ -200,7 +199,7 @@ const UniversitiesInfo2 = () => {
 
 const UniversitiesInfo3 = () => {
   const {name} = useParams();
-  const Countries = getCountries(name)
+  const Countries = getPGCountries(name)
   return (
     <>
         <div className="w-[1000px] h-auto bg-gray-300 rounded-lg mb-16">
