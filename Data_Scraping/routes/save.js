@@ -57,7 +57,6 @@ const ObjectId = require('mongodb').ObjectId;
 
  
 //  })
-// <<<<<<< HEAD
  
  router.get('/collegelist',async(req,res) =>{
   
