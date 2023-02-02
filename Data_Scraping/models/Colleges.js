@@ -14,22 +14,22 @@ const CollegeSchema = new Schema({
         type: String,
        
     },
-    title:{
-        type: String,
+//     title:{
+//         type: String,
        
-    },
-    info:{
-        type: String,
+//     },
+//     info:{
+//         type: String,
        
-    },
-    fees:{
-        type: String,
+//     },
+//     fees:{
+//         type: String,
        
-    },
-   exams:{
-        type: String,
+//     },
+//    exams:{
+//         type: String,
        
-    },
+//     },
    
   });
   const College = mongoose.model('college', CollegeSchema);
