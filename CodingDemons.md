@@ -80,10 +80,10 @@ The key features of **Study Abroad** :
    Fully implemented Features
 
 - [x] Login page for the users to get access to the content
-- [x]Signup page for the user 
-- [x]Search Bar to search colleges with filters
-- [x]Colleges for both post graduation and graduation are displayed
-- [x]Top 8 colleges for each course will be displayed from each country
+- [x] Signup page for the user 
+- [x] Search Bar to search colleges with filters
+- [x] Colleges for both post graduation and graduation are displayed
+- [x] Top 8 colleges for each course will be displayed from each country
 
 Partially implemented Features
 
@@ -103,9 +103,13 @@ List down all the future plans for the project here
 
 1.Clone this Git Repo onto your local storage.The link for the repo is provided below:
 https://github.com/Riya-1508/CocProject_StudyAbroad
+
 2.Make sure you install all the packages required for to run the application like node,express,nodemon,react,tailwind.
+
 3.npm i can be run to install most of the required dependencies
+
 4.To make both the backend and frontend work,open the backend folder in one vs code window and the frontend files in other.
+
 5.Start servers in the terminals of both the vs code windows.
 This is how the project is started.
 
@@ -125,14 +129,3 @@ This is how the project is started.
 
 
 - [Sarvagnya Purohit](https://github.com/saRvaGnyA) - sarvagnyapurohit@gmail.com
-
-
-## 📱Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
-
-You'll have to link the screenshots from your drive folder here.
-
-![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
-
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
