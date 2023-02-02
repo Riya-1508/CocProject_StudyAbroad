@@ -1209,9 +1209,9 @@ const GCountries =
                 ],
             Courses:
                 [
-                    "BTech",
-                    "MBBS",
-                    "BBA"
+                    "Engineering",
+                    "Medicine",
+                    "Business"
                 ],
             Courses1:
                 [

@@ -26,27 +26,16 @@ function Graduation() {
       <div className="grid grid-cols-3 gap-5 ml-16">
         <Countries />
       </div>
-      <div className="flex justify-evenly h-screen bg-gray-100 space-x-24 mt-2 ">
-        <div >
-          <h1 className="font-bold text-center text-3xl py-4">Exams</h1>
-          <p className="w-[500px] font-serif text-2xl">A considerable number of students head towards appearing for various competitive and government exams after their graduation. These entrance exams after graduation open the door to a prosperous career for students. There are numerous competitive examinations; hence, students often find it difficult to make their choice. They get puzzled about which one to appear for and whether it would be the right decision for them.There are numerous competitive examinations; hence, students often find it difficult to make their choice. They get puzzled about which one to appear for and whether it would be the right decision for them.</p>
-          <button
-            type="button"
-            class=" inline-block px-6 py-3 ml-28 mt-3 bg-red-600 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-red-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-red-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-red-800 active:shadow-lg transition duration-150 ease-in-out"
-          >
-            Check Out
-          </button>
-        </div>
-        <div className="h-screen border-4 border-white"></div>
+      <div className="flex justify-evenly h-screen bg-gray-100 space-x-24 mt-4">
         <div >
           <h1 className="font-bold text-center text-3xl py-4">Scholarship</h1>
-          <p className="w-[500px] font-serif text-2xl">Scholarships in India 2023 - Indian Government offers a gamut of scholarships to its meritorious students. These scholarships play an important role in the education sector. Many students are unable to pursue higher studies due to financial problems. These scholarships help students to continue their higher studies by providing financial assistance.These scholarships will help to reduce mental pressure by paying an amount of money. This is a great help for deserving students. Scholarship can be either merit-based or exam based. To get success in these scholarship exams, students need training and proper guidance. </p>
-          <button
+          <p className="w-[800px] font-serif text-3xl">Scholarships in India 2023 - Indian Government offers a gamut of scholarships to its meritorious students. These scholarships play an important role in the education sector. Many students are unable to pursue higher studies due to financial problems. These scholarships help students to continue their higher studies by providing financial assistance.These scholarships will help to reduce mental pressure by paying an amount of money. This is a great help for deserving students. Scholarship can be either merit-based or exam based. To get success in these scholarship exams, students need training and proper guidance. </p>
+          <Link to="/scholarship"
             type="button"
-            class=" inline-block px-6 py-3 ml-28 mt-3 bg-red-600 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-red-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-red-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-red-800 active:shadow-lg transition duration-150 ease-in-out"
+            class=" inline-block px-6 py-3 mt-5 ml-80 bg-red-600 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-red-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-red-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-red-800 active:shadow-lg transition duration-150 ease-in-out"
           >
             Check Out
-          </button>
+          </Link>
         </div>
       </div>
       <Footer />

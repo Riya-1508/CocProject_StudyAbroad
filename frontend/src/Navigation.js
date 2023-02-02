@@ -1,10 +1,9 @@
 import React from "react";
-// import Searchbar from "./New_search";
-// import { useState } from "react";
+import { useState } from "react";
+import { Link } from "react-router-dom";
 import "./Navigation.css";
 
 function Navigation() {
-
     return (
         <>
             <div className="bg-gradient-to-bl from-purple-200 via-purple-400 to-purple-800 ">
@@ -49,7 +48,7 @@ function Navigation() {
                                 <ul className="rounded-sm absolute top-0 right-0 transition duration-150 ease-in-out origin-top-left min-w-32">
                                     <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">USA</a></li>
                                     <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">Germany</a></li>
-                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">Canada</a></li>                                
+                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">Canada</a></li>
                                 </ul>
                             </li>
                             <li className="rounded-lg relative text-white px-4 py-2 hover:bg-purple-500">
@@ -72,41 +71,24 @@ function Navigation() {
                                 <ul className="rounded-sm absolute top-0 right-0 transition duration-150 ease-in-out origin-top-left min-w-32">
                                     <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">Canada</a></li>
                                     <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">Germany</a></li>
-                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">USA</a></li>                                
+                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">USA</a></li>
                                 </ul>
                             </li>
                             <li className="rounded-lg relative text-white px-4 py-2 hover:bg-purple-500">
                                 <button
                                     className="w-full text-left flex items-center outline-none focus:outline-none"
                                 >
-                                    <span className="flex-1">Exams</span>
-                                    <span className="mr-auto">
-                                        <svg
-                                            className="fill-current h-4 w-4 transition duration-150 ease-in-out"
-                                            xmlns="http://www.w3.org/2000/svg"
-                                            viewBox="0 0 20 20"
-                                        >
-                                            <path
-                                                d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"
-                                            />
-                                        </svg>
-                                    </span>
+                                    <Link to="/accomodation">Accommodation</Link>
                                 </button>
-                                <ul className="rounded-sm absolute top-0 right-0 transition duration-150 ease-in-out origin-top-left min-w-32">
-
-                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">1</a></li>
-                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">2</a></li>
-                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">3</a></li>
-                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">4</a></li>
-                                </ul>
                             </li>
-                            <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">Scholarship</a></li>
+                            <Link to="/scholarship" className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" >Scholarship</a></Link>
                         </ul>
                     </div>
-                    <div className="flex list-none my-auto ml-[800px] space-x-32">
-                        <button className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Search College</button>
+                    {/* SearchBar */}
+                    <div className="flex list-none my-auto ml-[700px] space-x-32">
+                        <Link to={`/Search`} className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Search College</Link>
                         <li className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Contact</li>
-                        <li className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Sign In</li>
+                        <Link to="/login" className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Sign In</Link>
                     </div>
                 </nav >
             </div >

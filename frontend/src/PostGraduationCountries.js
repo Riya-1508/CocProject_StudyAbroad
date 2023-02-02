@@ -7,6 +7,7 @@ import redarrow from './image/red arrow.png';
 import { getPGCountries } from "./PGCountriesDetails";
 // import GCountries from "./CountriesDetails";
 import { useParams } from "react-router-dom"
+import { Link } from "react-router-dom";
 // import GCountryNames from "./GCountryNames";
 
 function GraduationCountry() {
@@ -156,7 +157,7 @@ const UniversitiesInfo = () => {
                         <div className="flex justify-center items-center m-2">
                             <h1 className="text-center p-2 border-2 border-gray-300 w-96 h-10 font-bold text-sm ">{list.SNo}</h1>
                             <p className="text-center p-2  border-y-2 border-gray-300 w-96 h-10 center text-sm">{list.College}</p>
-                            <p className="text-center p-2  border-2 border-gray-300 w-96 h-10 center text-sm hover:bg-gray-800 hover:text-white ">Know More</p>
+                            <Link to={`/PGCountryNames/${Countries.CNames}/${Countries.Courses[0]}/${list.College}`} className="text-center p-2  border-2 border-gray-300 w-96 h-10 center text-sm hover:bg-gray-800 hover:text-white ">Know More</Link>
                         </div>
                     </>
                 )
@@ -185,7 +186,7 @@ const UniversitiesInfo2 = () => {
                         <div className="flex justify-center items-center m-2">
                             <h1 className="text-center p-2 border-2 border-gray-300 w-96 h-10 font-bold text-sm ">{list.SNo}</h1>
                             <p className="text-center p-2  border-y-2 border-gray-300 w-96 h-10 center text-sm">{list.College}</p>
-                            <p className="text-center p-2  border-2 border-gray-300 w-96 h-10 center text-sm hover:bg-gray-800 hover:text-white ">Know More</p>
+                            <Link to={`/PGCountryNames/${Countries.CNames}/${Countries.Courses[1]}/${list.College}`} className="text-center p-2  border-2 border-gray-300 w-96 h-10 center text-sm hover:bg-gray-800 hover:text-white ">Know More</Link>
                         </div>
                     </>
                 )
@@ -214,7 +215,7 @@ const UniversitiesInfo3 = () => {
                         <div className="flex justify-center items-center m-2">
                             <h1 className="text-center p-2 border-2 border-gray-300 w-96 h-10 font-bold text-sm ">{list.SNo}</h1>
                             <p className="text-center p-2  border-y-2 border-gray-300 w-96 h-10 center text-sm">{list.College}</p>
-                            <p className="text-center p-2  border-2 border-gray-300 w-96 h-10 center text-sm hover:bg-gray-800 hover:text-white ">Know More</p>
+                            <Link to={`/PGCountryNames/${Countries.CNames}/${Countries.Courses[2]}/${list.College}`} className="text-center p-2  border-2 border-gray-300 w-96 h-10 center text-sm hover:bg-gray-800 hover:text-white ">Know More</Link>
                         </div>
                     </>
                 )

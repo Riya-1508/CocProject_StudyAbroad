@@ -1,5 +1,6 @@
 import React from "react";
 import "./Login.css"
+import { Link } from "react-router-dom";
 import Photo_Login from './image/Photo_LoginPage.png';
 
 function LogIn() {
@@ -27,7 +28,7 @@ function LogIn() {
                     </form>
                     <div className="my-2 text-white">
                         <p>Don't have account?</p>
-                        <p className="text-center underline cursor-pointer">Create Account</p>
+                        <Link to="/signup" className="text-center underline cursor-pointer">Create Account</Link>
                     </div>
                 </div>
             </div>

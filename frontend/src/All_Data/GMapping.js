@@ -1591,7 +1591,7 @@ const GMapping =
           },
           {
 
-            Names: "The University of Manchester",
+            Names: "University of Manchester",
             Details: "The University of Manchester is a renowned public research university, located in the first modern industrial city of the world. It is one of the largest universities in the UK with around 38,000 students currently enrolled. The university was established in 2004, after the amalgamation of Victoria University of Manchester and the University of Manchester Institute of Science and Technology. The University of Manchester is a member of the Russell Group and famous for its academic and research excellence.",
             CoursesN: "BBA",
             img: "https://images2.content-hci.com/commimg/video/CH/myhc_301811.jpg",
@@ -1636,7 +1636,7 @@ const GMapping =
           },
           {
 
-            Names: "Oxford University",
+            Names: "University of Oxford",
             Details: "University of Oxford is the oldest English higher education institution in the world. Established in 1096, Oxford University counted among the top rankings universities in the world. For over a decade now, Oxford has been ranking in the top 10 global university list of QS Global Rankings, THE World Rankings, etc. There are 400+ courses to choose from at University of Oxford. Medicine, Business, Law, and Humanities courses are among the top favorites. If you are looking to pursue studies at Oxford University, prepare a tuition fees budget of ~27-39 Lakh INR/year. The cost of living in England is going to be somewhere between 10-15 Lakh INR/year, based on your standard of living.",
             CoursesN: "BBA",
             img: "https://images.collegedunia.com/public/college_data/SAcampusimage/1569490878Oxford-University-_2653654b.jpg",
@@ -4426,9 +4426,9 @@ const GMapping =
       CNames: "USA",
       Courses:
         [
-          "BTech",
-          "MBBS",
-          "BBA"
+          "Engineering",
+          "Medicine",
+          "Business"
         ],
       Universities:
         [

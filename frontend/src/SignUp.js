@@ -1,5 +1,6 @@
 import React from "react";
 import "./SignUp.css"
+import { Link } from "react-router-dom";
 import Photo_Sign from './image/Photo_SignUp.png';
 
 function SignUp() {
@@ -40,7 +41,8 @@ function SignUp() {
                         </form>
                         {/* <div className="my-10 text-white"> */}
                             <p className="text-white text-md mt-4">Already have account?</p>
-                            <button type="submit" className="inline-block mt-2 px-6 py-2 bg-purple-100 text-pink-violent font-medium text-lg leading-tight uppercase rounded-full shadow-md hover:bg-white hover:shadow-lg focus:bg-pink-violent focus:text-white focus:shadow-lg focus:outline-none focus:ring-0 active:bg-pink-violent active:text-white active:shadow-lg transition duration-150 ease-in-out">Log In</button>
+                            <Link to="/login" type="submit" className="inline-block mt-2 px-6 py-2 bg-purple-100 text-pink-violent font-medium text-lg leading-tight uppercase rounded-full shadow-md hover:bg-white hover:shadow-lg focus:bg-pink-violent focus:text-white focus:shadow-lg focus:outline-none focus:ring-0 active:bg-pink-violent active:text-white active:shadow-lg transition duration-150 ease-in-out">Log In</Link>
+                            <Link to="/" className="inline-block mt-2 px-6 py-2 bg-purple-100 text-pink-violent font-medium text-lg leading-tight uppercase rounded-full shadow-md hover:bg-white hover:shadow-lg focus:bg-pink-violent focus:text-white focus:shadow-lg focus:outline-none focus:ring-0 active:bg-pink-violent active:text-white active:shadow-lg transition duration-150 ease-in-out">Home Page</Link>
                         {/* </div> */}
                     </div>
                 </div>
