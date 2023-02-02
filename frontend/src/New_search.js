@@ -1,47 +1,10 @@
+import { list } from 'postcss';
 import React from 'react'
 import { useState } from 'react'
 import { Link } from 'react-router-dom';
+import CollegeList from './All_Data/CollegeList';
+
 function Searchbar() {
-
-
-  const data =
-
-    ["University of Toronto", "McGill University", "University of Mont real", "University of Alberta", "University of Ot tawa", "University of Calgary", "University of Waterloo", "Conestoga College", "York University", "Humber college", "McMaster University", "Queen's University", "Dalhousie University", "University of Sherbrooke", "Thompson Rivers University", "Centennial College", "University of Winnipeg",
-      "North Island College", "College of New Caledonia", "Simon Frasier University", "The University of Melbourne", "The University of  Queensland", "Australian National University", "Monash University", "The University of Sydney", "University of New South Wales", "University of Adelaide", "University of Western Australia", "University of Canberra", "Macquarie University", "Western Sydney University", "University of Tasmania", "Swinburne University of Technology", "Victoria University", "Curtin University", ".Deakin University", "RMIT University", "University of Wollongong", "University of Cambridge", "University of Edinburgh", "University of Leeds", "University of Oxford", "University College London", "Imperial College London", "University of Bedfordshire", "Leeds Beckett University", "King's College London", "University of Glasgow", "•	University of East London"
-      , "University College London", "Warwick Business School", "Alliance Manchester Business School", "Said Business school", "University of Bristol",
-      "Berlin Institute of Technology",
-      "University of Stuttgart",
-      "University of Kiel",
-      "University of Cologne",
-      "Karlsruhe Institute of Technology",
-      "Technical University of Braunschweig",
-      "Berlin Institute of Technology",
-      "University of Stuttgart",
-      "University of Kiel",
-      "University of Cologne",
-      "Karlsruhe Institute of Technology",
-      "Technical University of Braunschweig",
-      "Frankfurt School of Finance & Management",
-      "University of Cambridge", "University of Bonn", "Humboldt University of Berlin", "Harvard University",
-      "Massachusetts Institute of Technology",
-      "Stanford University",
-      "Carnegie University",
-      "Georgia Institute of Technology",
-      "California Institute of Technology",
-      "Princeton University",
-      "Yale University", "Duke University",
-      "Columbia University",
-      "Johns Hopkins University",
-      "University of Pennsylvania",
-      "University of Michigan", "Northeastern University",
-      "Colorado State University", "Montana State University",
-      "Arizona State University",
-      "Concord University",
-      "Queen's College",
-      "Long Island University", "Haas School of Business",
-      "Kellogg School of Management"
-    ];
-
   const data1 = ["University of Toronto", "McGill University","University of Waterloo", "Conestoga College", "York University","Queen's University", "Dalhousie University", "University of Sherbrooke", "`More College...  `"]
 
   const data10 = () => {
@@ -57,21 +20,28 @@ function Searchbar() {
   const filter10 = () => {
     return (
       <>
-        {filteredList.map((item, index) => (
-          // <Link to={`/${item}`} key={index}>{item}</Link>
-          <li key={index}>{item}</li>
-        ))}
+        {filteredList.map((item, index) => {
+          return(
+            <div className=''>
+            <li className='bg-gray-200 flex justify-between text-black my-1 p-1 font-bold' key={index}>&#8658; {item}
+            <div className='bg-gray-200 my-1 ml-5'><button className='bg-red-600 rounded-md text-white p-2 font-serif'><a href={`/Search/${item}`}>View More</a></button></div></li>
+            </div>
+          )
+          })}
       </>
     )
   }
-  const [filteredList, setFilteredList] = new useState(data);
+
+  const arraycollege= CollegeList.map((list) => (list.Names))
+  console.log(arraycollege);
+  const [filteredList, setFilteredList] = useState(arraycollege);
   const [click, setClick] = useState(false);
   const filterBySearch = (event) => {
 
     const query = event.target.value;
 
-    var updatedList = [...data];
-    setClick(!click);
+    var updatedList = [...arraycollege];
+    setClick(true);
     updatedList = updatedList.filter((item) => {
       return item.toLowerCase().indexOf(query.toLowerCase()) !== -1;
     });
@@ -93,12 +63,7 @@ function Searchbar() {
         </form>
         <div>
           <ol>
-            {click? filter10() : data10()}
-            {/* {click ? <h2>Hello</h2> : <h1>Bye</h1>} */}
-            {/* <div><h1>Hello</h1></div> */}
-            {/* {filteredList.map((item, index) => (
-              <li key={index}>{item}</li>
-            ))} */}
+            {click? filter10() : ""}
           </ol>
         </div>
       </div>

@@ -13,7 +13,7 @@ const CollegeList =
     _id: {
       $oid: "63dab28553d5c3d8b782b36d"
     },
-    name: "University of British Columbia",
+    Names: "University of British Columbia",
     Details: "The University of British Columbia is a public research university in British Columbia with campuses in Vancouver and Kelowna. The University of British Columbia ranks amongst the world's top 20 public universities. UBC's main campus is in Vancouver and spans 400 acres. University of British Columbia offers 350+ programs at bachelor's and master's levels. ",
     img: "http://www.mladiinfo.eu/wp-content/uploads/2017/12/160623-ubc-submitted.jpg",
     __v: 0
@@ -958,7 +958,7 @@ const CollegeList =
 
 export default CollegeList;
 
-export function getCollegeList(id) {
-  return CollegeList.find((list) => (list.id === id));
+export function getCollegeList(Namesclg) {
+  return CollegeList.find((list) => (list.Names === Namesclg));
 
 }

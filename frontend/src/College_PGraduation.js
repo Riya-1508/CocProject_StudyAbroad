@@ -5,7 +5,7 @@ import { getPGMapping } from './All_Data/PGMapping';
 import { useParams } from "react-router-dom"
 
 
-export default function College() {
+export default function College_PGraduation() {
     const {CNames,Courses} = useParams();
     const PGUniversities = getPGMapping(CNames,Courses)
     // console.log(PGUniversities);

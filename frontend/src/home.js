@@ -63,8 +63,8 @@ function Home() {
 
                     </div>
                     <div className="grid grid-cols-2 gap-4 mt-8">
-                        <img className="w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-2.png" alt="office content 1"></img>
-                        <img className="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2"></img>
+                        <img className="w-full rounded-lg" src="https://img.freepik.com/free-vector/female-character-scientist-design_23-2148399876.jpg?w=2000" alt="office content 1"></img>
+                        <img className="mt-4 w-full lg:mt-10 rounded-lg" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCNdquE8G5w-Cxy1G5Zh770LMwNlnvfNMxw&usqp=CAU" alt="office content 2"></img>
                     </div>
                 </div>
             </section>
@@ -72,12 +72,12 @@ function Home() {
             <section>
                 <div className="flex flex-row bg-gradient-to-bl from-purple-200 via-purple-400 to-purple-800  h-screen space-x-32">
                     <div className="flex flex-row space-x-28">
-                        <img className="w-[500px] h-[700px] ml-20 m-auto rounded-xl" src="https://5.imimg.com/data5/SELLER/Default/2021/6/XK/EP/GI/107204694/study-abroad-consultant-500x500.jpg" alt="office content 1"></img>
+                        <img className="w-[500px] h-[500px] ml-20 m-auto rounded-xl" src="https://www.southernliving.com/thmb/osQ0-qCdyJmTELa8n7OnCE1cwz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/graduates-throwing-caps-1066324992-2000-c66181da679b46dab1f62f4b2fbe3e84.jpg" alt="office content 1"></img>
                     </div>
                     <div className="w-[700px] h-[400px] m-auto text-center">
                         <div className="w-[600px] h-[400px] mt-auto mb-auto text-center">
                             <h2 className="m-8 font-bold text-6xl">Hello Students</h2>
-                            <p className="m-4 font-serif text-3xl">Welcome to Study Abroad</p>
+                            <p className="m-4 font-serif text-3xl">Gradaute</p>
                             <p className="m-4 font-medium text-xl">Studying for a bachelor's degree abroad also offers a perfect opportunity.Every year students travel across countries,  continents and seas to embark on a life changing educational experience. They will face unique challenges but the benefits are enormous. If you choose to study abroad you will be guaranteed the experience of a different culture, lifestyle and climate. You will make new friends and possibly learn a new language. </p>
                             <Link to="/GCountryNames" className="inline-block px-6 py-2.5 bg-purple-400 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-purple-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-purple-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-purple-800 active:shadow-lg transition duration-150 ease-in-out">Know More</Link>
                         </div>
@@ -102,13 +102,13 @@ function Home() {
                     <div className="w-[700px] h-[400px] mt-auto mb-auto text-center">
                         <div className="w-[600px] h-[400px] ml-20 mt-auto mb-auto text-center">
                             <h2 className="m-8 font-bold text-6xl">Hello Students</h2>
-                            <p className="m-4 font-serif text-3xl">Welcome to Study Abroad</p>
+                            <p className="m-4 font-serif text-3xl">Post Gradaute</p>
                             <p className="m-4 font-medium text-xl"> The journey from first considering a program to actually stepping foot on campus may appear to be full of hurdles, but good planning and a positive mindset can go a long way.If you’re ready to go abroad for a master’s degree or a PhD, this may be an easy decision.</p>
                             <Link to="/PGCountryNames" type="button" className="inline-block px-6 py-2.5 bg-purple-400 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-purple-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-purple-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-purple-800 active:shadow-lg transition duration-150 ease-in-out">Know More</Link>
                         </div>
                     </div>
                     <div className="flex flex-row space-x-28">
-                        <img className="w-[500px] h-[700px] m-auto rounded-xl" src="https://5.imimg.com/data5/SELLER/Default/2021/6/XK/EP/GI/107204694/study-abroad-consultant-500x500.jpg" alt="office content 1"></img>
+                        <img className="w-[500px] h-[500px] m-auto rounded-xl" src="https://images1.content-hcs.com/commimg/myhotcourses/blog/post/myhc_76870.jpg" alt="office content 1"></img>
                     </div>
                 </div>
             </section>
@@ -185,7 +185,7 @@ function Home() {
                             className="absolute my-rotate-y-180 backface-hidden w-full h-full bg-gray-100 overflow-hidden"
                         >
                             <div
-                                className="text-center flex flex-col items-center justify-center h-full text-gray-800 px-2 pb-24" 
+                                className="text-center flex flex-col items-center justify-center h-full text-gray-800 px-2 pb-24"
                             >
                                 <h1 className="text-3xl font-semibold">Germany</h1>
                                 <p className="font-serif m-[6px]">

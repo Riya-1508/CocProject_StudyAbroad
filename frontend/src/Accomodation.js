@@ -1,17 +1,16 @@
 import React from "react";
 import { useState } from "react";
-import './gup.css';
+import './Accomodation.css';
 import Navigation from "./Navigation.js";
 import Footer from "./Footer";
-import scholarshipdata from "./All_Data/Scholarship";
+import accomodationdata from "./All_Data/Australia_Accomodation.js";
 
-function GUP() {
+function Accomodation() {
     return (
         <div className="" >
             <Navigation />
-            <h1 className="font-bold text-center text-3xl py-6">Select Countries to display list of Scholarship</h1>
+            <h1 className="font-bold text-center text-3xl py-6">Select Countries to display list of Accommodation</h1>
             <ButtonCourse />
-            {/* <Footer /> */}
         </div>
 
 
@@ -78,6 +77,7 @@ const ButtonCourse = () => {
                     {show3 && <UniversitiesInfo3 />}
                     {show4 && <UniversitiesInfo4 />}
                     {show5 && <UniversitiesInfo5 />}
+                    {/* {(show || show2 || show3 || show4 || show5) && <Footer />} */}
                 </div>
             </div >
         </>
@@ -94,7 +94,7 @@ const UniversitiesInfo = () => {
     return (
         <div className="flex-col">
             {
-                scholarshipdata[0].scholarship.map((lists, index) => {
+                accomodationdata[0].accomodation.map((lists, index) => {
                     return (
                         <>
                             <div className="flex justify-between w-[1000px] h-auto bg-gray-300 rounded-lg">
@@ -106,24 +106,24 @@ const UniversitiesInfo = () => {
 
                                 <>
                                     <div class="relative overflow-x-auto">
-                                        {show=== lists._id.$oid ?
+                                        {show === lists._id.$oid ?
                                             <table class=" table w-full text-sm text-left text-gray-500 dark:text-gray-400 m-10">
                                                 <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                                                     <tr>
                                                         <th class="px-6 py-3">
-                                                            Scholarship Names
+                                                            {lists.column[0]}
                                                         </th>
                                                         <th class="px-6 py-3">
-                                                            Benfits
+                                                            {lists.column[1]}
                                                         </th>
                                                         <th class="px-6 py-3">
-                                                            Eligibility
+                                                            {lists.column[2]}
                                                         </th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Scholarship.map((list) => {
+                                                        {lists.column1.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white">
@@ -133,7 +133,7 @@ const UniversitiesInfo = () => {
                                                         })}
                                                     </tr>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Benefits.map((list) => {
+                                                        {lists.column2.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3">
@@ -143,7 +143,7 @@ const UniversitiesInfo = () => {
                                                         })}
                                                     </tr>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Eligibility.map((list) => {
+                                                        {lists.column3.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3">
@@ -178,7 +178,7 @@ const UniversitiesInfo2 = () => {
     return (
         <div className="flex-col">
             {
-                scholarshipdata[1].scholarship.map((lists, index) => {
+                accomodationdata[1].accomodation.map((lists, index) => {
                     return (
                         <>
                             <div className="flex justify-between w-[1000px] h-auto bg-gray-300 rounded-lg">
@@ -190,24 +190,24 @@ const UniversitiesInfo2 = () => {
 
                                 <>
                                     <div class="relative overflow-x-auto">
-                                        {show=== lists._id.$oid ?
+                                        {show === lists._id.$oid ?
                                             <table class=" table w-full text-sm text-left text-gray-500 dark:text-gray-400 m-10">
                                                 <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                                                     <tr>
                                                         <th class="px-6 py-3">
-                                                            Scholarship Names
+                                                            {lists.column[0]}
                                                         </th>
                                                         <th class="px-6 py-3">
-                                                            Benfits
+                                                            {lists.column[1]}
                                                         </th>
                                                         <th class="px-6 py-3">
-                                                            Eligibility
+                                                            {lists.column[2]}
                                                         </th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Scholarship.map((list) => {
+                                                        {lists.column1.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white">
@@ -217,7 +217,7 @@ const UniversitiesInfo2 = () => {
                                                         })}
                                                     </tr>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Benefits.map((list) => {
+                                                        {lists.column2.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3">
@@ -227,7 +227,7 @@ const UniversitiesInfo2 = () => {
                                                         })}
                                                     </tr>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Eligibility.map((list) => {
+                                                        {lists.column3.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3">
@@ -262,7 +262,7 @@ const UniversitiesInfo3 = () => {
     return (
         <div className="flex-col">
             {
-                scholarshipdata[2].scholarship.map((lists, index) => {
+                accomodationdata[2].accomodation.map((lists, index) => {
                     return (
                         <>
                             <div className="flex justify-between w-[1000px] h-auto bg-gray-300 rounded-lg">
@@ -274,24 +274,24 @@ const UniversitiesInfo3 = () => {
 
                                 <>
                                     <div class="relative overflow-x-auto">
-                                        {show=== lists._id.$oid ?
+                                        {show === lists._id.$oid ?
                                             <table class=" table w-full text-sm text-left text-gray-500 dark:text-gray-400 m-10">
                                                 <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                                                     <tr>
                                                         <th class="px-6 py-3">
-                                                            Scholarship Names
+                                                            {lists.column[0]}
                                                         </th>
                                                         <th class="px-6 py-3">
-                                                            Benfits
+                                                            {lists.column[1]}
                                                         </th>
                                                         <th class="px-6 py-3">
-                                                            Eligibility
+                                                            {lists.column[2]}
                                                         </th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Scholarship.map((list) => {
+                                                        {lists.column1.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white">
@@ -301,7 +301,7 @@ const UniversitiesInfo3 = () => {
                                                         })}
                                                     </tr>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Benefits.map((list) => {
+                                                        {lists.column2.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3">
@@ -311,7 +311,7 @@ const UniversitiesInfo3 = () => {
                                                         })}
                                                     </tr>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Eligibility.map((list) => {
+                                                        {lists.column3.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3">
@@ -346,7 +346,7 @@ const UniversitiesInfo4 = () => {
     return (
         <div className="flex-col">
             {
-                scholarshipdata[3].scholarship.map((lists, index) => {
+                accomodationdata[3].accomodation.map((lists, index) => {
                     return (
                         <>
                             <div className="flex justify-between w-[1000px] h-auto bg-gray-300 rounded-lg">
@@ -358,24 +358,24 @@ const UniversitiesInfo4 = () => {
 
                                 <>
                                     <div class="relative overflow-x-auto">
-                                        {show=== lists._id.$oid ?
+                                        {show === lists._id.$oid ?
                                             <table class=" table w-full text-sm text-left text-gray-500 dark:text-gray-400 m-10">
                                                 <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                                                     <tr>
                                                         <th class="px-6 py-3">
-                                                            Scholarship Names
+                                                            {lists.column[0]}
                                                         </th>
                                                         <th class="px-6 py-3">
-                                                            Benfits
+                                                            {lists.column[1]}
                                                         </th>
                                                         <th class="px-6 py-3">
-                                                            Eligibility
+                                                            {lists.column[2]}
                                                         </th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Scholarship.map((list) => {
+                                                        {lists.column1.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white">
@@ -385,7 +385,7 @@ const UniversitiesInfo4 = () => {
                                                         })}
                                                     </tr>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Benefits.map((list) => {
+                                                        {lists.column2.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3">
@@ -395,7 +395,7 @@ const UniversitiesInfo4 = () => {
                                                         })}
                                                     </tr>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Eligibility.map((list) => {
+                                                        {lists.column3.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3">
@@ -430,7 +430,7 @@ const UniversitiesInfo5 = () => {
     return (
         <div className="flex-col">
             {
-                scholarshipdata[4].scholarship.map((lists, index) => {
+                accomodationdata[4].accomodation.map((lists, index) => {
                     return (
                         <>
                             <div className="flex justify-between w-[1000px] h-auto bg-gray-300 rounded-lg">
@@ -442,24 +442,24 @@ const UniversitiesInfo5 = () => {
 
                                 <>
                                     <div class="relative overflow-x-auto">
-                                        {show=== lists._id.$oid ?
+                                        {show === lists._id.$oid ?
                                             <table class=" table w-full text-sm text-left text-gray-500 dark:text-gray-400 m-10">
                                                 <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                                                     <tr>
                                                         <th class="px-6 py-3">
-                                                            Scholarship Names
+                                                            {lists.column[0]}
                                                         </th>
                                                         <th class="px-6 py-3">
-                                                            Benfits
+                                                            {lists.column[1]}
                                                         </th>
                                                         <th class="px-6 py-3">
-                                                            Eligibility
+                                                            {lists.column[2]}
                                                         </th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Scholarship.map((list) => {
+                                                        {lists.column1.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3 font-medium text-gray-900 whitespace-nowrap dark:text-white">
@@ -469,7 +469,7 @@ const UniversitiesInfo5 = () => {
                                                         })}
                                                     </tr>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Benefits.map((list) => {
+                                                        {lists.column2.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3">
@@ -479,7 +479,7 @@ const UniversitiesInfo5 = () => {
                                                         })}
                                                     </tr>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Eligibility.map((list) => {
+                                                        {lists.column3.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3">
@@ -505,4 +505,4 @@ const UniversitiesInfo5 = () => {
     )
 }
 
-export default GUP;
+export default Accomodation;
