@@ -4,13 +4,14 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './index.css';
 // import LogIn from './Login.js';
 import Home from './home.js';
-import LogIn from './Login.js';
+import Login from './Login.js';
 import Practice from './practice.js'
 import SignUp from './SignUp.js';
 import G from './h.js';
 import Navigation from './Navigation';
-
+import CollegeInfo from './Collegeinfo.js';
 import Graduation from './Graduation.js';
+import CollegeGraduation from './College_Graduation.js';
 import PostGraduation from './PostGraduation.js';
 import GraduationCountry from './GraduationCountries.js';
 import PostGraduationCountry from './PostGraduationCountries'

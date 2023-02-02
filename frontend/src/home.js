@@ -25,7 +25,7 @@ function Home() {
                         <div className="w-[600px] h-[400px] mt-auto mb-auto text-center">
                             <h2 className="m-8 font-bold text-6xl">Hello Students</h2>
                             <p className="m-4 font-serif text-3xl">Welcome to Study Abroad</p>
-                            <p className="m-4 font-medium text-xl">Studying abroad not only offers a new country to learn from everyday but also unique academic opportunities. The classes you take at a university abroad will satisfy some of your major requirements, but will offer you a different learning experience than your home university. </p>
+                            <p className="m-4 font-medium text-xl">Studying abroad not only offers a new country to learn from everyday but also unique academic opportunities. The classes you take at a university abroad will satisfy some of your major requirements, but will offer you a different learning experience than your home university.Studying abroad can increase self-confidence, impact maturity, influence one's world view, heighten foreign language skills, develop an open mind, encourage diversity, and influence one's entire life for the better. One of the most valuable reasons to study abroad is the opportunity for students to gain a competitive edge in the job market. </p>
                         </div>
                         <div className="flex flex-row ">
                             <img className="w-[450px] h-[650px] m-auto rounded-xl" src={HomeP} alt="office content 1"></img>
@@ -57,7 +57,7 @@ function Home() {
             <section className="dark:bg-gray-900">
                 <div className="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
                     <div className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
-                        <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">We didn't reinvent the wheel</h2>
+                        <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">We don't reinvent the wheel</h2>
                         <p className="mb-4">We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
                         <p>We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick.</p>
 
@@ -78,7 +78,7 @@ function Home() {
                         <div className="w-[600px] h-[400px] mt-auto mb-auto text-center">
                             <h2 className="m-8 font-bold text-6xl">Hello Students</h2>
                             <p className="m-4 font-serif text-3xl">Welcome to Study Abroad</p>
-                            <p className="m-4 font-medium text-xl">We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
+                            <p className="m-4 font-medium text-xl">Studying for a bachelor's degree abroad also offers a perfect opportunity.Every year students travel across countries,  continents and seas to embark on a life changing educational experience. They will face unique challenges but the benefits are enormous. If you choose to study abroad you will be guaranteed the experience of a different culture, lifestyle and climate. You will make new friends and possibly learn a new language. </p>
                             <Link to="/GCountryNames" className="inline-block px-6 py-2.5 bg-purple-400 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-purple-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-purple-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-purple-800 active:shadow-lg transition duration-150 ease-in-out">Know More</Link>
                         </div>
                     </div>
@@ -103,7 +103,7 @@ function Home() {
                         <div className="w-[600px] h-[400px] ml-20 mt-auto mb-auto text-center">
                             <h2 className="m-8 font-bold text-6xl">Hello Students</h2>
                             <p className="m-4 font-serif text-3xl">Welcome to Study Abroad</p>
-                            <p className="m-4 font-medium text-xl">We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
+                            <p className="m-4 font-medium text-xl"> The journey from first considering a program to actually stepping foot on campus may appear to be full of hurdles, but good planning and a positive mindset can go a long way.If you’re ready to go abroad for a master’s degree or a PhD, this may be an easy decision.</p>
                             <Link to="/PGCountryNames" type="button" className="inline-block px-6 py-2.5 bg-purple-400 text-white font-serif text-lg leading-tight rounded-full shadow-md hover:bg-purple-700 hover:scale-125 hover:duration-500 hover:shadow-lg focus:bg-purple-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-purple-800 active:shadow-lg transition duration-150 ease-in-out">Know More</Link>
                         </div>
                     </div>
