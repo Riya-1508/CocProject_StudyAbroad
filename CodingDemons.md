@@ -102,6 +102,7 @@ List down all the future plans for the project here
 ## 🛠Project Setup
 
 1.Clone this Git Repo onto your local storage.The link for the repo is provided below:
+
 https://github.com/Riya-1508/CocProject_StudyAbroad
 
 2.Make sure you install all the packages required for to run the application like node,express,nodemon,react,tailwind.
