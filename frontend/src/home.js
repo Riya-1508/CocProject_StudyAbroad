@@ -25,7 +25,7 @@ function Home() {
                         <div className="w-[600px] h-[400px] mt-auto mb-auto text-center">
                             <h2 className="m-8 font-bold text-6xl">Hello Students</h2>
                             <p className="m-4 font-serif text-3xl">Welcome to Study Abroad</p>
-                            <p className="m-4 font-medium text-xl">We are strategists, designers and developers. Innovators and problem solvers. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need. Small enough to be simple and quick, but big enough to deliver the scope you want at the pace you need.</p>
+                            <p className="m-4 font-medium text-xl">Studying abroad not only offers a new country to learn from everyday but also unique academic opportunities. The classes you take at a university abroad will satisfy some of your major requirements, but will offer you a different learning experience than your home university. </p>
                         </div>
                         <div className="flex flex-row ">
                             <img className="w-[450px] h-[650px] m-auto rounded-xl" src={HomeP} alt="office content 1"></img>

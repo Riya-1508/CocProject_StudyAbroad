@@ -67,9 +67,10 @@ const ObjectId = require('mongodb').ObjectId;
      
       
       let result = {};
-  result.name = "University of Bristol";
-  result.details = "University of Bristol combines academic excellence with an independent and forward-thinking spirit, the university is renowned for its top-notch teaching and research excellence. Ranked in the world's top 62 in the QS World University Rankings 2022, University of Bristol offers 600+ programs through its 6 faculties and 23 academic schools. Home to over 20,000 UG students and 7,000 PG students. "
-  result.img = "https://tse4.mm.bing.net/th?id=OIP.hmZphGPpBbdi2nTCt_vEcwHaE7&pid=Api&P=0"
+  result.name = "Humboldt University";
+  result.details = "The Humboldt University of Berlin is a public university in Berlin, Germany. Established in the year 1810, it is one of the oldest universities in Berlin. According to THE, the university stands at #67 position in the list of World University Rankings. It has worldwide fame for its notable alumni and faculty members that include Albert Einstein and 55 Noble Laureates in different fields up till now.",
+  
+  result.img = "https://tse1.mm.bing.net/th?id=OIP.fAyuXla_DhR1MxHazXsqHgHaFj&pid=Api&P=0"
   
   const entry = new College(result)
   

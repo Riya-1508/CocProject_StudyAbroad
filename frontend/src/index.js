@@ -2,14 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './index.css';
-// import LogIn from './Login.js';
+ import LogIn from './Login.js';
 import Home from './home.js';
 
 import Graduation from './Graduation.js';
 import PostGraduation from './PostGraduation.js';
 import GraduationCountry from './GraduationCountries.js';
 import PostGraduationCountry from './PostGraduationCountries'
-// import GCountryNames from './GCountryNames.js';
+ import GCountryNames from './GCountryNames.js';
 import Parent from './h';
 import reportWebVitals from './reportWebVitals';
 
@@ -32,9 +32,9 @@ const GraduationCollegePages = () => {
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Login />
+    {/* <LogIn /> */}
     {/* <SignUp/> */}
-    {/* <Home/> */}
+    <Home/>
     {/* <PostGraduation/> */}
     {/* <Graduation/> */}
     {/* <WebPages /> */}
