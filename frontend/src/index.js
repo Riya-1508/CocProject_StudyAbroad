@@ -58,12 +58,7 @@ root.render(
     {/* <GraduationCountry /> */}
     {/* <PostGraduation /> */}
     {/* <Home /> */}
-    <LogIn />
-    {/* <SignUp/> */}
-    {/* <Home/> */}
-    {/* <PostGraduation/> */}
-    {/* <Graduation/> */}
-    {/* <WebPages /> */}
+
     
   </React.StrictMode>
 );
