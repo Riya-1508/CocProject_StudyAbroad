@@ -1,7 +1,10 @@
 import React from "react";
+// import Searchbar from "./New_search";
+// import { useState } from "react";
 import "./Navigation.css";
 
 function Navigation() {
+
     return (
         <>
             <div className="bg-gradient-to-bl from-purple-200 via-purple-400 to-purple-800 ">
@@ -101,7 +104,7 @@ function Navigation() {
                         </ul>
                     </div>
                     <div className="flex list-none my-auto ml-[800px] space-x-32">
-                        <li className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Search College</li>
+                        <button className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Search College</button>
                         <li className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Contact</li>
                         <li className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Sign In</li>
                     </div>
@@ -110,6 +113,7 @@ function Navigation() {
         </>
     );
 }
+
 
 
 export default Navigation;
