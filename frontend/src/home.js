@@ -121,7 +121,7 @@ function Home() {
                     <div
                         className="relative preserve-3d group-hover:my-rotate-y-180 w-full h-full duration-1000"
                     >
-                        <div className="absolute backface-hidden-2 w-full h-full">
+                        <div className="absolute backface-hidden border-2 w-full h-full">
                             <img src={USA} alt="" className="w-full h-full" />
                         </div>
                         <div
@@ -149,7 +149,7 @@ function Home() {
                     <div
                         className="relative preserve-3d group-hover:my-rotate-y-180 w-full h-full duration-1000"
                     >
-                        <div className="absolute backface-hidden-2 w-full h-full">
+                        <div className="absolute backface-hidden border-2 w-full h-full">
                             <img src={Canada} alt="" className="w-full h-full" />
                         </div>
                         <div
@@ -173,19 +173,19 @@ function Home() {
                     </div>
                 </div>
                 <div
-                    className="w-[400px] h-[420px] bg-transparent cursor-pointer group perspective"
+                    className="w-[400px] h-[420px] bg-transparent cursor-pointer group perspective "
                 >
                     <div
                         className="relative preserve-3d group-hover:my-rotate-y-180 w-full h-full duration-1000"
                     >
-                        <div className="absolute backface-hidden-2 w-full h-full">
+                        <div className="absolute backface-hidden border-2 w-full h-full">
                             <img src={Germany} alt="" className="w-full h-full" />
                         </div>
                         <div
                             className="absolute my-rotate-y-180 backface-hidden w-full h-full bg-gray-100 overflow-hidden"
                         >
                             <div
-                                className="text-center flex flex-col items-center justify-center h-full text-gray-800 px-2 pb-24"
+                                className="text-center flex flex-col items-center justify-center h-full text-gray-800 px-2 pb-24" 
                             >
                                 <h1 className="text-3xl font-semibold">Germany</h1>
                                 <p className="font-serif m-[6px]">

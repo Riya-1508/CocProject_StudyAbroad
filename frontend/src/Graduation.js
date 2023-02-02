@@ -10,7 +10,7 @@ function Graduation() {
   return (
     <>
       <Navigation />
-      <section className="BGGI flex flex-row justify-around">
+      <section className="flex flex-row justify-around">
         <div className=" flex flex-row h-screen space-x-44">
           <div className="w-[600px] h-[400px] mt-auto mb-auto text-center">
             <h2 className="m-8 font-bold text-6xl">Graduation</h2>
