@@ -43,7 +43,7 @@ const PGCountries =
                 [
                     "MBA",
                     "Masters",
-                    "PG in Diploma"
+                    "Diploma"
                 ],
             Courses1:
                 [
@@ -53,7 +53,7 @@ const PGCountries =
                     },
                     {
                         SNo: 2,
-                        College: "Queen's (Smith School of Business)."
+                        College: "Queen's (Smith School of Business)"
                     },
                     {
                         SNo: 3,
@@ -69,7 +69,7 @@ const PGCountries =
                     },
                     {
                         SNo: 6,
-                        College: "UBC (Sauder School of Business)"
+                        College: "Sauder School of Business"
                     },
                     {
                         SNo: 7,
@@ -77,7 +77,7 @@ const PGCountries =
                     },
                     {
                         SNo: 8,
-                        College: "Concordia (John Molson)"
+                        College: "Concordia University"
                     }
                 ],
             Courses2:
@@ -92,7 +92,7 @@ const PGCountries =
                     },
                     {
                         SNo: 3,
-                        College: "University of Windsor"
+                        College: "University of Montreal"
                     },
                     {
                         SNo: 4,
@@ -147,7 +147,7 @@ const PGCountries =
                     },
                     {
                         SNo: 8,
-                        College: "Humber College, Ontario"
+                        College: "Humber College"
                     }
                 ],
         },
@@ -199,9 +199,9 @@ const PGCountries =
                 ],
             Courses:
                 [
-                    "MS",
+                    "Masters",
                     "MBA",
-                    "Phd"
+                    "Ph.D"
                 ],
             Courses1:
                 [
@@ -254,36 +254,16 @@ const PGCountries =
                     },
                     {
                         SNo: 6,
-                        College: "Leipzig University"
+                        College: "University of Leipzig"
                     },
                 ],
             Courses3:
                 [
                     {
                         SNo: 1,
-                        College: "Ludwig Maximilian University of Munich"
-                    },
-                    {
-                        SNo: 2,
-                        College: "University of Freiburg"
-                    },
-                    {
-                        SNo: 3,
-                        College: "Heidelberg University"
-                    },
-                    {
-                        SNo: 4,
-                        College: "University of Bonn"
-                    },
-                    {
-                        SNo: 5,
                         College: "Humboldt University of Berlin"
-                    },
-                    {
-                        SNo: 6,
-                        College: "RWTH Aachen University"
                     }
-                ],
+                ]
         },
         {
             id: 3,
@@ -333,9 +313,9 @@ const PGCountries =
                 ],
             Courses:
                 [
-                    "MS",
+                    "Masters",
                     "MBA",
-                    "Phd"
+                    "Ph.D"
                 ],
             Courses1:
                 [
@@ -357,7 +337,7 @@ const PGCountries =
                     },
                     {
                         SNo: 5,
-                        College: "Imperial College of London"
+                        College: "Imperial College London"
                     },
                     {
                         SNo: 6,
@@ -388,7 +368,7 @@ const PGCountries =
                     },
                     {
                         SNo: 5,
-                        College: "Imperial College London"
+                        College: "Imperial College Business School"
                     },
                     {
                         SNo: 6,
@@ -400,7 +380,7 @@ const PGCountries =
                     },
                     {
                         SNo: 8,
-                        College: " Said Business School"
+                        College: "Said Business School"
                     }
                 ],
             Courses3:
@@ -415,7 +395,7 @@ const PGCountries =
                     },
                     {
                         SNo: 3,
-                        College: "The University of Manchester"
+                        College: "University of Manchester"
                     },
                     {
                         SNo: 4,
@@ -431,10 +411,6 @@ const PGCountries =
                     },
                     {
                         SNo: 7,
-                        College: "University of Bristol"
-                    },
-                    {
-                        SNo: 8,
                         College: "Imperial College London"
                     }
                 ],
@@ -503,7 +479,7 @@ const PGCountries =
                     },
                     {
                         SNo: 5,
-                        College: "The University of  Queensland"
+                        College: "The University of Queensland"
                     },
                     {
                         SNo: 6,
@@ -511,7 +487,7 @@ const PGCountries =
                     },
                     {
                         SNo: 7,
-                        College: "The University of Western Australia Business School "
+                        College: "The University of Western Australia Business School"
                     },
                     {
                         SNo: 8,
@@ -530,11 +506,11 @@ const PGCountries =
                     },
                     {
                         SNo: 3,
-                        College: "University of Sydney"
+                        College: "University of New South Wales [UNSW]"
                     },
                     {
                         SNo: 4,
-                        College: "University of  Queensland"
+                        College: "The University of Queensland"
                     },
                     {
                         SNo: 5,
@@ -550,7 +526,7 @@ const PGCountries =
                     },
                     {
                         SNo: 8,
-                        College: "University of Wollongong"
+                        College: "The University of Sydney"
                     }
                 ],
         },
@@ -602,9 +578,9 @@ const PGCountries =
                 ],
             Courses:
                 [
-                    "MS",
+                    "Master",
                     "MBA",
-                    "Phd"
+                    "Ph.D"
                 ],
             Courses1:
                 [

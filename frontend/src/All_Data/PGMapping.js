@@ -13,7 +13,7 @@ const PGMapping =
 
 
         {
-          Names: "University of Alberta",
+          Names: "Alberta School of Business",
           Details: "University of Alberta (UAlberta) is one of the top 5 universities in Edmonton,Canada, established in 1908. The university welcomes international students planning to study in Canada across its five campuses and 18 faculties. Programs at University of Alberta follow a semester-based academic calendar. University of Alberta is renowned for its programs across Enginering, Business and Education. University of Alberta admissions exhibit a moderately selective acceptance rate of 58%. More than 40,000 students from 156 countries grace the amicable institute each year. ",
           CoursesN: "MBA",
           img: "https://tse4.mm.bing.net/th?id=OIP.Q3Ek_rmcb8pU-XgKxbWLYgHaEg&pid=Api&P=0",
@@ -180,26 +180,28 @@ const PGMapping =
           ]
         },
         {
-          Names: "University of Montreal",
-          Details: "The University of Montreal is a public research university in Montreal, Quebec, Canada. University of Montreal campus has thirteen faculties, over sixty departments, and two affiliated schools: Polytechnique Montréal and HEC Montréal. The university has a total enrollment of 69,926 students, out of which 45,883 students are enrolled at UdeM. Unievsrity of Montreal offers 600 programs at undergraduate and graduate levels. The top programs at the University of Montreal are M.Eng Computer Engineering, MBA, and MSc. Management. To secure admission at UdeM, international students are required to have a minimum GPA of 3.0 i.e 85% for UG programs, and a GPA of 3.3 i.e 88% for PG programs.",
+          Names: "Western(Ivey Business School)",
+          Details: "Richard Ivey School of Business is affiliated with the University of Western. The school has received accolades from various ranking agencies for its MBA program making it one of the top business schools in Canada. Currently, the student population of Ivey, houses 31% international applicants.Additionally, you must have a GMAT score of 640-680. For those accepted into the courses at Richard Ivey, it can cost you around C$120,000 annual to cater the tuition charges. However, the school offers an admission scholarship to around 80% of the students. Prospective candidates can also opt for other scholarships in Canada for International students.",
           CoursesN: "MBA",
-          img: "https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/university_of_montreal.jpg?itok=nvpq29hR",
+          img: "https://archello.s3.eu-central-1.amazonaws.com/images/2016/04/20/RichardIveyBuilding1-2.1506078651.6622.jpg",
           College: [
             {
               _id: {
-                "$oid": "63d4a1baf2b3a2e74ecaed08"
+                $oid: "63d8010b894e4eec753ba35a"
               },
-
+              Names: "Western (Ivey Business School)",
+              Details: "Richard Ivey School of Business is affiliated with the University of Western. The school has received accolades from various ranking agencies for its MBA program making it one of the top business schools in Canada. Currently, the student population of Ivey, houses 31% international applicants.Applicants looking forward to applying for an MBA at Richard Ivey can send in their applications up until 20 September, 2021. Additionally, you must have a GMAT score of 640-680. For those accepted into the courses at Richard Ivey, it can cost you around C$120,000 annual to cater the tuition charges. However, the school offers an admission scholarship to around 80% of the students. Prospective candidates can also opt for other scholarships in Canada for International students.",
+              img: "https://tse1.mm.bing.net/th?id=OIP.gWSshIHVsZseUERmccXU1gHaEx&pid=Api&P=0",
               title: "Master of Business Administration [M.B.A]",
-              info: "Whether you want to reorient yourself, launch your business or give a new impetus to your professional life, our part-time MBA will allow onw to achieve their career goals in just 2 years, with all the same advantages as the full-time program. Much more than a university education, this MBA is a life experience, a springboard for your future.This program -Two years: two evenings per week and one Saturday per month.A pedagogical approach based on the exchange of experience with other students, which actively contributes to increasing your skills, your experience and your networks. A business integration project, to allow you to reinforce your learning and gain practical experience. Small groups per class for exceptional quality interaction with faculty and between students.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹1790945₹1790945Total Fees₹1790945₹1790945",
-              exams: "Hold an undergraduate degree of at least 90 credits or a diploma deemed equivalent by the program director.Have at least 3 years of full-time professional experience at the time of starting the program (internships not included).Pass one of the following admission tests:TAGE MAGE (competitive score: 300 and above; minimum recommended score: 250)GMAT (competitive score: 630 and above; minimum recommended score: 570)GRE (scores equivalent to GMAT)Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionWork Experience:3 years of work experienceStudents need to submit a minimum GMAT score and GRE exam scores for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.International French test (TFI) – 750French assessment test (TEF) – 541French knowledge test (TCF) – 400",
+              info: "\n\tMaster of Business Administration (MBA) at Western University is offered as a full-time basis for a duration of 1-year.\n\tRanked 4th in Canada’s best universities by student satisfaction in Maclean’s Rankings 2020.\n\tIvey's full-time MBA program is one year in length and begins each April with two sections of students. The Ivey MBA is a transformational experience for ambitious leaders who want to hone their skill-set, develop their leadership abilities and accelerate their career success.\n\tTheir program is not simply a set of courses, but an action-oriented learning experience designed to accelerate their success in the real world.\n\tStudents will learn everything students would learn from a lecture and more: students will be the decision-maker, asked to analyze the data, develop alternatives, make and defend their recommendations.\n\tThe Student to ratio is 24:1.\n\tThe Employment rate of Western University is 91%.\n\tStudents can apply for scholarship programs initiated by the Government of Canada up to 40,664 USD per year.\n\tThe living cost range in Canada is 4,500 USD – 10,800 per year.\n\tThe average salary goes up to 87,500 USD after completing this program.\n\tStudents have career opportunities to work as:\n\t\n\t\tSales Manager\n\t\tBusiness Consultant\n\t\tFinancial Analyst\n\t\tMarket Research Analyst\n\t\n\t\n\nRead More",
+              fees: "YearYear 1Tuition Fees₹5024699Health Insurance₹134762Other Fees₹93716Total Fees₹5253177",
+              exams: "Academic Eligibility:\n\tStudents have to complete a science bachelor’s honors degree in computer science or a highly related discipline.\n\tOr, bachelor's (4-year, honors degree) or equivalent from a recognized degree-granting institution.\n\tGPA of at least 3.0/4.33 (B grade) in the last 2 years of study is required to be eligible for this program.\n\tStudents must be qualified in IELTS or TOEFL and PTE to get admission in this program.\nIndian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:\n\tCompleted a 4-year UG degree with first class in a relevant field from a recognized institution\n\tOr, completed graduation in B.Sc.(H) Computer Science or B.Sc. Applied Physical Sciences with Mathematics and Computer Science.\n\tOr, completed a B.Sc (General) degree from a recognized institution.\nAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test.\n",
               __v: 0
-            },
+            }
           ]
         },
         {
-          Names: "Queen's University",
+          Names: "Queen's (Smith School of Business)",
           Details: "Queen's University at Kingston, also known as Queen's University, is a public research university located in Kingston, Ontario, Canada. In Maclean's 2021 University, Queen's University is ranked 5th among Canadian medical-doctoral universities, 3rd overall for student happiness, 2nd in experiential learning, and 1st in extracurricular activities.A total of 27,697 students were enrolled in Queen's University, with 20,069 students enrolling as undergraduates. In Fall 2021, Queen's University offered admission to 10.8% of undergraduate students and 26.5% of graduate students. Queen's University offers numerous undergraduate degree programs, over 125 graduate programs, and more than 140 online programs through its 8 faculties and schools. ",
           CoursesN: "MBA",
           img: "https://tse4.mm.bing.net/th?id=OIP.s7CNmmTpbKV9iUlqH0OUpQHaDY&pid=Api&P=0",
@@ -247,7 +249,7 @@ const PGMapping =
           ]
         },
         {
-          Names: "University of Toronto",
+          Names: "Toronto (Rotman School of Management)",
           Details: "University of Toronto (U of T) is one of the top public research universities in Canada. Established in 1827, University of Toronto is a multi-campus university that offers education to 97,066 students across various academic levels. The university is home to 27,130 international students (21%) from 170 countries. India ranks 2nd among the countries representing the maximum number of international students at University of Toronto with 2,082 students.",
           CoursesN: "MBA",
           img: "https://www.educationworld.in/wp-content/uploads/2006/09/University-of-Toronto-Canada.jpg",
@@ -266,7 +268,7 @@ const PGMapping =
           ]
         },
         {
-          Names: "York University",
+          Names: "York (Schulich School of Business)",
           Details: "York University is a public research university in Toronto, Ontario, Canada. It is one of Toronto's most prestigious public universities. York University is ranked #456 in QS Global World Rankings 2022. York University offers programs through its 11 faculties. 78 undergraduate certificate programs, 92 postgraduate diploma programs, and 41 PhD programs are available.The most enrolled programs at York University are accounting and finance. Indian Students seeking admission at York University require a bachelor's degree with a minimum GPA of 5.0 on a scale of 10.0 (65% - 69%), an IELTS score of 6.5, and work experience of 3 to 5 years depending upon the course. ",
           CoursesN: "MBA",
           img: "https://tse1.mm.bing.net/th?id=OIP.DsjcQJSdHuUK7xyZACobIAHaE8&pid=Api&P=0",
@@ -397,7 +399,7 @@ const PGMapping =
             ]
         },
         {
-          Names: "University of British Columbia",
+          Names: "The University of British Columbia",
           Details: "he University of British Columbia is a public research university in British Columbia with campuses in Vancouver and Kelowna. The University of British Columbia ranks amongst the world's top 20 public universities. UBC's main campus is in Vancouver and spans 400 acres. University of British Columbia offers 350+ programs at bachelor's and master's levels. ",
           CoursesN: "Masters",
           img: "http://www.mladiinfo.eu/wp-content/uploads/2017/12/160623-ubc-submitted.jpg",
@@ -890,7 +892,7 @@ const PGMapping =
         {
           Names: "College of New Caledonia",
           Details: "College of New Caledonia provides a full range of technical, vocational and university credit programs to the students. The college has six campuses present across different parts and offers both online and offline diploma programs, certificate programs, post diploma programs.The admissions process at College of New Caledonia begins in three intakes- January, May, September.The programs are mostly one year or two year that are offered across various domains. Students can fill online applications and offline paper applications to apply to the university. The college provides scholarships in Canada to the students based on their personal needs, and these scholarships are personalized.",
-          CourseN: "Diploma",
+          CoursesN: "Diploma",
           img: "http://vietnam.canada-edu.org/images/CNC.jpg",
           College: [
             {
@@ -959,7 +961,7 @@ const PGMapping =
         {
           Names: "Centennial College",
           Details: "Centennial College, Ontario's first community college, was founded in 1966. Along with 5 campuses, the college has seven satellite locations. Centennial is considered one of Canada's most culturally diverse institutions. There are nearly 100 ethnocultural groups and 80 languages spoken on the campus. Out of many on-campus clubs, there is an Indian Club to support Indian students and celebrate regional events together.",
-          CourseN: "Diploma",
+          CoursesN: "Diploma",
           img: "https://tse3.mm.bing.net/th?id=OIP.ZvJOGvSgFSQwHi3ioKSAdAHaEK&pid=Api&P=0",
           College: [
             {
@@ -1028,7 +1030,7 @@ const PGMapping =
         {
           Names: "Fleming College",
           Details: "Fleming College is a public College of Applied Arts and Technology. It enrolls over 6,800 full-time and 10,000 part-time students across 3 Fleming College campuses. The college offers more than 100 programs in areas of study like Business, Arts & Heritage, Environmental & Natural Resource Sciences, Health & Wellness, Skilled Trades & Technology etc. Fleming is all set to expand its School of Health and Community Services to focus more on health care. The program will begin in January 2023 with a reduced duration of 2 years.",
-          CourseN: "Diploma",
+          CoursesN: "Diploma",
           img: "https://tse2.mm.bing.net/th?id=OIP.SrS2EUo-vcpgx-SN9PUTswHaEs&pid=Api&P=0",
           College: [
             {
@@ -1107,7 +1109,7 @@ const PGMapping =
         {
           Names: "Humber College",
           Details: "Humber College, also known as the Humber College Institute of Technology & Advanced Learning, is a public Applied Arts and Technology College in Toronto, Ontario, Canada. Humber College courses are available at three Campuses- North Campus, Lakeshore Campus, and Downtown Campus. Collectively, the campuses offer 220+ programs across 40 academic areas. The highest degree available at Humber is a bachelor's degree, other than that, the institution offers majorly certificate and diploma courses. Amongst Indian students, Humber College’s postgraduate diploma and certificate courses are highly in-demand.The admission process at Humber College is quite straightforward; the majority of courses have two intakes- January and/or September. A minimum academic score of 70% is required for admission for all students. To prove english proficiency all Indian students are mandatory to submit a minimum IELTS score of 6.5 for UG and 6.0 for PG programs. Personal essays and reference letters are optional for a few courses, but if you are an international student then it’s highly recommended to submit these supplementary documents.",
-          CourseN: "Diploma",
+          CoursesN: "Diploma",
           img: "https://tse1.mm.bing.net/th?id=OIP.nSHPIq9VlchbFj3eQsOHuwHaD3&pid=Api&P=0",
           College: [
             {
@@ -1196,7 +1198,7 @@ const PGMapping =
         {
           Names: "McMaster University",
           Details: "McMaster University is amongst the top three research institutions in Canada. The university has a diverse student population, and attracts students from all over the world, including India. Indian student enrollments at McMaster University have grown over the years. In 2022 enrollments, Indian students comprised 6.7% and 21.3% of international student enrollments at UG and PG levels respectively. Graduates of McMaster University are placed #81 in the world, as per QS Graduate Employability Rankings. The university provides practical experience through internships, co-op, and career & placement workshops. With co-op opportunities, students get professional work experience and can earn upto 10,000 CAD. MSc graduates earn an average salary of 92,000 CAD, whereas, McMaster MBA graduates receive job offers worth even 160,000 CAD. ",
-          CourseN: "Diploma",
+          CoursesN: "Diploma",
           img: "https://tse1.mm.bing.net/th?id=OIP.hr9n1UlzyeERhlikQU954gHaE9&pid=Api&P=0",
           College: [
             {
@@ -1223,9 +1225,9 @@ const PGMapping =
           ]
         },
         {
-          Names: "Simon Fraser University",
+          Names: "Simon Frasier University",
           Details: "Simon Fraser University is a public research university in Canada, with three campuses: Burnaby, Surrey, and Vancouver. SFU's main campus is located in Burnaby, British Columbia. SFU is consistently ranked as one of Canada's top research universities and one of the world's top 300 universities.SFU operates on a unique trimester system, comprised of 3 equal full-time terms per year. Indian students planning to secure admission at Simon Fraser University must have a minimum GPA of 2.5 on a scale of 4. (79%). The needed minimum GPA does not ensure admission, the average GPA of admitted students at SFU is 3.5 GPA which is equivalent to around 89%.",
-          CourseN: "Diploma",
+          CoursesN: "Diploma",
           img: "https://tse1.mm.bing.net/th?id=OIP.Z-D7KR2msPdAC4I-5NmkwAHaE8&pid=Api&P=0",
           College: [
             {
@@ -1284,7 +1286,7 @@ const PGMapping =
         {
           Names: "North Island College",
           Details: "Established in 1975, North Island College was initially an institute for distance education. At present, the College has grown into a vast network serving students from all across the world. The North Island College has four major campuses at Comox valley, Port Hardy, Campbell River and Port Alberni out of which Comox Valley campus is the largest one located in Courtenay, BC.The college is responsible for delivering community programs across Vancouver Island’s west coast to Bella Coola. It is a comprehensive, community college serving more than 9,000 students every year through the programs offered on-campus, learning center, online and in-community learning. The College offers bachelor’s and associate degrees, diploma, certificates, etc.",
-          CourseN: "Diploma",
+          CoursesN: "Diploma",
           img: "https://tse3.mm.bing.net/th?id=OIP.ZvJOGvSgFSQwHi3ioKSAdAHaEK&pid=Api&P=0",
           College: [
             {
@@ -1323,7 +1325,7 @@ const PGMapping =
         {
           Names: "University of Winnipeg",
           Details: "University of Winnipeg is a renowned research university enrolling a total of 9,691 students. Currently, more than 9,396 students at University of Winnipeg are enrolled to the undergraduate programs. Right now, 1,389 international students (14.3%), contribute to the colourful cultural diversity of the university. Explore: University of Winnipeg ProgramsUniversity of Winnipeg is lightly selective with the acceptance rate of 60-70%. The university is accredited by the Department of Education and Training, Manitoba. It is the only university in Canada to have on-site high school teaching grades 9, 10, 11 and 12. University of Winnipeg operates a dynamic campus and a downtown hub that serves as a bridge for connecting people from different cultures and backgrounds.",
-          CourseN: "Diploma",
+          CoursesN: "Diploma",
           img: "https://tse4.mm.bing.net/th?id=OIP.Qb3WKLxahRN5sjgFVL1CQAHaEK&pid=Api&P=0",
           College: [
             {
@@ -1376,10 +1378,512 @@ const PGMapping =
       CNames: "Germany",
       Courses:
         [
-          "BTech",
-          "MBBS",
-          "BBA"
+          "MS",
+          "MBA",
+          "Ph.D"
         ],
+      Universities:[
+
+        {
+            CoursesN: "MBA",
+            Names: "University of Cologne",
+            Details: "University of Cologne, established in 1388, is one of the oldest universities of Central Europe. The university is well-recognized for its research work as well as academic programs in science and engineering. University of Cologne houses over 50,792 students and molds them in the format of research and innovation that the institute primarily advocates for. Over 250 programs are available University of Cologne, taught through its 8 faculties and schools. While Science courses are prominent research programs, international student inclination is toward the university’s Business and International Management courses.  ",
+            img: "https://images.shiksha.com/mediadata/images/1537941015phpgrJIql.jpeg",
+            College:
+                [
+                    {
+                        _id: {
+                            $oid: "63da9ec5f696e722039f9422"
+                        },
+                        title: "Executive Master of Business Administration [E.M.B.A]",
+                        info: "\n\tThe Cologne-Rotterdam Executive MBA program has been established on the basis of mutual co-operation and respect between the University of Cologne and Rotterdam School of Management, Erasmus University (RSM). This intense and international professional development program for managers has been developed by two esteemed institutions. \n\tIt's a 24-month Executive part-time MBA taught at the Business School of the University of Cologne and based on the top-ranked Executive MBA at Rotterdam School of Management, Erasmus University - a program long recognized for its truly international level of leadership and international exposure.\n\nRead More",
+                        fees: "YearYear 1Year 2Tuition Fees₹54489₹54489Total Fees₹54489₹54489",
+                        exams: "Academic Eligibility:\n\tApplicants must have passed graduation from a recognized institution\n\tGPA of 2.7\n\tMore than specific specialist knowledge, certain skills, and a suitable mindset are required from the students to successfully achieve the double EMBA degree:\n\tClear career goals\n\tHigh motivation in order to master the challenges of the study program\n\talongside the daily job\n\tExcellent communication skills and sociability\n\tTeamwork skills\n\tEmotional intelligence\n\tFirst experiences in managing people or projects\nIndian Students Eligibility:\n\tApplicants must have passed graduation from a recognized institution\n\tGPA of 2.7\nWork Experience:\n\t4 years of work experience\nAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program\n",
+                        __v: 0
+                    },
+                ]
+        },
+        {
+            CoursesN: "MBA",
+            Names: "ESMT Berlin",
+            Details: "ESMT Berlin was established by 25 leading German corporations and institutions in 2002. It is the highest-ranked business school in Germany and occupies the top-10 position among the business schools in Germany. The institute offers a full-time MBA, an executive MBA, a part-time blended MBA, an executive MBA/MPA, and a master’s in management.",
+            img: "https://schlossplatz1.berlin/sites/schlossplatz/files/styles/original/public/2020-09/About%20us_Mood%20image_1920x1080%20%281%29.png?itok=2fILozkt",
+            College:
+                [
+                    {
+                        _id: {
+                            $oid: "63db4babc1dd445346b6f000"
+                        },
+                        title: "Master of Business Administration [M.B.A]",
+                        info: "\n\tManagerial Analytics: Gain the skills, competencies and knowledge of the data landscape needed to manage analysts and drive data-oriented decisionmaking processes.\n\tInnovation and Entrepreneurship: Experience firsthand Berlin’s thriving entrepreneurial ecosystem. Courses lead students from idea generation all the way to implementation, whether in a startup or an established company.\n\tStrategic Leadership: The Strategic Leadership track hones students aptitude to understand, design, assess, and execute complex strategies for profitable growth in an international context.\n\nRead More",
+                        fees: "YearYear 1Tuition Fees₹4257288Total Fees₹4257288",
+                        exams: "Academic Eligibility:\n\tAn undergraduate degree or equivalent qualification\nIndian Students Eligibility:\n\tApplicants must have passed graduation from a recognised institution \nWork Experience:\n\t3 years of work experience\nAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program\n",
+                        __v: 0
+                    },
+                ]
+        },
+        {
+            CoursesN: "MBA",
+            Names: "Frankfurt School of Finance & Management",
+            Details: "Frankfurt School of Finance & Management is a non-profit private business school located in Frankfurt am Main that was established in 1957. The institute has been accredited to AACSB, EQUIS, and AMBA and is a constantly ranked organization among the top business schools in the world which makes it a coveted choice among international candidates for seeking to study in Germany.The institute houses around 2,462 students enrolled in its array of academic programs.",
+            img: "https://studieren.de/uploads/tx_assearchengine/assets-23894-23647-1600_01.jpg",
+            College:
+                [
+                    {
+                        _id: {
+                            $oid: "63db47823d15d533acbf1ae9"
+                        },
+                        title: "Master of Business Administration [M.B.A]",
+                        info: "\n\tStudents are required to take four of these elective courses, selected from Finance, Management or Technology & Innovation.Two extra elective courses may be taken on request.\n\tThe range of electives taking place between March and May allows students to tailor their MBA through a diverse and distinctive structure of time formats and block weekends.\n\tElectives are taught not only by in-house faculty, but also by leading international practitioners, providing students with the tools to meet their personal aspirations.\n\nRead More",
+                        fees: "YearYear 1Tuition Fees₹3719011Total Fees₹3719011",
+                        exams: "Academic Eligibility:\n\tFirst academic degree (Bachelor or equivalent)\nIndian Students Eligibility:\n\tApplicants must have passed graduation from a recognised institution \nWork Experience:\n\t3 years of work experience\nAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db47dd2e2276fe14cd7a74"
+                        },
+                        title: "Master of Laws [L.L.M] (Mergers & Acquisitions)",
+                        info: "\n\tRegardless of the volatile situation of the M&A market, the demand for M&A professionals has been increasing for years, especially because numerous industrial companies have set up their own M&A departments.\n\tBut law firms, investment banks, M&A consultants and financial investors specializing in M&A also report an increasing need for well-trained associates.\n\nRead More",
+                        fees: "YearYear 1Year 2Tuition Fees₹2909610₹2909610Total Fees₹2909610₹2909610",
+                        exams: "\n\tBachelor or diploma degree, preferably in law or economics.\n\tAt least one year of professional experience related to mergers & acquisitions as well.\n\tSuccessful completion of the admission process of the Frankfurt School of Finance & Management.\n\n",
+                        __v: 0
+                    },
+                ]
+        },
+        {
+            CoursesN: "MBA",
+            Names: "University of Leipzig",
+            Details: "Founded in 1409, the University of Leipzig is one of the oldest universities in Germany. It is a member of the German U15 network of universities. Currently, the University is home to around 30,000 students. Around 7,000 students apply for admission to University of Leipzig each year. International students comprise of 12% of the total student population.The University of Leipzig offers 236 degree programs. Popular programs at University of Leipzig include Law, Medicine, Teaching and Pharmacy. The University is quite well known for its research programs. It is currently playing a leading role in 20 coordinated programs funded by the German Research Foundation (DFG). ",
+            img: "https://www.uni-leipzig.de/fileadmin/_processed_/6/5/csm_2017_Campus-AP_OO3A3835_UL_0ba680546b.jpg",
+            College:
+                [
+                    {
+                        _id: {
+                            $oid: "63db35fa3a77d28842063057"
+                        },
+                        title: "Master of Business Administration [M.B.A] (Small Enterprise Promotion and Training)",
+                        info: "Established in Leipzig, the Small Enterprise Promotion and Training Master of Business Administration (MBA) combines questions of the professional management of small and medium-sized enterprises (SMEs) with problems and perspectives of business and economic development. It provides a thorough understanding of management as the basis for positions of leadership not just in the private sector, but especially in institutions and organisations involved in business development and foreign assistance.\nRead More",
+                        fees: "YearYear 1Year 2Tuition Fees₹307361₹307361Total Fees₹307361₹307361",
+                        exams: "\n\tA university degree in economics, social sciences, natural sciences or engineering, or a comparable university degree;\n\tProfessional experience of usually at least two years.\n\n",
+                        __v: 0
+                    },
+                ]
+        },
+        {
+            CoursesN: "MBA",
+            Names: "Munich Business School",
+            Details: "Munich Business School (MBS) is a renowned international business school and the first private university recognized in Bavaria. The school is popular for offering degrees exclusively in business administration. Prospective students can pursue undergraduate degree, four masters programs, a terminal DBA degree in partnership with the University of Sheffield Hallam, and dual degree programs at Munich Business School in partnership with many business schools around the world.",
+            img: "https://www.munich-business-school.de/fileadmin/user_upload/Munich-Business-School-Gebaeude.jpg",
+            College:
+                [
+                    {
+                        _id: {
+                            $oid: "63db4a6c4b3b6dd80c57b016"
+                        },
+                        title: "Master of Business Administration [M.B.A] (General Management)",
+                        info: "\n\tThe full-time MBA General Management program is a modern MBA program that is precisely tailored to the needs and requirements of today's globalized world.\n\tIt offers the opportunity to expand business and management skills and to improve and develop students leadership skills.\n\nRead More",
+                        fees: "YearYear 1Year 2Tuition Fees₹1565899₹1565899Total Fees₹1565899₹1565899",
+                        exams: "Academic Eligibility:\n\tStudents must prove a first recognized course of study in any discipline.\nIndian Students Eligibility:\n\tApplicants must have passed graduation from a recognised institution \nWork Experience:\n\t2 years of work experience\nAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db4aa0939f121cc8ed2504"
+                        },
+                        title: "Master of Arts [M.A] (International Marketing and Brand Management)",
+                        info: "\n\tThe Master's program in International Marketing and Brand Management provides students with in-depth knowledge in the areas of business, marketing, and brand management and equips with the most essential skills and tools to successfully put innovative ideas into practice.\n\tIn addition, the unique format and the holistic, interdisciplinary approach of the degree program allow us to develop new perspectives and to deal with highly topical issues.\n\tAll of this makes the Master's in International Marketing and Brand Management a unique study program. This is how students develop into a responsible marketing and brand management specialist with a broad cultural understanding and a strong personality. \n\nRead More",
+                        fees: "YearYear 1Year 2Year 3Tuition Fees₹782950₹782950₹782950Total Fees₹782950₹782950₹782950",
+                        exams: "The following application documents are required:\n\tAccess to the master's degree is possible if at least 180 ECTS credits (equivalent to three years of full-time study) from the first degree can be proven. Direct admission is possible with 210 ECTS credits.\n\tLetter of motivation\n\tCopy of the school leaving certificate\n\tCopy of the first university degree (incl. Performance overview/transcripts)\n\tProof of sufficient language skills in English (TOEFL, IELTS or ELS)\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db4ac61069b8d1cd8c580a"
+                        },
+                        title: "Master of Arts [M.A] (International Business)",
+                        info: "With the Master International Business, students deepen previous business knowledge. The international orientation of the program, diverse focal areas of study and practical content prepare students optimally for specialist and management tasks in international business.\nRead More",
+                        fees: "YearYear 1Year 2Year 3Tuition Fees₹782950₹782950₹782950Total Fees₹782950₹782950₹782950",
+                        exams: "The following application documents are required:\n\tAccess to the master's degree is possible if at least 180 ECTS credits (equivalent to three years of full-time study) from the first degree can be proven. Direct admission is possible with 210 ECTS credits.\n\tLetter of motivation\n\tCopy of the school leaving certificate\n\tCopy of the first university degree (incl. Performance overview/transcripts)\n\tProof of sufficient language skills in English (TOEFL, IELTS or ELS)\n\n",
+                        __v: 0
+                    },
+                ]
+        },
+        {
+            CoursesN: "MBA",
+            Names: "RWTH Aachen University",
+            Details: "RWTH Aachen University is the largest public research institution based in Germany. Presently, the university is home to 47,269 students, of which 13,354 are international students belonging to 138 diverse nations worldwide. International students can choose from over 170 RWTH Aachen Courses that are offered in 16 academic disciplines. Some of the popular programs offered by the university include Economics and Management, Natural Sciences, Biology, and Law.",
+            img: "https://www.easyuni.com/media/institution/photo/2014/08/15/RWTH_aachen.jpg.600x400_q85.jpg",
+            College:
+                [
+                    {
+                        _id: {
+                            $oid: "63db4383b52cf68d5d79a184"
+                        },
+                        title: "Master of Education [M.Ed] (Catholic Religious Education -Gymnasium and Gesamtschule, Vocational School Teacher)",
+                        info: "Two subjects are also combined in Master's teacher training studies. The combination possibilities for the teacher training subjects are identical with those in the corresponding Bachelor courses of study. Master's teacher training studies include not only the two subjects but other elements as well:\n\tEducational studies\n\tPractical semester\n\tGerman for School Students with an Immigration Background (DSSZ)\n\t\"Faszination Technik“ Concept\n\nRead More",
+                        exams: "Following are the entry requirements to this Program :\n\tGeneral higher education entrance qualification (Abitur), subject-specific university entrance qualification, or an equally recognized university entrance qualification.\n\tAll international applicants who are not legally equivalent to German citizens, such as non-EU students, must submit a TestAS certificate when applying for an undergraduate course of study\n\tprovide proof of German language skills at C1 level when enrolling.\n\tAn extremely important requirement for a successful application is that all documents are completed and submitted on time\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db43bffbde9d71ad5ee385"
+                        },
+                        title: "Master of Arts [M.A] (Digital Media Communication)",
+                        info: "After their studies at RWTH graduates are able to work in the application field of an increasingly digitalized linguistic-communicative world, supported by methods and theories. This includes the strategic or intentional use of language, its meaning and interpretation in political argumentation, and the task-specific design of communication processes in professional contexts.\nRead More",
+                        exams: "Following are the entry requirements to this Program :\n\tGeneral higher education entrance qualification (Abitur), subject-specific university entrance qualification, or an equally recognized university entrance qualification.\n\tAll international applicants who are not legally equivalent to German citizens, such as non-EU students, must submit a TestAS certificate when applying for an undergraduate course of study\n\tprovide proof of German language skills at C1 level when enrolling.\n\tAn extremely important requirement for a successful application is that all documents are completed and submitted on time\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db443854df42c8b9cf89ee"
+                        },
+                        title: "Master of Arts [M.A] (History)",
+                        info: "Students in the Master's course of study \"History – History as a Culture of Knowledge\" learn about such different cultures of knowledge, meaning, they deal with very different forms of the production of knowledge and handling knowledge. Above all this includes: history of science as a specific approach to knowledge, systematic subject-oriented access to knowledge, epochal and cultural regional differences in handling knowledge, and dynamics of obtaining knowledge.\nRead More",
+                        exams: "Following are the entry requirements to this Program :\n\tGeneral higher education entrance qualification (Abitur), subject-specific university entrance qualification, or an equally recognized university entrance qualification.\n\tAll international applicants who are not legally equivalent to German citizens, such as non-EU students, must submit a TestAS certificate when applying for an undergraduate course of study\n\tprovide proof of German language skills at C1 level when enrolling.\n\tAn extremely important requirement for a successful application is that all documents are completed and submitted on time\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db445789638166f4318628"
+                        },
+                        title: "Master of Arts [M.A] (Political Science)",
+                        info: "The curriculum for a Master's in political science is shaped by a variety of seminars, in which students intensively work on research questions in political sciences with each other and with instructors. In doing so they participate in current research work at the Institute of Political Science. Additionally, the courses are set up in such a way that the course of study opens up prospects for other qualified employment opportunities.\nRead More",
+                        exams: "Following are the entry requirements to this Program :\n\tGeneral higher education entrance qualification (Abitur), subject-specific university entrance qualification, or an equally recognized university entrance qualification.\n\tAll international applicants who are not legally equivalent to German citizens, such as non-EU students, must submit a TestAS certificate when applying for an undergraduate course of study\n\tprovide proof of German language skills at C1 level when enrolling.\n\tAn extremely important requirement for a successful application is that all documents are completed and submitted on time\n\n",
+                        __v: 0
+                    },
+                ]
+        },
+        {
+            Names: "Berlin Institute of Technology",
+            CoursesN:"Masters",
+            img: "https://images.shiksha.com/mediadata/images/1533883013phpYG0iKO.jpeg",
+            Details: "Technical University of Berlin is one of the best technical and research universities in Germany. TUB currently has 5,821 undergraduate students, 3,667 postgraduate students and 487 doctoral researchers.The university is quite popular among international students. Out of total intake, 27% of students are international and 9% of the staff also belong from international background. Also Check: TU Berlin Reviews!TU Berlin offers 115 programs at undergraduate and graduate levels. Only 25 programs at TU Berlin of master degree are taught in English Language. To apply for undergraduate programs, students need to have some knowledge of the German language. Some of the top programs at university are from fields like Engineering, Architecture and Built Environment.",
+            College:
+                [
+                    {
+                        _id: {
+                            $oid: "63da3ecddfbc8560d5810f56"
+                        },
+                        title: "Master of Science [M.S] (Computer Science)",
+                        info: "MSc Computer Science at Technical University Berlin is a two-year (four-semester) program aiming to offer in-depth knowledge of approaches, development methods, and current technologies in important areas of CS. TU Berlin Computer Science program provides students an opportunity to specialize in one of the following fields of study:\n\tData and software engineering\n\tEmbedded Systems\n\tBasics of computer science\n\tCognitive systems\n\tMedia technology and human-machine interaction\n\tDistributed systems and networks\nAdmission Requirements? To pursue MSc Computer Science at Technical University Berlin, international students are required to complete first professional university degree, meaning that they must have minimum 60% in their UG degree in Computer Science or other relevant fields. As the Computer Science program is taught in English, students must have a minimum IELTS score of 6.0.  Letter of motivation and letters of recommendation are recommended. However, prior work experience is not mandatory.\nRead More",
+                        fees: "YearYear 1Year 2Compulsory Fees₹27156₹27156Total Fees₹27156₹27156",
+                        exams: "The admission requirements of the program are:\n\tStudents require to have an undergraduate bachelor’s degree in Computer Science or a related course from a recognized university.\n\tThe degree must contain the following elements: 36 credit points (CP) from the basics of computer science, of which\n\t\n\t\t12 CP in the field of theoretical computer science,\n\t\t12 CP in the field of technical informatics or information technology,\n\t\t12 CP in the field of methodological and practical computer science,\n\t\n\t\n\tThe students whose official language is not English must submit the English Language Proficiency scores like IELTS or TOEFL. \n\tSubmission of GRE is not mandatory but will strengthen the application.\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63da3f8ea89336d4d1a225a9"
+                        },
+                        title: "Master of Science [M.S] (Automotive Systems)",
+                        info: "\n\tStudents in the four-semester Automotive Systems master’s program are required to take compulsory courses and compulsory elective courses selected from the elective course options as well as complete a master’s thesis. The structure of the program as well as the regulations for the selection of modules are laid out in the program’s study and examination regulations.\n\tThe compulsory course program is divided into fundamental modules and core modules.\n\tThe fundamental modules equip students with a knowledge of any basic principles which they may still need to acquire while consolidating the technical knowledge acquired in their bachelor’s program.\n\nRead More",
+                        fees: "YearYear 1Year 2Compulsory Fees₹27156₹27156Total Fees₹27156₹27156",
+                        exams: "The admission requirements of the program are:\n\tStudents require to have an undergraduate bachelor’s degree in Automotive Systems or a related course from a recognized university.\n\tThe students whose official language is not English must submit the English Language Proficiency scores like IELTS or TOEFL. \n\tSubmission of the GRE is not mandatory but will strengthen the application.\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63da3fdcd42540f11775c4a2"
+                        },
+                        title: "Master of Science [M.S] (Architecture Technology)",
+                        info: "\n\tThe architectural profession is continually changing. Architectonic and urban development tasks are confronted with political, cultural, technical, economic, social, and ecological changes. These very different and sometimes even conflicting requirements and objectives must be brought together in the design process to create a holistic architectonic solution. \n\tThe design tasks are oriented on conceptual work as well as construction and urban surroundings. Architectonic space is understood as a synthesis of conceptual ideas, concepts that organize space, and constructive or urban structure. \n\nRead More",
+                        fees: "YearYear 1Year 2Compulsory Fees₹27156₹27156Total Fees₹27156₹27156",
+                        exams: "Academic Eligibility:\n\tStudents require to have a bachelor's degree in architecture or a closely related subject from a recognized university.\n\tThe students whose official language is not English must submit the English Language Proficiency scores like IELTS or TOEFL. \nIndian Eligibility:Indian students are eligible to apply if they complete the following eligibility criteria:\n\tThe minimum requirement is a Bachelor's degree with first division from the recognized college or university.\nTU Berlin does not require a GMAT or GRE score, but a well-balanced score may strengthen the application to this particular program.\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63da40287dd1dae87984c2be"
+                        },
+                        title: "Master of Science [M.S] (Geodesy and Geoinformation Science)",
+                        info: "Geodesy provides a framework for Geographic Information Systems (GIS). By applying methods and techniques of terrestrial surveying, satellite positioning, and adjustment calculation a sound fundament for navigation and routing techniques or location-based services is established. Geoinformation technology deals with consistent management and efficient sharing of data stored in spatial databases. \nRead More",
+                        fees: "YearYear 1Year 2Compulsory Fees₹27156₹27156Total Fees₹27156₹27156",
+                        exams: "Academic Eligibility:\n\tStudents should hold a bachelor's degree from a recognized university.\n\tThe entire program can be completed in English. So, applicants are therefore required to provide proof of English skills at CEFR level B2.\nIndian Eligibility:Indian students are eligible to apply if they complete the following eligibility criteria:\n\tThe minimum requirement is a Bachelor's degree with first division from the recognized college or university.\n\t\n\tTU Berlin does not require a GMAT or GRE score, but a well-balanced score may strengthen the application to this particular program.\n\t\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63da4072292f4bd9a6b27de7"
+                        },
+                        title: "Master of Science [M.S] (Food Technology)",
+                        info: "\n\tThe Food Technology master's study program combines aspects of agricultural science, nutritional science, engineering sciences, and natural sciences into a single interdisciplinary educational approach.\n\tThe program has a primary focus on the design of production processes and the impact of the resulting physical, microbiological, and chemical changes on the structuring and preservation of food as well as on sensory analysis.\n\tThe study program's interdisciplinary orientation allows students to further their knowledge in courses specifically offered through the program as well as in courses in related disciplines, such as biotechnology, energy and process engineering, or environmental science and technology.\n\nRead More",
+                        fees: "YearYear 1Year 2Compulsory Fees₹27156₹27156Total Fees₹27156₹27156",
+                        exams: "The admission requirements of the program are:\n\tStudents require to have an undergraduate bachelor’s degree in Food Technology, a similar discipline, or an equivalent degree.\n\tThe students whose official language is not English must submit the English Language Proficiency scores like IELTS or TOEFL. \n\tSubmission of the GRE is not mandatory but will strengthen the application.\n\n",
+                        __v: 0
+                    },
+                ]
+        },
+        {
+            Names: "University of Cambridge",
+            CoursesN:"Masters",
+            img: "https://www.cam.ac.uk/sites/www.cam.ac.uk/files/styles/content-580x288/public/study-at-cambridge-undergraduate-883x432.jpg?itok=xrkkc53X",
+            Details: "University of Cambridge is regarded as the second best university in the world as per QS World University Rankings in 2022. Established in 1209, Cambridge University is the fourth oldest university and has marked its excellence over many decades. University of Cambridge is a known name to every other student in India. It holds a special place in the heart of Indian students as the university has housed some renowned Indian figures like Pandit Jawaharlal Nehru, Sir Jagadish Chandra Bose, Rajib Gandhi, Amartya Sen and many more. International students from over 150 nations across the world take admission in Cambridge University every year.",
+            College:
+                [
+                    {
+                        _id: {
+                            $oid: "63db48c38004f2e91ca552aa"
+                        },
+                        title: "Master of Science [M.Sc] (Physics)",
+                        info: "\n\tMaster of Advanced Studies in Physics at the University of Cambridge is offered on a full-time basis for a duration of 9 months.\n\tThis is an on-campus and thesis-based program.\n\tThis program is a masters-level course that is designed for students who already hold a 3-year UG degree in physics (or an equivalent subject similar to physics) and who are likely to wish to subsequently pursue research in physics.\n\tThe course begins with taught courses offered in around seven core areas.\n\tThe Major Topics courses comprise 24 lectures, while the majority of the minor topic courses are 16 lectures long. Lectures normally run for one hour.\n\tThroughout the year students also work on an assessed research project that contributes to roughly one-third of their mark and at the end of the year sit a 3-hour unseen paper on General Physics.\n\tAll lecture courses are supported by small-group sessions, organized and coordinated by the lecturer. \n\tThe research project will be assessed on the basis of scrutiny of the student's project laboratory notebook and project report of not more than 5,000 words and a short oral examination with the project supervisor and another member of staff.\n\tStudents give an oral presentation on their research project.\n\tThe Department of Physics, or the Cavendish Laboratory as it is widely known, has a long history of world-leading research and teaching.\n\tThe Cavendish is home to approximately 430 graduate students and admits students to 6 different programmes although the majority are studying for a PhD in one of the 15 research groups. \n\nRead More",
+                        fees: "YearYear 1Tuition Fees₹3072402Total Fees₹3072402",
+                        exams: "Academic Eligibility:\n\tStudents must complete a UK bachelor's first-class honors degree (or equivalent) in Physics from a recognized university.\n\tStudents require excellent working knowledge in core physics courses including Quantum Mechanics, Condensed Matter Physics, Thermal and Statistical Physics, Electrodynamics.\n\tCambridge Certificate of Advanced English (CAE) or C1 Advanced-Grade A or B (with at least 193 in each individual element) plus a language center assessment.\n\tCambridge Certificate of Proficiency in English (CPE) or C2 Proficiency-Grade A, B, or C (with at least 200 in each individual element).\n\tStudents must be qualified in IELTS or TOEFL and PTE to get admission in this program.\nIndian Student Eligibility:Indian students are eligible to apply if they complete one of the following eligibility criteria:\n\tCompleted a 4-year bachelor's degree with first-class in a relevant field from a recognized institution.\n\tOr, completed a B.Sc/B.Com/B.A (3-4 year) degree from well-ranked institutions with an overall grade of 70% or CGPA 7.3+.\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db48f23db5495d0579fdd7"
+                        },
+                        title: "Master of Science [M.Sc] (Pure Mathematics)",
+                        info: "\n\tMaster in Pure Mathematics at the University of Cambridge is offered on a full-time basis for a duration of 9 months.\n\tThis is an on-campus program.\n\tIt is excellent preparation for mathematical research and is applicable for those who want further training before taking posts in industry, teaching, or research establishments.\n\tThere are around 250 Part III (MASt and MMath) students each year, almost all are in their fourth or fifth year of university studies.\n\tEach year the faculty offers up to 80 lecture courses in Part III, covering an extensive range of pure mathematics, probability, statistics, applied mathematics, and theoretical physics.\n\tAfter completion of the master's degree students wishing to apply for the PhD program.\n\tThe structure of Part III is such that students prepare between six and nine lecture courses for examination. \n\tCourses are delivered predominantly by either 16 or 24 hours of formal lectures, supported by regular classes.\n\tLecture courses are assessed by formal written examination.\n\tStudents have the opportunity to participate in the Part III seminar series, either by giving a talk or through attendance. \n\tStudents will typically attend between 112 and 136 hours of lectures over the course of the academic year for courses that they prepare for the examination. \n\tIn place of a 3-hour examination paper corresponding to a 24-hour lecture course, candidates may submit an essay written during the year.\n\tExaminations usually begin in late May and are scheduled in morning and afternoon sessions over a period of about two weeks.\n\nRead More",
+                        fees: "YearYear 1Tuition Fees₹2018724Total Fees₹2018724",
+                        exams: "Academic Eligibility:\n\tStudents must complete a UK bachelor's first-class honours degree from a recognized university.\n\tThe minimum requirement is a first-class honours degree or equivalent in mathematics, physics, statistics, or another subject with significant advanced mathematical content.\n\tCambridge Certificate of Advanced English (CAE) or C1 Advanced-Grade A or B (with at least 193 in each individual element) plus a language center assessment.\n\tCambridge Certificate of Proficiency in English (CPE) or C2 Proficiency-Grade A, B, or C (with at least 200 in each individual element).\n\tStudents must be qualified in IELTS or TOEFL and PTE to get admission in this program.\nIndian Student Eligibility:Indian students are eligible to apply if they complete one of the following eligibility criteria:\n\tCompleted a 4-year bachelor's degree with first-class in a relevant field from a recognized institution.\n\tOr, Completed a B.Sc/B.Com/B.A (3-4 year) degree from well-ranked institutions with an overall grade of 70% or CGPA 7.3+.\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db493b01c0020ad03fd17b"
+                        },
+                        title: "Master of Science [M.Sc] (Applied Mathematics)",
+                        info: "\n\tMaster in Applied Mathematics at the University of Cambridge is offered on a full-time basis for a duration of 9 months.\n\tThis is an on-campus, 3-term program.\n\tIt is an excellent preparation for mathematical research that provides training before taking posts in industry, teaching, or research establishments.\n\tStudents admitted from outside Cambridge to Part III study towards the Master of Advanced Study (MASt).\n\tThe requirements and course structure for Part III are the same for all students irrespective of whether they are studying for the MASt or MMath degree.\n\tThere are around 250 Part III (MASt and MMath) students who get admitted each year.\n\tEach year the Faculty offers up to 80 lecture courses in Part III, covering an extensive range of pure mathematics, probability, statistics, applied mathematics, and theoretical physics.\n\tCourses are delivered predominantly by either 16 or 24 hours of formal lectures, supported by regular examples classes. \n\tThe main emphasis of the courses is on lecture courses and assessment which is based on exams that are taken at the end of the academic year starting in the last week of May.\n\tThe structure of Part III is such that students prepare between 6 and 9 lecture courses for examination. These lecture courses may be selected from the wide range offered by both Mathematics departments. \n\tStudents have the opportunity to participate in the Part III seminar series, either by giving a talk or through attendance.\n\tThe University of Cambridge is among the top 10 universities for academic and employer reputation according to QS World University Rankings 2020.\n\nRead More",
+                        fees: "YearYear 1Tuition Fees₹2018724Total Fees₹2018724",
+                        exams: "Academic Eligibility:\n\tStudents must complete UK first-class Honours degree or equivalent in mathematics, physics, statistics, or another subject with significant advanced mathematical content from a recognized university.\n\tCambridge Certificate of Advanced English (CAE) or C1 Advanced-Grade A or B (with at least 193 in each individual element) plus a language center assessment.\n\tCambridge Certificate of Proficiency in English (CPE) or C2 Proficiency-Grade A, B, or C (with at least 200 in each individual element).\n\tStudents must be qualified in IELTS or TOEFL and PTE to get admission in this program.\nIndian Student Eligibility:Indian students are eligible to apply if they complete one of the following eligibility criteria:\n\tCompleted a 4-year bachelor's degree with first-class in a relevant field such as Business Management, Business Studies from a recognized institution.\n\tCompleted a B.Sc/B.Com/B.A (3-4 year) degree from well-ranked institutions with an overall grade of 70% or CGPA 7.3+.\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db4964d9d2b4595251334c"
+                        },
+                        title: "Mast in Mathematical Statistics",
+                        info: "\n\tMaster in Mathematical Statistics at the University of Cambridge is offered on a full-time basis for a duration of 9 months.\n\tThis is an on-campus and thesis-based program.\n\tThis program is excellent preparation for mathematical research and is applicable for those who want further training before taking posts in industry, teaching, or research establishments.\n\tThere are around 250 Part III (MASt and MMath) students each year, almost all are in their fourth or fifth year of university studies.\n\tEach year the Faculty offers up to 80 lecture courses in Part III, covering an extensive range of pure mathematics, probability, statistics, applied mathematics, and theoretical physics.\n\tCourses are delivered predominantly by either 16 or 24 hours of formal lectures, supported by regular classes.\n\tLecture courses are assessed by formal written examination.\n\tThe structure of Part III is such that students prepare between 6 and 9 lecture courses for examination. \n\tStudents have the opportunity to participate in the Part III seminar series, either by giving a talk or through attendance. \n\tStudents will typically attend between 112 and 136 hours of lectures over the course of the academic year for courses that they prepare for the examination. \n\tIn place of a 3-hour examination paper corresponding to a 24-hour lecture course, students must submit an essay written during the year.\n\tExaminations usually begin in late May and are scheduled in morning and afternoon sessions over a period of about two weeks.\n\tAfter completion of the master's degree students can apply for the PhD program or for higher studies.\n\nRead More",
+                        fees: "YearYear 1Tuition Fees₹2018724Total Fees₹2018724",
+                        exams: "Academic Eligibility:\n\tStudents must complete a UK bachelor's first-class honours degree from a recognized university.\n\tThe minimum requirement is a first-class honours degree or equivalent in mathematics, physics, statistics, or another subject with significant advanced mathematical content.\n\tCambridge Certificate of Advanced English (CAE) or C1 Advanced-Grade A or B (with at least 193 in each individual element) plus a language center assessment.\n\tCambridge Certificate of Proficiency in English (CPE) or C2 Proficiency-Grade A, B, or C (with at least 200 in each individual element).\n\tStudents must be qualified in IELTS or TOEFL and PTE to get admission in this program.\nIndian Student Eligibility:Indian students are eligible to apply if they complete one of the following eligibility criteria:\n\tCompleted a 4-year bachelor's degree with first-class in a relevant field from a recognized institution.\n\tOr, completed a B.Sc/B.Com/B.A (3-4 year) degree from well-ranked institutions with an overall grade of 70% or CGPA 7.3+.\n\n",
+                        __v: 0
+                    },
+                ]
+        },
+        {
+            Names: "University of Freiburg",
+            CoursesN:"Masters",
+            img: "https://uni-freiburg.de/en/wp-content/uploads/sites/11/2022/09/Uni-Freiburg_Okt-2021-90-Sandra-Meyndt_slider.jpg",
+            Details: " Established in 1457, the University of Freiburg is one of the oldest comprehensive universities in Germany. Situated in the heart of the city of Freiburg, this public university offers undergraduate and graduate level education to more than 24,000 inquisitive students. Times Higher Education has ranked the university #5 among German Universities and #76 among Best Global Universities. ",
+            College:
+                [
+                    {
+                        _id: {
+                            $oid: "63db2dc7b8a5d2d94f59c9c4"
+                        },
+                        title: "Master of Science [M.S] (Nursing Sciences)",
+                        fees: "YearYear 1Year 2Tuition Fees₹254459₹254459Contribution Fees₹30242₹30242Total Fees₹284701₹284701",
+                        exams: "\n\tDSH (result 2 or 3) or TestDaF (with a score of at least 4 on all four parts of the test) or the Goethe-certificate C2 or the 2nd level language certificate from the Conference of the Ministry of Education and the Arts or Telc C1 Hochschule.\n\tEvidence of German language proficiency at B2 level is required for an application for Studienkolleg.\n\tCurriculum Vitae.\n\tLetter of Motivation.\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db2e0fe2657e9d94d8b94c"
+                        },
+                        title: "Master of Science [M.S] (Sports Science – Applied Human Movement Studies)",
+                        fees: "YearYear 1Year 2Tuition Fees₹254459₹254459Contribution Fees₹30242₹30242Total Fees₹284701₹284701",
+                        exams: "\n\tDSH (result 2 or 3) or TestDaF (with a score of at least 4 on all four parts of the test) or the Goethe-certificate C2 or the 2nd level language certificate from the Conference of the Ministry of Education and the Arts or Telc C1 Hochschule.\n\tEvidence of German language proficiency at B2 level is required for an application for Studienkolleg.\n\tCurriculum Vitae.\n\tLetter of Motivation.\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db2e7447bfffceba5efaa2"
+                        },
+                        title: "Master of Science [M.S] (Renewable Energy)",
+                        fees: "YearYear 1Year 2Tuition Fees₹254459₹254459Contribution Fees₹30242₹30242Total Fees₹284701₹284701",
+                        exams: "\n\tDSH (result 2 or 3) or TestDaF (with a score of at least 4 on all four parts of the test) or the Goethe-certificate C2 or the 2nd level language certificate from the Conference of the Ministry of Education and the Arts or Telc C1 Hochschule.\n\tEvidence of German language proficiency at B2 level is required for an application for Studienkolleg.\n\tCurriculum Vitae.\n\tLetter of Motivation.\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db810092b9bbb75105fa2f"
+                        },
+                        title: "Master of Science [M.S] (Computer Science)",
+                        info: "A flexible curriculum with numerous options - that's what the master's program in computer science in Freiburg offers students to research and teaching are closely intertwined so that the latest research findings flow directly into teaching. It benefits students immensely who get to actively participate in solving future societal and technical issues.\nRead More",
+                        fees: "YearYear 1Year 2Tuition Fees₹254459₹254459Contribution Fees₹30242₹30242Total Fees₹284701₹284701",
+                        exams: "An undergraduate degree in the respective field.\n",
+                        __v: 0
+                    },
+                ]
+        },
+        {
+    
+            Names: "Humboldt University of Berlin",
+            Details: "The Humboldt University of Berlin is a public university in Berlin, Germany. Established in the year 1810, it is one of the oldest universities in Berlin. According to THE, the university stands at #67 position in the list of World University Rankings. It has worldwide fame for its notable alumni and faculty members that include Albert Einstein and 55 Noble Laureates in different fields up till now.",
+            CoursesN: "Ph.D",
+            img: "https://cdn.britannica.com/50/124750-050-0592BB9F/Humboldt-University-of-Berlin.jpg",
+            College:
+                [
+                    {
+                        _id: {
+                            $oid: "63db4c8efa43a5846d79aafa"
+                        },
+                        title: "Doctor of Philosophy [Ph.D] (BGSS International Doctoral Program in Social Sciences)",
+                        info: "The BGSS provides support and intensive supervision for writing an excellent dissertation within three to four years, thus preparing doctoral researchers for a career within and outside the academic sphere. In order to maintain its international competitiveness, BGSS relies on a faculty consisting of more than 30 professors and senior lecturers of the Department of Social Sciences (ISW) and its partner institutions.The curriculum of the Berlin Graduate School of Social Sciences offers multiple programs and tracks, tailor made to the specific needs of aspiring young researchers. It focuses on the systematic training of doctoral researchers combined with intensive supervision and mentoring.?Hence, the doctoral curriculum of the BGSS comprises high-level courses on theory, methods, supporting courses and doctoral workshops. Annual milestones ensure continuous progress and mutual feedback.The first and second year of membership are each limited to one year and the prolongation depends on the fulfillment of the curriculum. At the end of every summer semester, the membership committee decides on the extension, basing on the completion of the requirements.\nRead More",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db4cf2301e6b15c20e1a13"
+                        },
+                        title: "Doctor of Philosophy [Ph.D] (Berlin Doctoral Program in Economics and Management Science (BDPEMS))",
+                        info: "The BDPEMS is a joint doctoral program of the Humboldt-University (Humboldt-Universit?t zu Berlin, HU), the Free University (Freie Universit?t Berlin, FU), the Technical University (Technische Universit?t Berlin, TU), the Social Science Research Center Berlin (Wissenschaftszentrum Berlin, WZB), and the European School of Management and Technology (ESMT). It aims at outstanding students holding a bachelor's degree or higher. The doctoral degree is awarded by the university of the student's supervisor according to the rules of that specific university.From 2019 on, BDPEMS will intensively cooperate with the Graduate Center at the German Institute for Economic Research (DIW) within the new Berlin School of Economics (BSE). The BSE PhD program unites the successful BDPEMS & DIW Graduate Center programs and incorporates the best of both in a single career development program. Futhermore, the Berlin Economics Research Associates (BERA), a Berlin-wide Postdoctoral program, will join the BSE.The main goal of the program is to train its students in conducting internationally competitive research, to generate a productive research environment, and, in doing so, to provide the basis for a successful career in academia or in other research-oriented professions.After graduation our students are looking forward to internationally renowed careers in academia, research departments and businesses across the world.\nRead More",
+                        __v: 0
+                    },
+                ]
+        },
+        {
+            Names: "Ludwig Maximilian University of Munich",
+            Details: "Ludwig Maximilian University is a premier research University in Germany.The main objective of this University is to maintain the highest standards of education in research and teaching since its establishment in 1472.Times Higher Education has ranked the University 32 among the World Universities.It has also maintained a rank of 63 according to the QS Global World Rankings, 2021. The total number of students in this University is 51,600. Among them,only 15 % of the University’s students are International students. There are around 18 Faculties of the University that offer courses in English and German languages.",
+            CoursesN:"Masters",
+            img: "https://images.shiksha.com/mediadata/images/1535019884phpjug2fa.jpeg",
+            College:
+                [
+                    {
+                        _id: {
+                            exams: "Candidates must hold a Bachelor of Science (or equivalent) in Statistics or Informatics or related disciplines. They must have proof of thorough proficiency in English and excellent grades. The program website offers details on the application procedure.\n",
+                            $oid: "63db3c8c7615e117839707e1"
+                        },
+                        title: "Master of Science [M.S] (Data Science)",
+                        info: "Data Science is the science of extracting knowledge and information from data and requires competencies in both statistical and computer-based data analysis. The elite program Data Science is an interdisciplinary program and is carried out jointly by the Department of Statistics and the Institute for Informatics at LMU Munich. The program is part of and is supported by the Elite Network of Bavaria.\nRead More",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db3cc00d30bdfd7d8bf794"
+                        },
+                        title: "Master of Science [M.S] (Neuro-Cognitive Psychology)",
+                        info: "\n\tThe Neuro-Cognitive Psychology (NCP) program aims to provide a selected group of students from around the world with state-of-the-art education in this brain research-oriented discipline of psychology.\n\tThe international master program is taught by leading scientists in their fields, both at LMU Munich, the home institution, and at national and European partner institutions. It has a major focus on attentional and executive control of vision and action.\n\tBoth research-oriented and interdisciplinary in focus, the program integrates state-of-the-art theoretical and methodological approaches of experimental psychology and the cognitive neurosciences (neurobiology, neurology, neuropsychology, neuropsychiatry).\n\nRead More",
+                        exams: "Candidates must hold a B.Sc. or equivalent degree (e.g. Vordiplom plus 2 semesters in psychology, biology, medicine, or related subjects), provide proof of thorough proficiency in English, and have excellent grades.\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db3cde125bc249e86920f7"
+                        },
+                        title: "Master of Science [M.S] (Astrophysics)",
+                        info: "\n\tDuring the four-semester astrophysics master program, students can develop the ability to think astrophysically and proceed methodically in both theory and practice. The program is divided into to parts: The first two semesters consist of lectures in basic astrophysics and advanced courses in physics, while students can also choose a specialized subject area.\n\tBuilding on the knowledge gained in the first two semesters, these abilities will be strengthened during a year-long research phase which is scheduled for the third and fourth semesters.\n\tDuring this stage, the master thesis shall be completed with accompanying colloquia, tutorials, and seminars. The modular design of the master degree program in astrophysics allows the participants to study with emphasis in either experimental or theoretical topics. The primary goal of this course is to provide an overview into the deeper interconnections in astrophysics in a physical context.\n\nRead More",
+                        exams: "Candidates must hold a bachelor or Diploma degree (or equivalent) in physics, astrophysics or meteorology or another mathematical or natural scientific degree. They must also pass a special entrance exam.\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db3d0045a97e5871de097f"
+                        },
+                        title: "Master of Science [M.S] (Physics)",
+                        info: "\n\tThe four-semester Physics master program is divided into two parts. The first two semesters consist of lectures in advanced courses in theoretical and experimental physics. Students can also choose a specialized subject area, such as biophysics or astrophysics.\n\tBuilding on the knowledge gained in the first two semesters, these abilities will be strengthened during the year-long research phase of the third and fourth semesters.\n\tDuring this stage, the master thesis is completed with accompanying colloquia, tutorials and seminars. The modular design of the master degree program in physics allows the participants to study with emphasis in either experimental or theoretical topics.\n\nRead More",
+                        exams: "Candidates must hold a bachelor degree in physics, astrophysics or meteorology or another mathematical or natural scientific degree. They must also pass a special entrance exam.\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db3d43c423db25d16ffa7a"
+                        },
+                        title: "Master of Science [M.S] (Meteorology)",
+                        info: "The four-semester course Master Meteorology is aimed at deepening knowledge in atmospheric physics and the application of its methods. This Master's program is divided into two blocks: In the first and second semesters the Master's students attend courses in the research areas of Meteorology and Atmospheric Physics. The third and fourth semesters are devoted to the one-year master's thesis.\nRead More",
+                        exams: "Candidates must hold a bachelor or Diplom degree (or equivalent) in physics, astrophysics or meteorology or another mathematical or natural scientific degree. They must also pass a special entrance exam.\n",
+                        __v: 0
+                    },
+                ]
+        },
+        {
+            Names: "RWTH Aachen University",
+            CoursesN:"Masters",
+            img: "https://www.easyuni.com/media/institution/photo/2014/08/15/RWTH_aachen.jpg.600x400_q85.jpg",
+            Details: "RWTH Aachen University is the largest public research institution based in Germany. Presently, the university is home to 47,269 students, of which 13,354 are international students belonging to 138 diverse nations worldwide. International students can choose from over 170 RWTH Aachen Courses that are offered in 16 academic disciplines. Some of the popular programs offered by the university include Economics and Management, Natural Sciences, Biology, and Law.",
+            College:
+                [
+                    {
+                        _id: {
+                            $oid: "63db4235e900e1bd4b7a4c1f"
+                        },
+                        title: "Master of Science [M.S] (Materials Science)",
+                        info: "Master course of study Materials Science, the student has the possibility to acquire advanced knowledge for the successful development of tailored materials. The curriculum is anchored in theoretical-natural science concepts and is supplemented with engineering sections. The development and design of new functional materials are at the focus.\nRead More",
+                        exams: "Following are the entry requirements to this Program :\n\tGeneral higher education entrance qualification (Abitur), subject-specific university entrance qualification, or an equally recognized university entrance qualification.\n\tAll international applicants who are not legally equivalent to German citizens, such as non-EU students, must submit a TestAS certificate when applying for an undergraduate course of study\n\tprovide proof of German language skills at C1 level when enrolling.\n\tAn extremely important requirement for a successful application is that all documents are completed and submitted on time\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db427ef691f09f9e92c0d9"
+                        },
+                        title: "Master of Science [M.S] (Physics)",
+                        info: "The international Master's program in Physics is a two years program. The first year consists of lectures, seminars and lab courses. The second year is dedicated to an individual research project. The program starts every year in the winter semester. Hence, a start of studies in the summer semester is not recommended.\nRead More",
+                        exams: "Following are the entry requirements to this Program :\n\tGeneral higher education entrance qualification (Abitur), subject-specific university entrance qualification, or an equally recognized university entrance qualification.\n\tAll international applicants who are not legally equivalent to German citizens, such as non-EU students, must submit a TestAS certificate when applying for an undergraduate course of study\n\tprovide proof of German language skills at C1 level when enrolling.\n\tAn extremely important requirement for a successful application is that all documents are completed and submitted on time\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db429baa8195c226cf75b9"
+                        },
+                        title: "Master of Science [M.S] (Media Informatics)",
+                        info: "Whilst a Bachelor degree in Computer Science typically qualifies a person to participate in large software projects, the Master degree provides the skills needed for leadership.This international programme will educate the participant to successfully master the novel technical and economic challenges at the crossroads of computer science, software engineering, next-generation communication systems, and media. Whilst a Bachelor degree in Computer Science typically qualifies a person to participate in large software projects, the Master degree provides the skills needed for leadership. Graduates of the programme Media Informatics can be expected to be technically innovative, to work as system architects, and to manage large projects. Studetents who excel during their Master's programme will also have the necessary qualifications to pursue a doctoral degree.Career ProspectsComputer scientists with an applied focus have been in great demand in the past, and this trend is expected to continue for the foreseeable future. With an M.Sc. degree in Media Informatics you will be well-prepared for the typical challenges faced when working in computer systems engineering and for creative work with audio-visual media.The ABCD region (Aachen, Bonn, Cologne; D?sseldorf) is home to many prospective employers, including global players such as Microsoft, Philips, Ericsson, Deutsche Telekom, Vodafone, Bertelsmann Group, as well as many television stations such as WDR, VIVA, etc.Alumni of Media Informatics are doing their PhD in Germany or abroad or are working at prestigious companies. For examples of companies and universities where our alumni accepted positions or to read what our alumni say about Media Informatics please see the b-it impressions on the Media Informatics homepage.\nRead More",
+                        exams: "Following are the entry requirements to this Program :\n\tGeneral higher education entrance qualification (Abitur), subject-specific university entrance qualification, or an equally recognized university entrance qualification.\n\tAll international applicants who are not legally equivalent to German citizens, such as non-EU students, must submit a TestAS certificate when applying for an undergraduate course of study\n\tprovide proof of German language skills at C1 level when enrolling.\n\tAn extremely important requirement for a successful application is that all documents are completed and submitted on time\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63db42d94dad9daf67be4b39"
+                        },
+                        title: "Master of Science [M.S] (Management and Engineering in Technology, Innovation, Marketing, and Entrepreneurship (MME-TIME) - Distance Learning Track)",
+                        info: "Development OpportunitiesYour AspirationsIf you want to develop as a professional while pursuing your work or other duties outside university, this flexible distance learning program will be ideal for you, provided:You have a STEM (Science, Technology, Engineering and Mathematics) background, at least one year of full-time work experience and want to deepen your knowledge of state-of-the-art technologies and innovation and technology management.You are passionate about engineering and technology, but want to move beyond a narrow technical role and towards a leadership position at the intersection of management and technology.You want to learn how to leverage emerging technologies into profitable and sustainable business models that allow you to lead the technological transformation in your industry rather than just following it ? either as a manager in an established organization or as an entrepreneur in your own business.You strive for flexibility in learning due to your job, your family, or other duties ? but also want to interact with fellow students and instructors to build and extend your professional network.Our award-wining distance learning program combines rigorous digital education and fascinating residential weeks to provide you with a highly flexible and immersive learning experience.Your Professional DevelopmentThe MME-TIME has been carefully designed to equip ambitious professionals ? who have a STEM background such as you ? with a distinct set of skills needed to succeed in a digitized and globalized economy. Enrolling in the program will allow you to develop the following:A profound management education focused on innovation, entrepreneurship and marketing that will enable you to acquire the management skills necessary to leverage new technologies and build successful business models around them.Selected technology electives delivered either online or in form of residential weeks on campus, including laser technologies, advanced data analysis or data mining will allow you to experience the best of German engineering and stay abreast of the latest technological developments in your field.Applied projects focusing on real-world managerial or technological challenges will help you put your knowledge into practice and harness the full potential of interdisciplinary thinking. As a key feature, the distance learning program includes two residential weeks and will take you to Aachen and Cambridge as two of the most dynamic innovation ecosystems.Your Career ProspectsCompleting the MME-TIME program will prepare you for a successful career at the intersection of management and technology. In the program, you will learn how to combine deep technological and managerial knowledge so that you can contribute to solving the grand challenges of our time in a truly interdisciplinary fashion. As a graduate of one of Germany?s most prestigious universities of technology and its innovative business school, you will speak the language of both engineers and managers. This will position you to work at the exciting interface of management and technology.Engineering or Management Consulting: You are responsible for planning and implementing complex consulting projects in technology or management fields.Product Management: You are responsible for the development of technical products or service systems. Business Development: You are responsible for the development and implementation of new business models and ideas. Technology and Innovation Management: You are responsible for the R&D and the strategic innovation processes.Technology Marketing and Sales: Your are responsible for the creation of marketing and sales strategies for high-tech products and services. Project Management: You have the supervision and responsibility of complex technical projects. The M.Sc. degree granted by RWTH Aachen University will also enable you to pursue an academic career and continue studying towards a PhD in fields such as technology and innovation management, marketing, or entrepreneurship*.Whichever path you choose to follow after graduation, our dedicated team of experts in the career and entrepreneurship centers will accompany you on that journey and help you decide how to best realize your ambitions. We seek to place our graduates in global technology blue chips, hidden technology champions, leading technology consultancies and fast-growing technology ventures. The Entrepreneurship Center at RWTH Aachen University also has a long track record of supporting innovative startups by our graduates ? between 70 to 100 every year.\nRead More",
+                        __v: 0
+                    },
+                ]
+        },
+        {
+            Names: "University of Stuttgart",
+            CoursesN:"Masters",
+            img: "https://lh3.googleusercontent.com/p/AF1QipMHNSwsCTV06X7foWjb_9_SNg3HbTZlQ9G4QCQ_=s680-w680-h510",
+            Details: "University of Stuttgart, one of the foremost public universities in Germany is home to 23,855 students, of which 30% are international students belonging to 100+ countries across the world. Ranked amongst the top 400 universities globally by QS, the university is recognized worldwide for its technical oriented teaching and research excellence. The university offers 73 UG programs and 95 PG programs across 4 academic fields of studyAdmissions to University of Stuttgart commences twice a year during winter and summer semesters. The university grants admission to the students based on their overall academic performance and last internship experiences. ",
+            College:
+                [
+                    {
+                        _id: {
+                            $oid: "63da95e2d76c3cf0d4f7753d"
+                        },
+                        title: "Master of Science [M.S] (Computer Science)",
+                        info: "\n\tThe Master's program Computer Science is one of the English study programs offered by the University of Stuttgart.\n\tIt covers various scientific fields such as robotics, visual computing, service technology, and engineering, database systems, and parallel as well as distributed systems.\n\nRead More",
+                        fees: "YearYear 1Year 2Tuition Fees₹114621₹114621Total Fees₹114621₹114621",
+                        exams: "Academic Eligibility:\n\tA student required a Bachelor's degree to get admission in M.Sc. Computer Science. \nIndian Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:\n\tStudents must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institution\n\tOr, students completed a master's degree with first-class in a relevant field from a recognized institution.\n\t\n\tApplicants must prove sufficient language skills in English (at least level B1). For applicants with a German university entrance qualification, proof of five years of teaching English at the secondary levels I and II is sufficient.\n\t\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63da963e009eca49bbbe5a4f"
+                        },
+                        title: "Master of Science [M.S] (Automotive Engineering)",
+                        info: "\n\tAutomotive engineering is one of the most sophisticated courses in engineering which involves the design, manufacturing, modification, and maintenance of an automobile such as buses, cars, trucks, and other vehicles.\n\tThe Automotive Technology course is designed to prepare skilled technicians to work in the automotive industry. The program involves general education as well as automotive lecture and laboratory instruction focusing on state-of-the-art products.\n\nRead More",
+                        fees: "YearYear 1Year 2Tuition Fees₹114621₹114621Total Fees₹114621₹114621",
+                        exams: "\n\tStudent required a bachelor's degree.\n\tThe German Language is required.\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63da9692231e6e4634981935"
+                        },
+                        title: "Master of Science [M.S] (Mechanical engineering)",
+                        info: "Mechanical engineering sees itself as an engineering science that deals with the basics and the development and application of methods, technical processes, technologies, facilities, tools, machines, and systems. The master's degree in mechanical engineering is primarily intended for bachelor graduates in the fields of mechanical engineering, vehicle and engine technology, and technology management.\nRead More",
+                        fees: "YearYear 1Year 2Tuition Fees₹114621₹114621Total Fees₹114621₹114621",
+                        exams: "\n\tStudent required a bachelor's degree.\n\tGerman Language is required.\n\n",
+                        __v: 0
+                    },
+                    {
+                        _id: {
+                            $oid: "63da96c360a40d76d5b78889"
+                        },
+                        title: "Master of Science [M.S] (Electrical and Computer Engineering)",
+                        info: "\n\tThe master's degree in electrical engineering and information technology at the University of Stuttgart offers students eight specializations from which they can choose an offer: electrical energy systems, automation and control technology, intelligent information processing, communication systems, high-frequency technology, intelligent sensors, nano- and optoelectronics, power electronics technologies and systems.\n\tThe program consists of 4 semesters.\n\tIt is taught in Gernan language.\n\nRead More",
+                        fees: "YearYear 1Year 2Tuition Fees₹114621₹114621Total Fees₹114621₹114621",
+                        exams: "Academic Eligibility:\n\tThe prerequisite is a degree in at least a six-semester bachelor's degree (or equivalent degree) in electrical engineering and information technology or in a degree with closely related content.\nIndian Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:\n\tStudents must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institution\n\tOr, students completed a master's degree with first-class in a relevant field from a recognized institution.\nApplicants must prove sufficient language skills in English (at least level B1). For applicants with a German university entrance qualification, proof of five years of teaching English at secondary level I and II is sufficient.\n",
+                        __v: 0
+                    }
+                ]
+        }
+    ]
+        
+    
     },
     {
       id: 3,
@@ -1734,7 +2238,7 @@ const PGMapping =
           ]
         },
         {
-          Names: "Oxford University",
+          Names: "University of Oxford",
           CoursesN: "Masters",
           img: "https://images.collegedunia.com/public/college_data/SAcampusimage/1569490878Oxford-University-_2653654b.jpg",
           Details: "University of Oxford is the oldest English higher education institution in the world. Established in 1096, Oxford University counted among the top rankings universities in the world. For over a decade now, Oxford has been ranking in the top 10 global university list of QS Global Rankings, THE World Rankings, etc. There are 400+ courses to choose from at University of Oxford. Medicine, Business, Law, and Humanities courses are among the top favorites. If you are looking to pursue studies at Oxford University, prepare a tuition fees budget of ~27-39 Lakh INR/year. The cost of living in England is going to be somewhere between 10-15 Lakh INR/year, based on your standard of living.",
@@ -1832,7 +2336,7 @@ const PGMapping =
           ]
         },
         {
-          Names: "The University of Manchester",
+          Names: "University of Manchester",
           CoursesN: "Masters",
           img: "https://images2.content-hci.com/commimg/video/CH/myhc_301811.jpg",
           Details: "The University of Manchester is a renowned public research university, located in the first modern industrial city of the world. It is one of the largest universities in the UK with around 38,000 students currently enrolled. The university was established in 2004, after the amalgamation of Victoria University of Manchester and the University of Manchester Institute of Science and Technology. The University of Manchester is a member of the Russell Group and famous for its academic and research excellence.",
@@ -2160,7 +2664,7 @@ const PGMapping =
           ]
         },
         {
-          Names: "The University of Manchester",
+          Names: "University of Manchester",
           CoursesN: "Ph.D",
           img: "https://images2.content-hci.com/commimg/video/CH/myhc_301811.jpg",
           Details: "The University of Manchester is a renowned public research university, located in the first modern industrial city of the world. It is one of the largest universities in the UK with around 38,000 students currently enrolled. The university was established in 2004, after the amalgamation of Victoria University of Manchester and the University of Manchester Institute of Science and Technology. The University of Manchester is a member of the Russell Group and famous for its academic and research excellence.",
@@ -2222,7 +2726,7 @@ const PGMapping =
           ]
         },
         {
-          Names: "Oxford University",
+          Names: "University of Oxford",
           CoursesN: "Ph.D",
           img: "https://images.collegedunia.com/public/college_data/SAcampusimage/1569490878Oxford-University-_2653654b.jpg",
           Details: "University of Oxford is the oldest English higher education institution in the world. Established in 1096, Oxford University counted among the top rankings universities in the world. For over a decade now, Oxford has been ranking in the top 10 global university list of QS Global Rankings, THE World Rankings, etc. There are 400+ courses to choose from at University of Oxford. Medicine, Business, Law, and Humanities courses are among the top favorites. If you are looking to pursue studies at Oxford University, prepare a tuition fees budget of ~27-39 Lakh INR/year. The cost of living in England is going to be somewhere between 10-15 Lakh INR/year, based on your standard of living.",
@@ -2372,7 +2876,7 @@ const PGMapping =
           ]
         },
         {
-          Names: "Cambridge Judge Business School",
+          Names: "University of Cambridge Judge Business School",
           CoursesN: "MBA",
           img: "https://s38853.pcdn.co/wp-content/uploads/2018/08/Cambridge-smp.jpg",
           Details: "Cambridge Judge Business School, formerly known as Judge Institute of Management Studies, is a globally recognized business school and attracts international students from over 100 countries. Ranked #1 in One-year Programs in the UK, 2021 by Financial Times, and being part of the globally renowned Cambridge University, CJBS is also equally acclaimed for its top-notch programs. The school aces in business, financial and entrepreneurial programs and offers undergraduate, graduate, post-graduate, doctoral and professional degrees.",
@@ -2521,7 +3025,7 @@ const PGMapping =
           ]
         },
         {
-          Names: "Oxford University",
+          Names: "University of Oxford",
           CoursesN: "MBA",
           img: "https://images.collegedunia.com/public/college_data/SAcampusimage/1569490878Oxford-University-_2653654b.jpg",
           Details: "University of Oxford is the oldest English higher education institution in the world. Established in 1096, Oxford University counted among the top rankings universities in the world. For over a decade now, Oxford has been ranking in the top 10 global university list of QS Global Rankings, THE World Rankings, etc. There are 400+ courses to choose from at University of Oxford. Medicine, Business, Law, and Humanities courses are among the top favorites. If you are looking to pursue studies at Oxford University, prepare a tuition fees budget of ~27-39 Lakh INR/year. The cost of living in England is going to be somewhere between 10-15 Lakh INR/year, based on your standard of living.",
@@ -2606,9 +3110,8 @@ const PGMapping =
       CNames: "Australia",
       Courses:
         [
-          "Engineering",
-          "Business",
-          "MBBS"
+          "MBA",
+          "Masters",
         ],
       Universities: [
 
@@ -2617,7 +3120,7 @@ const PGMapping =
           Details: " The University of Adelaide South Australia operates via 5 faculties and offers 400+ courses at undergraduate and graduate levels. The university has a well-established reputation for its courses, research work, and progressive-learning approach. MSc in Computer Science and MBA are the two most popular programs.",
           CoursesN: "Masters",
           img: "https://images.shiksha.com/mediadata/images/1507613211phpOfXXhe.jpeg",
-          college: [
+          College: [
             {
               _id: {
                 $oid: "63dbdca6c02303a28652b83c"
@@ -2671,12 +3174,11 @@ const PGMapping =
           ]
         },
         {
-          Names: "Australian National University (ANU) ",
+          Names: "Australian National University",
           Details: "The Australian National University is one of Australia's leading public universities. It is placed #=27 in the QS Global World Rankings 2022. ANU offers 390+ majors and minors at the undergraduate level and 110+ specializations at the postgraduate level. According to QS subject rankings, Psychology(Rank #38) and Business & Management Studies(Rank #63) are among the top-ranked programs at Australian National University.",
           CoursesN: "Masters",
-          CoursesN: "Masters",
           img: "https://img.emg-services.net/institutes/institute29688/anu-header.jpg",
-          college: [
+          College: [
             {
               _id: {
                 $oid: "63dbc5677f12435f8dc79707"
@@ -2734,7 +3236,7 @@ const PGMapping =
           Details: "Monash University is a renowned research university offering admission in its six Australia campuses and one Malaysian campus. Monash as an education and research powerhouse with its presence on four continents offers more than 530 degrees across various levels and over 200 scholarships to its international students. The university receives research grants worth 1.1 billion USD in an academic year, including funding from various government research councils.",
           CoursesN: "Masters",
           img: "https://www.usnews.com/object/image/00000153-ec2c-d802-ab7f-feacb9230000/160406-monashu-submitted.jpg?update-time=1459956316556&size=responsiveFlow970",
-          college: [
+          College: [
             {
               _id: {
                 $oid: "63dbd9c2523192ab6dd43114"
@@ -2788,11 +3290,11 @@ const PGMapping =
           ]
         },
         {
-          Names: "The University of Melbourne ",
+          Names: "The University of Melbourne",
           Details: "The University of Melbourne is a highly reputed and second oldest university of Australia. It is hailed as the best in all of Australia and New Zealand by U.S. News and World Report in 2022. According to the QS World Ranking 2023, over 10 courses of University of Melbourne ranked among the Top 20 in the world. The University of Melbourne is divided into 10 disciplines offering UG & PG level courses in over 100 subject areas. International students are offered over 600 undergraduate, graduate and doctoral programs at The University of Melbourne.",
           CoursesN: "Masters",
           img: "https://images.shiksha.com/mediadata/images/1539748284phpkXrez1.jpeg",
-          college: [
+          College: [
             {
               _id: {
                 $oid: "63dbc6f85ee0bf2e858aaeac"
@@ -2870,65 +3372,65 @@ const PGMapping =
           Details: "The University of Queensland (UQ) is one of the finest teaching and research institutions in Australia. It is part of both Go8 (Group of Eight universities in Australia) and is also a member of Universitas 21. Currently. home to over 50,000 students hailing from 134 countries, The University of Queensland ranks #47 in the world, according to QS World University Rankings, 2022. More than 550 programs on all levels including undergraduate, postgraduate, and Ph.D. are offered to students planning to apply for admission to The University of Queensland.",
           CoursesN: "Masters",
           img: "https://static.sliit.lk/wp-content/uploads/2021/11/04035255/sliit-international-section-transfer-options-University-of-Queensland.jpg",
-          college: [
+          College: [
             {
               _id: {
-                $oid: "63dbd77425b014c0d9ec241d"
+                $oid: "63dbdca7f25c400320fa7270"
               },
-              title: "Master of Business Administration [M.B.A]",
-              info: " The University of Queensland offers a Master of Business Administration for a duration of 1 year. It is a course-based program offered on both a full-time and part-time basis. The MBA program gives students every opportunity to push the boundaries of their comfort zone. The program consists of 12 courses that cover key topics and integrate theory with practice. To complete the MBA program, students must complete 24 units from the course list: 4 units from Management Framework 18 units from IT, Operations Design, Strategic HRM, and Innovation Leadership 2 units from Entrepreneurship Capstone Students have the opportunity to apply their knowledge and leadership skills while working to solve complex business problems. Depending on students choice of courses, it might be possible to withdraw from the MBA at an early exit point and graduate with one of the following awards: Graduate Diploma in Business Administration  Graduate Certificate in Business Administration The Graduate Diploma and Graduate Certificate offer students alternative pathways to the MBA. International students are eligible to apply for scholarships and prizes which are offered by the University, the Australian Government, foreign governments, or private organizations. The program is accredited by AACSB or EQUIS. The Business School provides flexible study options that allow students to fit in their learning alongside their lifestyle and work commitments. The researcher from the Business School has been awarded an Australian Research Council (ARC) Australian Laureate Fellowship award. The MBA program in Queensland ranks 1st according to The Economist MBA Ranking 2021 and ranks 47th worldwide according to The Economist MBA Ranking 2021 respectively. Placements/Job opportunities after the Master of Business Administration are Account Manager, Manager Consultant, etc and the average salary goes up to 73,800 USD after completing this program.Read More",
-              fees: "YearYear 1Tuition Fees₹4768222Total Fees₹4768222",
-              exams: " Students must have a bachelor's degree or equivalent from a recognized university. Or, students hold a Graduate Diploma in Business Administration from UQ or equivalent. A GPA of at least 4.50 on a 7 point scale is required. Applicants may be required to pass a qualifying examination in one or all of the following: basic computing, written communication, basic mathematics, and statistics.Work Experience Eligibility:All applicants must have completed four years of full-time equivalent work experience, including 2 years in a dedicated supervisory/management role (of people or projects).Others:Students without related academic experience or work experience are also encouraged to apply, given they fulfill other additional requirements such as an interview, aptitude test, referee reports, or professional registration.Indian Student Eligibility:Indian students are eligible to apply if they meet the following eligibility criteria: Completed a 4-year bachelor's degree from a recognized university. Students must hold a GPA of 60% i.e 4 on a 7 point scale.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test.",
-              __v: 0
+              title: "Master of Science [M.S] (Clinical Psychology)",
+              info: "The Master of Clinical Psychology builds upon the latest psychotherapy process and outcome research findings and uses an integrative approach to training students in assessment and treatment of mental health problems and disorders.This approach assists students to develop a flexible and client-focused approach to practice, consistent with contemporary standards for evidence-based practice in clinical psychology.Students learn to conceptualise and treat clinical presentations using relational psychodynamic, cognitive-behavioural, systemic, and narrative therapeutic approaches. Graduates of this course have the knowledge and competence to provide assessment and treatment across the lifespaRead More",
+              fees: "",
+              exams: "A completed recognised psychology honours or four-year bachelor degree (or higher) in psychology completed within the last 10 yearsA minimum fourth year psychology units grade point average (GPA) of 6.0 (on QUT's 7 point scale) in your psychology bachelor degreeIndian Student Eligibility:Bachelor or higher degree from a recognised Indian institution completed within five years of starting at QUT, and 65% in the High School English Core subject awarded by CISCE or CBSE.Applicant must have score card of any one of IELTS, TOEFL or PTE to fullfill language test requirement.",
+              "__v": 0
             },
             {
               _id: {
-                $oid: "63dbd81b25a62872495de682"
+                $oid: "63dbdca8f25c400320fa7272"
               },
-              title: "Master of Business [M.Bus] (Marketing)",
-              info: " The University of Queensland offers a Master of Business in Marketing for a duration of 1.5 years. It is an on-campus, postgraduate coursework program offered on a full-time basis. Marketing involves identifying consumer needs and wants, and allocating organizational resources to profitably satisfy those needs and wants. Students will develop knowledge and skills in product and brand management, awareness and loyalty, consumer behaviour and research, product and service development, and marketing strategy. This field is accredited by the Australian Marketing Institute. The career paths can lead to positions as managers and consultants in marketing and advertising agencies, and private, public, or not-for-profit organizations. The Faculty of Business, Economics, and Law's award-winning Student Employability Team (SET) help students to develop their careers through internships, mentoring programs, and career planning advice. The University of Queensland ranks 1st in Queensland for business and management studies by QS World University Rankings 2021 and 41st in the world for business and economics by the Times Higher Education World University Rankings 2021.Read More",
-              fees: "YearYear 1Tuition Fees₹2381182Books and Supplies₹47881Total Fees₹2429062",
-              exams: " Students must have a bachelor's degree in business from a recognized university. Or, students may hold a bachelor of Arts or equivalent degree in political science, sociology, cultural studies, media studies, communication, economics/political economy. A GPA of at least 4.5 on a 7 point scale is required to be eligible for this program.Indian Student Eligibility:Indian students are eligible to apply if they meet the following eligibility criteria: Completed a 4-year bachelor's degree from a recognized institution. Students must hold a GPA of 4.0 (60%) on a 7 point scale.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test.",
-              __v: 0
+              title: "Master of Arts [M.A] (Psychology (Educational and Developmental))",
+              info: "The Master of Psychology (Educational and Developmental) offers an innovative and stimulating program of coursework, practical placements and research in human development and learning.It prepares students to work as educational or developmental psychologists in a range of settings including, but not limited to, schools, disability services, hospitals, employment agencies, and private practice.Read More",
+              fees: "",
+              exams: "A recognised psychology honours or four year degree (or higher award) completed within the last 10 years with a minimum grade point average (GPA) of 5.00 (on QUT's 7 point scale) in the fourth year of study.Indian Student Eligibility:Bachelor or higher degree from a recognised Indian institution completed within five years of starting at QUT, and 65% in the High School English Core subject awarded by CISCE or CBSE.Applicant must have score card of any one of IELTS, TOEFL or PTE to fullfill language test requirement.",
+              "__v": 0
             },
             {
               _id: {
-                $oid: "63dbd876f1cdf63d706e32e1"
+                $oid: "63dbdca8f25c400320fa7274"
               },
-              title: "Master of Business [M.Bus] (Human Resource Management)",
-              info: " The University of Queensland offers a Master of business in Human Resource Management for a duration of 1.5 years. It is an on-campus program offered on a full-time basis. Human resource management (HRM) is concerned with managing people within an organization to create value for the organization and positive work experiences for individuals. The range of functions covered includes recruitment and selection of employees, performance management, compensation, training and development, career support, team development, communication and conflict, industrial negotiation, and resolution and HR strategy. The courses cover content knowledge in these areas and also skills and personal capabilities necessary for HRM graduates to be effective practitioners within organizations. The University of Queensland ranks 1st in Queensland for business and management studies by QS World University Rankings 2021 and 41st in the world for business and economics by the Times Higher Education World University Rankings 2021.Read More",
-              fees: "YearYear 1Tuition Fees₹2381182Book and Supplies₹47881Total Fees₹2429062",
-              exams: " Students must have a bachelor's degree in business from a recognized university. Or, students may hold a bachelor of Arts or equivalent degree in political science, sociology, cultural studies, media studies, communication, economics/political economy. A GPA of at least 4.5 on a 7 point scale is required to be eligible for this program.Indian Student Eligibility:Indian students are eligible to apply if they meet the following eligibility criteria: Completed a 4-year bachelor's degree from a recognized institution. Students must hold a GPA of 4.0 (60%) on a 7 point scale.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test.",
-              __v: 0
+              title: "Master of Engineering Management [M.E.M]",
+              info: "Graduates will gain technical skills in quality control and improvement, organisational infrastructure management (transportation, water, energy, buildings and telecommunications), and the development of decision support systems.Students will learn an integrated computer-based approach to monitor and manage internal and external resources of an organisation, including tangible assets, financial resources, materials and human resources.Read More",
+              fees: "YearYear 1Tuition Fees₹1999715Total Fees₹1999715",
+              exams: "A completed recognised four-year full-time bachelor degree in a relevant engineering discipline with a minimum grade point average (GPA) score of 4.0 on QUT's 7-point scale.A completed recognised three-year full-time bachelor degree in a relevant engineering discipline with a minimum grade point average (GPA) score of 4.0 on QUT's 7-point scale and two years full-time professional engineering work experienceIndian Student Eligibility:Bachelor or higher degree from a recognised Indian institution completed within five years of starting at QUT, and 65% in the High School English Core subject awarded by CISCE or CBSE.Applicant must have score card of any one of IELTS, TOEFL or PTE to fullfill language test requirement.",
+              "__v": 0
             },
             {
               _id: {
-                $oid: "63dbd8945a11d7cb04f81a27"
+                $oid: "63dbdca8f25c400320fa7276"
               },
-              title: "Master of Arts [M.A] (International Relations)",
-              info: " The University of Queensland offers a Master of Science in International Relations for a duration of 2 years. It is an on-campus program offered on a full-time basis. The Master of International Relations (MIR) is a coursework program aimed at developing conceptual and empirical understanding and skill-sets in research and knowledge in international relations (IR). Students will work with world-class teachers and researchers who are in touch with industry partners and participate in regular public commentary and debates in their fields.  The two years full-time (or part-time equivalent) program builds on a core of nearly 40 courses and projects covering the main elements of IR, including fields such as IR of the Asia-Pacific Region, Foreign Policy and Diplomacy, Ethics and Human Rights, and Globalisation, International Political Economy and Development. The sample courses of the program include: Writing Politics Globalization, International Political Economy and Development Principles of International Law Communication and Social Movement Students may also include an optional applied fieldwork experience or research thesis in their program and/or participate in the Graduate Centre Mentorship Program. UQ’s Master of International Relations will equip students with the analytical and practical skills for a career in diplomacy, government, think-tanks, non-governmental organizations, the UN, international journalism, or development. Students will learn through overseas study, research and seminars. The University of Queensland ranks 1st in Queensland for politics and international studies by QS World University Rankings 2021 and 2nd in Australia for social sciences and humanities by CWTS Leiden Ranking 2021.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹1788140₹1788140₹1788140₹1788140Total Fees₹1788140₹1788140₹1788140₹1788140",
-              exams: " Students must hold a bachelor's degree (or equivalent) in any discipline. Or, successful completion of 3 years of study towards an approved qualification at an overseas partner institution, with a formal pathway to the Master of International Relations (32 units).Indian Student Eligibility:Indian students are eligible to apply if they meet the following eligibility criteria: Completed a 4-year bachelor's degree from a recognized institution. Students must hold a GPA of 4 (60%) on a 7 point scale.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test.",
-              __v: 0
+              title: "Master of Science [M.S] (Clinical Psychology)",
+              info: "The Master of Clinical Psychology builds upon the latest psychotherapy process and outcome research findings and uses an integrative approach to training students in assessment and treatment of mental health problems and disorders.This approach assists students to develop a flexible and client-focused approach to practice, consistent with contemporary standards for evidence-based practice in clinical psychology.Students learn to conceptualise and treat clinical presentations using relational psychodynamic, cognitive-behavioural, systemic, and narrative therapeutic approaches. Graduates of this course have the knowledge and competence to provide assessment and treatment across the lifespaRead More",
+              fees: "",
+              exams: "A completed recognised psychology honours or four-year bachelor degree (or higher) in psychology completed within the last 10 yearsA minimum fourth year psychology units grade point average (GPA) of 6.0 (on QUT's 7 point scale) in your psychology bachelor degreeIndian Student Eligibility:Bachelor or higher degree from a recognised Indian institution completed within five years of starting at QUT, and 65% in the High School English Core subject awarded by CISCE or CBSE.Applicant must have score card of any one of IELTS, TOEFL or PTE to fullfill language test requirement.",
+              "__v": 0
             },
             {
               _id: {
-                $oid: "63dbd8dd45bfdedee507a6c3"
+                $oid: "63dbdca9f25c400320fa7278"
               },
-              title: "Master of Arts [M.A] (Business Psychology)",
-              info: " The University of Queensland offers a Master of Business Psychology for a duration of 2 years. It is an on-campus, postgraduate coursework program offered on a full-time basis. This 2-year program will equip students with the skills required to become a consultant specializing in the use of psychology to enhance the productivity and effectiveness of individuals, teams, and organizations while improving the quality of working life.  The sample courses of the program include: Business skills for consultants Job and organizational design Motivating and leading in the workplace Organizational change: theory and practice The program is unique in that it equips students with both the foundational psychological expertise and the business acumen needed to solve business challenges across a range of business, government, and not-for-profit settings. It is designed for people who are interested in using psychological theory and knowledge in business, without seeking registration as a psychologist.  Students get the opportunity to join the largest school of psychology in Australia, recognized globally as a centre of excellence in business and organizational psychology. The University of Queensland ranks 1st in Queensland for psychology by QS World University Rankings 2021.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2757016₹2757016₹2757016₹2757016Total Fees₹2757016₹2757016₹2757016₹2757016",
-              exams: " Students must have a bachelor's degree in business from a recognized university. Or, students may hold a bachelor of Arts or equivalent degree in political science, sociology, cultural studies, media studies, communication, economics/political economy. A GPA of at least 4.5 on a 7 point scale is required to be eligible for this program.Indian Student Eligibility:Indian students are eligible to apply if they meet the following eligibility criteria: Completed a 4-year bachelor's degree from a recognized institution. Students must hold a GPA of 4.0 (60%) on a 7 point scale.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test.",
-              __v: 0
-            },
+              title: "Master of Engineering [M.Eng]",
+              info: "Master of Engineering is a 1-year program offered on a both full-time and a part-time basis.The program starts in the month of February and July.This course is designed to prepare professional engineers for careers in which they will need advanced engineering knowledge and understanding of current practice in specialist fields such as electrical engineering and mechanical engineering.It will provide the skill sets to approach new problems creatively, with initiative, accountability and planning. Master of Engineering will deliver real-world skills and advanced knowledge for professional practice in their specialist field.To graduate with a Master of Engineering students are required to complete 96 credit points of course units consisting of 48 credit points of core engineering postgraduate units, including advanced research skills and research-based project units, a professional practice unit and an advanced discipline unit.Read More",
+              fees: "YearYear 1Tuition Fees₹2123641Total Fees₹2123641",
+              exams: "Students must hold a bachelor's in engineering or a related subject from a recognized university.Indian Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+              "__v": 0
+            }
           ]
         },
         {
-          Names: "University of New South Wales [UNSW] Sydney ",
+          Names: "University of New South Wales [UNSW]",
           Details: "University of New South Wales, located in Sydney, is a powerhouse of cutting-edge research, teaching and innovation with a unique focus on the scientific, technological and professional disciplines. The institute is one of the coveted choices for higher education in Australia, enrolling nearly 64,000 students from 130 countries.",
           CoursesN: "Masters",
           img: "https://images.shiksha.com/mediadata/images/1534232683phpdxY8sY.jpeg",
-          college: [
+          College: [
             {
               _id: {
                 $oid: "63dbd469518d6e31d9c26d37"
@@ -2982,11 +3484,11 @@ const PGMapping =
           ]
         },
         {
-          Names: "The University of Sydney  ",
+          Names: "The University of Sydney",
           Details: "The University of Sydney is a top public research university in Australia. The university is consistently ranked among the world’s top 50 universities. It is one of the 6 sandstone universities in Australia. The University of Sydney is a member of CEMS, the Group of Eight, the Association of Commonwealth Universities, and the Association of Pacific Rim Universities.With a reimagined undergraduate curriculum, state-of-the-art facilities, world-class learning, and vibrant campus life the university offers respected qualifications. The university has received a royal charter, recognizing its degrees as equal to the degrees from universities in the UK. International applicants must demonstrate a minimum GPA of 5 which is equivalent to 65% - 74% and an IELTS score of 6.5. It is also strongly recommended to submit a Statement of Purpose of 400-500 words.",
           CoursesN: "Masters",
           img: "https://images.shiksha.com/mediadata/images/1515481785phpZsgL9D.png",
-          college: [
+          College: [
             {
               _id: {
                 $oid: "63dbc8d046bdda8c0f0d924c"
@@ -3050,11 +3552,11 @@ const PGMapping =
           ]
         },
         {
-          Names: "University of Western Australia (UWA)",
+          Names: "University of Western Australia",
           Details: "University of Western Australia is a well known public university in the country. UWA is quite popular amongst the international students. In 2021, more than 29,000 students secured admission in UWA . Out of total enrolled students, 10% belong to international countries. Indian students are amongst the leading international student population at UWA. The university has various student clubs, designed especially for Indians. ‘Sanskriti-Association for Indian Culture and Student Support’ is the Indian student club that exhibits Indian cultures and traditions among many other nationalities.",
           CoursesN: "Masters",
           img: "https://images.shiksha.com/mediadata/images/1541403097phplpDP5l.jpeg",
-          college: [
+          College: [
             {
               _id: {
                 $oid: "63dbdaece7ea7659390437e3"
@@ -3106,7 +3608,501 @@ const PGMapping =
               __v: 0
             }
           ]
-        }
+        },
+          {
+              Names: "University of Adelaide",
+              Details: " The University of Adelaide South Australia operates via 5 faculties and offers 400+ courses at undergraduate and graduate levels. The university has a well-established reputation for its courses, research work, and progressive-learning approach. MSc in Computer Science and MBA are the two most popular programs.",
+              CoursesN:"MBA",
+              img: "https://images.shiksha.com/mediadata/images/1507613211phpOfXXhe.jpeg",
+              College: [
+                  {
+                      _id: {
+                          $oid: "63dbdca6c02303a28652b83c"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: "The University of Adelaide’s Master of Business Administration (MBA) degree is widely recognized for its high quality and rigor. Equipping students with lifelong skills in leadership, the Adelaide MBA emphasizes and develops the ability to: understand the functional interrelationships between different parts of an organization and the broader interaction of the organization with its environment recognize and act effectively on problems and opportunities confronting an organization coordinate and apply an organization's financial, physical, technological, and human resources in pursuit of important objectives understand and communicate effectively with people inside and outside an organization evaluate current management policies and practices to develop new ways to improve organizational effectiveness provide strong leadership.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4224750₹2112375Total Fees₹4224750₹2112375",
+                      exams: " Students must complete a 4-year bachelor's degree or equivalent from an accredited university. Students are expected to have a strong quantitative background, including linear algebra, multivariate calculus, statistics, and probability. A GPA of 3.1 to 3.8 on a 4.0 scale is required to be eligible for the program.Work Experience Eligibility:Students must hold a superior academic record and a minimum of five to seven years of work and/or managerial experience.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria: Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institution Or, students completed a master's degree with first-class in a relevant field from a recognized institution.Students need to submit a minimum GMAT score and GRE exam scores for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbdcca6ec4835d77601409"
+                      },
+                      title: "Master of Arts [M.A] (International Management)",
+                      info: " Master of International Management is a 2 year, full-time program. It is combined with foundation and specialized courses, the two-year program meets the needs of entrants from a non-business background seeking an advanced set of skills and knowledge in business and management. A shorter, 1.5-year option is available for entrants with an undergraduate degree in related fields, seeking to advance their skills and knowledge in international management. Related fields include accounting, business management, human resources management, banking, and finance. An applied international experience component of the degree provides opportunities to gain a global perspective and hands-on practical experience. This can be through an international internship, a domestic internship with an international project, or an international study tour.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2760170₹2760170Total Fees₹2760170₹2760170",
+                      exams: " Students must hold a bachelor's degree from a recognized university. Submission of GRE exam scores is required for a better chance of admission.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria: Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institution Or, students completed a master's degree with first-class in a relevant field from a recognized institution.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbdcdf6b4db9b4fdfe5a26"
+                      },
+                      title: "Master of Arts [M.A] (Construction Management)",
+                      info: " Master in Construction Management degree is hosted by the School of Architecture and Built Environment but takes a holistic approach to construction management. Students will build advanced technology and management skills related to the field. Students can also apply life cycle and system thinking approaches to the management of construction and civil projects. At the end of the program, students have to complete a supervised research project. Master of Construction Management is accredited by the Royal Institution of Chartered Surveyors (RICS).Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2422190₹2422190Total Fees₹2422190₹2422190",
+                      exams: "Following are the requirements of the program Students must hold a bachelor's degree or equivalent from a recognized university. A minimum GPA of 4.5 is required in one of the following allied fields: Engineering (Civil) Building or Architecture Landscape Architecture Quantity Surveying Construction Management Real Estate and Property Students must be qualified in IELTS, TOEFL, or PTE to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbdcf28e6ba19429313acd"
+                      },
+                      title: "Master of Arts [M.A] (Marketing)",
+                      info: " For students with a recognized marketing degree, advanced-level marketing courses provide greater depth and breadth in strategic thinking and cutting edge analytical tools, while graduates of non-marketing disciplines attain a comprehensive understanding of contemporary marketing concepts, techniques, and professional applications. This program is offered in trimester mode. There are three trimesters in each academic year commencing in January, May, and September.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2760170₹1380085Total Fees₹2760170₹1380085",
+                      exams: " All India Senior Secondary Certificate (CBSE, New Delhi), Indian School Certificate (ISC), Maharashtra, Karnataka, Andra Pradesh, Tamil Nadu State Board Examination and Telangana State Board Examination. Best three subjects, excluding language and non-academic subjects.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbdd02c95835609bbc63c1"
+                      },
+                      title: "Master of Arts [M.A] (Applied Project Management)",
+                      info: " The Applied Project Management program is of 1.5 years. The 36-unit program is comprised of: Research track: 24 units of core courses and a 12-unit project, or Applied track: 24 units of core courses, a 6-unit project and an additional 6 units of electives. It is possible to articulate through all project management programs with full recognition. Industry practitioners and experienced academics deliver programs that are academically rigorous and industry-relevant. Courses reference industry-specific case studies and allow students to integrate their own workplace projects into assignments.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2675675₹1337838Total Fees₹2675675₹1337838",
+                      exams: " Students must hold a bachelor's degree from a recognized university. Submission of GRE exam scores is required for a better chance of admission.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria: Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institution Or, students completed a master's degree with first-class in a relevant field from a recognized institution.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+              Names: "Australian National University",
+              Details: "The Australian National University is one of Australia's leading public universities. It is placed #=27 in the QS Global World Rankings 2022. ANU offers 390+ majors and minors at the undergraduate level and 110+ specializations at the postgraduate level. According to QS subject rankings, Psychology(Rank #38) and Business & Management Studies(Rank #63) are among the top-ranked programs at Australian National University.",
+              CoursesN:"MBA",
+              img: "https://img.emg-services.net/institutes/institute29688/anu-header.jpg",
+              College: [
+                  {
+                      _id: {
+                          $oid: "63dbc5677f12435f8dc79707"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: "Building upon management experience and prior learning, the Master of Business Administration (MBA) program provides middle managers with essential business and management knowledge and skills to move into senior management roles.",
+                      fees: "YearYear 1Year 2Tuition Fees₹1860974₹1860974Total Fees₹1860974₹1860974",
+                      exams: " One of the following minimum requirements must be met in order to be eligible for admission: IELTS, TOEFL, CAE, PTE. An Australian Bachelor degree or higher, with an overall grade of distinction or higher, or its international equivalent. A combination of qualifications, research publications and/or professional experience related to the field of study.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc5ad885c561bcdb33e6b"
+                      },
+                      title: "Master of Arts [M.A] (Marketing Management)",
+                      info: " The Master of Marketing Management (MMM) program equips graduates and professionals from any discipline to become evidence-based decision makers, innovative problem solvers, responsible social citizens, and future leaders. The MMM program provides specialised knowledge and skills in the area of marketing, and can be tailored to include a second specialisation.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2629484₹2629484Total Fees₹2629484₹2629484",
+                      exams: " One of the following minimum requirements must be met in order to be eligible for admission: IELTS, TOEFL, CAE, PTE. An Australian Bachelor degree or higher, with an overall grade of distinction or higher, or its international equivalent. A combination of qualifications, research publications and/or professional experience related to the field of study.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc5cacd809d090501c8e9"
+                      },
+                      title: "Master of Arts [M.A] (Professional Accounting)",
+                      info: " The Master of Professional Accounting allows graduates to develop skills in accounting and the ability to analyse accounting-related issues. The program allows students with prior studies in cognate disciplines to specialise in accounting and meet the education entry requirements for the Australian accounting professional bodies. The program is taught by research active academic staff. Students are exposed to professional and scholarly accounting development and research. With continuing high global demand for qualified accountants, graduates of the program have a wide range of career opportunities in accounting firms, government departments, banking and finance organisations, corporations and other related accounting fieldsRead More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2629484₹2629484Total Fees₹2629484₹2629484",
+                      exams: " One of the following minimum requirements must be met in order to be eligible for admission: IELTS, TOEFL, CAE, PTE. An Australian Bachelor degree or higher, with an overall grade of distinction or higher, or its international equivalent. A combination of qualifications, research publications and/or professional experience related to the field of study.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc603c70283a3509cf5a7"
+                      },
+                      title: "Master of Arts [M.A] (Financial Management)",
+                      info: " Master of Financial Management will equip to excel in a business career anywhere in the world. Students will gain access to leading academics with extensive industry and research experience. Courses within the Master of Financial Management have been developed in consultation with key industry partners in the finance sector, assuring that the advanced skillset will develop in the program will prepare for a rewarding career in business.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2629484₹2629484Total Fees₹2629484₹2629484",
+                      exams: " One of the following minimum requirements must be met in order to be eligible for admission: IELTS, TOEFL, CAE, PTE. An Australian Bachelor degree or higher, with an overall grade of distinction or higher, or its international equivalent. A combination of qualifications, research publications and/or professional experience related to the field of study.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc62183852a30997155dd"
+                      },
+                      title: "Master of Arts [M.A] (Entrepreneurship and Innovation (Advanced))",
+                      info: "The Master of Entrepreneurship and Innovation (MEI) program equips graduates and professionals from any discipline to become evidence-based decision makers, innovative problem solvers, responsible social citizens, and future leaders. The MEI program provides specialised knowledge and skills in the area of entrepreneurship and innovation, and can be tailored to include a second specialisation.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2778759₹2778759Total Fees₹2778759₹2778759",
+                      exams: " One of the following minimum requirements must be met in order to be eligible for admission: IELTS, TOEFL, CAE, PTE. An Australian bachelor degree , with an overall grade of distinction or higher, or its international equivalent.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+              Names: "Monash University",
+              Details: "Monash University is a renowned research university offering admission in its six Australia campuses and one Malaysian campus. Monash as an education and research powerhouse with its presence on four continents offers more than 530 degrees across various levels and over 200 scholarships to its international students. The university receives research grants worth 1.1 billion USD in an academic year, including funding from various government research councils.",
+              CoursesN:"MBA",
+              img: "https://www.usnews.com/object/image/00000153-ec2c-d802-ab7f-feacb9230000/160406-monashu-submitted.jpg?update-time=1459956316556&size=responsiveFlow970",
+              College: [
+                  {
+                      _id: {
+                          $oid: "63dbd9c2523192ab6dd43114"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: "MBA at Monash University is a 2-year program with four core modules, each having an applied consulting project.  The four modules are Foundation, Innovation, Transformation, and Globalization and each weighs 24 points of the total 96 points MBA course with Monash. International applicants planning to pursue Monash University’s MBA program will need to have a relevant bachelor’s degree, three years of work experience (with one year at managerial level), and  English language proficiency. GMAT or GRE scores are not required to get admissions with Monash’s MBA course. You will be investing around 49 lakhs to pursue the course with the university. An advantage of pursuing the course from Monash is their MBA Career Advancement Program that provides a framework to evaluate your career and progress in the same. The Talent bank at MBA CAP provides students with permanent placement opportunities.  Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹1710179₹1710179Total Fees₹1710179₹1710179",
+                      exams: " Applicants must have completed an Australian bachelor degree or an equivalent qualification. Applicants will be required to attend an interview (by telephone) with a member of the selection panel.Work Experience: Minimum of three years of work experience (total) with at least one year of professional/managerial experience.Language Requirments: The students whose official language is not English are required to submit the English Language Proficiency scores.Indian Student Eligibility: The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college). Students completed a Diploma from an accredited institution with 65% in the final years of the program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbd9e21ef89a32cbf5698a"
+                      },
+                      title: "Master of Business [M.Bus] (Supply Chain Management)",
+                      info: " The Master of Business in Supply chain Management at Monash Business School, Monash University is a 2-year program. This program ranks 3rd in Australia in terms of business and management programs by QS World University Ranking in 2020. This program is available in three levels: Entry-level 1: 96 points to complete, Duration: 2 years full-time, 4 years part-time. Entry-level 2: 72 points to complete, Duration: 1.5 years full-time, 3 years part-time. Entry-level 3: 48 points to complete, Duration: 1 year full-time, 2 years part-time. The Master of Business will develop the student’s professional expertise and advance their business career. A key feature of the course is the personal development program which will enhance your leadership and interpersonal skills and transform the way they operate in professional contexts. As part of the course the students can build their knowledge and extend their expertise in one of the following specializations: Contemporary management Entrepreneurship Financial and risk management International business Marketing Responsible business governance Strategic communications management Supply chain management The specialization prepares students for careers in supply chain management roles in the private, public, and not-for-profit sectors. The Female to Male ratio in this program is 57: 43. 39% of the students in this program are international students. The Student to Faculty ratio in this program is 1:33. The Jobs available for the graduates of this program are: Forecasting & Business Planning Analyst. Global Supply Chain Analyst. Operations Specialist. Strategic Category Analyst. Supply Chain Operations Lead. Warehouse & Logistics Manager.., etc. The average salary of the students after graduation is 66,290 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2709473₹2709473Total Fees₹2709473₹2709473",
+                      exams: " Applicants must have completed an Australian bachelor degree or an equivalent qualification. Applicants will be required to attend an interview (by telephone) with a member of the selection panel.Work Experience: Minimum of three years of work experience (total) with at least one year of professional/managerial experience.Language Requirments: The students whose official language is not English are required to submit the English Language Proficiency scores.Indian Student Eligibility: The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college). Students completed a Diploma from an accredited institution with 65% in the final years of the program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbd9fe06b0d4b2e24811b9"
+                      },
+                      title: "Master (Business Analytics)",
+                      info: "For more information please visit the university's website.",
+                      fees: "YearYear 1Year 2Tuition Fees₹2692574₹2692574Total Fees₹2692574₹2692574",
+                      exams: " Applicants must have completed an Australian bachelor degree or an equivalent qualification. Applicants will be required to attend an interview (by telephone) with a member of the selection panel.Work Experience: Minimum of three years of work experience (total) with at least one year of professional/managerial experience.Language Requirments: The students whose official language is not English are required to submit the English Language Proficiency scores.Indian Student Eligibility: The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college). Students completed a Diploma from an accredited institution with 65% in the final years of the program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbda146861f449b5b81b12"
+                      },
+                      title: "Master (Project Management)",
+                      info: " The course focuses on developing specialist expertise in organising the project function utilising a diverse vocational skill set. It encourages an evidentiary and interdisciplinary approach to critical thinking and problem solving, strengthened by a capacity to undertake research. Student will choose from a range of discipline-specific electives (covering IT, Business, Engineering and Law) and have the opportunity to work on real-life projects where theory and practice are applied to problems situated in local and international, corporate, government and social contexts. Where will a career in project management take student As a graduate student will be strongly placed to provide strategic project leadership in a wide range of settings, such as business delivery, IT developments, engineering solutions, in both the corporate, government and not-for-profit sectors.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹1780479₹1780479Total Fees₹1780479₹1780479",
+                      exams: " Applicants must have completed an Australian bachelor degree or an equivalent qualification. Applicants will be required to attend an interview (by telephone) with a member of the selection panel.Work Experience: Minimum of three years of work experience (total) with at least one year of professional/managerial experience.Language Requirments: The students whose official language is not English are required to submit the English Language Proficiency scores.Indian Student Eligibility: The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college). Students completed a Diploma from an accredited institution with 65% in the final years of the program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbda2bb8e7fab897158c80"
+                      },
+                      title: "Master of Marketing",
+                      info: " Students knowledge will be developed through a blend of formal and informal approaches that promote learning and transformation. Student will have the opportunity to learn with and from a diverse range of professionals, who bring different, but complementary, knowledge and perspectives. student will also develop the confidence to create new strategies and unleash studentr creativity. Flexible study options enable student to balance busy work schedules and personal commitments. Some units are offered in intensive five-day blocks, or two-day split blocks, in addition to evening classes and online options. The range of elective units on offer allows student to customise the course to suit students professional interests and career goals, and includes the opportunity to undertake a corporate project under supervision. Professionals seeking a marketing career with a global enterprise are also encouraged to participate in one of our global study programs in marketing.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2709473₹2709473Total Fees₹2709473₹2709473",
+                      exams: " Applicants must have completed an Australian bachelor degree or an equivalent qualification. Applicants will be required to attend an interview (by telephone) with a member of the selection panel.Work Experience: Minimum of three years of work experience (total) with at least one year of professional/managerial experience.Language Requirments: The students whose official language is not English are required to submit the English Language Proficiency scores.Indian Student Eligibility: The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college). Students completed a Diploma from an accredited institution with 65% in the final years of the program.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+              Names: "The University of Melbourne",
+              Details: "The University of Melbourne is a highly reputed and second oldest university of Australia. It is hailed as the best in all of Australia and New Zealand by U.S. News and World Report in 2022. According to the QS World Ranking 2023, over 10 courses of University of Melbourne ranked among the Top 20 in the world. The University of Melbourne is divided into 10 disciplines offering UG & PG level courses in over 100 subject areas. International students are offered over 600 undergraduate, graduate and doctoral programs at The University of Melbourne.",
+              CoursesN:"MBA",
+              img: "https://images.shiksha.com/mediadata/images/1539748284phpkXrez1.jpeg",
+              College: [
+                  {
+                      _id: {
+                          $oid: "63dbc6f85ee0bf2e858aaeac"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: " A full-time MBA at the University of Melbourne is a two-year program that will cost around 45 Lakhs to Indian students. Ranked 80 in the world (FT Ranking 2020), the program focuses on practical business applications.  Why choose the University of Melbourne MBA 95% of Melbourne graduates received a job offer within 3 months of their graduation. Not just this, they received an average salary of 95 Lakhs at companies like Boston Consulting Groups, Deloitte, Microsoft, EY, KPMG, Bain & Company, Accenture, Toll Group, etc.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹1915783₹1915783Total Fees₹1915783₹1915783",
+                      exams: " Academic Qualification: Students must have an undergraduate degree in any discipline with 65% or above and a minimum undergraduate GPA of 2.7 on a 4.0 scale. Work Experience: All students who are applying for this program require at least 2 years of work experience. Test Scores: Minimum GMAT score of 695 or equivalent GRE score Minimum IELTS score of 7.0 or TOEFL-iBT score of 102 ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc75f7f51b70b254ebf84"
+                      },
+                      title: "Master of Business Administration [M.B.A]/Master of Marketing",
+                      info: "University full-time MBA/Master of Marketing is a dual degree that provides students with a strong foundation in business and specialized knowledge in marketing.The full-time MBA is an intensive experience designed for maximum career impact, fully developing their business knowledge while gaining an adaptive mindset and the ability to absorb and apply learnings, build resilience and develop a tight network of inspiring and encouraging peers.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹1806616₹2709924Health Insurance₹27207₹27207Total Fees₹1833823₹2737131",
+                      exams: " Students must have a GPA of 3.5 to 3.75 on a scale. A good GMAT score – as a guide, recent students have achieved an average of 705 or higher. Please note that the GMAT is compulsory and we do not accept the GRE. An up-to-date CV showing a minimum of two years’ work experience. A copy of your undergraduate academic transcript and any postgraduate transcripts, if relevant. A passport or verified document showing current citizenship/residency status. Excellent command of English, with a copy of your IELTS or TOEFL score. if you are a non-native speaker.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc7820e22591ac6144618"
+                      },
+                      title: "Master of International Business [M.I.B]",
+                      info: "The Melbourne Business School's Master of International Business will equip students with effective management skills for the international business sector.Students knowledge and understanding will be developed through in-depth learning in areas such as: Strategic management Corporate governance in a global context Cross-cultural impacts Marketing in an international space.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹1858496₹1858496Total Fees₹1858496₹1858496",
+                      exams: "  Students must have a 4-year undergraduate degree in any discipline or its equivalent from a recognized institution. A weighted average mark of at least H3 (65% – 2.3/4.0 or B+ average) from accredited institutions is required for unconditional admission.Indian Student Eligibility: Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institution Or, students completed a master's degree with first-class in a relevant field from a recognized institution.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc7a297071f4e7ca76d52"
+                      },
+                      title: "Master of Arts [M.A] (Entrepreneurship)",
+                      info: " The Master of Entrepreneurship program combines a highly practical, ‘learning by doing’ approach to subjects alongside a huge number of seminars by entrepreneurs, investors, and industry mentors delivered by the Wade Institute throughout the year. It is the combination of the practical skills students will learn coupled with the unparalleled experience offered by the Wade Institute that makes the Master of Entrepreneurship unique. Students will design and build a small-scale startup before opening for business and serving real customers and they will apply key skills in design thinking and the lean startup method to bring their team’s idea to life.Read More",
+                      fees: "YearYear 1Tuition Fees₹2033513Total Fees₹2033513",
+                      exams: "In order to be considered for entry, students must have completed: Students must have an undergraduate degree in any discipline or equivalent. Students whose official language is not English are required to submit IELTS, TOEFL, or PTE scores. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc7c7149cf114e79eff98"
+                      },
+                      title: "Master of Arts [M.A] (Applied Linguistics)",
+                      info: "This course brings a research component to students existing knowledge so that students will graduate with a competitive edge in language teaching, language assessment and language program evaluation.",
+                      fees: "YearYear 1Year 2Tuition Fees₹1370340₹1370340Total Fees₹1370340₹1370340",
+                      exams: "To be considered for entry, applicants must have completed: An undergraduate degree in any discipline with a weighted average mark of at least H2B (70%), or equivalentMeeting this requirement does not guarantee selection.In ranking applications, the Selection Committee will consider: Prior academic performance; and Relevance of previous studies; and, if relevant The professional experienceThe Selection Committee may seek further information to clarify any aspect of an application following the Academic Board rules on the use of selection instruments.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc7dcba8818e26997c5bc"
+                      },
+                      title: "Master of Arts [M.A] (Arts and Cultural Management)",
+                      info: "The Master of Arts and Cultural Management will develop transferable skills so students can traverse a broad range of art form contexts, including film, theatre, dance, music and the visual arts.",
+                      fees: "YearYear 1Year 2Tuition Fees₹1442668₹1442668Total Fees₹1442668₹1442668",
+                      exams: "In order to be considered for entry to the 200 point program, applicants must have completed: An undergraduate degree with a weighted average mark of at least H2B (70%), or equivalentMeeting this requirement does not guarantee selection.In ranking applications, the Selection Committee will consider: Prior academic performance; and Relevance of previous studies",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc7f23fe28a1758939d85"
+                      },
+                      title: "Master of Fine Arts [M.F.A]",
+                      info: "The Master of Fine Arts aims to provide opportunities for suitably qualified candidates to develop their potential for research, develop mastery in their field of practice and contribute to understandings of contemporary artistic practice and theories of arts and culture. High quality research subjects and independent supervision ensure artistic and intellectual excellence and leadership potential, and learning and training takes place in an international context.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹1364425₹1364425Total Fees₹1364425₹1364425",
+                      exams: " An honors degree with at least H2A (75%) average, including a major relevant to the stream to which entry is sought, or equivalent; or A relevant undergraduate degree with at least H2A (75%) average and at least two years of documented work experience relevant to the stream to which entry is sought; or An undergraduate degree in any discipline and at least five years of documented work experience relevant to the stream to which entry is sought; or At least five years of documented relevant work experience related to the stream to which entry is sought and demonstrating outstanding artistic ability, together with evidence of ability in academic writing and research or scholarship appropriate for postgraduate study; and Performance in one or more of an audition, test, interview, workshop, portfolio, or folio presentation, as prescribed by the Academic Board for the stream to which entry is sought.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+              Names: "The University Of Queensland",
+              Details: "The University of Queensland (UQ) is one of the finest teaching and research institutions in Australia. It is part of both Go8 (Group of Eight universities in Australia) and is also a member of Universitas 21. Currently. home to over 50,000 students hailing from 134 countries, The University of Queensland ranks #47 in the world, according to QS World University Rankings, 2022. More than 550 programs on all levels including undergraduate, postgraduate, and Ph.D. are offered to students planning to apply for admission to The University of Queensland.",
+              CoursesN:"MBA",
+              img: "https://static.sliit.lk/wp-content/uploads/2021/11/04035255/sliit-international-section-transfer-options-University-of-Queensland.jpg",
+              College: [
+                  {
+                      _id: {
+                          $oid: "63dbd77425b014c0d9ec241d"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: " The University of Queensland offers a Master of Business Administration for a duration of 1 year. It is a course-based program offered on both a full-time and part-time basis. The MBA program gives students every opportunity to push the boundaries of their comfort zone. The program consists of 12 courses that cover key topics and integrate theory with practice. To complete the MBA program, students must complete 24 units from the course list: 4 units from Management Framework 18 units from IT, Operations Design, Strategic HRM, and Innovation Leadership 2 units from Entrepreneurship Capstone Students have the opportunity to apply their knowledge and leadership skills while working to solve complex business problems. Depending on students choice of courses, it might be possible to withdraw from the MBA at an early exit point and graduate with one of the following awards: Graduate Diploma in Business Administration  Graduate Certificate in Business Administration The Graduate Diploma and Graduate Certificate offer students alternative pathways to the MBA. International students are eligible to apply for scholarships and prizes which are offered by the University, the Australian Government, foreign governments, or private organizations. The program is accredited by AACSB or EQUIS. The Business School provides flexible study options that allow students to fit in their learning alongside their lifestyle and work commitments. The researcher from the Business School has been awarded an Australian Research Council (ARC) Australian Laureate Fellowship award. The MBA program in Queensland ranks 1st according to The Economist MBA Ranking 2021 and ranks 47th worldwide according to The Economist MBA Ranking 2021 respectively. Placements/Job opportunities after the Master of Business Administration are Account Manager, Manager Consultant, etc and the average salary goes up to 73,800 USD after completing this program.Read More",
+                      fees: "YearYear 1Tuition Fees₹4768222Total Fees₹4768222",
+                      exams: " Students must have a bachelor's degree or equivalent from a recognized university. Or, students hold a Graduate Diploma in Business Administration from UQ or equivalent. A GPA of at least 4.50 on a 7 point scale is required. Applicants may be required to pass a qualifying examination in one or all of the following: basic computing, written communication, basic mathematics, and statistics.Work Experience Eligibility:All applicants must have completed four years of full-time equivalent work experience, including 2 years in a dedicated supervisory/management role (of people or projects).Others:Students without related academic experience or work experience are also encouraged to apply, given they fulfill other additional requirements such as an interview, aptitude test, referee reports, or professional registration.Indian Student Eligibility:Indian students are eligible to apply if they meet the following eligibility criteria: Completed a 4-year bachelor's degree from a recognized university. Students must hold a GPA of 60% i.e 4 on a 7 point scale.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbd81b25a62872495de682"
+                      },
+                      title: "Master of Business [M.Bus] (Marketing)",
+                      info: " The University of Queensland offers a Master of Business in Marketing for a duration of 1.5 years. It is an on-campus, postgraduate coursework program offered on a full-time basis. Marketing involves identifying consumer needs and wants, and allocating organizational resources to profitably satisfy those needs and wants. Students will develop knowledge and skills in product and brand management, awareness and loyalty, consumer behaviour and research, product and service development, and marketing strategy. This field is accredited by the Australian Marketing Institute. The career paths can lead to positions as managers and consultants in marketing and advertising agencies, and private, public, or not-for-profit organizations. The Faculty of Business, Economics, and Law's award-winning Student Employability Team (SET) help students to develop their careers through internships, mentoring programs, and career planning advice. The University of Queensland ranks 1st in Queensland for business and management studies by QS World University Rankings 2021 and 41st in the world for business and economics by the Times Higher Education World University Rankings 2021.Read More",
+                      fees: "YearYear 1Tuition Fees₹2381182Books and Supplies₹47881Total Fees₹2429062",
+                      exams: " Students must have a bachelor's degree in business from a recognized university. Or, students may hold a bachelor of Arts or equivalent degree in political science, sociology, cultural studies, media studies, communication, economics/political economy. A GPA of at least 4.5 on a 7 point scale is required to be eligible for this program.Indian Student Eligibility:Indian students are eligible to apply if they meet the following eligibility criteria: Completed a 4-year bachelor's degree from a recognized institution. Students must hold a GPA of 4.0 (60%) on a 7 point scale.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbd876f1cdf63d706e32e1"
+                      },
+                      title: "Master of Business [M.Bus] (Human Resource Management)",
+                      info: " The University of Queensland offers a Master of business in Human Resource Management for a duration of 1.5 years. It is an on-campus program offered on a full-time basis. Human resource management (HRM) is concerned with managing people within an organization to create value for the organization and positive work experiences for individuals. The range of functions covered includes recruitment and selection of employees, performance management, compensation, training and development, career support, team development, communication and conflict, industrial negotiation, and resolution and HR strategy. The courses cover content knowledge in these areas and also skills and personal capabilities necessary for HRM graduates to be effective practitioners within organizations. The University of Queensland ranks 1st in Queensland for business and management studies by QS World University Rankings 2021 and 41st in the world for business and economics by the Times Higher Education World University Rankings 2021.Read More",
+                      fees: "YearYear 1Tuition Fees₹2381182Book and Supplies₹47881Total Fees₹2429062",
+                      exams: " Students must have a bachelor's degree in business from a recognized university. Or, students may hold a bachelor of Arts or equivalent degree in political science, sociology, cultural studies, media studies, communication, economics/political economy. A GPA of at least 4.5 on a 7 point scale is required to be eligible for this program.Indian Student Eligibility:Indian students are eligible to apply if they meet the following eligibility criteria: Completed a 4-year bachelor's degree from a recognized institution. Students must hold a GPA of 4.0 (60%) on a 7 point scale.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbd8945a11d7cb04f81a27"
+                      },
+                      title: "Master of Arts [M.A] (International Relations)",
+                      info: " The University of Queensland offers a Master of Science in International Relations for a duration of 2 years. It is an on-campus program offered on a full-time basis. The Master of International Relations (MIR) is a coursework program aimed at developing conceptual and empirical understanding and skill-sets in research and knowledge in international relations (IR). Students will work with world-class teachers and researchers who are in touch with industry partners and participate in regular public commentary and debates in their fields.  The two years full-time (or part-time equivalent) program builds on a core of nearly 40 courses and projects covering the main elements of IR, including fields such as IR of the Asia-Pacific Region, Foreign Policy and Diplomacy, Ethics and Human Rights, and Globalisation, International Political Economy and Development. The sample courses of the program include: Writing Politics Globalization, International Political Economy and Development Principles of International Law Communication and Social Movement Students may also include an optional applied fieldwork experience or research thesis in their program and/or participate in the Graduate Centre Mentorship Program. UQ’s Master of International Relations will equip students with the analytical and practical skills for a career in diplomacy, government, think-tanks, non-governmental organizations, the UN, international journalism, or development. Students will learn through overseas study, research and seminars. The University of Queensland ranks 1st in Queensland for politics and international studies by QS World University Rankings 2021 and 2nd in Australia for social sciences and humanities by CWTS Leiden Ranking 2021.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹1788140₹1788140₹1788140₹1788140Total Fees₹1788140₹1788140₹1788140₹1788140",
+                      exams: " Students must hold a bachelor's degree (or equivalent) in any discipline. Or, successful completion of 3 years of study towards an approved qualification at an overseas partner institution, with a formal pathway to the Master of International Relations (32 units).Indian Student Eligibility:Indian students are eligible to apply if they meet the following eligibility criteria: Completed a 4-year bachelor's degree from a recognized institution. Students must hold a GPA of 4 (60%) on a 7 point scale.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbd8dd45bfdedee507a6c3"
+                      },
+                      title: "Master of Arts [M.A] (Business Psychology)",
+                      info: " The University of Queensland offers a Master of Business Psychology for a duration of 2 years. It is an on-campus, postgraduate coursework program offered on a full-time basis. This 2-year program will equip students with the skills required to become a consultant specializing in the use of psychology to enhance the productivity and effectiveness of individuals, teams, and organizations while improving the quality of working life.  The sample courses of the program include: Business skills for consultants Job and organizational design Motivating and leading in the workplace Organizational change: theory and practice The program is unique in that it equips students with both the foundational psychological expertise and the business acumen needed to solve business challenges across a range of business, government, and not-for-profit settings. It is designed for people who are interested in using psychological theory and knowledge in business, without seeking registration as a psychologist.  Students get the opportunity to join the largest school of psychology in Australia, recognized globally as a centre of excellence in business and organizational psychology. The University of Queensland ranks 1st in Queensland for psychology by QS World University Rankings 2021.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2757016₹2757016₹2757016₹2757016Total Fees₹2757016₹2757016₹2757016₹2757016",
+                      exams: " Students must have a bachelor's degree in business from a recognized university. Or, students may hold a bachelor of Arts or equivalent degree in political science, sociology, cultural studies, media studies, communication, economics/political economy. A GPA of at least 4.5 on a 7 point scale is required to be eligible for this program.Indian Student Eligibility:Indian students are eligible to apply if they meet the following eligibility criteria: Completed a 4-year bachelor's degree from a recognized institution. Students must hold a GPA of 4.0 (60%) on a 7 point scale.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+              Names: "The University of South Wales Sydney",
+              Details: "University of New South Wales, located in Sydney, is a powerhouse of cutting-edge research, teaching and innovation with a unique focus on the scientific, technological and professional disciplines. The institute is one of the coveted choices for higher education in Australia, enrolling nearly 64,000 students from 130 countries.",
+              CoursesN:"MBA",
+              img: "https://images.shiksha.com/mediadata/images/1534232683phpdxY8sY.jpeg",
+              College: [
+                  {
+                      _id: {
+                          $oid: "63dbd469518d6e31d9c26d37"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: "The AGSM MBA program is designed to nurture students so that they can reach the top levels of global business demands, excellence, critical thinking, exceptional knowledge, communication skills and cultural awareness. Full-Time MBA is an innovative, experiential, world-ranked program designed to equip a new generation of leaders to thrive in an accelerating world.Read More",
+                      fees: "YearYear 1Tuition Fee₹3264887Other Fee₹899365Total Fee₹4164252Total Fees₹8328503",
+                      exams: " Students must complete a 4-year bachelor's degree or equivalent from an accredited university. Students are expected to have a strong quantitative background, including linear algebra, multivariate calculus, statistics, and probability. A GPA of 3.1 to 3.8 on a 4.0 scale is required to be eligible for the program.Work Experience Eligibility:Students must hold a superior academic record and a minimum of four to eight years of work and/or managerial experience.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria: Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institution Or, students completed a master's degree with first-class in a relevant field from a recognized institution.Students need to submit a minimum GMAT score and GRE exam scores for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbd516d0f1e26fe40a3860"
+                      },
+                      title: "Master of Arts [M.A] (Construction Project Management)",
+                      info: " The Master of Construction Project Management will teach the modern management methodologies and how to apply them across the different phases of the construction life cycle. It will give an advanced understanding of the body of knowledge in construction project management, including established theories and recent developments, and students will learn to apply these principles to new and complex buildings and infrastructure.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2286998₹1165749Total Fees₹2286998₹1165749",
+                      exams: " Students must hold a bachelor's degree or equivalent degree in a related subject from a recognized university.Indian Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria: Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institution Or, students completed a master's degree with first-class in a relevant field from a recognized institution.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbd537d259bf2af0d37c42"
+                      },
+                      title: "Master of Arts [M.A] (Property and Development)",
+                      info: " The Master of Property and Development is designed to meet the needs of those who want to work at the cutting edge of this industry as it adapts to the requirements of communities, businesses and the environment. Students will learn the principles of property development and investment, then apply them across different phases of the industry cycle, achieving successful outcomes in financial viability, risk management and sustainability.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹1455173₹1455173Books₹38868₹38868Total Fees₹1494041₹1494041",
+                      exams: "One of the following exams score is needed to attend the program: GMAT score required to qualify is 660. GRE scores can be accepted on a case by case basis provided by the students to meet the minimum Verbal 148, Quantitative 156 and Overall score of  307. IELTS score band should not be less than 6.5. TOEFL minimum score of 90(internet-based) and 577(paper-based)required to qualify. PTE minimum score of 58 is required. CAE score a minimum of 176(minimum 169 in each subtest) and CPE score of minimum 180 is needed.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbd572312ac6422766805c"
+                      },
+                      title: "Master of Arts [M.A] (Property and Development)",
+                      info: " The Master of Property and Development is designed to meet the needs of those who want to work at the cutting edge of this industry as it adapts to the requirements of communities, businesses and the environment. Students will learn the principles of property development and investment, then apply them across different phases of the industry cycle, achieving successful outcomes in financial viability, risk management and sustainability.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹1455173₹1455173Books₹38868₹38868Total Fees₹1494041₹1494041",
+                      exams: "One of the following exams score is needed to attend the program: GMAT score required to qualify is 660. GRE scores can be accepted on a case by case basis provided by the students to meet the minimum Verbal 148, Quantitative 156 and Overall score of  307. IELTS score band should not be less than 6.5. TOEFL minimum score of 90(internet-based) and 577(paper-based)required to qualify. PTE minimum score of 58 is required. CAE score a minimum of 176(minimum 169 in each subtest) and CPE score of minimum 180 is needed.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbd5b5ff305a3e5e438e21"
+                      },
+                      title: "Master of Arts [M.A] (Applied Linguistics)",
+                      info: " The degree focuses on the traditional core areas of language structure, including the sound system (phonetics and phonology), grammar (morphology and syntax) and meaning (semantics and pragmatics). Students will also examine how contemporary linguists deal with issues of language acquisition and use, and intercultural communication. Students can expand their knowledge by studying linguistic diversity in urban settings and Indigenous contexts or by learning about language policies which impact multilingual and multicultural communities.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹1371241₹1371241Books₹38868₹38868Total Fees₹1410109₹1410109",
+                      exams: "One of the following exams score is needed to attend the program: GMAT score required to qualify is 660. GRE scores can be accepted on a case by case basis provided by the students to meet the minimum Verbal 148, Quantitative 156 and Overall score of  307. IELTS score band should not be less than 6.5. TOEFL minimum score of 90(internet-based) and 577(paper-based)required to qualify. PTE minimum score of 58 is required. CAE score a minimum of 176(minimum 169 in each subtest) and CPE score of minimum 180 is needed.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+              Names: "The University of Sydney",
+              Details: "The University of Sydney is a top public research university in Australia. The university is consistently ranked among the world’s top 50 universities. It is one of the 6 sandstone universities in Australia. The University of Sydney is a member of CEMS, the Group of Eight, the Association of Commonwealth Universities, and the Association of Pacific Rim Universities.With a reimagined undergraduate curriculum, state-of-the-art facilities, world-class learning, and vibrant campus life the university offers respected qualifications. The university has received a royal charter, recognizing its degrees as equal to the degrees from universities in the UK. International applicants must demonstrate a minimum GPA of 5 which is equivalent to 65% - 74% and an IELTS score of 6.5. It is also strongly recommended to submit a Statement of Purpose of 400-500 words.",
+              CoursesN:"MBA",
+              img: "https://images.shiksha.com/mediadata/images/1515481785phpZsgL9D.png",
+              College: [
+                  {
+                      _id: {
+                          $oid: "63dbc8d046bdda8c0f0d924c"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: " The University of Sydney Business School offers MBA for a duration of 18 months (2 terms). Leadership and Enterprise is a course-based program offered on a full-time basis. The MBA in Leadership and Enterprise is offered through classroom teaching. This major program consists of 72 credits of core units. The University is ranked first in Australia and fourth in the world for graduate employability in the QS Graduate Employability Rankings 2020. Through this program, students will learn by doing through workshops with industry leaders, intensive group work, and tackling real-world issues with a diverse cohort. Students will graduate with the skills and knowledge to build and lead future enterprises in a digital, hyper-connected world from tech start-ups to major corporations. The program comprises of 12 units of study, which are grouped around three key focus areas: personal and interpersonal skill development business knowledge and skill development building future enterprises Offer an Integrated optional internships program, available during the study breaks. The University of Sydney Business School is a world-class business school at the forefront of global business and management education. The faculty-student ratio for this program is 1:14. The average salary goes up to 62,105 AUD after completing this program.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2957325₹2957325Total Fees₹2957325₹2957325",
+                      exams: " An Australian Bachelor degree in the relevant discipline with a credit average (65 percent) or equivalent qualification or An Australian Bachelor degree in the relevant discipline or equivalent, or Five years relevant professional work experience Language Requirements: International students from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/PTEor any equivalent test.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc8faf148822091eb726d"
+                      },
+                      title: "Executive Master of Business Administration [E.M.B.A]",
+                      info: " The Global Executive MBA is completed over one and a half (1.5) calendar years of full-time, intensive study. The majority of the program takes place in five 14-day residential blocks of face-to-face classes, held approximately every 4 months, over a period of 18 months. The Core units of this program are as follows: EMBA Report  Reframing Leadership  Managing Connected Enterprises  Thriving in New Markets  Finding Opportunity in Disruptive Technology Challenging Business Models  Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2919584₹2919584Total Fees₹2919584₹2919584",
+                      exams: " An Australian Bachelor of Engineering degree in the relevant discipline with a credit average (65 percent) or equivalent qualification or An Australian Bachelor of Engineering degree in the relevant discipline or equivalent, and Five years relevant professional work experience Indian Student Eligibility: Students must hold a Bachelor of Engineering degree in the relevant discipline.Language Requirements: International students from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/PTEor any equivalent test.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc943a4f80876744f2bb8"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Leadership and Enterprise)",
+                      info: " The duration of this full-time M.B.A program is 18 months. The program comprises 12 units of study. The units are grouped around three key focus areas: personal and interpersonal skill development, business knowledge and skill development. building future enterprises. Students will learn from internationally renowned academics from the Business School and across the University, as well as from a host of industry leaders. The program finishes with a capstone unit, enabling to apply everything students have learnt throughout the MBA to bring a real product prototype to market.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2957325₹2957325Total Fees₹2957325₹2957325",
+                      exams: " An Australian Bachelor of Engineering degree in the relevant discipline with a credit average (65 percent) or equivalent qualification or An Australian Bachelor of Engineering degree in the relevant discipline or equivalent, and Five years relevant professional work experience Indian Student Eligibility: Students must hold a Bachelor of Engineering degree in the relevant discipline.Language Requirements: International students from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/PTEor any equivalent test.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc95802b72664463eb1f3"
+                      },
+                      title: "Master of International Business [M.I.B]",
+                      info: "About this course: The Master of International Business requires the completion of 60 credit points comprising The Master of International Business is a global business program that emphasises the need for effective and sustainable business growth on an international scale. By joining a cohort of high-calibre students, they will develop the skills and competencies necessary to devise and implement strategic decisions that facilitate sustainable, global corporate expansion. Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹3041820₹3041820Total Fees₹3041820₹3041820",
+                      exams: " An Australian bachelor's degree or higher in an unrelated discipline with a credit average (65 percent) or equivalent qualification and relevant professional work experience (typically three years)Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria: Completed a 4-year UG degree with first class in a relevant field from a recognized institution. Students must be qualified in IELTS or TOEFL to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc96cd78a7ddd6af1a346"
+                      },
+                      title: "Master of Arts [M.A] (Project Management)",
+                      info: "About this course: University’s Master of Project Management will provide students with the advanced project management skills they will need for hands-on project management. The course is an ideal complement to students on-the-job experience and will equip them with the fundamental methodologies, modelling and analytical techniques for the design and implementation of projects across a wide range of industries. Students will have the opportunity to work in small groups, sharing your industry knowledge and expertise with fellow professionals.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2844665₹2844665Total Fees₹2844665₹2844665",
+                      exams: " An Australian Bachelor of Engineering degree in the relevant discipline with a credit average (65 percent) or equivalent qualification or An Australian Bachelor of Engineering degree in the relevant discipline or equivalent, and Five years relevant professional work experience Indian Student Eligibility: Students must hold a Bachelor of Engineering degree in the relevant discipline.Language Requirements: International students from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/PTEor any equivalent test.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbc9b124e6a4c1bf07fcbd"
+                      },
+                      title: "Master of Fine Arts [M.F.A]",
+                      info: "The Master of Fine Arts by research is designed to provide students with the opportunity to develop art practise through advanced research in one or more discipline area. Delivered by Sydney College of the Arts (SCA), the Master of Fine Arts is primarily undertaken as a supervised independent study program of written work and studio research.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2309530₹2309530Total Fees₹2309530₹2309530",
+                      exams: " An Australian Bachelor of Engineering degree in the relevant discipline with a credit average (65 percent) or equivalent qualification or An Australian Bachelor of Engineering degree in the relevant discipline or equivalent, and Five years relevant professional work experience Indian Student Eligibility: Students must hold a Bachelor of Engineering degree in the relevant discipline.Language Requirements: International students from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/PTEor any equivalent test.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+              Names: "The University of Western Australia Business School",
+              Details: "University of Western Australia is a well known public university in the country. UWA is quite popular amongst the international students. In 2021, more than 29,000 students secured admission in UWA . Out of total enrolled students, 10% belong to international countries. Indian students are amongst the leading international student population at UWA. The university has various student clubs, designed especially for Indians. ‘Sanskriti-Association for Indian Culture and Student Support’ is the Indian student club that exhibits Indian cultures and traditions among many other nationalities.",
+              CoursesN:"MBA",
+              img: "https://images.shiksha.com/mediadata/images/1541403097phplpDP5l.jpeg",
+              College: [
+                  {
+                      _id: {
+                          $oid: "63dbdaece7ea7659390437e3"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Flexible)",
+                      info: " A personalized Leadership Development Program developed for the world-class Leadership Faculty one-on-one mentoring from a senior industry figure International study tour Choice of specialist focus areas in leadership or finance. The practical business and leadership skills that students will acquire from an MBA make it one of the most valuable graduate degrees for your career. An MBA provides them with a competitive advantage in the job market by equipping them with the knowledge, skills, and professional network to add immediate value to their organization.  The right MBA can transform a career by changing the way one thinks about himself, potential, and the world around them. An MBA from UWA, Western Australia’s leading university, will give them the very best chance of achieving their career aspirations.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2912261₹2912261Total Fees₹2912261₹2912261",
+                      exams: "To be considered for admission to this course an applicant must have—  a Bachelor's degree, or an equivalent qualification, as recognized by UWA; and the equivalent of a UWA weighted average mark of at least 50 percent; and at least two years professional experience in a relevant occupation; and a valid Graduate Management Admission Test (GMAT) score, and at least three years of relevant, documented professional experience; or a valid GMAT score of at least 650, and at least two years of relevant, documented professional experienceIndian students eligibility: Applicants must get a minimum of 60% marks from Indian School Certificate (CISCE) Applicants must get grade 12 from the All India Senior School Certificate (CBSE). Overall grades in best 4 subjectsApplicants must have qualified for any one of the language tests IELTS/TOEFL  to prove English language proficiency.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbdb20a7b7d2d8e4598c0f"
+                      },
+                      title: "Master (Business Analytics)",
+                      info: "The Master of Business Analytics equips students with the analytical skills needed to extract meaning from complex data sets, the ability to converse with other technical experts (such as computer scientists), and the capacity to make meaning of the output. This business expertise is highly sought after in the global workplace.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2258833₹2258833Total Fees₹2258833₹2258833",
+                      exams: "To be considered for admission to this course an applicant must have— a Bachelor's degree, or an equivalent qualification incorporating at least one unit of statistics, as recognized by UWA or, the equivalent of a UWA weighted average mark of at least 50 percent or, at least two years professional experience in a relevant occupation; or completed a Graduate Certificate in Business Analytics at UWA.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbdb3a8c7012972ff68119"
+                      },
+                      title: "Master (Human Resources and Employment Relations)",
+                      info: "The Master of Human Resources and Employment Relations explores how the proper management of employees contributes towards organisational effectiveness.",
+                      fees: "YearYear 1Year 2Tuition Fees₹1465538₹1465538Books and Supplies₹38755₹38755Total Fees₹1504349₹1504349",
+                      exams: "To be eligible for UWA’s undergraduate degrees based on previous or current Australian Year 12 studies, applicants must have completed the relevant state Certificate of Education and achieved an Australian Tertiary Aggregate Rank (ATAR) of 80 or above, or an Overall Position (OP) of 10 or below. Applicants must also provide evidence of satisfying UWA’s ELC requirements.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbdb502627d142a296353e"
+                      },
+                      title: "Master (Business Information and Logistics Management)",
+                      info: " The Master of Business Information and Logistics Management will develop and expand students skills to manage IT infrastructure projects, determine enterprise systems requirements, analyse organisational data for business intelligence, lead information systems strategies, manage supply chains, and apply emerging technologies across the enterprise. A major focus of the course is developing Student ability to work with IT teams to improve operations.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹1484915₹1484915Books and Supplies₹38755₹38755Total Fees₹1523670₹1523670",
+                      exams: "To be eligible for UWA’s undergraduate degrees based on previous or current Australian Year 12 studies, applicants must have completed the relevant state Certificate of Education and achieved an Australian Tertiary Aggregate Rank (ATAR) of 80 or above, or an Overall Position (OP) of 10 or below. Applicants must also provide evidence of satisfying UWA’s ELC requirements.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63dbdb88685794e4f45d1f81"
+                      },
+                      title: "Master (International Relations)",
+                      info: "Students will develop the capacity to collect and interpret information; to analyze arguments, policies, and developments; and to construct cogent verbal and written arguments on international relations subjects. they will also appreciate the ways in which knowledge of international relations is utilized, including in professional employment.Read More",
+                      fees: "YearYear 1Year 2Tuition fees₹1286521₹1286521Total Fees₹1286521₹1286521",
+                      exams: " Relevant bachelor's degree, or an equivalent qualification, as recognized by UWA. The equivalent of a UWA weighted average mark of at least 65 percent in the Level 3 units of a relevant major. Graduate Certificate in International Relations or Graduate Diploma in International Relations, or an equivalent qualification, as recognised by UWA.",
+                      __v: 0
+                  }
+              ]
+          }
       ]
 
     },
@@ -3119,1517 +4115,1517 @@ const PGMapping =
           "MBA",
           "Ph.D"
         ],
-      Universities: [
+        Universities: [
 
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d9237c1c42ab7cf222f703"
-              },
+          {
+      
               Names: "Columbia University",
               Details: "Columbia University is a private research university known for its academics, placements, and international student percentage. There are more than 17,000 international students at Columbia. In fall 2021, it saw an enrollment of 1,134 Indian students at the graduate level. As an ‘Ivy League' institution that's located in NY, Columbia's cost of attendance is high-end. The annual tuition fees for Columbia University courses is around 58.2 Lakhs INR.",
               CoursesN: "Master",
               img: "https://images.collegedunia.com/public/asset/img/homepage/banner/columbia1.jpg?h=1080&w=1920&mode=stretch",
-              title: "Master of Science [M.S] (Data Science)",
-              info: "The MSc in Data Science at Columbia University is a 1-year program.The Master of Science in Data Science allows students to apply data science techniques to their field of interest, building on four foundational courses offered in the certification of Professional Achievement in Data Sciences program.Students have the opportunity to conduct original research, included in a capstone project, and interact with industry partners and faculty.Students may also choose an elective track focused on entrepreneurship or a subject area covered by one of eight centers.Some students are primarily concerned about data ethics, others are excited about data science as a new evolution in knowledge, but all are interested in how data science is changing their everyday lives.The M.Sc in Data Science is for individuals looking to strengthen their career prospects or make a career change by developing expertise in data science.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
-              fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
-              Exams: "Academic Eligibility: Students must have a bachelor's degree in a related field received from an institution.Students are required to maintain at least a 3.8 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9244ee50d3f008ce4b038"
-              },
-              title: "Master of Science [M.S] (Business Analytics)",
-              info: "The MSc in Business Analytics at Columbia University is a 1-year program.The Columbia Engineering and Columbia Business School offers a new full-time Master of Science in Business Analytics degree.This three-semester program designed for those who want to focus on learning the modeling techniques and data science tools that help businesses use data to make better decisions.Some of the main topics students learn through this program are:Python for Analytics BootcampOptimization Models and MethodsData AnalyticsMarketing AnalyticsOperations StrategyRisk Management and many moreThe key element of the new program is a capstone project that gives an intense consulting engagement with clients and their real-world business problems using real data sets. .The student-faculty ratio of this college is 6:1.The role of analytics has grown increasingly critical in business, healthcare, government, and many other sectors of the economy. The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
-              fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
-              Exams: "Academic Eligibility: Students must have a bachelor's degree in a related field of engineering or science to get admission in this program.Students are required to maintain at least a 3.0 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9244fe50d3f008ce4b03a"
-              },
-              title: "Master of Science [M.S] (Journalism and Computer Science)",
-              info: "The MSc in Journalism/Computer Science at Columbia University is a 2-year program.Students will learn the fundamentals of reporting and writing while developing a working background in computer science and software design.The dual degree gives robust opportunities in both fields, including:Designing and building platformsAlgorithms and applications for journalism or pursuing research and development workComputer science related to journalism, natural language processing, and the digital humanitiesThe student-faculty ratio of this college is 6:1.Students learn valuable career­-building strategies including:How to write journalism-­specific resumes and cover letters Understanding of the profile, structure, and multimedia newsroomsSocial media and online portfoliosStrategies to mine job opportunities, develop contacts, and networkHow to prepare for and succeed in a job interviewThe acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
-              fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
-              Exams: "Academic Eligibility: Students must have a bachelor's degree in related fields to get admission in this program.Students required a strong background in computer science, extensive mathematics or engineering training. Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9244fe50d3f008ce4b03e"
-              },
-              title: "Master of Science [M.S] (Applied Analytics)",
-              info: "The MSc in Applied Analytics at Columbia University is a 1-year program.The program is available on a full-time or part-time basis.This program prepares students with the practical data and leadership skills to succeed in the coming era.The program consists of required courses in two core areas: Management CoreTechnical CoreSome of the main topics students learn through this program are:Applied analytics in the organizational contextResearch design Strategy and analyticsManaging dataAnalytics and leading change and many moreThe program combines in-depth knowledge of data analytics with the leadership, management, and communication principles and tactics necessary to impact decision-making at all levels within organizations.The student-faculty ratio of this college is 6:1.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.The Master of Science in Applied Analytics  For the full-time option, students take courses on Columbia's New York City campus. The program takes three terms (12 credits per term) to complete, and fall or spring entry is possible.Read More",
-              fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
-              Exams: "Academic Eligibility: Students must have a bachelor's degree in engineering to get admission to this program.Students are required to maintain at least a 3.0 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9244fe50d3f008ce4b03c"
-              },
-              title: "Master of Science [M.S] (Financial Economics)",
-              info: "The MSc in Financial Economics at Columbia University is a 2-year program.This program is offered by the Finance Division of Columbia Business School. The MSc in Financial Economics contains four semesters of full-time study (fall and spring) at Columbia Business School.Students have the opportunity to obtain a rigorous, graduate-level finance and economics training in an intensive two-year program. Student internship and full-time employment opportunities have included:Asset management companies Central banks Economic consulting firmsPolicy organizations Asset management companiesPh.D programsReal-estate development companiesThis program gives full-time training in the application of engineering methodologies and quantitative methods in finance..The student-faculty ratio of this college is 6:1.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
-              fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
-              Exams: "Academic Eligibility: Students must have a bachelor's degree in a related field of engineering or science to get admission in this program.Students required to maintain at least a 2.7 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9244fe50d3f008ce4b042"
-              },
-              title: "Master of Science [M.S] (Applied Physics)",
-              info: "About this course:This 30-point program leads to a Master of Science degree.Students must complete 4 core courses from these :Quantum physics of matter (3 pts)Modern optics (3 pts)Laser physics (3 pts)Physics of fluids (3 pts)Applied electrodynamics (3 pts)Introduction to plasma physics (3 ptsRead More",
-              fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.The average cumulative high school GPA of students is 2.5.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4 years bachelor's degree from a recognized institution.The average cumulative high school GPA of students is 2.5.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92450e50d3f008ce4b044"
-              },
-              title: "Master of Science [M.S] (Computer Science)",
-              info: "The MSc in Computer Science at Columbia University is a 1-year program.The Master of Science (MSc) program is intended for people who wish to broaden and deepen their understanding of computer science.Columbia University and the New York City environment provide excellent career opportunities with multiple industries.The program provides a unique opportunity to develop leading-edge in-depth knowledge of specific computer science disciplines.The department currently offers concentration tracks covering eight such disciplines.MS students are encouraged to participate in the state of the art research with the research groups and labs.The acceptance rate of Columbia University is 5.8%.Columbia University and the Department of Computer Science provide opportunities for students to explore career options and to prepare for their job search.After completing this program, students can pursue a variety of careers either within the computer industry or elsewhere.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
-              fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
-              Exams: "Academic Eligibility: Students must have a bachelor's degree in a related field received from an institution.Students required to maintain at least a 2.7 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9244fe50d3f008ce4b040"
-              },
-              title: "Master of Science [M.S] (Applied Mathematics)",
-              info: "About this course:This 30-point program leads to a Master of Science degree.Students must complete five core courses and five electives:Principles of applied mathematics (3 pts)Introduction to nonlinear dynamical systems (3 pts)Partial differential equations (3 pts)  Functions of a complex variable (3 pts)Intro to numerical methods (3 pts)  Numerical analysis of partial differential equations (3 pts)Read More",
-              fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.The average cumulative high school GPA of students is 2.5.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4 years bachelor's degree from a recognized institution.The average cumulative high school GPA of students is 2.5.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92450e50d3f008ce4b046"
-              },
-              title: "Master of Science [M.S] (Accounting and Fundamental Analysis)",
-              info: "The MSc in Accounting and Fundamental Analysis at Columbia University is a 1-year program.This is a three-semester STEM-designated master's degree program offered by the Accounting Division of Columbia Business School.The goal of the program is to give students with the quantitative and theoretical tools for a successful career in Investment advisory, equity, and credit analysis, and consulting.Students will complete a minimum of 10 full courses (30 credits) along with a MSc thesis (3 credits) in which they will conduct an original research project. This program is a specialized and analytically-focused course, with a concentration on the principles of fundamental analysis.Students have accepted the internship and full-time opportunities in the following areas:Asset management firmsCentral banksConsulting firmsInvestment/commercial banksPolicy organizationsHedge fundsPrivate equity firmsReal-estate developmentPh.D programsStudents have the opportunity to obtain rigorous, graduate-level training in Accounting, Fundamental Analysis, Statistics, Finance, and Economics.The student-faculty ratio of this college is 6:1.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
-              fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
-              Exams: "Academic Eligibility: Students must have a bachelor's degree in engineering to get admission in this program.Students required to maintain at least a 2.7 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92450e50d3f008ce4b048"
-              },
-              title: "Master of Science [M.S] (Computer Engineering)",
-              info: "The Computer Engineering program combines key aspects of electrical engineering and computer science.In this program, students learn the fundamentals of circuits, systems, and software associated with the design of programmable systems as used for general-purpose computing, communications, control, or signal processing.Because of their broad skills in both hardware and software, students in computer engineering are in high demand for employment after graduation.Computer engineering students are also positioned to pursue graduate programs in either computer science or electrical engineering.Read More",
-              fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
-              Exams: "Academic Eligibility: Students must have a bachelor's degree in computer or any engineering field received from an institution.Students required to maintain at least a 3.5 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d9343e06b5dea98e1f79ce"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d9237c1c42ab7cf222f703"
+                      },
+                      title: "Master of Science [M.S] (Data Science)",
+                      info: "The MSc in Data Science at Columbia University is a 1-year program.The Master of Science in Data Science allows students to apply data science techniques to their field of interest, building on four foundational courses offered in the certification of Professional Achievement in Data Sciences program.Students have the opportunity to conduct original research, included in a capstone project, and interact with industry partners and faculty.Students may also choose an elective track focused on entrepreneurship or a subject area covered by one of eight centers.Some students are primarily concerned about data ethics, others are excited about data science as a new evolution in knowledge, but all are interested in how data science is changing their everyday lives.The M.Sc in Data Science is for individuals looking to strengthen their career prospects or make a career change by developing expertise in data science.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
+                      fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
+                      Exams: "Academic Eligibility: Students must have a bachelor's degree in a related field received from an institution.Students are required to maintain at least a 3.8 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9244ee50d3f008ce4b038"
+                      },
+                      title: "Master of Science [M.S] (Business Analytics)",
+                      info: "The MSc in Business Analytics at Columbia University is a 1-year program.The Columbia Engineering and Columbia Business School offers a new full-time Master of Science in Business Analytics degree.This three-semester program designed for those who want to focus on learning the modeling techniques and data science tools that help businesses use data to make better decisions.Some of the main topics students learn through this program are:Python for Analytics BootcampOptimization Models and MethodsData AnalyticsMarketing AnalyticsOperations StrategyRisk Management and many moreThe key element of the new program is a capstone project that gives an intense consulting engagement with clients and their real-world business problems using real data sets. .The student-faculty ratio of this college is 6:1.The role of analytics has grown increasingly critical in business, healthcare, government, and many other sectors of the economy. The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
+                      fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
+                      Exams: "Academic Eligibility: Students must have a bachelor's degree in a related field of engineering or science to get admission in this program.Students are required to maintain at least a 3.0 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9244fe50d3f008ce4b03a"
+                      },
+                      title: "Master of Science [M.S] (Journalism and Computer Science)",
+                      info: "The MSc in Journalism/Computer Science at Columbia University is a 2-year program.Students will learn the fundamentals of reporting and writing while developing a working background in computer science and software design.The dual degree gives robust opportunities in both fields, including:Designing and building platformsAlgorithms and applications for journalism or pursuing research and development workComputer science related to journalism, natural language processing, and the digital humanitiesThe student-faculty ratio of this college is 6:1.Students learn valuable career­-building strategies including:How to write journalism-­specific resumes and cover letters Understanding of the profile, structure, and multimedia newsroomsSocial media and online portfoliosStrategies to mine job opportunities, develop contacts, and networkHow to prepare for and succeed in a job interviewThe acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
+                      fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
+                      Exams: "Academic Eligibility: Students must have a bachelor's degree in related fields to get admission in this program.Students required a strong background in computer science, extensive mathematics or engineering training. Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9244fe50d3f008ce4b03e"
+                      },
+                      title: "Master of Science [M.S] (Applied Analytics)",
+                      info: "The MSc in Applied Analytics at Columbia University is a 1-year program.The program is available on a full-time or part-time basis.This program prepares students with the practical data and leadership skills to succeed in the coming era.The program consists of required courses in two core areas: Management CoreTechnical CoreSome of the main topics students learn through this program are:Applied analytics in the organizational contextResearch design Strategy and analyticsManaging dataAnalytics and leading change and many moreThe program combines in-depth knowledge of data analytics with the leadership, management, and communication principles and tactics necessary to impact decision-making at all levels within organizations.The student-faculty ratio of this college is 6:1.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.The Master of Science in Applied Analytics  For the full-time option, students take courses on Columbia's New York City campus. The program takes three terms (12 credits per term) to complete, and fall or spring entry is possible.Read More",
+                      fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
+                      Exams: "Academic Eligibility: Students must have a bachelor's degree in engineering to get admission to this program.Students are required to maintain at least a 3.0 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9244fe50d3f008ce4b03c"
+                      },
+                      title: "Master of Science [M.S] (Financial Economics)",
+                      info: "The MSc in Financial Economics at Columbia University is a 2-year program.This program is offered by the Finance Division of Columbia Business School. The MSc in Financial Economics contains four semesters of full-time study (fall and spring) at Columbia Business School.Students have the opportunity to obtain a rigorous, graduate-level finance and economics training in an intensive two-year program. Student internship and full-time employment opportunities have included:Asset management companies Central banks Economic consulting firmsPolicy organizations Asset management companiesPh.D programsReal-estate development companiesThis program gives full-time training in the application of engineering methodologies and quantitative methods in finance..The student-faculty ratio of this college is 6:1.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
+                      fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
+                      Exams: "Academic Eligibility: Students must have a bachelor's degree in a related field of engineering or science to get admission in this program.Students required to maintain at least a 2.7 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9244fe50d3f008ce4b042"
+                      },
+                      title: "Master of Science [M.S] (Applied Physics)",
+                      info: "About this course:This 30-point program leads to a Master of Science degree.Students must complete 4 core courses from these :Quantum physics of matter (3 pts)Modern optics (3 pts)Laser physics (3 pts)Physics of fluids (3 pts)Applied electrodynamics (3 pts)Introduction to plasma physics (3 ptsRead More",
+                      fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.The average cumulative high school GPA of students is 2.5.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4 years bachelor's degree from a recognized institution.The average cumulative high school GPA of students is 2.5.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92450e50d3f008ce4b044"
+                      },
+                      title: "Master of Science [M.S] (Computer Science)",
+                      info: "The MSc in Computer Science at Columbia University is a 1-year program.The Master of Science (MSc) program is intended for people who wish to broaden and deepen their understanding of computer science.Columbia University and the New York City environment provide excellent career opportunities with multiple industries.The program provides a unique opportunity to develop leading-edge in-depth knowledge of specific computer science disciplines.The department currently offers concentration tracks covering eight such disciplines.MS students are encouraged to participate in the state of the art research with the research groups and labs.The acceptance rate of Columbia University is 5.8%.Columbia University and the Department of Computer Science provide opportunities for students to explore career options and to prepare for their job search.After completing this program, students can pursue a variety of careers either within the computer industry or elsewhere.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
+                      fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
+                      Exams: "Academic Eligibility: Students must have a bachelor's degree in a related field received from an institution.Students required to maintain at least a 2.7 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9244fe50d3f008ce4b040"
+                      },
+                      title: "Master of Science [M.S] (Applied Mathematics)",
+                      info: "About this course:This 30-point program leads to a Master of Science degree.Students must complete five core courses and five electives:Principles of applied mathematics (3 pts)Introduction to nonlinear dynamical systems (3 pts)Partial differential equations (3 pts)  Functions of a complex variable (3 pts)Intro to numerical methods (3 pts)  Numerical analysis of partial differential equations (3 pts)Read More",
+                      fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.The average cumulative high school GPA of students is 2.5.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4 years bachelor's degree from a recognized institution.The average cumulative high school GPA of students is 2.5.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92450e50d3f008ce4b046"
+                      },
+                      title: "Master of Science [M.S] (Accounting and Fundamental Analysis)",
+                      info: "The MSc in Accounting and Fundamental Analysis at Columbia University is a 1-year program.This is a three-semester STEM-designated master's degree program offered by the Accounting Division of Columbia Business School.The goal of the program is to give students with the quantitative and theoretical tools for a successful career in Investment advisory, equity, and credit analysis, and consulting.Students will complete a minimum of 10 full courses (30 credits) along with a MSc thesis (3 credits) in which they will conduct an original research project. This program is a specialized and analytically-focused course, with a concentration on the principles of fundamental analysis.Students have accepted the internship and full-time opportunities in the following areas:Asset management firmsCentral banksConsulting firmsInvestment/commercial banksPolicy organizationsHedge fundsPrivate equity firmsReal-estate developmentPh.D programsStudents have the opportunity to obtain rigorous, graduate-level training in Accounting, Fundamental Analysis, Statistics, Finance, and Economics.The student-faculty ratio of this college is 6:1.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
+                      fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
+                      Exams: "Academic Eligibility: Students must have a bachelor's degree in engineering to get admission in this program.Students required to maintain at least a 2.7 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92450e50d3f008ce4b048"
+                      },
+                      title: "Master of Science [M.S] (Computer Engineering)",
+                      info: "The Computer Engineering program combines key aspects of electrical engineering and computer science.In this program, students learn the fundamentals of circuits, systems, and software associated with the design of programmable systems as used for general-purpose computing, communications, control, or signal processing.Because of their broad skills in both hardware and software, students in computer engineering are in high demand for employment after graduation.Computer engineering students are also positioned to pursue graduate programs in either computer science or electrical engineering.Read More",
+                      fees: "YearYear 1Tuition Fees₹4004083Health Insurance₹52079Books and supply₹162240Miscellaneous expenses₹438048Total Fees₹4656450",
+                      Exams: "Academic Eligibility: Students must have a bachelor's degree in computer or any engineering field received from an institution.Students required to maintain at least a 3.5 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Cornell University",
               Details: "Cornell University is an ‘Ivy League' institution offering education across various academic levels. Established in 1865, Cornell University is best known for its Engineering programs. Cornell Engineering is the highest rated school of Engineering among the ‘Ivy League' institutes with 14 undergraduate majors and 15 graduate majors. Overall, international students can choose from 80 undergraduate majors, 122 minors and interdisciplinary graduate programs at Cornell University across 110 fields.The total cost of studying undergraduate programs at Cornell University is around 66.6 lakhs INR for Indian students. The cost of studying graduate programs range around 64 lakhs. Admitted students at Cornell have an average unweighted GPA of 4.07 (97-100%) on a scale of 4. Prospective students need academic transcripts, academic and professional LOR, SOP, teacher evaluation along with several course-specific requirements for admission to Cornell University. Applicants need a minimum TOEFL iBT score of 100 or equivalent for admission to the UG programs at Cornell. For graduate students, a minimum TOEFL iBT score of 77 or equivalent is required.",
               CoursesN: "Master",
               img: "https://tse3.mm.bing.net/th?id=OIP.6aMlSQ2wHOfZGHHVWSymbQAAAA&pid=Api&P=0",
-              title: "Master of Science [M.S] (Computer Science)",
-              info: "This is a very small, highly selective, four-semester program for students who wish to deepen their knowledge of computer science through advanced coursework, research, writing, and teaching.The program is ideal for self-motivated students who have expository skills, enjoy the research environment, and like working with undergraduates in introductory courses. Students in the program serve as teaching assistants and receive full tuition plus a stipend.Concentrations by Subject:artificial intelligencecomputer scienceprogramming languages and logicsscientific computing and applicationssystemstheory of computationRead More",
-              fees: "YearYear 1Year 2Tuition Fees₹2393040₹2393040Total Fees₹2393040₹2393040",
-              Exams: "Academic Eligibility:A Bachelors degree in CS is expected but applicants who have majored in another field and minored in CS will be fully considered.Applicants must have a proven record of excellence as an undergraduate grader/TA in a computer science course.Experience as an undergraduate researcher is highly recommended.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d935022bc2520685a3958d"
-              },
-              title: "Master of Science [M.S] (Atmospheric Science)",
-              info: "Atmospheric science concerns the study of processes in the atmosphere, from the planetary boundary layer to the ionosphere. Applications relate to the analysis and prediction of weather and climate. For more information, ",
-              fees: "YearYear 1Tuition Fees₹3201482Total Fees₹3201482",
-              Exams: "Academic Eligibility: Students must have a  bachelor's degree in engineering or its equivalent to get admission to this program.A GPA of 3.34 on a 4.0 scale is required to be eligible for the program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Students need to submit a minimum GMAT score and GRE exam scores for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d935032bc2520685a39591"
-              },
-              title: "Master of Science [M.S] (Applied Physics)",
-              info: "Graduate study in the field of Applied Physics offers the opportunity to achieve proficiency in physics, mathematics, and applied science.Applied Physics is particularly suitable for students preparing for a scientific career in an area of applied science based on principles and techniques of physics.A student may choose for specialization and thesis or dissertation research any subject compatible with an approach based on the application of principles of physics and mathematics.Current areas of advanced study and research include applied theoretical physics, biophysics, chemical physics, physics of fluids, nuclear and reactor physics, optics, laser physics, plasma physics, solid-state physics, nanoscience, and space physics.The two-year Master of Science program offers advanced study and training in three disciplines: Optics,Nanotechnology, andBiotechnology.These programs provide valuable training and research and design project experience.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2393040₹2393040Total Fees₹2393040₹2393040",
-              Exams: "Applicants should have undergraduate preparation in physics or another physical science or in an engineering field with a strong emphasis on mathematics and modern physics.TOEFL Exam or IELTS Academic Exam for non-native English applicants.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d935032bc2520685a3958f"
-              },
-              title: "Master of Science [M.S] (Applied Economics and Management)",
-              info: "The MSc in Applied Economics and Management at Cornell University is a 2-year program.The program consists of coursework and a problem-solving project, rather than research, for a hands-on experience to advance in career.Students have the opportunity to take Concentrations by subject:Applied behavioral economicsEnvironmental, energy, and resource economicsFood and agricultural economics International and development economicsManagementStudents in this program learn everything from international trade and development to food, energy, and resource economics and innovations in technologyThe Graduation rate of Cornell University is 94%.The student-faculty ratio of this college is 8:1.The acceptance rate of Cornell University is 11%.Cornell University is ranked #18 in QS Global World Rankings 2021.Read More",
-              fees: "YearYear 1Tuition Fees₹1687296Total Fees₹1687296",
-              Exams: "Academic Eligibility: Students must have a  bachelor's degree in engineering or its equivalent to get admission to this program.A GPA of 3.34 on a 4.0 scale is required to be eligible for the program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Students need to submit a minimum GMAT score and GRE exam scores for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d935032bc2520685a39593"
-              },
-              title: "Master of Science [M.S] (Materials Science and Engineering)",
-              info: "Cornell University's Master of Science (M.S.) in Materials Science and Engineering (MSE) program represents an opportunity to learn research methodology at one of the premier research universities in the world, earning a highly-regarded credential: an M.S. in Materials Science and Engineering. It is a full-time two-year M.S. program that combines academic rigor with a strong research component. MSE graduate students master a set of core concepts and principles critical to a fundamental understanding of materials science and engineering, but also have tremendous flexibility in designing a sequence of coursework and research. Cornell MS&E has vibrant research programs in four strategic areas: Energy Production and Storage, Electronics and Photonics, Bio-inspired Materials and Systems, and Green Technologies.Cornell University is ranked #8 among the top 10 materials science and engineering graduate programs in  U.S. News & World Report.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2393040₹2393040Total Fees₹2393040₹2393040",
-              Exams: "Academic Eligibility: Students must have a  bachelor's degree in engineering or its equivalent to get admission to this program.A GPA of 3.34 on a 4.0 scale is required to be eligible for the program.Indian Student Eligibility:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d935032bc2520685a39597"
-              },
-              title: "Master of Science [M.S] (Information Systems)",
-              info: "The two-year MS in Information Systems immerses students in the core technical, human and business factors at the convergence of information and technology.Students receive training in entrepreneurship and innovation management and engage in extensive R&D projects with tech companies in New York City.ConcentraionThe Connective Media concentration focuses on the technology driving digital media, as well as the psychological, social and business forces at play in today's connected media environment.The Health Tech concentration emphasizes the technical and entrepreneurial skills needed to create new digital technologies for patients, clinicians and communitiesThe Urban Tech concentration emphasizes the integration of Urban Design, Architecture and Computer Science to build smarter more interconnected citiesRead More",
-              fees: "YearYear 1Year 2Tuition Fees₹4890400₹4890400Total Fees₹4890400₹4890400",
-              Exams: "Academic Eligibility: Students must have a bachelor's degree from an accredited institution or an equivalent international degree.Candidates have a deep interest in people-driven technologies and a strong academic background in a science or engineering disciplineIndian Student Eligibility:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d935032bc2520685a39595"
-              },
-              title: "Master of Science [M.S] (Advanced Architectural Design)",
-              info: "A structure of core and elective studios and courses allows students to pursue trajectories of inquiry within one of four interrelated territories of investigation:Architecture and Discourse (A+D): Theory, criticism, publishing, cultural production, design research, history and contemporaneityArchitecture and Ecology (A+E): Sustainable practices, soft infrastructures, materials research, environmental simulation, computational design, digital fabrication, performance driven designArchitecture and Representation (A+R): Emerging technologies, drawing fields, digital and generative design, new cartographies, media spaces, architectural publications and exhibitions, theories of representationArchitecture and Urbanism (A+U): Urban geography, typological studies, urban theory, networks, infrastructures, urban imaging, ecological urbanismRead More",
-              fees: "YearYear 1Year 2Tuition Fees₹2393040₹2393040Total Fees₹2393040₹2393040",
-              Exams: "Academic Eligibility: Students must have a  bachelor's degree in engineering or its equivalent to get admission to this program.A GPA of 3.34 on a 4.0 scale is required to be eligible for the program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Students need to submit a minimum GMAT score and GRE exam scores for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d935042bc2520685a39599"
-              },
-              title: "Master of Science [M.S] (Mechanical Engineering)",
-              info: "The MSc in Mechanical Engineering at Cornell University is a 2-year program.This program is for those students who want to develop a high level of competence in current technology and engineering design and who plan to practice engineering in industry or professionally. Students have the opportunity to take Concentrations by subject:Biomedical mechanicsDynamics and controlEnergy and sustainabilityFluid dynamicsMicro- and nanoscale engineeringSolid mechanics and materialsThermal scienceThis program prepares students to succeed in industry, government, and academia.The Graduation rate of Cornell University is 94%.The student-faculty ratio of this college is 8:1.The acceptance rate of Cornell University is 11%.Cornell University is ranked #18 in QS Global World Rankings 2021.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2393040₹2393040Total Fees₹2393040₹2393040",
-              Exams: "Academic Eligibility: Students must have a  bachelor's degree in engineering or its equivalent to get admission to this program.A GPA of 3.34 on a 4.0 scale is required to be eligible for the program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Students need to submit a minimum GMAT score and GRE exam scores for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d80d08e7321660f1168fc5"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d9343e06b5dea98e1f79ce"
+                      },
+                      title: "Master of Science [M.S] (Computer Science)",
+                      info: "This is a very small, highly selective, four-semester program for students who wish to deepen their knowledge of computer science through advanced coursework, research, writing, and teaching.The program is ideal for self-motivated students who have expository skills, enjoy the research environment, and like working with undergraduates in introductory courses. Students in the program serve as teaching assistants and receive full tuition plus a stipend.Concentrations by Subject:artificial intelligencecomputer scienceprogramming languages and logicsscientific computing and applicationssystemstheory of computationRead More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2393040₹2393040Total Fees₹2393040₹2393040",
+                      Exams: "Academic Eligibility:A Bachelors degree in CS is expected but applicants who have majored in another field and minored in CS will be fully considered.Applicants must have a proven record of excellence as an undergraduate grader/TA in a computer science course.Experience as an undergraduate researcher is highly recommended.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d935022bc2520685a3958d"
+                      },
+                      title: "Master of Science [M.S] (Atmospheric Science)",
+                      info: "Atmospheric science concerns the study of processes in the atmosphere, from the planetary boundary layer to the ionosphere. Applications relate to the analysis and prediction of weather and climate. For more information, ",
+                      fees: "YearYear 1Tuition Fees₹3201482Total Fees₹3201482",
+                      Exams: "Academic Eligibility: Students must have a  bachelor's degree in engineering or its equivalent to get admission to this program.A GPA of 3.34 on a 4.0 scale is required to be eligible for the program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Students need to submit a minimum GMAT score and GRE exam scores for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d935032bc2520685a39591"
+                      },
+                      title: "Master of Science [M.S] (Applied Physics)",
+                      info: "Graduate study in the field of Applied Physics offers the opportunity to achieve proficiency in physics, mathematics, and applied science.Applied Physics is particularly suitable for students preparing for a scientific career in an area of applied science based on principles and techniques of physics.A student may choose for specialization and thesis or dissertation research any subject compatible with an approach based on the application of principles of physics and mathematics.Current areas of advanced study and research include applied theoretical physics, biophysics, chemical physics, physics of fluids, nuclear and reactor physics, optics, laser physics, plasma physics, solid-state physics, nanoscience, and space physics.The two-year Master of Science program offers advanced study and training in three disciplines: Optics,Nanotechnology, andBiotechnology.These programs provide valuable training and research and design project experience.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2393040₹2393040Total Fees₹2393040₹2393040",
+                      Exams: "Applicants should have undergraduate preparation in physics or another physical science or in an engineering field with a strong emphasis on mathematics and modern physics.TOEFL Exam or IELTS Academic Exam for non-native English applicants.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d935032bc2520685a3958f"
+                      },
+                      title: "Master of Science [M.S] (Applied Economics and Management)",
+                      info: "The MSc in Applied Economics and Management at Cornell University is a 2-year program.The program consists of coursework and a problem-solving project, rather than research, for a hands-on experience to advance in career.Students have the opportunity to take Concentrations by subject:Applied behavioral economicsEnvironmental, energy, and resource economicsFood and agricultural economics International and development economicsManagementStudents in this program learn everything from international trade and development to food, energy, and resource economics and innovations in technologyThe Graduation rate of Cornell University is 94%.The student-faculty ratio of this college is 8:1.The acceptance rate of Cornell University is 11%.Cornell University is ranked #18 in QS Global World Rankings 2021.Read More",
+                      fees: "YearYear 1Tuition Fees₹1687296Total Fees₹1687296",
+                      Exams: "Academic Eligibility: Students must have a  bachelor's degree in engineering or its equivalent to get admission to this program.A GPA of 3.34 on a 4.0 scale is required to be eligible for the program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Students need to submit a minimum GMAT score and GRE exam scores for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d935032bc2520685a39593"
+                      },
+                      title: "Master of Science [M.S] (Materials Science and Engineering)",
+                      info: "Cornell University's Master of Science (M.S.) in Materials Science and Engineering (MSE) program represents an opportunity to learn research methodology at one of the premier research universities in the world, earning a highly-regarded credential: an M.S. in Materials Science and Engineering. It is a full-time two-year M.S. program that combines academic rigor with a strong research component. MSE graduate students master a set of core concepts and principles critical to a fundamental understanding of materials science and engineering, but also have tremendous flexibility in designing a sequence of coursework and research. Cornell MS&E has vibrant research programs in four strategic areas: Energy Production and Storage, Electronics and Photonics, Bio-inspired Materials and Systems, and Green Technologies.Cornell University is ranked #8 among the top 10 materials science and engineering graduate programs in  U.S. News & World Report.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2393040₹2393040Total Fees₹2393040₹2393040",
+                      Exams: "Academic Eligibility: Students must have a  bachelor's degree in engineering or its equivalent to get admission to this program.A GPA of 3.34 on a 4.0 scale is required to be eligible for the program.Indian Student Eligibility:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d935032bc2520685a39597"
+                      },
+                      title: "Master of Science [M.S] (Information Systems)",
+                      info: "The two-year MS in Information Systems immerses students in the core technical, human and business factors at the convergence of information and technology.Students receive training in entrepreneurship and innovation management and engage in extensive R&D projects with tech companies in New York City.ConcentraionThe Connective Media concentration focuses on the technology driving digital media, as well as the psychological, social and business forces at play in today's connected media environment.The Health Tech concentration emphasizes the technical and entrepreneurial skills needed to create new digital technologies for patients, clinicians and communitiesThe Urban Tech concentration emphasizes the integration of Urban Design, Architecture and Computer Science to build smarter more interconnected citiesRead More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4890400₹4890400Total Fees₹4890400₹4890400",
+                      Exams: "Academic Eligibility: Students must have a bachelor's degree from an accredited institution or an equivalent international degree.Candidates have a deep interest in people-driven technologies and a strong academic background in a science or engineering disciplineIndian Student Eligibility:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d935032bc2520685a39595"
+                      },
+                      title: "Master of Science [M.S] (Advanced Architectural Design)",
+                      info: "A structure of core and elective studios and courses allows students to pursue trajectories of inquiry within one of four interrelated territories of investigation:Architecture and Discourse (A+D): Theory, criticism, publishing, cultural production, design research, history and contemporaneityArchitecture and Ecology (A+E): Sustainable practices, soft infrastructures, materials research, environmental simulation, computational design, digital fabrication, performance driven designArchitecture and Representation (A+R): Emerging technologies, drawing fields, digital and generative design, new cartographies, media spaces, architectural publications and exhibitions, theories of representationArchitecture and Urbanism (A+U): Urban geography, typological studies, urban theory, networks, infrastructures, urban imaging, ecological urbanismRead More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2393040₹2393040Total Fees₹2393040₹2393040",
+                      Exams: "Academic Eligibility: Students must have a  bachelor's degree in engineering or its equivalent to get admission to this program.A GPA of 3.34 on a 4.0 scale is required to be eligible for the program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Students need to submit a minimum GMAT score and GRE exam scores for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d935042bc2520685a39599"
+                      },
+                      title: "Master of Science [M.S] (Mechanical Engineering)",
+                      info: "The MSc in Mechanical Engineering at Cornell University is a 2-year program.This program is for those students who want to develop a high level of competence in current technology and engineering design and who plan to practice engineering in industry or professionally. Students have the opportunity to take Concentrations by subject:Biomedical mechanicsDynamics and controlEnergy and sustainabilityFluid dynamicsMicro- and nanoscale engineeringSolid mechanics and materialsThermal scienceThis program prepares students to succeed in industry, government, and academia.The Graduation rate of Cornell University is 94%.The student-faculty ratio of this college is 8:1.The acceptance rate of Cornell University is 11%.Cornell University is ranked #18 in QS Global World Rankings 2021.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2393040₹2393040Total Fees₹2393040₹2393040",
+                      Exams: "Academic Eligibility: Students must have a  bachelor's degree in engineering or its equivalent to get admission to this program.A GPA of 3.34 on a 4.0 scale is required to be eligible for the program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Students must complete a 4-year undergraduate degree with first class in a relevant field from a recognized institutionOr, students completed a master's degree with first-class in a relevant field from a recognized institution.Students need to submit a minimum GMAT score and GRE exam scores for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Harvard University",
               Details: "Harvard University is the oldest higher education institution in USA offering admission in Fall, Winter, Spring or Summer intakes. Established in 1636, Harvard has three campus locations- Cambridge, Allston, and Boston. The Ivy League USA institution is home to 16% international students hailing from 150+ countries including 613 Indian students and scholars.Harvard University acceptance rate is merely 4.7% for undergraduate programs and 10.3% for MBA program, for the Fall intake. There are around 90 undergraduate degrees and 150 graduate degree courses to choose from. Of these, popular Harvard University programs include Business Administration, Law, and Medicine. The eligibility requirements for Harvard is similar to any other Ivy League colleges, yet admission are granted to only academic elites. Applications for 2023 admissions commence from mid-August.",
               CoursesN: "Master",
               img: "https://tse1.mm.bing.net/th?id=OIP.lx4VflmiPC-5defzMkrGDAHaDc&pid=Api&P=0",
-              title: "Master of Science [M.S] (Data Science)",
-              info: "Master of Science in Data Science at Harvard University is offered as a 2-year teaching program.This program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:Hyper PersonalisationArtificial Intelligence (AI)Machine Intelligence (MI)Augmented RealityBehavioral AnalyticsGraph AnalyticsMasters in Data Science at Harvard is offered as a 2-year degree program by the School of Engineering & Applied Sciences (SEAS).Students are required to take 12 courses that complement the learning outcomes set by the faculty of Computer Science & Statistics.The thesis option is also available for those interested in gaining relevant research experience.By the end of the program, graduates will be well versed with processes such as building statistical models, data collection & management, analyzing massive data sets, visualizing data, etc.Career positions may include:Business Intelligence AnalystData AnalystData ScientistData EngineerQuantitative AnalystData Analytics Consultant, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4255231₹4255231Health Insurance₹105780₹105780Books and supply₹73008₹73008Miscellaneous expenses₹560539₹560539Total Fees₹4994558₹4994558",
-              Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Class 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d80d945372e853016d7baf"
-              },
-              title: "Master of Science [M.S] (Health Data Science)",
-              info: "Master of Science in Health Data Science at Harvard University is offered as a 1-year teaching program.This program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:Drug Discovery with Data SciencePredictive Analytics in HealthcareMonitoring Patient HealthTracking & Preventing DiseasesProviding Virtual AssistanceHealth Data Science is designed to provide rigorous quantitative training and essential statistical and computing skills needed to manage and analyze health science data to address important questions in public health and biomedical sciences.Career positions may include:Machine Learning ScientistApplications ArchitectEnterprise ArchitectData ArchitectInfrastructure Architect, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4255231₹4255231Health Insurance₹105780₹105780Books and supply₹73008₹73008Miscellaneous expenses₹560539₹560539Total Fees₹4994558₹4994558",
-              Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d80d955372e853016d7bb1"
-              },
-              title: "Master of Science [M.S] (Applied Computation)",
-              info: "Applied Computation at Harvard School of Engineering uses computational and data science principles to solve challenges at the frontiers of natural and social science and all engineering fields.Both the Data Science degree program (in partnership with the Statistics Department in the Faculty of Arts and Sciences) and the Computational Science and Engineering degree program are housed within the Institute for Applied Computational Science (IACS). Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4255231₹4255231Health Insurance₹105780₹105780Books and supply₹73008₹73008Miscellaneous expenses₹560539₹560539Total Fees₹4994558₹4994558",
-              Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d80d955372e853016d7bb3"
-              },
-              title: "Master of Science [M.S] (Liberal Arts - Software Engineering)",
-              info: "Master's in Liberal Arts - Software Engineering at Harvard University is offered as a 2-year teaching program.This program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:Automotive softwareAvionics softwareElectronic warfare engineeringHeating Ventilation and Air Conditioning (HVAC) softwareMedical device softwareThrough the degree program in software engineering, students will:Develop an understanding of current technologies, such as databases, communication protocols, cloud computing, and web frameworks and their application.Gain the ability to specify, design, implement, analyze, and improve software solutions from a wide variety of domains.Learn how to adapt to new and emerging technologies.Earn an optional graduate certificate in back-end web development, cybersecurity, or data science.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4255231₹4255231Health Insurance₹105780₹105780Books and supply₹73008₹73008Miscellaneous expenses₹560539₹560539Total Fees₹4994558₹4994558",
-              Exams: "Academic Eligibility:Candidates must have a four-year bachelor's degree from an accredited institution or equivalent.GPA of 3.0/4.0 [B or higher].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirements….Read More",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d80d955372e853016d7bb5"
-              },
-              title: "Master of Science [M.S] (Computational Science and Engineering)",
-              info: "Master of Science in Computational Science and Engineering at Harvard University is offered as a 2-year teaching program. The program also comes with a co-op work option. In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements. If you are looking forward to applying to MSc Computational Science & Engineering from Harvard, you will need a four-year bachelor's degree, TOEFL/IELTS scores, and GRE scores. As an international student, you will be spending around 41 lakhs INR a year. Students with an MS degree from Harvard are expected to make up to 95 lakhs a year. Some of the main courses that students will study in this program are Artificial intelligence, Computer systems and networks, Database systems, Human-computer interaction, Vision and graphics, and Numerical analysis. Computational Science and Engineering provides rigorous training in the mathematical and computing foundation. Independent research projects and elective courses focusing on the application of computation to one or more domains complement the foundational coursework.Read More",
-              fees: "YearYear 1Tuition Fees₹4255231Health Insurance₹105780Books and supply₹73008Miscellaneous expenses₹560539Total Fees₹4994558",
-              Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade]. Percentage equivalents- 83-86%Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d80d955372e853016d7bb7"
-              },
-              title: "Master of Science [M.S] (Biostatistics)",
-              info: "Master of Science in Biostatistics at Harvard University is offered as a 1-year teaching program.This program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:BiologyHealth sciencesStatisticsEpidemiologyThe Department of Biostatistics at the Harvard Chan School provides an exceptional opportunity for students to join faculty in carrying on our tradition of addressing the greatest challenges in public health, biomedical research, and computational biology.Their programs provide students with rigorous training in statistical theory and methods as well as in computation—and to use what they learn in the classroom to address important, real-world problems.Career positions may include:Graduate Student AssistantDoctoral FellowSenior ScientistMedical AssistantRegistered NurseMedical AssistantSpecialistFellowResearch ScientistTraineeSoftware EngineerSystems Engineer, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Tuition Fees₹4255231Health Insurance₹105780Books and supply₹73008Miscellaneous expenses₹560539Total Fees₹4994558",
-              Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d8113ef894e753ef66b896"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d80d08e7321660f1168fc5"
+                      },
+                      title: "Master of Science [M.S] (Data Science)",
+                      info: "Master of Science in Data Science at Harvard University is offered as a 2-year teaching program.This program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:Hyper PersonalisationArtificial Intelligence (AI)Machine Intelligence (MI)Augmented RealityBehavioral AnalyticsGraph AnalyticsMasters in Data Science at Harvard is offered as a 2-year degree program by the School of Engineering & Applied Sciences (SEAS).Students are required to take 12 courses that complement the learning outcomes set by the faculty of Computer Science & Statistics.The thesis option is also available for those interested in gaining relevant research experience.By the end of the program, graduates will be well versed with processes such as building statistical models, data collection & management, analyzing massive data sets, visualizing data, etc.Career positions may include:Business Intelligence AnalystData AnalystData ScientistData EngineerQuantitative AnalystData Analytics Consultant, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4255231₹4255231Health Insurance₹105780₹105780Books and supply₹73008₹73008Miscellaneous expenses₹560539₹560539Total Fees₹4994558₹4994558",
+                      Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Class 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d80d945372e853016d7baf"
+                      },
+                      title: "Master of Science [M.S] (Health Data Science)",
+                      info: "Master of Science in Health Data Science at Harvard University is offered as a 1-year teaching program.This program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:Drug Discovery with Data SciencePredictive Analytics in HealthcareMonitoring Patient HealthTracking & Preventing DiseasesProviding Virtual AssistanceHealth Data Science is designed to provide rigorous quantitative training and essential statistical and computing skills needed to manage and analyze health science data to address important questions in public health and biomedical sciences.Career positions may include:Machine Learning ScientistApplications ArchitectEnterprise ArchitectData ArchitectInfrastructure Architect, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4255231₹4255231Health Insurance₹105780₹105780Books and supply₹73008₹73008Miscellaneous expenses₹560539₹560539Total Fees₹4994558₹4994558",
+                      Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d80d955372e853016d7bb1"
+                      },
+                      title: "Master of Science [M.S] (Applied Computation)",
+                      info: "Applied Computation at Harvard School of Engineering uses computational and data science principles to solve challenges at the frontiers of natural and social science and all engineering fields.Both the Data Science degree program (in partnership with the Statistics Department in the Faculty of Arts and Sciences) and the Computational Science and Engineering degree program are housed within the Institute for Applied Computational Science (IACS). Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4255231₹4255231Health Insurance₹105780₹105780Books and supply₹73008₹73008Miscellaneous expenses₹560539₹560539Total Fees₹4994558₹4994558",
+                      Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d80d955372e853016d7bb3"
+                      },
+                      title: "Master of Science [M.S] (Liberal Arts - Software Engineering)",
+                      info: "Master's in Liberal Arts - Software Engineering at Harvard University is offered as a 2-year teaching program.This program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:Automotive softwareAvionics softwareElectronic warfare engineeringHeating Ventilation and Air Conditioning (HVAC) softwareMedical device softwareThrough the degree program in software engineering, students will:Develop an understanding of current technologies, such as databases, communication protocols, cloud computing, and web frameworks and their application.Gain the ability to specify, design, implement, analyze, and improve software solutions from a wide variety of domains.Learn how to adapt to new and emerging technologies.Earn an optional graduate certificate in back-end web development, cybersecurity, or data science.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4255231₹4255231Health Insurance₹105780₹105780Books and supply₹73008₹73008Miscellaneous expenses₹560539₹560539Total Fees₹4994558₹4994558",
+                      Exams: "Academic Eligibility:Candidates must have a four-year bachelor's degree from an accredited institution or equivalent.GPA of 3.0/4.0 [B or higher].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirements….Read More",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d80d955372e853016d7bb5"
+                      },
+                      title: "Master of Science [M.S] (Computational Science and Engineering)",
+                      info: "Master of Science in Computational Science and Engineering at Harvard University is offered as a 2-year teaching program. The program also comes with a co-op work option. In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements. If you are looking forward to applying to MSc Computational Science & Engineering from Harvard, you will need a four-year bachelor's degree, TOEFL/IELTS scores, and GRE scores. As an international student, you will be spending around 41 lakhs INR a year. Students with an MS degree from Harvard are expected to make up to 95 lakhs a year. Some of the main courses that students will study in this program are Artificial intelligence, Computer systems and networks, Database systems, Human-computer interaction, Vision and graphics, and Numerical analysis. Computational Science and Engineering provides rigorous training in the mathematical and computing foundation. Independent research projects and elective courses focusing on the application of computation to one or more domains complement the foundational coursework.Read More",
+                      fees: "YearYear 1Tuition Fees₹4255231Health Insurance₹105780Books and supply₹73008Miscellaneous expenses₹560539Total Fees₹4994558",
+                      Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade]. Percentage equivalents- 83-86%Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d80d955372e853016d7bb7"
+                      },
+                      title: "Master of Science [M.S] (Biostatistics)",
+                      info: "Master of Science in Biostatistics at Harvard University is offered as a 1-year teaching program.This program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:BiologyHealth sciencesStatisticsEpidemiologyThe Department of Biostatistics at the Harvard Chan School provides an exceptional opportunity for students to join faculty in carrying on our tradition of addressing the greatest challenges in public health, biomedical research, and computational biology.Their programs provide students with rigorous training in statistical theory and methods as well as in computation—and to use what they learn in the classroom to address important, real-world problems.Career positions may include:Graduate Student AssistantDoctoral FellowSenior ScientistMedical AssistantRegistered NurseMedical AssistantSpecialistFellowResearch ScientistTraineeSoftware EngineerSystems Engineer, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Tuition Fees₹4255231Health Insurance₹105780Books and supply₹73008Miscellaneous expenses₹560539Total Fees₹4994558",
+                      Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Massachusetts Institute of Technology",
               Details: "Massachusetts Institute of Technology is a private institution located in Cambridge, Massachusetts. MIT is a diverse university with a 29.1% ( 3411) international student population. The largest communities at MIT are from China with 971 students followed by 340 students from India. The majority of international students pursue masters-level STEM courses at MIT university. In 2021, the university's most enrolled programs were MS Management Studies and MS Mechanical Engineering.Ranking #1 in the world, Massachusetts Institute of Technology is globally acknowledged for its affordability. The average tuition fees for MIT programs is USD 57,590. MIT University offers need-blind scholarships with an average award amount of USD 40,000 to all students. With this significant financial aid, the annual tuition fees for MIT is reduced to almost USD 17,590.",
               CoursesN: "Master",
               img: "https://tse4.mm.bing.net/th?id=OIP.9o4yZc6r47IaOyyqjZH7dwHaDS&pid=Api&P=0",
-              title: "Master of Science [M.S] (Electrical Engineering and Computer Science)",
-              info: "MS in Electrical Engineering and Computer Science at the Massachusetts Institute of Technology is offered as a 2-years program by the Electrical Engineering & Computer Science Department.This university is ranked #1 in QS Global World University Rankings, 2022.It is an on-campus program offered on a full-time basis only.The MIT Electrical Engineering and Computer Science (EECS) department offers an in-depth education in principles built on mathematics, computation, and the physical sciences. Researchers make breakthroughs in a variety of topics, including product design, data science, robotics, and hardware design.LGO students work with EECS faculty to develop their own curriculum that pairs with their MBA coursework and plays to the student's strengths and academic interests.The MSc program consists of 66 units.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6285583₹6285583Health Insurance₹109025₹109025Books and supply₹250580₹250580Other Fees₹32124₹32124Total Fees₹6677312₹6677312",
-              Exams: "Academic Eligibility:The students must have a bachelor's degree(3 or 4 years) in any of the respective fields to apply for this program.A strong academic background in science or engineering with significant knowledge of electrical engineering or computer science. Work Experience:Previous work experience in an industrial setting is ideal.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 100 out of 120.The IELTS cut-off is 7 out of 9.IELTS exam is preferred over the TOEFL.Language Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d895a63b69320e18f8de85"
-              },
-              title: "Master of Science [M.S] (System Design and Management)",
-              info: "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Masters in System Design and Management at the Massachusetts Institute of Technology is offered as a 2-years program.This university is ranked #1 in QS Global World University Rankings, 2022.It is an on-campus program offered on a full-time basis only.The System Design & Management (SDM) Master's program offers early and mid-career professionals an innovative and customizable curriculum of advanced engineering and management skills.This multidisciplinary program allows fellows to see the world and relationships in new waysRead More",
-              fees: "YearYear 1Year 2Tuition Fees₹4948320₹4948320Books and supply₹250580₹250580Other Fees₹32124₹32124Total Fees₹5231023₹5231023",
-              Exams: "Academic Eligibility:The students must have a bachelor's degree(3 or 4 years) in any of the respective fields to apply for this program.The average GPA of the students in this program is 3.9.The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 90 out of 120.The students must compulsorily have to submit the scores of any one of the exams like GMAT or GRE",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d895a63b69320e18f8de87"
-              },
-              title: "Master of Science [M.S] (Business Analytics)",
-              info: "The Master of Business Analytics at Sloan school of management, Massachusetts Institute of Technology(MIT) is a 2-year program.In just 12 months, the MIT Sloan Master of Business Analytics program prepares students for careers that apply and manage modern data science to solve critical business challenges. A highlight of the Master of Business Analytics curriculum is the Analytics Capstone Project, which gives students an opportunity to work on real-life data science problems with industry practitioners. All students receive a $22K+ tuition offset as a result of their participation.Apply these skills across a broad range of industries including management consulting, financial services, technology, energy, healthcare, manufacturing, and more. 100% of the students will graduate with full-time offers every year.The student to faculty ratio is 8.6:1 which increases the intractability between students and faculty.The Female to male ratio in this program is 39:61.The class size is 60 which makes it easy for the faculty to interact with students and make discussions.70% of students in this program are international students which makes the program more international friendly.7% of the students of this program seek for Ph.D.'s after graduation.Some of the companies in which the students' work are:AmazonAppleBoston Consulting Group BostonFacebookGap, IncGoogle.., etc.The average base salary of the graduates after getting placed is 110,000 USD.Read More",
-              fees: "One time feesOne time fees 12Tuition Fees₹7000656Total Fees₹7000656",
-              Exams: "Academic Eligibility:The students must have a bachelor's degree(3 or 4 years) in any of the respective fields to apply for this program.The average GPA of the students in this program is 3.9.Students can apply with any bachelor's degree but the majority of the students come from these fields like Computer Science, Economics, Engineering (variety), Finance, Management, Math, Operations Research, Statistics…, etc.Work Experience:Work experience is not required but many of the students have an average experience of 15 months.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 90 out of 120.The IELTS cut-off will be decided by the university department.Language Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:The students must compulsorily have to submit the scores of any one of the exams like GMAT or GRE.MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d895a73b69320e18f8de89"
-              },
-              title: "Master of Science [M.S] (Computational Science and Engineering)",
-              info: "The master's degree in Computational Science and Engineering (CSE), previously the Computation for Design and Optimization (CDO) SM program, is an interdisciplinary program designed to prepare tomorrow's engineers and scientists in advanced computational methods and applications.The program provides a strong foundation in computational approaches to the design and operation of complex engineered and scientific systemsRead More",
-              fees: "YearYear 1Year 2Tuition Fees₹6285583₹6285583Health Insurance₹109025₹109025Books and supply₹250580₹250580Other Fees₹32124₹32124Total Fees₹6677312₹6677312",
-              Exams: "Academic Eligibility:The students must have a bachelor's degree(3 or 4 years) in any of the respective fields to apply for this program.The average GPA of the students in this program is 3.9.Students can apply with any bachelor's degree.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.TOEFL exam scores are not accepted for this program.GRE is not required for the 2020-2021 application cycleLanguage Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d895a73b69320e18f8de8b"
-              },
-              title: "Bachelor of Science [B.S] (Mechanical Engineering (Course-2))",
-              info: "Program provides a broad intellectual foundation in the field of mechanical engineering.It develops the relevant engineering fundamentals, provides several experiences in their application, and introduces the important methods and techniques of engineering practice.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹4671701₹4671701₹4671701₹4671701Health Insurance₹68952₹68952₹68952₹68952Other Fees₹32124₹32124₹32124₹32124Total Fees₹4772776₹4772776₹4772776₹4772776",
-              Exams: "Academic Eligibility:Students should have concluded their secondary education and wish to pursue a bachelor's degree as a full-time university student.Students may apply during or after their final year of secondary education but may not apply using the first-year application if they have already matriculated to another degree-granting institution.Others:MIT admissions counselors are trained to understand the educational system in your part of the world. The university recommends that all international students study:Four years of EnglishMathematics, at least to the level of calculusTwo or more years of history/social studiesBiologyChemistryPhysicsThe above subjects are not compulsory but they add an extra value while applying for this program.Transfer Students:For spring entry (February), the university must receive the student final application with all supporting documents by November 15.For fall entry (September), the university must receive the student final application with all supporting documents by March 15.The International students may apply for September entry only.One evaluation should be from a math or science instructor, and the other two should be from any instructors who know the student well. The university will find that the best recommendations are written by professors who know an applicant well as both a student and a person.The students are also welcomed (but not required) to submit two supplemental letters of recommendation from high school teachers, employers, etc.English Language Proficiency Scores:The students whose official language is not English are required to submit the ELP(English Language Proficiency) Scores.TOEFL scores are to be submitted and the should clear the cut-off( iBT – 90, PBT –  600) to get into this program.These Scores are evaluated along with SAT or ACT exam scores which are submitted.Exam Requirments:The university requires the SAT or the ACT and does not require the ACT writing section or the SAT optional essay.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d895a73b69320e18f8de8d"
-              },
-              title: "Master of Science [M.S] (Computation for Design and Optimization)",
-              info: "Massachusetts Institute of Technology offers MSc in Computation for Design and Optimization with a duration of 2 years.The program is full-time.It is delivered on-campus.The MIT CDO program was established in response to the emerging need to prepare tomorrow's engineers in advanced computational methods and applications. This interdisciplinary program provides a strong foundation in computational approaches to the design and operation of complex engineered and scientific systems.The Master of Science is the degree for students who want a deeply-focused study of a particular disciplinary field. According to TopUniversities MIT ranks#1.The student to faculty ratio in this program is 3:1 which increases the interaction between students and faculty.Classes with fewer than 20 students in this program are 70.8% which creates the environment suitable to acquire knowledge.The average salary after this program goes upto 102,550 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6285583₹6285583Health Insurance₹109025₹109025Books and supply₹250580₹250580Other Fees₹32124₹32124Total Fees₹6677312₹6677312",
-              Exams: "Academic Eligibility:The students must have a bachelor's degree(3 or 4 years) in any of the respective fields to apply for this program.The average GPA of the students in this program is 3.9.Students can apply with any bachelor's degree but majority of the students come from these fields like Computer Science, Economics, Engineering (variety), Finance, Management, Math, Operations Research, Statistics…, etc.Work Experience:Work experience is not required but many of the students have an average experience of 15 months.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 90 out of 120.The IELTS cut-off will be decided by the university department.Language Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:The students must compulsorily have to submit the scores of any one of the exams like GMAT or GRE.MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d895a73b69320e18f8de8f"
-              },
-              title: "Master of Science [M.S] (Economics)",
-              info: "The graduate program in Economics at MIT has grown to its present size of 123 full-time students and 42 faculty members. Its major emphasis is the training of doctoral candidates in a broad program of advanced study and research for professional careers in universities, government, or colleges, public and private research and consulting organizations, and financial institutions, and other private businesses.MIT operates on the semester system.The fall term, including examinations, ends before winter vacation.  It allows students to pursue their own research interests. The spring term runs from February through May.This university is ranked #1 in QS Global World University Rankings, 2022.It is an on-campus program offered on a full-time basis only.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6285583₹6285583Health Insurance₹109025₹109025Books and supply₹250580₹250580Other Fees₹32124₹32124Total Fees₹6677312₹6677312",
-              Exams: "Academic Eligibility:The students must have a bachelor's degree (3 or 4 years) in any of the respective fields to apply for this program.The average GPA of the students in this program is 3.9 on a scale of 5.0.Students can apply with any bachelor's degree, but most of the students come from these fields like Computer Science, Economics, Engineering (variety), Finance, Management, Math, Operations Research, Statistic, etc.Work Experience:Work experience is not required but many of the students have an average experience of 15 months.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 90 out of 120.The IELTS cut-off will be decided by the university department.Language Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions. ",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d9265654e6e70a5617eb08"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d8113ef894e753ef66b896"
+                      },
+                      title: "Master of Science [M.S] (Electrical Engineering and Computer Science)",
+                      info: "MS in Electrical Engineering and Computer Science at the Massachusetts Institute of Technology is offered as a 2-years program by the Electrical Engineering & Computer Science Department.This university is ranked #1 in QS Global World University Rankings, 2022.It is an on-campus program offered on a full-time basis only.The MIT Electrical Engineering and Computer Science (EECS) department offers an in-depth education in principles built on mathematics, computation, and the physical sciences. Researchers make breakthroughs in a variety of topics, including product design, data science, robotics, and hardware design.LGO students work with EECS faculty to develop their own curriculum that pairs with their MBA coursework and plays to the student's strengths and academic interests.The MSc program consists of 66 units.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6285583₹6285583Health Insurance₹109025₹109025Books and supply₹250580₹250580Other Fees₹32124₹32124Total Fees₹6677312₹6677312",
+                      Exams: "Academic Eligibility:The students must have a bachelor's degree(3 or 4 years) in any of the respective fields to apply for this program.A strong academic background in science or engineering with significant knowledge of electrical engineering or computer science. Work Experience:Previous work experience in an industrial setting is ideal.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 100 out of 120.The IELTS cut-off is 7 out of 9.IELTS exam is preferred over the TOEFL.Language Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d895a63b69320e18f8de85"
+                      },
+                      title: "Master of Science [M.S] (System Design and Management)",
+                      info: "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Masters in System Design and Management at the Massachusetts Institute of Technology is offered as a 2-years program.This university is ranked #1 in QS Global World University Rankings, 2022.It is an on-campus program offered on a full-time basis only.The System Design & Management (SDM) Master's program offers early and mid-career professionals an innovative and customizable curriculum of advanced engineering and management skills.This multidisciplinary program allows fellows to see the world and relationships in new waysRead More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4948320₹4948320Books and supply₹250580₹250580Other Fees₹32124₹32124Total Fees₹5231023₹5231023",
+                      Exams: "Academic Eligibility:The students must have a bachelor's degree(3 or 4 years) in any of the respective fields to apply for this program.The average GPA of the students in this program is 3.9.The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 90 out of 120.The students must compulsorily have to submit the scores of any one of the exams like GMAT or GRE",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d895a63b69320e18f8de87"
+                      },
+                      title: "Master of Science [M.S] (Business Analytics)",
+                      info: "The Master of Business Analytics at Sloan school of management, Massachusetts Institute of Technology(MIT) is a 2-year program.In just 12 months, the MIT Sloan Master of Business Analytics program prepares students for careers that apply and manage modern data science to solve critical business challenges. A highlight of the Master of Business Analytics curriculum is the Analytics Capstone Project, which gives students an opportunity to work on real-life data science problems with industry practitioners. All students receive a $22K+ tuition offset as a result of their participation.Apply these skills across a broad range of industries including management consulting, financial services, technology, energy, healthcare, manufacturing, and more. 100% of the students will graduate with full-time offers every year.The student to faculty ratio is 8.6:1 which increases the intractability between students and faculty.The Female to male ratio in this program is 39:61.The class size is 60 which makes it easy for the faculty to interact with students and make discussions.70% of students in this program are international students which makes the program more international friendly.7% of the students of this program seek for Ph.D.'s after graduation.Some of the companies in which the students' work are:AmazonAppleBoston Consulting Group BostonFacebookGap, IncGoogle.., etc.The average base salary of the graduates after getting placed is 110,000 USD.Read More",
+                      fees: "One time feesOne time fees 12Tuition Fees₹7000656Total Fees₹7000656",
+                      Exams: "Academic Eligibility:The students must have a bachelor's degree(3 or 4 years) in any of the respective fields to apply for this program.The average GPA of the students in this program is 3.9.Students can apply with any bachelor's degree but the majority of the students come from these fields like Computer Science, Economics, Engineering (variety), Finance, Management, Math, Operations Research, Statistics…, etc.Work Experience:Work experience is not required but many of the students have an average experience of 15 months.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 90 out of 120.The IELTS cut-off will be decided by the university department.Language Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:The students must compulsorily have to submit the scores of any one of the exams like GMAT or GRE.MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d895a73b69320e18f8de89"
+                      },
+                      title: "Master of Science [M.S] (Computational Science and Engineering)",
+                      info: "The master's degree in Computational Science and Engineering (CSE), previously the Computation for Design and Optimization (CDO) SM program, is an interdisciplinary program designed to prepare tomorrow's engineers and scientists in advanced computational methods and applications.The program provides a strong foundation in computational approaches to the design and operation of complex engineered and scientific systemsRead More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6285583₹6285583Health Insurance₹109025₹109025Books and supply₹250580₹250580Other Fees₹32124₹32124Total Fees₹6677312₹6677312",
+                      Exams: "Academic Eligibility:The students must have a bachelor's degree(3 or 4 years) in any of the respective fields to apply for this program.The average GPA of the students in this program is 3.9.Students can apply with any bachelor's degree.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.TOEFL exam scores are not accepted for this program.GRE is not required for the 2020-2021 application cycleLanguage Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d895a73b69320e18f8de8b"
+                      },
+                      title: "Bachelor of Science [B.S] (Mechanical Engineering (Course-2))",
+                      info: "Program provides a broad intellectual foundation in the field of mechanical engineering.It develops the relevant engineering fundamentals, provides several experiences in their application, and introduces the important methods and techniques of engineering practice.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹4671701₹4671701₹4671701₹4671701Health Insurance₹68952₹68952₹68952₹68952Other Fees₹32124₹32124₹32124₹32124Total Fees₹4772776₹4772776₹4772776₹4772776",
+                      Exams: "Academic Eligibility:Students should have concluded their secondary education and wish to pursue a bachelor's degree as a full-time university student.Students may apply during or after their final year of secondary education but may not apply using the first-year application if they have already matriculated to another degree-granting institution.Others:MIT admissions counselors are trained to understand the educational system in your part of the world. The university recommends that all international students study:Four years of EnglishMathematics, at least to the level of calculusTwo or more years of history/social studiesBiologyChemistryPhysicsThe above subjects are not compulsory but they add an extra value while applying for this program.Transfer Students:For spring entry (February), the university must receive the student final application with all supporting documents by November 15.For fall entry (September), the university must receive the student final application with all supporting documents by March 15.The International students may apply for September entry only.One evaluation should be from a math or science instructor, and the other two should be from any instructors who know the student well. The university will find that the best recommendations are written by professors who know an applicant well as both a student and a person.The students are also welcomed (but not required) to submit two supplemental letters of recommendation from high school teachers, employers, etc.English Language Proficiency Scores:The students whose official language is not English are required to submit the ELP(English Language Proficiency) Scores.TOEFL scores are to be submitted and the should clear the cut-off( iBT – 90, PBT –  600) to get into this program.These Scores are evaluated along with SAT or ACT exam scores which are submitted.Exam Requirments:The university requires the SAT or the ACT and does not require the ACT writing section or the SAT optional essay.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d895a73b69320e18f8de8d"
+                      },
+                      title: "Master of Science [M.S] (Computation for Design and Optimization)",
+                      info: "Massachusetts Institute of Technology offers MSc in Computation for Design and Optimization with a duration of 2 years.The program is full-time.It is delivered on-campus.The MIT CDO program was established in response to the emerging need to prepare tomorrow's engineers in advanced computational methods and applications. This interdisciplinary program provides a strong foundation in computational approaches to the design and operation of complex engineered and scientific systems.The Master of Science is the degree for students who want a deeply-focused study of a particular disciplinary field. According to TopUniversities MIT ranks#1.The student to faculty ratio in this program is 3:1 which increases the interaction between students and faculty.Classes with fewer than 20 students in this program are 70.8% which creates the environment suitable to acquire knowledge.The average salary after this program goes upto 102,550 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6285583₹6285583Health Insurance₹109025₹109025Books and supply₹250580₹250580Other Fees₹32124₹32124Total Fees₹6677312₹6677312",
+                      Exams: "Academic Eligibility:The students must have a bachelor's degree(3 or 4 years) in any of the respective fields to apply for this program.The average GPA of the students in this program is 3.9.Students can apply with any bachelor's degree but majority of the students come from these fields like Computer Science, Economics, Engineering (variety), Finance, Management, Math, Operations Research, Statistics…, etc.Work Experience:Work experience is not required but many of the students have an average experience of 15 months.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 90 out of 120.The IELTS cut-off will be decided by the university department.Language Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:The students must compulsorily have to submit the scores of any one of the exams like GMAT or GRE.MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d895a73b69320e18f8de8f"
+                      },
+                      title: "Master of Science [M.S] (Economics)",
+                      info: "The graduate program in Economics at MIT has grown to its present size of 123 full-time students and 42 faculty members. Its major emphasis is the training of doctoral candidates in a broad program of advanced study and research for professional careers in universities, government, or colleges, public and private research and consulting organizations, and financial institutions, and other private businesses.MIT operates on the semester system.The fall term, including examinations, ends before winter vacation.  It allows students to pursue their own research interests. The spring term runs from February through May.This university is ranked #1 in QS Global World University Rankings, 2022.It is an on-campus program offered on a full-time basis only.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6285583₹6285583Health Insurance₹109025₹109025Books and supply₹250580₹250580Other Fees₹32124₹32124Total Fees₹6677312₹6677312",
+                      Exams: "Academic Eligibility:The students must have a bachelor's degree (3 or 4 years) in any of the respective fields to apply for this program.The average GPA of the students in this program is 3.9 on a scale of 5.0.Students can apply with any bachelor's degree, but most of the students come from these fields like Computer Science, Economics, Engineering (variety), Finance, Management, Math, Operations Research, Statistic, etc.Work Experience:Work experience is not required but many of the students have an average experience of 15 months.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 90 out of 120.The IELTS cut-off will be decided by the university department.Language Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions. ",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "University of Pennsylvania",
               Details: "University of Pennsylvania or UPenn is a private Ivy League school established in 1740. The university owns one of the first medical schools and Wharton B-School. As of 2022, UPenn is home to 28,000+ students including 13% international student population. UPenn graduate courses are quite popular, most of all, its courses offered by the School of Arts and Science, Wharton B-School, and School of Engineering. This indicates that admissions at Penn are highly competitive. University of Pennsylvania acceptance rate is 5.9% overall. Students with a GPA of 3.9/4 (94%) or higher have shown more successful selection than others",
               CoursesN: "Master",
               img: "https://www.easyuni.co.id/media/institution/photo/2016/06/27/df375dba-a3e4-4aef-8732-e35a35510320.JPG",
-              title: "Master of Science [M.S] (Engineering - Data Science)",
-              info: "Master of Science in Engineering (MSE) in Data Science prepares students for a wide range of data-centric careers, whether in technology and engineering, consulting, science, policy-making, or understanding patterns in literature, art, or communications.The Data Science Program can typically be completed in one-and-a-half to two years.It blends leading-edge courses in core topics such as machine learning, big data analytics, and statistics, with a variety of electives and an opportunity to apply these techniques in a domain specialization.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2377789₹2377789Health Insurance₹314259₹314259Books and supply₹146016₹146016Compulsory Fees₹180411₹180411Total Fees₹3018475₹3018475",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92708e7070a7acd0ad351"
-              },
-              title: "Master of Science [M.S] (Biotechnology)",
-              info: "The University of Pennsylvania offers a Master of Biotechnology with a duration of 2 years.This course is offered on a full-time basis.This program is provided on-campus.The Master of Biotechnology Program prepares students, both full- and part-time, for leadership in the critically important and dynamic industries of biotechnology and pharmaceuticals.This program has three parallel curriculum tracks:  molecular biotechnologybiopharmaceutical/engineering biotechnologybiomedical technologiesThese curricula give students the flexibility to tailor their degree to their background, interests, and current career or career goals. Penn's world-class biomedical research centers, renowned science departments and position at the hub of the largest pharmaceutical/biotechnology corridor in the United States.The student-faculty ratio at the University of Pennsylvania is 6:1.According to PayScale, the average salary of Yale University Graduates is 72,000 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2558200₹2558200Total Fees₹2558200₹2558200",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92708e7070a7acd0ad353"
-              },
-              title: "Master of Science [M.S] (Computer and Information Science)",
-              info: "MSc in Computer and Information Science at the University of Pennsylvania is a 2-year full-time program.This program is provided via on-campus mode only.While pursuing this course, students can explore areas such as AI, databases, security, programming languages, etcSome of the courses included in the program are:Computational Data ExplorationIntroduction to Computer ProgrammingTechnology and PolicyIntroduction to Cognitive ScienceC++ ProgrammingPython ProgrammingC# Programming and many more. The student-faculty ratio at the University of Pennsylvania is 6:1.According to PayScale, the average salary goes up to 72,080 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2377789₹2377789Health Insurance₹314259₹314259Books and supply₹146016₹146016Compulsory Fees₹144880₹144880Other Fees₹36991₹36991Total Fees₹3019935₹3019935",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission to this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92708e7070a7acd0ad355"
-              },
-              title: "Master of Science [M.S] (Computer Graphics and Game Technology)",
-              info: "Interactive entertainment and computer-animated visual effects are now part of our mainstream culture. Creating such computer-generated imagery, however, is no trivial task. It requires a delicate blending of art with science by teams of highly skilled professionals, including artists, animators, writers, designers, engineers and software developers working long hours with cutting-edge technology and tools.Currently there are very few academic programs at four-year research universities adequately preparing students for such positions. The Master of Science in Engineering in Computer Graphics and Game Technology (CGGT) was created specifically to address this need.The CGGT program prepares students for positions requiring multidisciplinary skills such as designers, technical animators and directors and game programmers. Students in the CGGT program use the equipment and resources available through the SIG Center for Computer Graphics. Opportunities for specialization are provided in such core areas as art and animation, creative design, animation and simulation technology, human/computer interfaces and production management.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2377789₹2377789Health Insurance₹314259₹314259Books and supply₹146016₹146016Compulsory Fees₹181871₹181871Total Fees₹3019935₹3019935",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission to this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92709e7070a7acd0ad359"
-              },
-              title: "Master of Science [M.S] (Statistics, Measurement, Assessment, and Research Technology)",
-              info: "The program places high value on quality of evidence, statistical analysis, assessment, and psychometrics, as well as on the use of research technology in producing evidence to inform policy and practice.The program provides understanding and skills in data collection, management, and processing; measurement theory and test construction; survey design; design and execution of randomized controlled experiments and quasi-experiments; assessment strategies; and statistical analysis and reporting.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹5632973₹5632973Compulsory Fees₹323993₹323993Total Fees₹5956966₹5956966",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission to this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92709e7070a7acd0ad357"
-              },
-              title: "Master of Science [M.S] (Education - Learning Sciences and Technologies)",
-              info: "Degree programs in the Teaching, Learning, and Leadership Division are student-driven and require a significant amount of student engagement. LST students work closely with their academic advisor to tailor their program of study to their interests.Learning scientists study and create real-world learning experiences to make education more effective, efficient, and engaging. They investigate how people interact with information and ideas, as well as what interests and motivates them. And then they use this knowledge to create new, often computer-based, approaches to enhance the learning process.Read More",
-              fees: "YearYear 1Tuition Fees₹5632973Compulsory Fees₹323993Total Fees₹5956966",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission to this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92709e7070a7acd0ad35b"
-              },
-              title: "Master of Science [M.S] (Scientific Computing)",
-              info: "The program provides a rigorous computational foundation for applications to a broad range of scientific disciplines, combining a comprehensive set of core courses centered on numerical methods, algorithm development for high-performance computational platforms, and the analysis of large data. In addition, it offers flexibility to specialize in different computational science application areas.Students may elect to pursue a thesis in computationally oriented research within the School of Engineering and Applied Science.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4606480₹4606480Books and supply₹110161₹110161Other Fees₹557781₹557781Total Fees₹5274422₹5274422",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92709e7070a7acd0ad35d"
-              },
-              title: "Master of Science [M.S] (Robotics)",
-              info: "The University of Pennsylvania offers an MSc Robotics with a duration of 2 years.This course is offered on a full-time basis.This program is provided on-campus.The Robotics Master of Science in Engineering (MSE) program offers a more balanced and flexible academic curriculum that cuts across multiple departments.The master's program in Robotics is a unique program administered by Penn's General Robotics, Automation, Sensing and Perception (GRASP) Laboratory, recognized as one of the nation's premier research centers.The modern expert in robotics and intelligent systems must be proficient in artificial intelligence, computer vision, control systems, dynamics, machine learning, as well as the design, programming, and prototyping of robotic systems. Some of the courses are:Artificial IntelligenceRobert Design and AnalysisControlPerceptionThe suggested curricula below provide examples of how the robotics degree could be targeted towards specific topics.Specialization in Computer VisionSpecialization in Artificial Intelligence and Machine LearningThe student-faculty ratio at the University of Pennsylvania is 6:1.According to PayScale, the average salary goes up to is 81,652 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2377789₹2377789Health Insurance₹314259₹314259Books and supply₹146016₹146016Compulsory Fees₹144880₹144880Other Fees₹36991₹36991Total Fees₹3019935₹3019935",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Applicants to the Master of Science in Robotics program are expected to have a strong academic background in computer science, electrical engineering, or mechanical engineering.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d8a75e9db1f9647c47272f"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d9265654e6e70a5617eb08"
+                      },
+                      title: "Master of Science [M.S] (Engineering - Data Science)",
+                      info: "Master of Science in Engineering (MSE) in Data Science prepares students for a wide range of data-centric careers, whether in technology and engineering, consulting, science, policy-making, or understanding patterns in literature, art, or communications.The Data Science Program can typically be completed in one-and-a-half to two years.It blends leading-edge courses in core topics such as machine learning, big data analytics, and statistics, with a variety of electives and an opportunity to apply these techniques in a domain specialization.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2377789₹2377789Health Insurance₹314259₹314259Books and supply₹146016₹146016Compulsory Fees₹180411₹180411Total Fees₹3018475₹3018475",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92708e7070a7acd0ad351"
+                      },
+                      title: "Master of Science [M.S] (Biotechnology)",
+                      info: "The University of Pennsylvania offers a Master of Biotechnology with a duration of 2 years.This course is offered on a full-time basis.This program is provided on-campus.The Master of Biotechnology Program prepares students, both full- and part-time, for leadership in the critically important and dynamic industries of biotechnology and pharmaceuticals.This program has three parallel curriculum tracks:  molecular biotechnologybiopharmaceutical/engineering biotechnologybiomedical technologiesThese curricula give students the flexibility to tailor their degree to their background, interests, and current career or career goals. Penn's world-class biomedical research centers, renowned science departments and position at the hub of the largest pharmaceutical/biotechnology corridor in the United States.The student-faculty ratio at the University of Pennsylvania is 6:1.According to PayScale, the average salary of Yale University Graduates is 72,000 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2558200₹2558200Total Fees₹2558200₹2558200",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92708e7070a7acd0ad353"
+                      },
+                      title: "Master of Science [M.S] (Computer and Information Science)",
+                      info: "MSc in Computer and Information Science at the University of Pennsylvania is a 2-year full-time program.This program is provided via on-campus mode only.While pursuing this course, students can explore areas such as AI, databases, security, programming languages, etcSome of the courses included in the program are:Computational Data ExplorationIntroduction to Computer ProgrammingTechnology and PolicyIntroduction to Cognitive ScienceC++ ProgrammingPython ProgrammingC# Programming and many more. The student-faculty ratio at the University of Pennsylvania is 6:1.According to PayScale, the average salary goes up to 72,080 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2377789₹2377789Health Insurance₹314259₹314259Books and supply₹146016₹146016Compulsory Fees₹144880₹144880Other Fees₹36991₹36991Total Fees₹3019935₹3019935",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission to this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92708e7070a7acd0ad355"
+                      },
+                      title: "Master of Science [M.S] (Computer Graphics and Game Technology)",
+                      info: "Interactive entertainment and computer-animated visual effects are now part of our mainstream culture. Creating such computer-generated imagery, however, is no trivial task. It requires a delicate blending of art with science by teams of highly skilled professionals, including artists, animators, writers, designers, engineers and software developers working long hours with cutting-edge technology and tools.Currently there are very few academic programs at four-year research universities adequately preparing students for such positions. The Master of Science in Engineering in Computer Graphics and Game Technology (CGGT) was created specifically to address this need.The CGGT program prepares students for positions requiring multidisciplinary skills such as designers, technical animators and directors and game programmers. Students in the CGGT program use the equipment and resources available through the SIG Center for Computer Graphics. Opportunities for specialization are provided in such core areas as art and animation, creative design, animation and simulation technology, human/computer interfaces and production management.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2377789₹2377789Health Insurance₹314259₹314259Books and supply₹146016₹146016Compulsory Fees₹181871₹181871Total Fees₹3019935₹3019935",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission to this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92709e7070a7acd0ad359"
+                      },
+                      title: "Master of Science [M.S] (Statistics, Measurement, Assessment, and Research Technology)",
+                      info: "The program places high value on quality of evidence, statistical analysis, assessment, and psychometrics, as well as on the use of research technology in producing evidence to inform policy and practice.The program provides understanding and skills in data collection, management, and processing; measurement theory and test construction; survey design; design and execution of randomized controlled experiments and quasi-experiments; assessment strategies; and statistical analysis and reporting.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹5632973₹5632973Compulsory Fees₹323993₹323993Total Fees₹5956966₹5956966",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission to this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92709e7070a7acd0ad357"
+                      },
+                      title: "Master of Science [M.S] (Education - Learning Sciences and Technologies)",
+                      info: "Degree programs in the Teaching, Learning, and Leadership Division are student-driven and require a significant amount of student engagement. LST students work closely with their academic advisor to tailor their program of study to their interests.Learning scientists study and create real-world learning experiences to make education more effective, efficient, and engaging. They investigate how people interact with information and ideas, as well as what interests and motivates them. And then they use this knowledge to create new, often computer-based, approaches to enhance the learning process.Read More",
+                      fees: "YearYear 1Tuition Fees₹5632973Compulsory Fees₹323993Total Fees₹5956966",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission to this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92709e7070a7acd0ad35b"
+                      },
+                      title: "Master of Science [M.S] (Scientific Computing)",
+                      info: "The program provides a rigorous computational foundation for applications to a broad range of scientific disciplines, combining a comprehensive set of core courses centered on numerical methods, algorithm development for high-performance computational platforms, and the analysis of large data. In addition, it offers flexibility to specialize in different computational science application areas.Students may elect to pursue a thesis in computationally oriented research within the School of Engineering and Applied Science.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4606480₹4606480Books and supply₹110161₹110161Other Fees₹557781₹557781Total Fees₹5274422₹5274422",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92709e7070a7acd0ad35d"
+                      },
+                      title: "Master of Science [M.S] (Robotics)",
+                      info: "The University of Pennsylvania offers an MSc Robotics with a duration of 2 years.This course is offered on a full-time basis.This program is provided on-campus.The Robotics Master of Science in Engineering (MSE) program offers a more balanced and flexible academic curriculum that cuts across multiple departments.The master's program in Robotics is a unique program administered by Penn's General Robotics, Automation, Sensing and Perception (GRASP) Laboratory, recognized as one of the nation's premier research centers.The modern expert in robotics and intelligent systems must be proficient in artificial intelligence, computer vision, control systems, dynamics, machine learning, as well as the design, programming, and prototyping of robotic systems. Some of the courses are:Artificial IntelligenceRobert Design and AnalysisControlPerceptionThe suggested curricula below provide examples of how the robotics degree could be targeted towards specific topics.Specialization in Computer VisionSpecialization in Artificial Intelligence and Machine LearningThe student-faculty ratio at the University of Pennsylvania is 6:1.According to PayScale, the average salary goes up to is 81,652 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2377789₹2377789Health Insurance₹314259₹314259Books and supply₹146016₹146016Compulsory Fees₹144880₹144880Other Fees₹36991₹36991Total Fees₹3019935₹3019935",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Applicants to the Master of Science in Robotics program are expected to have a strong academic background in computer science, electrical engineering, or mechanical engineering.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.GPA of 3.6 average is required.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Princeton University",
               Details: "Princeton University is one of the best research institutes in USA and a member of the ‘Ivy League'. The university manifests interdisciplinary research collaborations and is known for Computer Science (12.5%), Econometrics and Quantitative Economics (9.9%) discipline. Princeton University campus is vast with voguish facilities in 5 schools and colleges, 200+ campus buildings, 6 residential colleges, 17 campus chaplains, and 10 libraries.The university houses over 8,000 students with 98% undergraduate students and 70% graduate students living on campus. At Princeton, the acceptance rate is 3.8% reflecting a highly selective admission policy. International students constitute 14% of the total student body at Princeton. Students from 140 countries applied for admissions to Princeton University, among whom, candidates from 70 countries received offer. ",
               CoursesN: "Master",
               img: "https://tse1.mm.bing.net/th?id=OIP.odrnJoWuj6tgKH-g30YlNwHaDt&pid=Api&P=0",
-              title: "Bachelor of Science [B.S] (Chemical and Biological Engineering)",
-              info: "Bachelor of Science in Chemical and Biological Engineering at Princeton University is offered as a 4-year teaching program.This bachelor program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:Biochemistry & Molecular BiologyProcess PrinciplesChemistryCalculus & Linear AlgebrabioengineeringChemical engineering has deep roots in the structure of matter and molecular transformations; from the molecular scale (e.g., design and synthesis of biocompatible polymers for the controlled release of drugs) to the global scale (e.g., measuring and modeling the chemistry of climate changes).Chemical engineers have contributed to the technological infrastructure of modern industries such as petroleum processing, pharmaceutical and chemical manufacturing, food processing, and plastics manufacturing.Each chemical engineering undergraduate can develop an academic program that reflects his or her aspirations and interests, within a general framework of requirements. The Department has a strong core curriculum complemented by electives in important emerging areas, such as bioengineering and nanotechnology.The depth and flexibility of the program provide a sound background for engineeringCareer positions may include:Analytical chemistEnergy managerEnvironmental engineerManufacturing engineerMaterials engineerMining engineer, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹4657099₹4657099₹4657099₹4657099Health Insurance₹175219₹175219₹175219₹175219Total Fees₹4832318₹4832318₹4832318₹4832318",
-              Exams: "Academic Eligibility:A Candidate needed to provide Senior School Certificate or School certificate awarded after standard XII.English and Maths (advanced or academic level) are required in grade 12.Two Science 12grade level is required.One Additional 12 grade course (advanced or academic level) is needed.Indian Student Eligibility:Indian students are eligible to apply if they have any one of the following certificates:All-India Senior School Certificate (AISSCE)Higher Secondary Certificate (HSC)Indian School Certificate (ISC)Intermediate Examination CertificatePre-University Examination CertificateStudents must have a Grade XII chemistry or Grade XII physics.Students also hold Grade XII math (Minimum math result of 55%).Students are not required to take the IELTS or TOEFL Academic if English is their native language or if Students have spent at least three years at a secondary school where English is the primary language of instruction.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8a7b76b0e48ecc3683f73"
-              },
-              title: "Bachelor of Science [B.S] (Electrical Engineering)",
-              info: "Bachelor of Science in Electrical Engineering at Princeton University is offered as a 4-year teaching program.This bachelor program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:ElectromagnetismPhysical lawsControl engineeringElectronicsPower engineeringElectric vehiclesThe program combines rigorous training in engineering fundamentals with elective courses in entrepreneurship and the liberal arts.Students are also exposed to cutting-edge applications of electrical engineering.This program offers a unique combination of independent student research, exposure to current developments in the field, and challenging coursework both within and beyond engineering.This combination is designed to prepare our graduates to excel both in engineering innovation and in life-long learning.The program also offers outstanding preparation for professions in business, finance, government, law, and medicine.Career positions may include:Hardware EngineerDesign EngineerElectrical Design EngineerAvionics TechnicianElectronics TechnicianElectronics EngineerSoftware Engineer, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹4657099₹4657099₹4657099₹4657099Health Insurance₹175219₹175219₹175219₹175219Total Fees₹4832318₹4832318₹4832318₹4832318",
-              Exams: "Academic Eligibility:A Candidate needed to provide Senior School Certificate or School certificate awarded after standard XII.English and Maths (advanced or academic level) are required in grade 12.Two Science 12grade level is required.One Additional 12 grade course (advanced or academic level) is needed.Indian Student Eligibility:Indian students are eligible to apply if they have any one of the following certificates:All-India Senior School Certificate (AISSCE)Higher Secondary Certificate (HSC)Indian School Certificate (ISC)Intermediate Examination CertificatePre-University Examination CertificateStudents must have a Grade XII chemistry or Grade XII physics.Students also hold Grade XII math (Minimum math result of 55%).Students are not required to take the IELTS or TOEFL Academic if English is their native language or if Students have spent at least three years at a secondary school where English is the primary language of instruction.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8a7b76b0e48ecc3683f75"
-              },
-              title: "Bachelor of Science [B.S] (Mechanical and Aerospace Engineering)",
-              info: "Mechanical and Aerospace engineers design, build and test devices and vehicles, such as cars, aircraft, satellites, engines, robots, and control systems. Theprogram emphasis is to provide an education in the fundamentals of engineering as required for the understanding and application of physical phenomena.The program facilitates bringing together as many scientific and nonscientific elements as necessary to pursue a topic consequently, students may draw on faculty advisors from any relevant engineering or science department. A high number of independent work students collect nationally recognized awards and honors, including fellowships and scholarships such as Marshall Scholarships, Rhodes Scholarships, and Churchill Scholarships as well as winning competitions with their independent work.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹4657099₹4657099₹4657099₹4657099Health Insurance₹175219₹175219₹175219₹175219Total Fees₹4832318₹4832318₹4832318₹4832318",
-              Exams: "Academic Eligibility:A Candidate needed to provide Senior School Certificate or School certificate awarded after standard XII.English and Maths (advanced or academic level) are required in grade 12.Two Science 12grade level is required.One Additional 12 grade course (advanced or academic level) is needed.Indian Student Eligibility:Indian students are eligible to apply if they have any one of the following certificates:All-India Senior School Certificate (AISSCE)Higher Secondary Certificate (HSC)Indian School Certificate (ISC)Intermediate Examination CertificatePre-University Examination CertificateStudents must have a Grade XII chemistry or Grade XII physics.Students also hold Grade XII math (Minimum math result of 55%).Students are not required to take the IELTS or TOEFL Academic if English is their native language or if Students have spent at least three years at a secondary school where English is the primary language of instruction.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8a84a718c3ec0385c9b1a"
-              },
-              title: "Master of Science [M.S] (Computer Science)",
-              info: "Master of Science in Computer Science at Princeton University is offered as a 2-year teaching program.This program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:Artificial intelligenceComputer systems and networksDatabase systemsHuman-computer interactionVision and graphicsNumerical analysisThe master's degree program at Princeton is a two-year, full-time program. All admitted students are initially enrolled in the Master of Science in Engineering (M.S.E.), thesis-required track.In the spring of year 1, as part of readmission, all students are given the option to switch to the Master of Engineering (M.Eng.), non-thesis track. Students opting to remain on the M.S.E. track must have a confirmed research adviser and should also have a preliminary thesis proposal. Switching tracks will be permitted through January of year 2.Career positions may include: IT consultantCybersecurity consultantInformation systems managerDatabase administratorMultimedia programmerSystems analystGames developer, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4900459₹4900459Health Insurance₹175219₹175219Total Fees₹5075678₹5075678",
-              Exams: "Academic Eligibility:Candidates must have the equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Class 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8a8c2333efa39acededaa"
-              },
-              title: "Master of Science [M.S] (Public Affairs)",
-              info: "The MPA enrolls individuals who have demonstrated a deep commitment to public service through their professional experience, internships, and volunteer interests.The School enrolls approximately 70 new students in each MPA class.The School's core curriculum builds skills in political, economic, quantitative, and behavioral analysis.The vast majority of enrolled MPA students have prior full-time work experience.Students are required to complete 16 required courses and 75+ electives courses.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4900459₹4900459Health Insurance₹175219₹175219Total Fees₹5075678₹5075678",
-              Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade] is required.Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Class 11 and 12.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8a8c2333efa39acededac"
-              },
-              title: "Master of Science in Engineering [M.S.E] (Operations Research and Financial Engineering)",
-              info: "The Operations Research and Financial Engineering (ORFE) program place a strong emphasis on mathematical and computational tools. Students in ORFE develop a unique set of skills that build upon a solid foundation in probability, statistics, and optimization.It is an on-campus program offered on a full-time basis.The course requirements are fulfilled by successfully completing ten one-semester courses approved by the department, two of which are required research courses.The M.S.E. program has a strong research focus reflected in the requirement of a thesis. This program is also has a strong research focus, as reflected in the requirement of a thesis and full-time study for two academic years.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4900459₹4900459Health Insurance₹175219₹175219Total Fees₹5075678₹5075678",
-              Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade] is required.Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Class 11 and 12.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8a8c2333efa39acededae"
-              },
-              title: "Master of Science [M.S] (Mechanical and Aerospace Engineering)",
-              info: "Master of Science in Mechanical and Aerospace Engineering at Princeton University is offered as a 2-year teaching program.This program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:AerodynamicsSpace mission analysis and designMechanics of flightAircraft designManagement and businessHeat transferThe mission of the Department of Mechanical and Aerospace Engineering is to educate leaders in engineering and applied sciences through a rigorous graduate program that defines the frontiers of knowledge in this field and prepares them for careers in academia, industry, and government.This program emphasizes achieving fundamental understanding in a broad range of topics, a deep understanding in a particular area, and excellent communication skills.The majority of outstanding technical problems in today's science and engineering require a multi-disciplinary approach, and our department has a strong tradition in defining and pursuing new research areas at the intersection of engineering, physics, chemistry, biological sciences, and applied mathematics.Career positions may include:Mechanical EngineerAircraft/Spacecraft DesignerData Processing ManagerMilitary Aerospace EngineerInspector and Compliance OfficerDrafterAerospace Technician, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4900459₹4900459Health Insurance₹175219₹175219Total Fees₹5075678₹5075678",
-              Exams: "Academic Eligibility:Candidates must have the equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade] is required.Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Class 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8a8c3333efa39acededb0"
-              },
-              title: "Master of Science [M.S] (Chemistry)",
-              info: "MS in Chemistry is a 2 years program offered on a full-time basis.It is an on-campus program offered on a full and part-time basis both.The Department of Chemistry provides facilities for students intending to work toward the degree of Doctor of Philosophy (Ph.D.).A Master of Science is offered to select industry-sponsored candidates.The program may be completed on a part-time basis under one of the following three plans: two consecutive academic years with full-time study one term each year.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4900459₹4900459Health Insurance₹175219₹175219Total Fees₹5075678₹5075678",
-              Exams: "Academic Eligibility:Candidates must have the equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Class 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d91dbe7ffd39c7f062f0bb"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d8a75e9db1f9647c47272f"
+                      },
+                      title: "Bachelor of Science [B.S] (Chemical and Biological Engineering)",
+                      info: "Bachelor of Science in Chemical and Biological Engineering at Princeton University is offered as a 4-year teaching program.This bachelor program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:Biochemistry & Molecular BiologyProcess PrinciplesChemistryCalculus & Linear AlgebrabioengineeringChemical engineering has deep roots in the structure of matter and molecular transformations; from the molecular scale (e.g., design and synthesis of biocompatible polymers for the controlled release of drugs) to the global scale (e.g., measuring and modeling the chemistry of climate changes).Chemical engineers have contributed to the technological infrastructure of modern industries such as petroleum processing, pharmaceutical and chemical manufacturing, food processing, and plastics manufacturing.Each chemical engineering undergraduate can develop an academic program that reflects his or her aspirations and interests, within a general framework of requirements. The Department has a strong core curriculum complemented by electives in important emerging areas, such as bioengineering and nanotechnology.The depth and flexibility of the program provide a sound background for engineeringCareer positions may include:Analytical chemistEnergy managerEnvironmental engineerManufacturing engineerMaterials engineerMining engineer, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹4657099₹4657099₹4657099₹4657099Health Insurance₹175219₹175219₹175219₹175219Total Fees₹4832318₹4832318₹4832318₹4832318",
+                      Exams: "Academic Eligibility:A Candidate needed to provide Senior School Certificate or School certificate awarded after standard XII.English and Maths (advanced or academic level) are required in grade 12.Two Science 12grade level is required.One Additional 12 grade course (advanced or academic level) is needed.Indian Student Eligibility:Indian students are eligible to apply if they have any one of the following certificates:All-India Senior School Certificate (AISSCE)Higher Secondary Certificate (HSC)Indian School Certificate (ISC)Intermediate Examination CertificatePre-University Examination CertificateStudents must have a Grade XII chemistry or Grade XII physics.Students also hold Grade XII math (Minimum math result of 55%).Students are not required to take the IELTS or TOEFL Academic if English is their native language or if Students have spent at least three years at a secondary school where English is the primary language of instruction.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8a7b76b0e48ecc3683f73"
+                      },
+                      title: "Bachelor of Science [B.S] (Electrical Engineering)",
+                      info: "Bachelor of Science in Electrical Engineering at Princeton University is offered as a 4-year teaching program.This bachelor program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:ElectromagnetismPhysical lawsControl engineeringElectronicsPower engineeringElectric vehiclesThe program combines rigorous training in engineering fundamentals with elective courses in entrepreneurship and the liberal arts.Students are also exposed to cutting-edge applications of electrical engineering.This program offers a unique combination of independent student research, exposure to current developments in the field, and challenging coursework both within and beyond engineering.This combination is designed to prepare our graduates to excel both in engineering innovation and in life-long learning.The program also offers outstanding preparation for professions in business, finance, government, law, and medicine.Career positions may include:Hardware EngineerDesign EngineerElectrical Design EngineerAvionics TechnicianElectronics TechnicianElectronics EngineerSoftware Engineer, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹4657099₹4657099₹4657099₹4657099Health Insurance₹175219₹175219₹175219₹175219Total Fees₹4832318₹4832318₹4832318₹4832318",
+                      Exams: "Academic Eligibility:A Candidate needed to provide Senior School Certificate or School certificate awarded after standard XII.English and Maths (advanced or academic level) are required in grade 12.Two Science 12grade level is required.One Additional 12 grade course (advanced or academic level) is needed.Indian Student Eligibility:Indian students are eligible to apply if they have any one of the following certificates:All-India Senior School Certificate (AISSCE)Higher Secondary Certificate (HSC)Indian School Certificate (ISC)Intermediate Examination CertificatePre-University Examination CertificateStudents must have a Grade XII chemistry or Grade XII physics.Students also hold Grade XII math (Minimum math result of 55%).Students are not required to take the IELTS or TOEFL Academic if English is their native language or if Students have spent at least three years at a secondary school where English is the primary language of instruction.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8a7b76b0e48ecc3683f75"
+                      },
+                      title: "Bachelor of Science [B.S] (Mechanical and Aerospace Engineering)",
+                      info: "Mechanical and Aerospace engineers design, build and test devices and vehicles, such as cars, aircraft, satellites, engines, robots, and control systems. Theprogram emphasis is to provide an education in the fundamentals of engineering as required for the understanding and application of physical phenomena.The program facilitates bringing together as many scientific and nonscientific elements as necessary to pursue a topic consequently, students may draw on faculty advisors from any relevant engineering or science department. A high number of independent work students collect nationally recognized awards and honors, including fellowships and scholarships such as Marshall Scholarships, Rhodes Scholarships, and Churchill Scholarships as well as winning competitions with their independent work.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹4657099₹4657099₹4657099₹4657099Health Insurance₹175219₹175219₹175219₹175219Total Fees₹4832318₹4832318₹4832318₹4832318",
+                      Exams: "Academic Eligibility:A Candidate needed to provide Senior School Certificate or School certificate awarded after standard XII.English and Maths (advanced or academic level) are required in grade 12.Two Science 12grade level is required.One Additional 12 grade course (advanced or academic level) is needed.Indian Student Eligibility:Indian students are eligible to apply if they have any one of the following certificates:All-India Senior School Certificate (AISSCE)Higher Secondary Certificate (HSC)Indian School Certificate (ISC)Intermediate Examination CertificatePre-University Examination CertificateStudents must have a Grade XII chemistry or Grade XII physics.Students also hold Grade XII math (Minimum math result of 55%).Students are not required to take the IELTS or TOEFL Academic if English is their native language or if Students have spent at least three years at a secondary school where English is the primary language of instruction.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8a84a718c3ec0385c9b1a"
+                      },
+                      title: "Master of Science [M.S] (Computer Science)",
+                      info: "Master of Science in Computer Science at Princeton University is offered as a 2-year teaching program.This program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:Artificial intelligenceComputer systems and networksDatabase systemsHuman-computer interactionVision and graphicsNumerical analysisThe master's degree program at Princeton is a two-year, full-time program. All admitted students are initially enrolled in the Master of Science in Engineering (M.S.E.), thesis-required track.In the spring of year 1, as part of readmission, all students are given the option to switch to the Master of Engineering (M.Eng.), non-thesis track. Students opting to remain on the M.S.E. track must have a confirmed research adviser and should also have a preliminary thesis proposal. Switching tracks will be permitted through January of year 2.Career positions may include: IT consultantCybersecurity consultantInformation systems managerDatabase administratorMultimedia programmerSystems analystGames developer, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4900459₹4900459Health Insurance₹175219₹175219Total Fees₹5075678₹5075678",
+                      Exams: "Academic Eligibility:Candidates must have the equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Class 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8a8c2333efa39acededaa"
+                      },
+                      title: "Master of Science [M.S] (Public Affairs)",
+                      info: "The MPA enrolls individuals who have demonstrated a deep commitment to public service through their professional experience, internships, and volunteer interests.The School enrolls approximately 70 new students in each MPA class.The School's core curriculum builds skills in political, economic, quantitative, and behavioral analysis.The vast majority of enrolled MPA students have prior full-time work experience.Students are required to complete 16 required courses and 75+ electives courses.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4900459₹4900459Health Insurance₹175219₹175219Total Fees₹5075678₹5075678",
+                      Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade] is required.Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Class 11 and 12.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8a8c2333efa39acededac"
+                      },
+                      title: "Master of Science in Engineering [M.S.E] (Operations Research and Financial Engineering)",
+                      info: "The Operations Research and Financial Engineering (ORFE) program place a strong emphasis on mathematical and computational tools. Students in ORFE develop a unique set of skills that build upon a solid foundation in probability, statistics, and optimization.It is an on-campus program offered on a full-time basis.The course requirements are fulfilled by successfully completing ten one-semester courses approved by the department, two of which are required research courses.The M.S.E. program has a strong research focus reflected in the requirement of a thesis. This program is also has a strong research focus, as reflected in the requirement of a thesis and full-time study for two academic years.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4900459₹4900459Health Insurance₹175219₹175219Total Fees₹5075678₹5075678",
+                      Exams: "Academic Eligibility:Candidates must have an equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade] is required.Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Class 11 and 12.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8a8c2333efa39acededae"
+                      },
+                      title: "Master of Science [M.S] (Mechanical and Aerospace Engineering)",
+                      info: "Master of Science in Mechanical and Aerospace Engineering at Princeton University is offered as a 2-year teaching program.This program has a co-op work option.In order to be eligible to participate in a full-time Co-op Work Term, students must meet the GPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:AerodynamicsSpace mission analysis and designMechanics of flightAircraft designManagement and businessHeat transferThe mission of the Department of Mechanical and Aerospace Engineering is to educate leaders in engineering and applied sciences through a rigorous graduate program that defines the frontiers of knowledge in this field and prepares them for careers in academia, industry, and government.This program emphasizes achieving fundamental understanding in a broad range of topics, a deep understanding in a particular area, and excellent communication skills.The majority of outstanding technical problems in today's science and engineering require a multi-disciplinary approach, and our department has a strong tradition in defining and pursuing new research areas at the intersection of engineering, physics, chemistry, biological sciences, and applied mathematics.Career positions may include:Mechanical EngineerAircraft/Spacecraft DesignerData Processing ManagerMilitary Aerospace EngineerInspector and Compliance OfficerDrafterAerospace Technician, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4900459₹4900459Health Insurance₹175219₹175219Total Fees₹5075678₹5075678",
+                      Exams: "Academic Eligibility:Candidates must have the equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade] is required.Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Class 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8a8c3333efa39acededb0"
+                      },
+                      title: "Master of Science [M.S] (Chemistry)",
+                      info: "MS in Chemistry is a 2 years program offered on a full-time basis.It is an on-campus program offered on a full and part-time basis both.The Department of Chemistry provides facilities for students intending to work toward the degree of Doctor of Philosophy (Ph.D.).A Master of Science is offered to select industry-sponsored candidates.The program may be completed on a part-time basis under one of the following three plans: two consecutive academic years with full-time study one term each year.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4900459₹4900459Health Insurance₹175219₹175219Total Fees₹5075678₹5075678",
+                      Exams: "Academic Eligibility:Candidates must have the equivalent bachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in all prerequisite subjects.Subjects must include mathematics, chemistry, and physics in Class 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum 292 score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Yale University",
               Details: "Yale University is an Ivy-League School ranked #1 Best Value School by US News & World Report. For an Indian student, Yale University's fees is approximately 60 lakhs per annum. The university supports its students by offering them scholarships worth 38 lakhs which reduces the overall cost of attendance to 22 lakhs. The affordable fees for Yale University courses is the reason for 22% international student presence at the campus. The international students represent over 120 diverse nationalities and countries. Compared to undergraduate courses, international student enrollments are slightly higher for Yale University graduate courses. Law and Management disciplines at Yale have the highest enrollment of 21%, and 28% respectively. Being an Ivy league college, Yale administers a competitive selection process. The university's acceptance rate is only 6.3% for the recent admissions. Yale University admission requirements for master courses included GPA above 3.5 (83%-86%) and 100 in TOEFL-IBT. For courses like MBA, Yale asks for GMAT score above 720. ",
               CoursesN: "Master",
               img: "https://images.collegedunia.com/public/asset/img/homepage/banner/yale.jpg?h=1080&w=1920&mode=stretch",
-              title: "Master of Science [M.S] (Statistics and Data Science)",
-              info: "The Yale University offers a Master of Arts in Statistics and Data Science duration of 2 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.In this course, the department offers a broad training program of the main areas of statistical theory, probability theory, stochastic processes, asymptotics, information theory, machine learning, data analysis, statistical computing, and graphical methods.Through this background, graduates of the program have found excellent positions in industry, and government.In the 2020 batch, they will offer both the 8-course M.A. in Statistics and a new 12-course M.S. in Statistics and Data Science.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d91ebd412b3d0b6c2ad377"
-              },
-              title: "Master of Science [M.S] (Engineering and Applied Sciences)",
-              info: "The Yale University offers an MSc in Engineering and Applied Sciences duration of 1 year.This course is offered on a full-time basis.This program is provided on-campus and off-campus.This engineering program builds on a strong and broad foundation of related sciences and has been successfully developing emerging technologies, while also being interdisciplinary and flexible.  Graduate students develop their own course of study and research in consultation with faculty.Students may apply directly to a terminal master's degree program. This program is normally completed in one year, but a part-time program may be spread over as many as four years.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d91ebd412b3d0b6c2ad379"
-              },
-              title: "Master of Science [M.S] (Biostatistics)",
-              info: "The Yale University offers a Master in Biostatistics duration of 18 months.This course is offered on a full-time basis.This program is provided on-campus and off-campus.This program is designed to train professional statisticians to work in the technology industry, biomedical research, the pharmaceutical industry, and healthcare organizations.In this program, students choose between the Biostatistics Standard pathway or the Implementation and Prevention Science Methods pathway.The implementation science pathway examines how evidence-based programs work in the real world.Implementation science and implementation strategies can be used to bridge the divide between research and practice, and bring programs that work to communities in need.This high impact program promotes the adoption and integration of evidence-based practices, interventions, and policies into routine health care and public health settings to improve population health outcomes.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d91ebe412b3d0b6c2ad37b"
-              },
-              title: "Master of Science [M.S] (Advanced Mangement)",
-              info: "The MAM is a one-year degree program at the Yale School of Management for exceptional MBA graduates from Global Network for Advanced Management schools who aspire to become global leaders for business and society.As part of the broader Yale community, MAM students will get an opportunity to select from an array of electives and extracurricular activities across Yale SOM and the rest of the universityThe Yale campus serves as an intellectual crossroads, convening renowned leaders, visiting speakers, and those with distinctively global perspectives to advance understanding around the unique opportunities and challenges of today's worldRead More",
-              fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
-              Exams: "Academic Eligibility:Admission to the Master of Advanced Management program is available to students who either are enrolled in Global Network for Advanced Management member schools and expect to receive their MBA degree or equivalent before matriculating at Yale.Must have recently graduated from a Global Network for Advanced Management member school with an MBA or equivalent degree.Students whose official language is not English are required to submit IELTS, TOEFL, or PTE scores. The Graduate Record Examination (GRE) and GMAT results are accepted. There is no minimum score to apply.Indian Student Eligibility:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.Must have recently graduated from a Global Network for Advanced Management member school with an MBA or equivalent degree",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d91ebe412b3d0b6c2ad37d"
-              },
-              title: "Master of Science [M.S] (Applied Mathematics)",
-              info: "The Applied Math Program is designed in an interdisciplinary setting that provides an environment with activities occurring both within and at the boundaries of many different fields, using a variety of mathematical and computational tools.The research group includes faculty in the Departments of Mathematics, Computer Science, Economics, Statistics & Data Science, Engineering, Physics, Geology and Geophysics, and the Medical school at Yale University.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.The GRE exam score is not required but if given will be encouraged.Students must be qualified in IELTS or TOEFL to get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d91ebe412b3d0b6c2ad37f"
-              },
-              title: "Master of Science [M.S] (Applied Physics)",
-              info: "The Yale University offers an MSc in Applied Physics duration of 1 year.This course is offered on a full-time basis.This program is provided on-campus and off-campus.In this program, fields of study include areas of theoretical and experimental condensed-matter and materials physics, optical and laser physics, quantum engineering, and nanoscale science.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹1902264₹1902264Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹2187888₹2187888",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d91ebe412b3d0b6c2ad381"
-              },
-              title: "Master of Science [M.S] (Astronomy)",
-              info: "The Yale University offers an MSc in Astronomy duration of 1 year.This course is offered on a full-time basis.This program is provided on-campus and off-campus.In this program, fields of study include observational and theoretical astronomy, solar and stellar astrophysics, exoplanets, the interstellar medium and star formation, galactic astronomy, radio astronomy, high-energy astrophysics, and cosmology.Students must take any additional course that their supervisors require even after their fourth term.And also take responsible conduct in Research for Physical Scientists, which discusses ethics and responsible conduct in scientific research and fulfills the requirement stipulated by the National Science Foundation for all students.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d91ebe412b3d0b6c2ad383"
-              },
-              title: "Master of Science [M.S] (Mechanical Engineering and Materials Science)",
-              info: "The Yale University offers an MSc in Mechanical Engineering and Materials Science duration of 1 year.This course is offered on a full-time basis.This program is provided on-campus and off-campus.In this program, mechanical engineers design and build machines and devices that enable humans to live and work in space, in the air, on the ground, and underwater.Yale engineering faculty are world leaders in research areas of critical importance to solving 21st-century problems.Research areas are primarily organized by department, though nearly every effort includes interdisciplinary collaborations. Some area of research fields are:Soft Matter and Complex FluidsPhysics of Novel MaterialsCombustionAmorphous MaterialsThe university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d91ebf412b3d0b6c2ad385"
-              },
-              title: "Master of Science [M.S] (Computer Science)",
-              info: "The Yale University offers an MSc in Computer Science duration of 2 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.This program is intended for students planning to pursue a professional career directly after finishing the master's program, rather than continuing on in a Ph.D. program.It is also suitable for students interested in undertaking a research project but who are not sure yet whether they want to make the multi-year commitment to a Ph.D. program.The purpose of the program is to expand the student's depth of knowledge substantially beyond the bachelor in Computer Science or related field.  The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GRE exam score, the minimum score should be 328 out of 340.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d91ebf412b3d0b6c2ad387"
-              },
-              title: "Master of Science [M.S] (Electrical Engineering)",
-              info: "The Yale University offers an MSc in Electrical Engineering duration of 2 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.The mission of this program is to develop students' independence and creativity while strengthening their technical background.In this course, research and teaching focus on the fundamental understanding of electrical engineering problems.Areas of specialization are briefly listed on the areas of the research page and on the pages of individual faculty members.Students have an opportunity to participate in ongoing research from their first year through one-semester course research projects, Special Investigations.The department offers a good graduate student-to-faculty ratio of less than 4:1, ensuring close interaction between students and faculty.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d89a732bd7c69588e029cb"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d91dbe7ffd39c7f062f0bb"
+                      },
+                      title: "Master of Science [M.S] (Statistics and Data Science)",
+                      info: "The Yale University offers a Master of Arts in Statistics and Data Science duration of 2 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.In this course, the department offers a broad training program of the main areas of statistical theory, probability theory, stochastic processes, asymptotics, information theory, machine learning, data analysis, statistical computing, and graphical methods.Through this background, graduates of the program have found excellent positions in industry, and government.In the 2020 batch, they will offer both the 8-course M.A. in Statistics and a new 12-course M.S. in Statistics and Data Science.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d91ebd412b3d0b6c2ad377"
+                      },
+                      title: "Master of Science [M.S] (Engineering and Applied Sciences)",
+                      info: "The Yale University offers an MSc in Engineering and Applied Sciences duration of 1 year.This course is offered on a full-time basis.This program is provided on-campus and off-campus.This engineering program builds on a strong and broad foundation of related sciences and has been successfully developing emerging technologies, while also being interdisciplinary and flexible.  Graduate students develop their own course of study and research in consultation with faculty.Students may apply directly to a terminal master's degree program. This program is normally completed in one year, but a part-time program may be spread over as many as four years.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d91ebd412b3d0b6c2ad379"
+                      },
+                      title: "Master of Science [M.S] (Biostatistics)",
+                      info: "The Yale University offers a Master in Biostatistics duration of 18 months.This course is offered on a full-time basis.This program is provided on-campus and off-campus.This program is designed to train professional statisticians to work in the technology industry, biomedical research, the pharmaceutical industry, and healthcare organizations.In this program, students choose between the Biostatistics Standard pathway or the Implementation and Prevention Science Methods pathway.The implementation science pathway examines how evidence-based programs work in the real world.Implementation science and implementation strategies can be used to bridge the divide between research and practice, and bring programs that work to communities in need.This high impact program promotes the adoption and integration of evidence-based practices, interventions, and policies into routine health care and public health settings to improve population health outcomes.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d91ebe412b3d0b6c2ad37b"
+                      },
+                      title: "Master of Science [M.S] (Advanced Mangement)",
+                      info: "The MAM is a one-year degree program at the Yale School of Management for exceptional MBA graduates from Global Network for Advanced Management schools who aspire to become global leaders for business and society.As part of the broader Yale community, MAM students will get an opportunity to select from an array of electives and extracurricular activities across Yale SOM and the rest of the universityThe Yale campus serves as an intellectual crossroads, convening renowned leaders, visiting speakers, and those with distinctively global perspectives to advance understanding around the unique opportunities and challenges of today's worldRead More",
+                      fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
+                      Exams: "Academic Eligibility:Admission to the Master of Advanced Management program is available to students who either are enrolled in Global Network for Advanced Management member schools and expect to receive their MBA degree or equivalent before matriculating at Yale.Must have recently graduated from a Global Network for Advanced Management member school with an MBA or equivalent degree.Students whose official language is not English are required to submit IELTS, TOEFL, or PTE scores. The Graduate Record Examination (GRE) and GMAT results are accepted. There is no minimum score to apply.Indian Student Eligibility:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.Must have recently graduated from a Global Network for Advanced Management member school with an MBA or equivalent degree",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d91ebe412b3d0b6c2ad37d"
+                      },
+                      title: "Master of Science [M.S] (Applied Mathematics)",
+                      info: "The Applied Math Program is designed in an interdisciplinary setting that provides an environment with activities occurring both within and at the boundaries of many different fields, using a variety of mathematical and computational tools.The research group includes faculty in the Departments of Mathematics, Computer Science, Economics, Statistics & Data Science, Engineering, Physics, Geology and Geophysics, and the Medical school at Yale University.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.The GRE exam score is not required but if given will be encouraged.Students must be qualified in IELTS or TOEFL to get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d91ebe412b3d0b6c2ad37f"
+                      },
+                      title: "Master of Science [M.S] (Applied Physics)",
+                      info: "The Yale University offers an MSc in Applied Physics duration of 1 year.This course is offered on a full-time basis.This program is provided on-campus and off-campus.In this program, fields of study include areas of theoretical and experimental condensed-matter and materials physics, optical and laser physics, quantum engineering, and nanoscale science.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹1902264₹1902264Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹2187888₹2187888",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d91ebe412b3d0b6c2ad381"
+                      },
+                      title: "Master of Science [M.S] (Astronomy)",
+                      info: "The Yale University offers an MSc in Astronomy duration of 1 year.This course is offered on a full-time basis.This program is provided on-campus and off-campus.In this program, fields of study include observational and theoretical astronomy, solar and stellar astrophysics, exoplanets, the interstellar medium and star formation, galactic astronomy, radio astronomy, high-energy astrophysics, and cosmology.Students must take any additional course that their supervisors require even after their fourth term.And also take responsible conduct in Research for Physical Scientists, which discusses ethics and responsible conduct in scientific research and fulfills the requirement stipulated by the National Science Foundation for all students.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d91ebe412b3d0b6c2ad383"
+                      },
+                      title: "Master of Science [M.S] (Mechanical Engineering and Materials Science)",
+                      info: "The Yale University offers an MSc in Mechanical Engineering and Materials Science duration of 1 year.This course is offered on a full-time basis.This program is provided on-campus and off-campus.In this program, mechanical engineers design and build machines and devices that enable humans to live and work in space, in the air, on the ground, and underwater.Yale engineering faculty are world leaders in research areas of critical importance to solving 21st-century problems.Research areas are primarily organized by department, though nearly every effort includes interdisciplinary collaborations. Some area of research fields are:Soft Matter and Complex FluidsPhysics of Novel MaterialsCombustionAmorphous MaterialsThe university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d91ebf412b3d0b6c2ad385"
+                      },
+                      title: "Master of Science [M.S] (Computer Science)",
+                      info: "The Yale University offers an MSc in Computer Science duration of 2 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.This program is intended for students planning to pursue a professional career directly after finishing the master's program, rather than continuing on in a Ph.D. program.It is also suitable for students interested in undertaking a research project but who are not sure yet whether they want to make the multi-year commitment to a Ph.D. program.The purpose of the program is to expand the student's depth of knowledge substantially beyond the bachelor in Computer Science or related field.  The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GRE exam score, the minimum score should be 328 out of 340.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d91ebf412b3d0b6c2ad387"
+                      },
+                      title: "Master of Science [M.S] (Electrical Engineering)",
+                      info: "The Yale University offers an MSc in Electrical Engineering duration of 2 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.The mission of this program is to develop students' independence and creativity while strengthening their technical background.In this course, research and teaching focus on the fundamental understanding of electrical engineering problems.Areas of specialization are briefly listed on the areas of the research page and on the pages of individual faculty members.Students have an opportunity to participate in ongoing research from their first year through one-semester course research projects, Special Investigations.The department offers a good graduate student-to-faculty ratio of less than 4:1, ensuring close interaction between students and faculty.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹3707184₹3707184Health Insurance₹223567₹223567Compulsory Fees₹62057₹62057Total Fees₹3992808₹3992808",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Stanford University",
               Details: "Stanford University is a private research university located in Stanford USA. Established in 1885, Stanford comprises seven academic schools and 18 interdisciplinary schools. International students choose Stanford majorly for graduate-level courses. There are 200+ graduate courses in 90+ subject areas for you to choose from. If we talk about popular programs, Stanford MBA is one of the best in the world. The student enrollments indicate the popularity of engineering courses. In recent academic year, around 40% incoming graduate students enrolled in engineering courses. The Stanford University acceptance rate of engineering programs is 5.03%. ",
               CoursesN: "Master",
               img: "https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/1862/1048/stanford-2-iStock.jpg?ve=1&tl=1?ve=1&tl=1",
-              title: "Master of Science [M.S] (Statistics - Data Science)",
-              info: "The Data Science track develops strong mathematical, statistical, computational, and programming skills, in addition to providing fundamental data science education through general and focused electives requirements from courses in data sciences and other areas of interest. The total number of units in the degree is 45, 36.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program are welcome to apply.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89b7436a913f077581bfd"
-              },
-              title: "Master of Science [M.S] (Computer Science)",
-              info: "Master of Science [M.Sc] in Computer Science is a 2-year program.The program is a course-based.This program is offered full-time.The purpose of the master's program is to provide students with the knowledge and skills necessary for a professional career.Areas of specialization includeArtificial IntelligenceBiocomputationComputer and Network SecurityHuman-Computer InteractionInformation Management and AnalyticsReal-world ComputingSoftware TheorySystems, and Theoretical Computer Science M.S. degree in Computer Science is intended as a terminal professional degree and does not lead to the Ph.D. degree.The student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.17 Nobel laureates are currently members of the Stanford community.According to QS Global World Ranking, Stanford University Ranked #2.The average salary is 112,049 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program are welcome to apply.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89b7436a913f077581bff"
-              },
-              title: "Master of Science [M.S] (Management Science and Engineering)",
-              info: "Master of Science in Management Science and Engineering is a 2-year program.The program is a course-based program offered on a full-time and delivered on-campus basis.The program emphasizes developing analytic abilities, making better decisions, developing and executing strategies, and leading people who innovate. Some of the courses are:Financial Analytics Operations and AnalyticsTechnology and Engineering ManagementComputational Social ScienceDecision and Risk AnalysisEnergy and EnvironmentThe student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.According to QS Global World Ranking, Stanford University Ranked #2.The average salary is 76,000 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science.The average cumulative high school GPA of students admitted to Stanford is 3.0 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89b7436a913f077581c03"
-              },
-              title: "Master of Science [M.S] (Statistics)",
-              info: "Master of Science in Statistics is a 2-year program.The program is a course-based program offered full-time and delivered on-campus.The program consists of 45 units.Students are required to complete a minimum of 6 units of coursework in statistics toward the degree each quarter in order to maintain degree progressThe M.S. in Statistics has become an exceedingly popular degree as either a terminal degree or together with a doctorate in another field. The student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program.The average cumulative high school GPA of students admitted to Stanford is 3.0 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89b7536a913f077581c07"
-              },
-              title: "Master of Science [M.S] (Computational and Mathematical Engineering - Finance)",
-              info: "The MCF track is designed to prepare students to assume positions in the financial industry as data and information scientists, quantitative strategists, risk managers, regulators, financial technologists, or to continue on to doctoral programs in related fields. Recommended background: strong foundation in mathematics with courses in linear algebra, numerical methods, probabilities, stochastics, real analysis/pde, programming, proficiency in C++, and interest in finance/internship or industry experience.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program are welcome to apply.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89b7436a913f077581c01"
-              },
-              title: "Master of Science [M.S] (Aeronautics and Astronautics)",
-              info: "Master of Science in Aeronautics and Astronautics is a 2-year program.It is an honours program and is available with a co-op option.The master's degree program requires 45 quarter units of course work, which must be taken at Stanford.The course work is divided into four categories:Basic coursesMathematics CoursesTechnical ElectivesOther Electives. The current research and teaching activities cover a number of advanced fields, with emphasis on:Aeroelasticity and Flow SimulationAircraft Design, Performance, and ControlApplied AerodynamicsAstrodynamicsAutonomyComputational Aero-AcousticsComputational Fluid DynamicsComputational Mechanics and Dynamical SystemsControl of Robots, including Space and Deep-Underwater RobotsConventional and Composite Materials and StructuresThe program emphasizes structural, aerodynamic, guidance and control, and propulsion problems of aircraft and spacecraft. It is recommended that all candidates enroll in a humanities or social sciences course to complete the 45-unit requirement. Example: Language Course.The student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.17 Nobel laureates are currently members of the Stanford community.According to QS Global World Ranking, Stanford University Ranked #2.The average salary is 112,049 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program.The average cumulative high school GPA of students admitted to Stanford is 3.0 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89b7536a913f077581c05"
-              },
-              title: "Master of Science [M.S] (Computational and Mathematical Engineering - Data Science)",
-              info: "The Data Science track develops strong mathematical, statistical, and computational and programming skills through the general master's core and programming requirements. In addition, it provides a fundamental data science education through general and focused electives requirement from courses in data sciences and related areas. The course work follows the requirements of the general master's degree in the core course requirement. the general and focused elective requirements are limited to predefined courses from the data sciences and related courses group. Programming requirement is extended to 6 units and includes course work in advanced scientific programming and high performance computing. The final requirement is a practical component for 6 units to be completed through capstone project, data science clinic, or other courses that have strong hands-on or practical component such as statistical consulting. Recommended background: strong foundation in mathematics with courses in linear algebra, numerical methods, probabilities, stochastics, statistical theory, and programming proficiency in C++ and r.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program are welcome to apply.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89b7536a913f077581c09"
-              },
-              title: "Master of Science [M.S] (Computational and Mathematical Engineering)",
-              info: "Master of Science [M.Sc] in Computational and Mathematical Engineering is a 2-year program.The program is a course-based.The program is offered as a full-time.The master's degree in Computational and Mathematical Engineering is intended as a terminal professional degree and does not lead to the Ph.D. program.The master's program consists of 45 units of course work taken at Stanford.There are five tracks in the master's program:General CMEComputational GeosciencesData ScienceImaging ScienceMathematical and Computational FinanceThe student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.17 Nobel laureates are currently members of the Stanford community.According to QS Global World Ranking, Stanford University Ranked #2.The average salary is 81,606 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program are welcome to apply.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89b7536a913f077581c0b"
-              },
-              title: "Master of Science [M.S] (Bioengineering)",
-              info: "Master of Science in Bioengineering is a 2-year program.This is offered on a full-time basis.The program is course-based and delivered on-campus.The Master of Science in Bioengineering is designed for students who want to advance their expertise in the field and pursue exciting careers within the biotechnology, engineering, medicine, and healthcare sectors.The curriculum consists of core bioengineering courses:Technical electivesSeminarsUnrestricted electives. Approved technical electives are chosen by students in consultation with their academic advisor, and can be selected from graduate course offerings in mathematics, statistics, engineering, physical sciences, life sciences, medicine, and many other disciplinary fields. Seminars highlight emerging research in bioengineering and provide training in research ethics.Unrestricted electives can be freely chosen by students in association with their advisor.Some of the courses are:Biomedical ComputationRegenerative Medicine/Tissue EngineeringMolecular and Cell BioengineeringBiomedical ImagingBiomedical Devices Students will be assigned an initial faculty advisor, who will assist the student in designing a plan of study.The student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.According to QS Global World Ranking, Stanford University Ranked #2.The average salary is 77,090 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science.The average cumulative high school GPA of students admitted to Stanford is 3.0 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89b7536a913f077581c0d"
-              },
-              title: "Master of Science [M.S] (Mechanical Engineering)",
-              info: "Master of Science in Mechanical Engineering is a 2-year program.The program is course-based.This program is offered on a full-time basis and delivered on-campus.The master's program consists of 45 units of coursework taken at Stanford. Students must maintain a minimum grade point average (GPA) of 3.0 in the 45 units presented for the fulfillment of degree requirements.Some of the courses are:Design and ManufacturingIntroduction to MechatronicsSmart Product Design FundamentalsSmart Product Design ApplicationsSmart Product Design PracticeSmart Product Design: ProjectsIntroduction to SensorsThe student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.According to QS Global World Ranking, Stanford University Ranked #2.The average salary is 100,000 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students must hold a strong technical background in engineering, physics, or a comparable science program.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-
-          ]
-
-
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d937607cad8d4303548bb6"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d89a732bd7c69588e029cb"
+                      },
+                      title: "Master of Science [M.S] (Statistics - Data Science)",
+                      info: "The Data Science track develops strong mathematical, statistical, computational, and programming skills, in addition to providing fundamental data science education through general and focused electives requirements from courses in data sciences and other areas of interest. The total number of units in the degree is 45, 36.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program are welcome to apply.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89b7436a913f077581bfd"
+                      },
+                      title: "Master of Science [M.S] (Computer Science)",
+                      info: "Master of Science [M.Sc] in Computer Science is a 2-year program.The program is a course-based.This program is offered full-time.The purpose of the master's program is to provide students with the knowledge and skills necessary for a professional career.Areas of specialization includeArtificial IntelligenceBiocomputationComputer and Network SecurityHuman-Computer InteractionInformation Management and AnalyticsReal-world ComputingSoftware TheorySystems, and Theoretical Computer Science M.S. degree in Computer Science is intended as a terminal professional degree and does not lead to the Ph.D. degree.The student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.17 Nobel laureates are currently members of the Stanford community.According to QS Global World Ranking, Stanford University Ranked #2.The average salary is 112,049 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program are welcome to apply.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89b7436a913f077581bff"
+                      },
+                      title: "Master of Science [M.S] (Management Science and Engineering)",
+                      info: "Master of Science in Management Science and Engineering is a 2-year program.The program is a course-based program offered on a full-time and delivered on-campus basis.The program emphasizes developing analytic abilities, making better decisions, developing and executing strategies, and leading people who innovate. Some of the courses are:Financial Analytics Operations and AnalyticsTechnology and Engineering ManagementComputational Social ScienceDecision and Risk AnalysisEnergy and EnvironmentThe student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.According to QS Global World Ranking, Stanford University Ranked #2.The average salary is 76,000 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science.The average cumulative high school GPA of students admitted to Stanford is 3.0 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89b7436a913f077581c03"
+                      },
+                      title: "Master of Science [M.S] (Statistics)",
+                      info: "Master of Science in Statistics is a 2-year program.The program is a course-based program offered full-time and delivered on-campus.The program consists of 45 units.Students are required to complete a minimum of 6 units of coursework in statistics toward the degree each quarter in order to maintain degree progressThe M.S. in Statistics has become an exceedingly popular degree as either a terminal degree or together with a doctorate in another field. The student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program.The average cumulative high school GPA of students admitted to Stanford is 3.0 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89b7536a913f077581c07"
+                      },
+                      title: "Master of Science [M.S] (Computational and Mathematical Engineering - Finance)",
+                      info: "The MCF track is designed to prepare students to assume positions in the financial industry as data and information scientists, quantitative strategists, risk managers, regulators, financial technologists, or to continue on to doctoral programs in related fields. Recommended background: strong foundation in mathematics with courses in linear algebra, numerical methods, probabilities, stochastics, real analysis/pde, programming, proficiency in C++, and interest in finance/internship or industry experience.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program are welcome to apply.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89b7436a913f077581c01"
+                      },
+                      title: "Master of Science [M.S] (Aeronautics and Astronautics)",
+                      info: "Master of Science in Aeronautics and Astronautics is a 2-year program.It is an honours program and is available with a co-op option.The master's degree program requires 45 quarter units of course work, which must be taken at Stanford.The course work is divided into four categories:Basic coursesMathematics CoursesTechnical ElectivesOther Electives. The current research and teaching activities cover a number of advanced fields, with emphasis on:Aeroelasticity and Flow SimulationAircraft Design, Performance, and ControlApplied AerodynamicsAstrodynamicsAutonomyComputational Aero-AcousticsComputational Fluid DynamicsComputational Mechanics and Dynamical SystemsControl of Robots, including Space and Deep-Underwater RobotsConventional and Composite Materials and StructuresThe program emphasizes structural, aerodynamic, guidance and control, and propulsion problems of aircraft and spacecraft. It is recommended that all candidates enroll in a humanities or social sciences course to complete the 45-unit requirement. Example: Language Course.The student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.17 Nobel laureates are currently members of the Stanford community.According to QS Global World Ranking, Stanford University Ranked #2.The average salary is 112,049 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program.The average cumulative high school GPA of students admitted to Stanford is 3.0 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89b7536a913f077581c05"
+                      },
+                      title: "Master of Science [M.S] (Computational and Mathematical Engineering - Data Science)",
+                      info: "The Data Science track develops strong mathematical, statistical, and computational and programming skills through the general master's core and programming requirements. In addition, it provides a fundamental data science education through general and focused electives requirement from courses in data sciences and related areas. The course work follows the requirements of the general master's degree in the core course requirement. the general and focused elective requirements are limited to predefined courses from the data sciences and related courses group. Programming requirement is extended to 6 units and includes course work in advanced scientific programming and high performance computing. The final requirement is a practical component for 6 units to be completed through capstone project, data science clinic, or other courses that have strong hands-on or practical component such as statistical consulting. Recommended background: strong foundation in mathematics with courses in linear algebra, numerical methods, probabilities, stochastics, statistical theory, and programming proficiency in C++ and r.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program are welcome to apply.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89b7536a913f077581c09"
+                      },
+                      title: "Master of Science [M.S] (Computational and Mathematical Engineering)",
+                      info: "Master of Science [M.Sc] in Computational and Mathematical Engineering is a 2-year program.The program is a course-based.The program is offered as a full-time.The master's degree in Computational and Mathematical Engineering is intended as a terminal professional degree and does not lead to the Ph.D. program.The master's program consists of 45 units of course work taken at Stanford.There are five tracks in the master's program:General CMEComputational GeosciencesData ScienceImaging ScienceMathematical and Computational FinanceThe student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.17 Nobel laureates are currently members of the Stanford community.According to QS Global World Ranking, Stanford University Ranked #2.The average salary is 81,606 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program are welcome to apply.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionNote: A three-year bachelor's degree in any subject is not considered sufficient for graduate study at Stanford. A two-year master's degree following the three-year bachelor's degree from India is required.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89b7536a913f077581c0b"
+                      },
+                      title: "Master of Science [M.S] (Bioengineering)",
+                      info: "Master of Science in Bioengineering is a 2-year program.This is offered on a full-time basis.The program is course-based and delivered on-campus.The Master of Science in Bioengineering is designed for students who want to advance their expertise in the field and pursue exciting careers within the biotechnology, engineering, medicine, and healthcare sectors.The curriculum consists of core bioengineering courses:Technical electivesSeminarsUnrestricted electives. Approved technical electives are chosen by students in consultation with their academic advisor, and can be selected from graduate course offerings in mathematics, statistics, engineering, physical sciences, life sciences, medicine, and many other disciplinary fields. Seminars highlight emerging research in bioengineering and provide training in research ethics.Unrestricted electives can be freely chosen by students in association with their advisor.Some of the courses are:Biomedical ComputationRegenerative Medicine/Tissue EngineeringMolecular and Cell BioengineeringBiomedical ImagingBiomedical Devices Students will be assigned an initial faculty advisor, who will assist the student in designing a plan of study.The student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.According to QS Global World Ranking, Stanford University Ranked #2.The average salary is 77,090 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science.The average cumulative high school GPA of students admitted to Stanford is 3.0 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89b7536a913f077581c0d"
+                      },
+                      title: "Master of Science [M.S] (Mechanical Engineering)",
+                      info: "Master of Science in Mechanical Engineering is a 2-year program.The program is course-based.This program is offered on a full-time basis and delivered on-campus.The master's program consists of 45 units of coursework taken at Stanford. Students must maintain a minimum grade point average (GPA) of 3.0 in the 45 units presented for the fulfillment of degree requirements.Some of the courses are:Design and ManufacturingIntroduction to MechatronicsSmart Product Design FundamentalsSmart Product Design ApplicationsSmart Product Design PracticeSmart Product Design: ProjectsIntroduction to SensorsThe student-faculty ratio at Stanford University is 5:1, and the school has 69.3% of its classes with fewer than 20 students.According to QS Global World Ranking, Stanford University Ranked #2.The average salary is 100,000 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹2643620₹2643620Books and supply₹111946₹111946Miscellaneous expenses₹739814₹739814Total Fees₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students must hold a strong technical background in engineering, physics, or a comparable science program.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+      
+              ]
+      
+      
+          },
+          {
+      
               Names: "Columbia Business School",
               Details: "Columbia Business School is amongst the top 10 global business schools, as per U.S. News and World Report. The b-school offers admission to 7 master's programs along with various career-centric research courses. MBA in Columbia Business School is one of the most coveted programs. Columbia Business School fee for the MBA program is 77,376 USD (~57.55 lakh INR). Columbia Business School acceptance rate is around 18.5% and exhibits a lightly selective admission policy. To get admission to CBS, students must produce a high GPA of 90% and a GMAT score of 700 or higher.",
               CoursesN: "MBA",
               img: "https://images.collegedunia.com/public/asset/img/homepage/banner/columbia1.jpg?h=1080&w=1920&mode=stretch",
-              title: "Master of Business Administration [M.B.A]",
-              info: "MBA at Columbia University ranks #2 as per Financial Times MBA Rankings 2022. The MBA degree is available in two main modes- full-time MBA and Executive MBA. The full-time MBA program is AACSB accredited.Application & Deadlines: Columbia University MBA deadlines are open. January 2023 deadline is September 28. August 2023 intake deadline is September 28 (Early deadline) and April 5 (Final deadline). Applications are to be submitted online with an application fee of 250 USD.Admissions: The average age of MBA students at Columbia Business School is 28 years. Admissions for MBA are quite competitive. Columbia University MBA acceptance rate is 18.5% (2021). The competitive admission profile includes a GPA of 3.5 along with GMAT score of 700+. Around 3 years of work experience should ideally be demonstrated to increase the chances of admission.Cost & Placements: Columbia University MBA fees are $80,472 per year. The 2021 employment reports indicate that 94% MBA graduates of Columbia received job offers. The average base salary is $150,000. Top recruiters for Columbia MBA graduates are McKinsey&Company, Boston Consulting Group, Amazon, Bain & Company, and Deloitte Consulting.Course Curriculum DescriptionAt Columbia Business School, students get to learn from both full-time professors and practitioners. They use teaching methods like case-based lessons and collaborative learning models. The curriculum for MBA at Columbia University includes:The Full-time MBA program is offered over the course of four termsThe curriculum consists of 18 required core coursework and a minimum of 42 credits of electives coursework.More than 300 electives are offered at Columbial. Some of the most popular are Analytics in Action, Financial Statement Analysis and Valuation, Organizational Change, and Technology Strategy.Students have the option to choose their own electives or select from the School's recommended courses for common career paths.Check: Student ReviewsDual Degree/Joint Program Options: Students have the option to combine their Columbia MBA with a professional degree such as Law, Engineering, International Affairs or Social Work. Dual degree tracks available for students at Columbia University include MBA and MS in Urban Planning, MBA and MPH, MBA and MS in Industrial Engineering, and JD and MBA.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6527889₹6527889Health Insurance₹445917₹445917Books and supply₹25958₹25958Total Fees₹6999764₹6999764",
-              Exams: "Indian students applying for MBA at Columbia University need to fulfill the following eligibility requirements:Academic Requirements:A bachelor's degree or its equivalent from an accredited institutionUndergraduate GPA of 3.5/4.0Essay Questions:Three essay questions-Essay 1: Theme is career goals over the next 3 to 5 years. (500 words)Essay 2: How Columbia Business School is a good fit for you? ( 300 words)Essay 3: Around favourite books, hobbies, movies. (250 words)One short answer question- Immediate goal post-MBA completion? (50 Characters)Interview:Not mandatory for all applicants; depends on the applicationConducted by an alumni member in an applicant's geographical area.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d93777e3feddd66ef58a75"
-              },
-              title: "Master of Business Administration [M.B.A] (Finance)",
-              info: "Master of Business Administration in Financeat Columbia Business Schoolis a 2-year program.This full-time MBA program is designed to be completed over four terms.It is an on-campus program.Columbia MBA Program curriculum prepares students to lead, build, and manage enterprises while instilling an awareness of the societal effects of business decisionsIn the first year, the intensive core curriculum provides the foundation of broad management skills necessary to succeed in any industry.In the second year, students select courses relevant to their specific career goals from a wide range of Business School electives and optional graduate-level classes taught at one of the University's 12 graduate and professional schools.Read More",
-              fees: "YearYear 1Tuition Fees₹7033834Total Fees₹7033834",
-              Exams: "Academic Eligibility:Studentsmust have a bachelor's degree or its equivalent degree from an accredited institution is required to get admission in this program.Students required to maintain at least a 3.0overall GPA.Students required to have 5 years of work experience.Language Requirments:Students whose official language is not English are required to submitIELTSor TOEFL scores.Students need to submit a minimumGMATscore andGREexam scoresfor a betterchance of admission.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d935f114a235628c8b95f3"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d937607cad8d4303548bb6"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: "MBA at Columbia University ranks #2 as per Financial Times MBA Rankings 2022. The MBA degree is available in two main modes- full-time MBA and Executive MBA. The full-time MBA program is AACSB accredited.Application & Deadlines: Columbia University MBA deadlines are open. January 2023 deadline is September 28. August 2023 intake deadline is September 28 (Early deadline) and April 5 (Final deadline). Applications are to be submitted online with an application fee of 250 USD.Admissions: The average age of MBA students at Columbia Business School is 28 years. Admissions for MBA are quite competitive. Columbia University MBA acceptance rate is 18.5% (2021). The competitive admission profile includes a GPA of 3.5 along with GMAT score of 700+. Around 3 years of work experience should ideally be demonstrated to increase the chances of admission.Cost & Placements: Columbia University MBA fees are $80,472 per year. The 2021 employment reports indicate that 94% MBA graduates of Columbia received job offers. The average base salary is $150,000. Top recruiters for Columbia MBA graduates are McKinsey&Company, Boston Consulting Group, Amazon, Bain & Company, and Deloitte Consulting.Course Curriculum DescriptionAt Columbia Business School, students get to learn from both full-time professors and practitioners. They use teaching methods like case-based lessons and collaborative learning models. The curriculum for MBA at Columbia University includes:The Full-time MBA program is offered over the course of four termsThe curriculum consists of 18 required core coursework and a minimum of 42 credits of electives coursework.More than 300 electives are offered at Columbial. Some of the most popular are Analytics in Action, Financial Statement Analysis and Valuation, Organizational Change, and Technology Strategy.Students have the option to choose their own electives or select from the School's recommended courses for common career paths.Check: Student ReviewsDual Degree/Joint Program Options: Students have the option to combine their Columbia MBA with a professional degree such as Law, Engineering, International Affairs or Social Work. Dual degree tracks available for students at Columbia University include MBA and MS in Urban Planning, MBA and MPH, MBA and MS in Industrial Engineering, and JD and MBA.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6527889₹6527889Health Insurance₹445917₹445917Books and supply₹25958₹25958Total Fees₹6999764₹6999764",
+                      Exams: "Indian students applying for MBA at Columbia University need to fulfill the following eligibility requirements:Academic Requirements:A bachelor's degree or its equivalent from an accredited institutionUndergraduate GPA of 3.5/4.0Essay Questions:Three essay questions-Essay 1: Theme is career goals over the next 3 to 5 years. (500 words)Essay 2: How Columbia Business School is a good fit for you? ( 300 words)Essay 3: Around favourite books, hobbies, movies. (250 words)One short answer question- Immediate goal post-MBA completion? (50 Characters)Interview:Not mandatory for all applicants; depends on the applicationConducted by an alumni member in an applicant's geographical area.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d93777e3feddd66ef58a75"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Finance)",
+                      info: "Master of Business Administration in Financeat Columbia Business Schoolis a 2-year program.This full-time MBA program is designed to be completed over four terms.It is an on-campus program.Columbia MBA Program curriculum prepares students to lead, build, and manage enterprises while instilling an awareness of the societal effects of business decisionsIn the first year, the intensive core curriculum provides the foundation of broad management skills necessary to succeed in any industry.In the second year, students select courses relevant to their specific career goals from a wide range of Business School electives and optional graduate-level classes taught at one of the University's 12 graduate and professional schools.Read More",
+                      fees: "YearYear 1Tuition Fees₹7033834Total Fees₹7033834",
+                      Exams: "Academic Eligibility:Studentsmust have a bachelor's degree or its equivalent degree from an accredited institution is required to get admission in this program.Students required to maintain at least a 3.0overall GPA.Students required to have 5 years of work experience.Language Requirments:Students whose official language is not English are required to submitIELTSor TOEFL scores.Students need to submit a minimumGMATscore andGREexam scoresfor a betterchance of admission.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Haas School of Business",
               Details: "Haas School of Business is one of the top ranking Business Schools in the USA. The School ranked #8 in best business schools as per US News and World Report. MBA at Haas School of Business is one of the most well-known programs, ranking #14 globally (Financial times global MBA ranking 2022). Besides MBA, the school offers a bachelor's degree in business, a doctoral degree program and 4 certificate programs.As the second-oldest business schools in the USA, the School is well-known for its experiential learning opportunities. Haas School of Business offers over 20 applied innovation courses for practical learning along with summer internships.",
               CoursesN: "MBA",
               img: "https://tse2.mm.bing.net/th?id=OIP.nIKFujcrXKBfeLZkha20kwHaEU&pid=Api&P=0",
-              title: "Master of Business Administration [M.B.A]",
-              info: "The Master of Business Administration at theUniversity of California is a 2 years program.It is an on-campus program offered on a full-time basis.In the Full-time Berkeley MBA Program, a rigorous general management curriculum gives students the knowledge and skills to be a leader in any type of organization.In addition to the regular MBA curriculum, students can also apply for one of twoconcurrent degrees:MBA/MPH (Masters of Public Health) degreeMBA/MEng (Business Administration and Engineering) degreeOr, the JD/MBA degree. students must complete 51 valid units of coursework to graduate. On average, students take 12-14 units per semester.Students take classes Monday through Thursday. Fridays are usually spent attending discussion sessions, career services workshops, and other curricular and extra-curricular activities.The maximum number of MBA units a student is allowed to take per semester is 16.With less than 300 students enrolled in each entering class, the university is regularly the smallest of any top full-time MBA program. This allows us to deliver highly personalized career services.Students need to complete 12 required courses in the core curriculum build on one another to foster mastery of the analytical tools and essential knowledge to lead successfully.Students learn from faculty members recognized worldwide for their research and thought leadership.Berkeley Haas offers MBA scholarships to entering students in the form of both need- and merit-based awards. All prospective students will be evaluated for fellowships and scholarship funding.University of California,Berkeley ranks 7th as the best Business Schools ranking according to US News and World Report, 2021.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹5825795₹5825795Health Insurance₹493859₹493859Books and supply₹52404₹52404Miscellaneous expenses₹226325₹226325Total Fees₹6598382₹6598382",
-              Exams: "MASTER OF BUSINESS ADMINISTRATION (MBA)Acceptance Rate14%International Students40%GraduationStudents must complete a bachelor's degree or the recognized equivalent from an accredited institution. Graduates of recognized academic institutions outside the United States should have completed degree programs representing a minimum of 16 years of schooling, with at least 12 years at the primary and secondary levels.A grade-point average (GPA) of 3.6 (B+) on a 4.0 scale.Submission of GRE or GMAT scores is compulsory for this program but there is no minimum acceptable score.Work Experience5 years of full-time professional work experienceTOEFLTOEFL score must be at least 570 for the paper and pencil test, at least 230 for the computer-based test or at least 90 for the Internet-based testPTEMinimum 54 is required for considerationIELTSMinimum 7.0 is required for the consideration (not more than 2 years old)Documents RequiredAt least 3 Letters of Recommendation (which includes information about the student, their connection with the person they are recommending, their qualification, and the specific skills they have)Personal Statement (explanation of why you are interested in the course preferred)Academic Transcripts and degree certificatesMonetary Support DeclarationProof of Fee Payment, Work samples and research proposal (for research programs)ResumePassport details, if relevantApplication Fee$155 (12,642 INR)Applications DeadlineMay 7, 2023Offer Acceptance time3-4 weeksInternational admissions staff at UC Berkeley are experts in the various curriculum from around the world. They ensure that each application is fairly read in the context of your school and country.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d80df33d27382c4f61da49"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d935f114a235628c8b95f3"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: "The Master of Business Administration at theUniversity of California is a 2 years program.It is an on-campus program offered on a full-time basis.In the Full-time Berkeley MBA Program, a rigorous general management curriculum gives students the knowledge and skills to be a leader in any type of organization.In addition to the regular MBA curriculum, students can also apply for one of twoconcurrent degrees:MBA/MPH (Masters of Public Health) degreeMBA/MEng (Business Administration and Engineering) degreeOr, the JD/MBA degree. students must complete 51 valid units of coursework to graduate. On average, students take 12-14 units per semester.Students take classes Monday through Thursday. Fridays are usually spent attending discussion sessions, career services workshops, and other curricular and extra-curricular activities.The maximum number of MBA units a student is allowed to take per semester is 16.With less than 300 students enrolled in each entering class, the university is regularly the smallest of any top full-time MBA program. This allows us to deliver highly personalized career services.Students need to complete 12 required courses in the core curriculum build on one another to foster mastery of the analytical tools and essential knowledge to lead successfully.Students learn from faculty members recognized worldwide for their research and thought leadership.Berkeley Haas offers MBA scholarships to entering students in the form of both need- and merit-based awards. All prospective students will be evaluated for fellowships and scholarship funding.University of California,Berkeley ranks 7th as the best Business Schools ranking according to US News and World Report, 2021.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹5825795₹5825795Health Insurance₹493859₹493859Books and supply₹52404₹52404Miscellaneous expenses₹226325₹226325Total Fees₹6598382₹6598382",
+                      Exams: "MASTER OF BUSINESS ADMINISTRATION (MBA)Acceptance Rate14%International Students40%GraduationStudents must complete a bachelor's degree or the recognized equivalent from an accredited institution. Graduates of recognized academic institutions outside the United States should have completed degree programs representing a minimum of 16 years of schooling, with at least 12 years at the primary and secondary levels.A grade-point average (GPA) of 3.6 (B+) on a 4.0 scale.Submission of GRE or GMAT scores is compulsory for this program but there is no minimum acceptable score.Work Experience5 years of full-time professional work experienceTOEFLTOEFL score must be at least 570 for the paper and pencil test, at least 230 for the computer-based test or at least 90 for the Internet-based testPTEMinimum 54 is required for considerationIELTSMinimum 7.0 is required for the consideration (not more than 2 years old)Documents RequiredAt least 3 Letters of Recommendation (which includes information about the student, their connection with the person they are recommending, their qualification, and the specific skills they have)Personal Statement (explanation of why you are interested in the course preferred)Academic Transcripts and degree certificatesMonetary Support DeclarationProof of Fee Payment, Work samples and research proposal (for research programs)ResumePassport details, if relevantApplication Fee$155 (12,642 INR)Applications DeadlineMay 7, 2023Offer Acceptance time3-4 weeksInternational admissions staff at UC Berkeley are experts in the various curriculum from around the world. They ensure that each application is fairly read in the context of your school and country.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Harvard University",
               Details: "Harvard University is the oldest higher education institution in USA offering admission in Fall, Winter, Spring or Summer intakes. Established in 1636, Harvard has three campus locations- Cambridge, Allston, and Boston. The Ivy League USA institution is home to 16% international students hailing from 150+ countries including 613 Indian students and scholars.Harvard University acceptance rate is merely 4.7% for undergraduate programs and 10.3% for MBA program, for the Fall intake. There are around 90 undergraduate degrees and 150 graduate degree courses to choose from. Of these, popular Harvard University programs include Business Administration, Law, and Medicine. The eligibility requirements for Harvard is similar to any other Ivy League colleges, yet admission are granted to only academic elites. Applications for 2023 admissions commence from mid-August.",
               CoursesN: "MBA",
               img: "https://tse1.mm.bing.net/th?id=OIP.lx4VflmiPC-5defzMkrGDAHaDc&pid=Api&P=0",
-              title: "Master of Business Administration [M.B.A]",
-              info: "MBA in Harvard University is a 2-year program concentrated on real-world practice.International students from 65 countries comprise 37% of the Harvard MBA class. Indian students can estimate to spend 112,764 USD in fees for MBA in Harvard University.Explore: Cost of living in USAInternational students get a unique learning experience pursuing MBA inHarvard Business School with field projects, case method courses, tech simulations, introspective exercises and more. The full-time course is primarily based on general management curriculum.Harvard MBA RankingsMBA in Harvard Business School is ranked at #3 according to Financial Times Rankings, 2022.The specialization MBA rankings of the institute according to QS Global 200 Business Schools Report are as follows:SpecializationHarvard MBA RankingEntrepreneurship1Corporate Social Responsibility1Leadership1Strategy1Operation Management2International Management2Information Management2Innovation3Marketing3Finance4Check: Harvard University RankingsMBA in Harvard: CoursesAll the students pursuing MBA in Harvard Business School follow the same core curriculum in the first year of their study. The required fundamental curriculum for 1st year includes Business, Government, and the International Economy (BGIE), The Entrepreneurial Manager (TEM), Strategy (STRAT), Leadership and Corporate Accountability (LCA), Finance 2 (FIN2), FIELD Immersion.Know more: MBA in USAIn the 2nd year, students can add any combination of up to 5 elective courses. Students can also participate in Immersive Field Courses (IFC) in the 2nd year.The business school also offers various joint degree programs in combination with 6 graduate schools of Harvard University. Around 100 students pursue joint degrees annually. The business schools and joint degrees are as follows:Graduate SchoolHarvard Joint DegreeHarvard Graduate School of Arts and SciencesMS/MBA in BiotechnologyHarvard Kennedy SchoolMBA/MPP (Master of Public Policy) MBA/MPA-ID (Master of Public Administration - International Development)Harvard Law SchoolJD/MBAHarvard Medical SchoolMD/MBAHarvard School of Dental MedicineDMD/MBAHarvard School of Engineering and Applied SciencesMS/MBARead More",
-              fees: "YearYear 1Year 2Tuition Fees₹5957453₹5957453Health Insurance₹330970₹330970Other Fees₹312636₹312636Total Fees₹6601059₹6601059",
-              Exams: "The admission requirements for MBA in Harvard University are as follows:A degree program at an accredited U.S. four-year undergraduate college/university or its equivalent (unless you are a college senior applying to our2+2 Program). Equivalent programs include international three-year bachelor degree programs.Transcript verification from WESLOREnglish proficiency test scoreTOEFL iBT: 109IELTS: 7.5PTE: 75Duolingo: 130.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d80e1be551db6082be59db"
-              },
-              title: "Master of Business Administration [M.B.A] (Finance)",
-              info: "MBA in Finance is 2 years program offered byHarvard Business School.It is an on-campus program offered on a full-time basis.The Financecourse examines the role of finance in supporting the functional areas of a firm, and fosters an understanding of how financial decisions themselves can create value.The topics covered by the programs are:Basic analytical skills and principles of corporate finance.Functions of modern capital markets and financial institutions.Standard techniques of analysis, including capital budgeting, discounted cash flow valuation, and risk analysis.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4255231₹4255231Health Insurance₹105780₹105780Books and supply₹73008₹73008Miscellaneous expenses₹560539₹560539Total Fees₹4994558₹4994558",
-              Exams: "Academic Eligibility:Candidates must have abachelor's degree orequivalent degree from an accredited institution.A GPA of 3.0/4.0 [B+ Grade] is required.Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in allprerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the requiredIELTSorTOEFLtest scores<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d80e1ce551db6082be59dd"
-              },
-              title: "Master of Business Administration [M.B.A] (Entrepreneurship)",
-              info: "Master of Business Administrationin Entrepreneurship at Harvard Universityis offered as a 2-yearteaching program.Thisprogram hasaco-op work option.In order to be eligible to participate in a full-time Co-op Work Term,students must meet theGPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:Accounting for ManagementSales and NegotiationsLaunching a New BusinessCreating a Business PlanFinancing a New BusinessThe Program is a deferred admission processfor current students, either in college or full-time master's programs. It is comprised of at least two years of professional work experience followed by two years in the HBS MBA Program.Upon graduation, admitted 2+2 students spend a minimum of two years (maximum of fouryears) working in a professional position in the public, private, or nonprofit sector. Theyencourage students from STEM and humanities disciplines to apply, but the 2+2 Program attracts accomplished students from all fields of study.Looking for innovative thinkers who have demonstrated leadership and analytical skills and want to develop their knowledge and passion for making a difference in the world.Career positions may include:Chief Technology OfficerComputer and Information Systems ManagerFinancial ManagerHealth Services ManagerHigh-End Management Consultant,etcwith an average salary of 36,475USD per year.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4255231₹4255231Health Insurance₹105780₹105780Books and supply₹73008₹73008Miscellaneous expenses₹560539₹560539Total Fees₹4994558₹4994558",
-              Exams: "Academic Eligibility:Candidates must have an equivalentbachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in allprerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the requiredIELTSorTOEFLtest scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GMATscores iscompulsory for this program, however, it is recommended to submit a minimum 730score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d936a9d83642823d116aa1"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d80df33d27382c4f61da49"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: "MBA in Harvard University is a 2-year program concentrated on real-world practice.International students from 65 countries comprise 37% of the Harvard MBA class. Indian students can estimate to spend 112,764 USD in fees for MBA in Harvard University.Explore: Cost of living in USAInternational students get a unique learning experience pursuing MBA inHarvard Business School with field projects, case method courses, tech simulations, introspective exercises and more. The full-time course is primarily based on general management curriculum.Harvard MBA RankingsMBA in Harvard Business School is ranked at #3 according to Financial Times Rankings, 2022.The specialization MBA rankings of the institute according to QS Global 200 Business Schools Report are as follows:SpecializationHarvard MBA RankingEntrepreneurship1Corporate Social Responsibility1Leadership1Strategy1Operation Management2International Management2Information Management2Innovation3Marketing3Finance4Check: Harvard University RankingsMBA in Harvard: CoursesAll the students pursuing MBA in Harvard Business School follow the same core curriculum in the first year of their study. The required fundamental curriculum for 1st year includes Business, Government, and the International Economy (BGIE), The Entrepreneurial Manager (TEM), Strategy (STRAT), Leadership and Corporate Accountability (LCA), Finance 2 (FIN2), FIELD Immersion.Know more: MBA in USAIn the 2nd year, students can add any combination of up to 5 elective courses. Students can also participate in Immersive Field Courses (IFC) in the 2nd year.The business school also offers various joint degree programs in combination with 6 graduate schools of Harvard University. Around 100 students pursue joint degrees annually. The business schools and joint degrees are as follows:Graduate SchoolHarvard Joint DegreeHarvard Graduate School of Arts and SciencesMS/MBA in BiotechnologyHarvard Kennedy SchoolMBA/MPP (Master of Public Policy) MBA/MPA-ID (Master of Public Administration - International Development)Harvard Law SchoolJD/MBAHarvard Medical SchoolMD/MBAHarvard School of Dental MedicineDMD/MBAHarvard School of Engineering and Applied SciencesMS/MBARead More",
+                      fees: "YearYear 1Year 2Tuition Fees₹5957453₹5957453Health Insurance₹330970₹330970Other Fees₹312636₹312636Total Fees₹6601059₹6601059",
+                      Exams: "The admission requirements for MBA in Harvard University are as follows:A degree program at an accredited U.S. four-year undergraduate college/university or its equivalent (unless you are a college senior applying to our2+2 Program). Equivalent programs include international three-year bachelor degree programs.Transcript verification from WESLOREnglish proficiency test scoreTOEFL iBT: 109IELTS: 7.5PTE: 75Duolingo: 130.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d80e1be551db6082be59db"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Finance)",
+                      info: "MBA in Finance is 2 years program offered byHarvard Business School.It is an on-campus program offered on a full-time basis.The Financecourse examines the role of finance in supporting the functional areas of a firm, and fosters an understanding of how financial decisions themselves can create value.The topics covered by the programs are:Basic analytical skills and principles of corporate finance.Functions of modern capital markets and financial institutions.Standard techniques of analysis, including capital budgeting, discounted cash flow valuation, and risk analysis.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4255231₹4255231Health Insurance₹105780₹105780Books and supply₹73008₹73008Miscellaneous expenses₹560539₹560539Total Fees₹4994558₹4994558",
+                      Exams: "Academic Eligibility:Candidates must have abachelor's degree orequivalent degree from an accredited institution.A GPA of 3.0/4.0 [B+ Grade] is required.Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in allprerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the requiredIELTSorTOEFLtest scores<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d80e1ce551db6082be59dd"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Entrepreneurship)",
+                      info: "Master of Business Administrationin Entrepreneurship at Harvard Universityis offered as a 2-yearteaching program.Thisprogram hasaco-op work option.In order to be eligible to participate in a full-time Co-op Work Term,students must meet theGPA requirements.The student to faculty ratio is 16:1 which bridges the gap between faculty and students.Some of the main courses that students will study in this program are:Accounting for ManagementSales and NegotiationsLaunching a New BusinessCreating a Business PlanFinancing a New BusinessThe Program is a deferred admission processfor current students, either in college or full-time master's programs. It is comprised of at least two years of professional work experience followed by two years in the HBS MBA Program.Upon graduation, admitted 2+2 students spend a minimum of two years (maximum of fouryears) working in a professional position in the public, private, or nonprofit sector. Theyencourage students from STEM and humanities disciplines to apply, but the 2+2 Program attracts accomplished students from all fields of study.Looking for innovative thinkers who have demonstrated leadership and analytical skills and want to develop their knowledge and passion for making a difference in the world.Career positions may include:Chief Technology OfficerComputer and Information Systems ManagerFinancial ManagerHealth Services ManagerHigh-End Management Consultant,etcwith an average salary of 36,475USD per year.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4255231₹4255231Health Insurance₹105780₹105780Books and supply₹73008₹73008Miscellaneous expenses₹560539₹560539Total Fees₹4994558₹4994558",
+                      Exams: "Academic Eligibility:Candidates must have an equivalentbachelor's degree from an accredited institution.GPA of 3.0/4.0 [B+ Grade].Indian Student Eligibility:The minimum requirements are an overall average of 60% in each year, as well as in allprerequisite subjects.Subjects must include mathematics, chemistry, and physics in Classes 11 and 12.GPA of 3.0/4.0 [B Grade].English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the requiredIELTSorTOEFLtest scores.<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->Submission of GMATscores iscompulsory for this program, however, it is recommended to submit a minimum 730score for a better chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Kellogg School of Management",
               Details: "Kellogg School of Management is an internationally recognized global business school saddled with the mission to build, educate and equip leaders of the coming generations. It is the first school in the world to launch a one-year-long MBA program. Kellogg School of Management offers 18 major areas of study such as Accounting Information & Management, Analytical Finance, Entrepreneurship & Innovation, International Business etc. Admissions at Kellogg School of Management are offered on a rolling basis around the year in multiple intakes and observe different deadlines for its various courses.Established as a school at Northwestern University, it has grown to be a hub of business ideas generation, cutting-edge research and diverse perspectives of issues confronting the global economy. Kellogg School of Management acceptance rate is 20% manifesting a highly selective admission policy. Prospective students need to deposit a non-refundable application fee of 95 to 250 USD, depending upon the course one opts for while submitting their application forms. About 95% of Kellogg graduates receive good employment offers within three months of graduating making it one of the coveted names in the US Education System.",
               CoursesN: "MBA",
               img: "https://tse2.mm.bing.net/th?id=OIP.nIKFujcrXKBfeLZkha20kwHaEU&pid=Api&P=0",
-              title: "Master of Business Administration [M.B.A]",
-              info: "Northwestern University offers two types of full-time MBA Programs - a 2-year MBA program and a 1-year MBA program. Apart from this, the school offers evening and weekend MBA and Executive MBA. Northwestern University also offers joint degree programs like JD-MBA and MD-MBA. The programs are offered through Kellogg School of Management.The full-time MBA program ranks #5 as per Financial Times Global MBA ranking 2022. Northwestern University also ranks #3 in best business schools and for part-time MBA according to US News and World Report.The Full-Time MBA and Evening/Weekend MBA programs at Kellogg School of Management are STEM-designated degree programs. International students applying for the MBA programs will be eligible for a 24-month OPT extension.Check: Student Profile​Application deadline: The MBA application deadline for round 1 is on September 14, 2022. The round 2 deadline is on March 28, 2023. May 10, 2023, is the last date to apply for an MBA.Class Profile: 508 students were admitted for the MBA Class of 2023. Their average undergraduate GPA is 3.7. The average GMAT score submitted by the class was 727. The MBA class of 2023 also held an average work experience of 5 years.Tuition fee and scholarship: Northwestern University MBA fees are $78,276 per year. The School offers merit scholarships to students with noteworthy achievements in professional or personal fields.Top Employers: Companies that hired two or more MBA graduates include Apple, Amazon, Deloitte Consulting, Nike and J.P Morgan among others. 88.7% of the MBA students also received job offers by graduation.Source: Northwestern UniversityCourse DescriptionStudents are required to register for six terms of full-time study and complete a minimum of 20.5 credits.The core curriculum consists of nine courses in fundamental areas, including accounting; management and organizations; marketing; finance; managerial economics; decision sciences; operations; and management and strategy.Students also have the option to customize their MBA program by opting for a major of their choice. Kellogg School of Management offers 8 majors for MBA. Students who opt for a major are required to complete the core course and a minimum of 4 electives.Kellogg School of Management also offers MBA pathways. This includes a series of courses designed to explore a particular skill set or industry.All students who have opted for the two-year MBA program are required to complete 6-12 weeks of internships during the summer.Kellogg School of Management also offers 37 study abroad exchange programs across 20 countries.Check: Northwestern University Student reviewsRead More",
-              fees: "YearYear 1Year 2Tuition Fees₹6349749₹6349749Health Insurance₹381102₹381102Books and supply₹133605₹133605Compulsory Fees₹162240₹162240Miscellaneous expenses₹90043₹90043Other Fees₹113568₹113568Total Fees₹9752976₹7209864",
-              Exams: "MBA applicants need to meet the following entry requirements for admission to Kellogg School of Management.Academic RequirementsFour-year bachelor's degree from the US or equivalent international college-level degreeGPA over 3.0Note: The school accepts 3-year undergraduate degree programs from Indian institutionsEnglish Proficiency requirementsOverseas candidates are required to provide proof of proficiency in English. They can submit any one of the following tests as proof. The minimum scores are given below:TOEFL-iBT score of 100IELTS score of 7EssaysEssay 1: Provide a recent example where you have demonstrated leadership and created value. What challenges did you face and what did you learn? (450 words)Values are what guide us in our life and work. What values are important to you and how have they influenced you? (450 words)Work ExperienceKellogg MBA applicants should have minimum two years of full-time work experience after graduationInterviewInterview is mandatory for all applicantsInterviews are conducted virtually and candidates can schedule a date as per their convenienceVideo EssaysAfter submitting the online application and paying the fee, candidates need to answer 3 video essay questions:Video Essay 1: Please introduce yourself to the admissions committee.Video Essay 2: What path are you interested in pursuing, how will you get there, and why is this program right for you?Video Essay 3: Talk about a challenge that you have faced and what you have learned from it.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d896481739c4788ee19eff"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d936a9d83642823d116aa1"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: "Northwestern University offers two types of full-time MBA Programs - a 2-year MBA program and a 1-year MBA program. Apart from this, the school offers evening and weekend MBA and Executive MBA. Northwestern University also offers joint degree programs like JD-MBA and MD-MBA. The programs are offered through Kellogg School of Management.The full-time MBA program ranks #5 as per Financial Times Global MBA ranking 2022. Northwestern University also ranks #3 in best business schools and for part-time MBA according to US News and World Report.The Full-Time MBA and Evening/Weekend MBA programs at Kellogg School of Management are STEM-designated degree programs. International students applying for the MBA programs will be eligible for a 24-month OPT extension.Check: Student Profile​Application deadline: The MBA application deadline for round 1 is on September 14, 2022. The round 2 deadline is on March 28, 2023. May 10, 2023, is the last date to apply for an MBA.Class Profile: 508 students were admitted for the MBA Class of 2023. Their average undergraduate GPA is 3.7. The average GMAT score submitted by the class was 727. The MBA class of 2023 also held an average work experience of 5 years.Tuition fee and scholarship: Northwestern University MBA fees are $78,276 per year. The School offers merit scholarships to students with noteworthy achievements in professional or personal fields.Top Employers: Companies that hired two or more MBA graduates include Apple, Amazon, Deloitte Consulting, Nike and J.P Morgan among others. 88.7% of the MBA students also received job offers by graduation.Source: Northwestern UniversityCourse DescriptionStudents are required to register for six terms of full-time study and complete a minimum of 20.5 credits.The core curriculum consists of nine courses in fundamental areas, including accounting; management and organizations; marketing; finance; managerial economics; decision sciences; operations; and management and strategy.Students also have the option to customize their MBA program by opting for a major of their choice. Kellogg School of Management offers 8 majors for MBA. Students who opt for a major are required to complete the core course and a minimum of 4 electives.Kellogg School of Management also offers MBA pathways. This includes a series of courses designed to explore a particular skill set or industry.All students who have opted for the two-year MBA program are required to complete 6-12 weeks of internships during the summer.Kellogg School of Management also offers 37 study abroad exchange programs across 20 countries.Check: Northwestern University Student reviewsRead More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6349749₹6349749Health Insurance₹381102₹381102Books and supply₹133605₹133605Compulsory Fees₹162240₹162240Miscellaneous expenses₹90043₹90043Other Fees₹113568₹113568Total Fees₹9752976₹7209864",
+                      Exams: "MBA applicants need to meet the following entry requirements for admission to Kellogg School of Management.Academic RequirementsFour-year bachelor's degree from the US or equivalent international college-level degreeGPA over 3.0Note: The school accepts 3-year undergraduate degree programs from Indian institutionsEnglish Proficiency requirementsOverseas candidates are required to provide proof of proficiency in English. They can submit any one of the following tests as proof. The minimum scores are given below:TOEFL-iBT score of 100IELTS score of 7EssaysEssay 1: Provide a recent example where you have demonstrated leadership and created value. What challenges did you face and what did you learn? (450 words)Values are what guide us in our life and work. What values are important to you and how have they influenced you? (450 words)Work ExperienceKellogg MBA applicants should have minimum two years of full-time work experience after graduationInterviewInterview is mandatory for all applicantsInterviews are conducted virtually and candidates can schedule a date as per their convenienceVideo EssaysAfter submitting the online application and paying the fee, candidates need to answer 3 video essay questions:Video Essay 1: Please introduce yourself to the admissions committee.Video Essay 2: What path are you interested in pursuing, how will you get there, and why is this program right for you?Video Essay 3: Talk about a challenge that you have faced and what you have learned from it.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Massachusetts Institute of Technology",
               Details: "Massachusetts Institute of Technology is a private institution located in Cambridge, Massachusetts. MIT is a diverse university with a 29.1% ( 3411) international student population. The largest communities at MIT are from China with 971 students followed by 340 students from India. The majority of international students pursue masters-level STEM courses at MIT university. In 2021, the university's most enrolled programs were MS Management Studies and MS Mechanical Engineering.Ranking #1 in the world, Massachusetts Institute of Technology is globally acknowledged for its affordability. The average tuition fees for MIT programs is USD 57,590. MIT University offers need-blind scholarships with an average award amount of USD 40,000 to all students. With this significant financial aid, the annual tuition fees for MIT is reduced to almost USD 17,590.",
               CoursesN: "MBA",
               img: "https://tse4.mm.bing.net/th?id=OIP.9o4yZc6r47IaOyyqjZH7dwHaDS&pid=Api&P=0",
-              title: "Master of Business Administration [M.B.A]",
-              info: "The Master of Business administration(MBA) is a 2-year program at Sloan School of Management,Massachusetts Institute of Technology(MIT).This program ranks 3rdin the USA according to QS University Rankings 2020 with an employability rate of 96.6.This program is accredited by AACSBwhich shows that the program has everything that studentsexpect.Through Career Core, MBA studentsanalyze personal strengths, interests, and values in order to effectively market themselves,and learn about thecurrent job market and opportunities specifically for MBAs.One-on-one career coaching. Faculty members who are also practitionersin their industry. Club events. Company presentations. These are just some of the ways MIT Sloan works with the student at every stage of their journey, no matter where they want togo.When the student graduates, they'll join an exceptional network of more than136,000 MIT alumni, representing 90 countries around the world. More than 4,000 MIT and MIT Sloan alumni volunteers are ready to share their insights and experienceSome of the companies that recruitthis program graduates are the Boston Consulting Group,Bain & Company, Google,McKinsey & Company, Amazon,Amgen,JP Morgan Chase & Co,.. etc.The student to faculty ratio is8.6:1 which increases the intractability between students and faculty.The Female to male ratio in this program is39:61.The students also have an option to do a dual degree with an MBA and any one of the 7 engineering programs.The jobs after graduation are:Marketing manager.Medical and health services manager.Financial manager.Database administrator.Business operations manager.., etc.The average salary of the student after graduation is 140,000 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6522048₹6522048Other Fees₹178464₹178464Total Fees₹6700512₹6700512",
-              Exams: "Academic Eligibility:The students must have a bachelor's degree(3 or 4years) in any of the respective fields to apply forthis program.The average GPA of the students in this program is 3.9.Students can apply with any bachelor's degree but the majority of the students come from these fields like Computer Science, Economics, Engineering (variety), Finance, Management, Math, Operations Research, Statistics…, etc.Work Experience:Work experience is not required but many of the students have an average experience of 15 months.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 90 out of 120.The IELTS cut-off will be decided by the university department.Language Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:The students must compulsorily have to submit the scores of any one of the exams like GMAT or GRE.MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8966e0900c1671013f9d8"
-              },
-              title: "Master of Business Administration [M.B.A] (Finance)",
-              info: "The Master of Business administrationis a 2-year program at MIT Sloan School of Management.This program is accredited by AACSB and offered on a full-time basis.Through intellectual discovery and hands-on learning, this full-time, two-year MBA program develops leaders who make a difference in the world.Studentsanalyze personal strengths, interests, and values in order to effectively market themselves,and learn about thecurrent job market and opportunities specifically for MBA.Through Career Core, MBA studentsanalyze personal strengths, interests, and values in order to effectively market themselves,and learn about thecurrent job market and opportunities specifically for MBAs.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6404748₹6404748Total Fees₹6404748₹6404748",
-              Exams: "Academic Eligibility:The students must have a bachelor's degreefrom a recognized university to apply forthis program.The average GPA of the students in this program is 3.9.Students can apply with any bachelor's degree but the majority of the students come from these fields like Computer Science, Economics, Engineering (variety), Finance, Management, Math, Operations Research, Statistics…, etc.Work Experience:Work experience is not required but many of the students have an average experience of 15 months.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 90 out of 120.The IELTS cut-off will be decided by the university department.Language Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:The students must compulsorily have to submit the scores of any one of the exams like GMAT or GRE.MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d9311f022909bdcb49026d"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d896481739c4788ee19eff"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: "The Master of Business administration(MBA) is a 2-year program at Sloan School of Management,Massachusetts Institute of Technology(MIT).This program ranks 3rdin the USA according to QS University Rankings 2020 with an employability rate of 96.6.This program is accredited by AACSBwhich shows that the program has everything that studentsexpect.Through Career Core, MBA studentsanalyze personal strengths, interests, and values in order to effectively market themselves,and learn about thecurrent job market and opportunities specifically for MBAs.One-on-one career coaching. Faculty members who are also practitionersin their industry. Club events. Company presentations. These are just some of the ways MIT Sloan works with the student at every stage of their journey, no matter where they want togo.When the student graduates, they'll join an exceptional network of more than136,000 MIT alumni, representing 90 countries around the world. More than 4,000 MIT and MIT Sloan alumni volunteers are ready to share their insights and experienceSome of the companies that recruitthis program graduates are the Boston Consulting Group,Bain & Company, Google,McKinsey & Company, Amazon,Amgen,JP Morgan Chase & Co,.. etc.The student to faculty ratio is8.6:1 which increases the intractability between students and faculty.The Female to male ratio in this program is39:61.The students also have an option to do a dual degree with an MBA and any one of the 7 engineering programs.The jobs after graduation are:Marketing manager.Medical and health services manager.Financial manager.Database administrator.Business operations manager.., etc.The average salary of the student after graduation is 140,000 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6522048₹6522048Other Fees₹178464₹178464Total Fees₹6700512₹6700512",
+                      Exams: "Academic Eligibility:The students must have a bachelor's degree(3 or 4years) in any of the respective fields to apply forthis program.The average GPA of the students in this program is 3.9.Students can apply with any bachelor's degree but the majority of the students come from these fields like Computer Science, Economics, Engineering (variety), Finance, Management, Math, Operations Research, Statistics…, etc.Work Experience:Work experience is not required but many of the students have an average experience of 15 months.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 90 out of 120.The IELTS cut-off will be decided by the university department.Language Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:The students must compulsorily have to submit the scores of any one of the exams like GMAT or GRE.MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8966e0900c1671013f9d8"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Finance)",
+                      info: "The Master of Business administrationis a 2-year program at MIT Sloan School of Management.This program is accredited by AACSB and offered on a full-time basis.Through intellectual discovery and hands-on learning, this full-time, two-year MBA program develops leaders who make a difference in the world.Studentsanalyze personal strengths, interests, and values in order to effectively market themselves,and learn about thecurrent job market and opportunities specifically for MBA.Through Career Core, MBA studentsanalyze personal strengths, interests, and values in order to effectively market themselves,and learn about thecurrent job market and opportunities specifically for MBAs.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6404748₹6404748Total Fees₹6404748₹6404748",
+                      Exams: "Academic Eligibility:The students must have a bachelor's degreefrom a recognized university to apply forthis program.The average GPA of the students in this program is 3.9.Students can apply with any bachelor's degree but the majority of the students come from these fields like Computer Science, Economics, Engineering (variety), Finance, Management, Math, Operations Research, Statistics…, etc.Work Experience:Work experience is not required but many of the students have an average experience of 15 months.Language Requirments:The students whose official language is not English are required to write IELTS or TOEFL exams before applying.The TOEFL cut-off for this program is 90 out of 120.The IELTS cut-off will be decided by the university department.Language Requirement Exemption:Students who have received instruction in English in their primary and secondary schools and students who have been in the United States for four years or longer and have received a degree from an American institution.Exam Requirments:The students must compulsorily have to submit the scores of any one of the exams like GMAT or GRE.MIT recommends that applicants interview with a member of the MIT Educational Council if available. Council members are MIT graduates who have volunteered to interview on behalf of the Office of Admissions.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "University of Pennsylvania",
               Details: "University of Pennsylvania or UPenn is a private Ivy League school established in 1740. The university owns one of the first medical schools and Wharton B-School. As of 2022, UPenn is home to 28,000+ students including 13% international student population. UPenn graduate courses are quite popular, most of all, its courses offered by the School of Arts and Science, Wharton B-School, and School of Engineering. This indicates that admissions at Penn are highly competitive. University of Pennsylvania acceptance rate is 5.9% overall. Students with a GPA of 3.9/4 (94%) or higher have shown more successful selection than others",
               CoursesN: "MBA",
               img: "https://www.easyuni.co.id/media/institution/photo/2016/06/27/df375dba-a3e4-4aef-8732-e35a35510320.JPG",
-              title: "Master of Business Administration [M.B.A]",
-              info: "MBA at the University of Pennsylvania is offered in two main formats - full-time MBA and Executive MBA. The full-time MBA degree program offered by University of Pennsylvania ranks #1 in Financial Times MBA ranking 2022. The program also ranks #1 in best business school as per US News and World Report.The School also offers joint MBA degree programs. This includes MBA/MA Lauder Joint Degree in International Studies, MBA in health care management, Wharton MBA for Engineering, MBA/JD degree and MBA/MSW.The Wharton School at University of Pennsylvania also offers dual MBA programs in partnership with Universities such as Johns Hopkins University and Harvard Kennedy School.Application Deadlines: The University of Pennsylvania is currently accepting applications for MBA for 2022-23. Deadline to apply for round 1 is on September 7, 2022. Round 2 application deadline is on January 4, 2023. March 29, 2023 is the final date to apply for MBA at the Wharton School.Class Profile: 897 students in total enrolled for the MBA class of 2023 at Wharton School. The admissions policy is quite selective with an acceptance rate of 12%. International students representing 83 countries comprised 36% of the entire class. The class of 2023 holds an average full-time work experience of 5 years.Admission Statistics: The class of 2023 admissions profile includes an average undergraduate GPA of 3.6 out of 4.0. The average GMAT score was 733.Tuition Costs and Scholarships: Students applying for admission to Wharton School are required to pay a tuition fee of $82,874. An array of scholarships are available for international students including the Forte fellowship, Joseph Wharton Fellowship and Emerging Economy Fellowship.Top Employers: Companies that hired two or more students from Wharton MBA class of 2021 include Amazon, American Express, Bain and Company, Samsung, Facebook, PepsiCo, Deloitte Consulting etc.Compensation offered to Wharton MBA class of 2021. Source: University of PennsylvaniaCheck: University of Pennsylvania Student reviewsCourse DescriptionWharton full-time MBA program is offered for a duration of 20 months including a summer internship for 3.5 months.Students need to complete a minimum of 19 credit units to graduate. Core courses include 9.5 credit units, Electives include 4.5 credit units and major requirements carry 5.0 credit units.Wharton MBA core curriculum includes six mandatory core courses along with choices in flexible core.Students have the option to choose from over 200 courses across 10 academic departments for electives. In addition to this, the school also offers 18 MBA concentration.Wharton School also offers global career treks, international conferences, international study abroad exchange programs, consulting projects in emerging countries, and Global Immersion program.Wharton School provides leadership coursework, coaching, experiential learning, and a wide range of student-run activities. This enables students to develop their leadership styles.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6884979₹6722739Health Insurance₹327644₹314259Books and supply₹549831₹549831Compulsory Fees₹162240₹162240Other Fees₹136119₹136119Total Fees₹8060813₹8047428",
-              Exams: "MBA applicants must meet the following eligibility requirements for admission to the University of Pennsylvania -Academic requirementsFour-year US undergraduate degree or international equivalentUndergraduate GPA over 3.00GMAT/GRE scoresThe Wharton School does not have any minimum GMAT/GRE score requirements.of Applicants. MBA class of 2023 submitted the following scores -Average GMAT score 733GRE Verbal 162; GRE Quant 162English Language testInternational applicants whose native language is not English are required to provide either TOEFL or PTE scores as proof of proficiency.Average TOEFL score of 115 (submitted by MBA class of 2023)Equivalent PTE scoresNote: PTE scores need to be reported directly to the Wharton MBA program and the TOEFL institution code for the Wharton MBA program is 2926.EssaysEssay 1: How do you plan to use the Wharton MBA program to help you achieve your future professional goals? (500 words)Essay 2: Taking into consideration your background – personal, professional, and/or academic – how do you plan to make specific, meaningful contributions to the Wharton community? (400 words)Essay 3: This essay can be used to share additional information or address any extenuating circumstances (optional/500 words)Work ExperienceWork experience is not mandatory for admission to Wharton MBA. However, the Admissions Committee considers applicants with diverse experiences and professional maturity. MBA class of 2023 has an average work experience of 5 years.The program also accepts candidates who demonstrate limited or no experience but demonstrate strong managerial and professional potential.InterviewCandidates can take part in an Interview for the MBA program at Wharton through invitation only",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d931da1f40769fcaf5cd71"
-              },
-              title: "Master of Business Administration [M.B.A] (Business Analytics)",
-              info: "The University of Pennsylvaniaoffers aMaster of Business Administration (MBA) inBusiness Analytics with a duration of 2years.This course is offered ona full-time basis.This program is providedon-campus.The Business Analytics MBA major is designed to build deep competency in the skills needed to implement and oversee data-driven business decisions, includingcollecting, managing and describing datasets,forming inferences and predictions from data,making optimal and robust decisions.Itmakes extensive use of statistical analysis, and the applications of business analytics span all functional areas.Students choosing the Business Analytics MBA major are ideally suited for the growing set of careers broadly defined under the header of “data science” with responsibilities for managing and analyzing data.Some of the coursework is given below:Financial Reporting and Business AnalysisFinancial Statements & Disclosure AnalysisApplied Data AnalysisFinancial DerivativesInvestment ManagementFin-TechHealthcare Data & AnalyticsBig Data, Big Responsibilities: The Law and Ethics of Business AnalyticsPeople Analytics and many more.The student-faculty ratio at the University of Pennsylvaniais 6:1.The average salary of goes upto is 100,000USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6884979₹6722739Health Insurance₹327644₹314259Books and supply₹549831₹549831Compulsory Fees₹162240₹162240Other Fees₹136119₹136119Total Fees₹8060813₹8047428",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d931db1f40769fcaf5cd73"
-              },
-              title: "Master of Business Administration [M.B.A] (Marketing)",
-              info: "Marketing majors choose courses to prepare themselves for careers in corporate or not-for-profit management, or in marketing fields that range from product management, advertising, and sales and account management to retailing, e-business, distribution management, and strategic marketing planning. Students can look forward to career opportunities in large and small organizations representing a spectrum of industrial, consumer goods, service, electronic commerce, and consulting firms in public- and private-sector institutions.Students begin by taking Marketing Management core courses which provide an overview of the role of marketing in the development of business strategies. Using a combination of lectures, readings, case studies, and computer simulations, these core courses review fundamental approaches in product/market selection, product line management, communications management, pricing, distribution, and marketing research.Beyond the required courses, students can choose among many electives to structure a program of study to match their interests and career objectives. In particular, students select from full-semester classes and from a set of \"mini-courses,\" which are half-semester classes, approximating one course in a quarter system, that focus on a specific facet of marketing.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6165120₹6043440Health Insurance₹314259₹314259Books and supply₹132226₹132226Compulsory Fees₹288138₹288138Other Fees₹298359₹136119Total Fees₹7198102₹6914182",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d931db1f40769fcaf5cd75"
-              },
-              title: "Master of Business Administration [M.B.A] (Accounting)",
-              info: "The University of Pennsylvaniaoffers aMaster of Business Administration (MBA) inAccounting with aduration of 2years.This course is offered ona full-time basis.This program is providedon-campus.The Accounting major helps students acquire the skills to measure and communicate an organization's economic activities.The data shed light on current financial status and liquidity, as well as past profitability and funds-generating capability.Its users include corporate shareholders, lenders, management, employees, research organizations, and taxing and regulatory agencies.The department's flexible curriculum also allows interested students to take the required courses toward certification as a CPA (certified public accountant) or CMA (chartered management accountant).Some of the courses are:Cost ManagementProblems in Financial ReportingAccounting for Mergers, Acquisitions, and Complex Financial StructuresFinancial Statement and Disclosure AnalysisTaxes and Business StrategyValuationThe student-faculty ratio at the University of Pennsylvaniais 6:1.According to PayScale, the average salary of Yale University Graduatesis 85,000USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6884979₹6722739Health Insurance₹327644₹314259Books and supply₹549831₹549831Compulsory Fees₹162240₹162240Other Fees₹136119₹136119Total Fees₹8060813₹8047428",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d931db1f40769fcaf5cd77"
-              },
-              title: "Master of Business Administration [M.B.A] (Actuarial Science)",
-              info: "Modern computing systems now produce large volumes of information whereas previously one could often only rely upon intuition and guesses. Yet this information does not directly answer important business questions. What combination of features is most desirable for consumers? What will sales be next month? How did we do last month? Data analysis and statistics offer a systematic approach that can help provide answers to these questions.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6165120₹6043440Health Insurance₹314259₹314259Books and supply₹132226₹132226Compulsory Fees₹288138₹288138Other Fees₹298359₹136119Total Fees₹7198102₹6914182",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d931dc1f40769fcaf5cd7d"
-              },
-              title: "Master of Business Administration [M.B.A] (Management)",
-              info: "The University of Pennsylvaniaoffers anMBA in Management with a duration of 2 years.This course is offered ona full-time basis.This program is providedon-campus.This major allows a student to flexibly choose among the full set of the department's offerings.Students can mold a curriculum that spans issues of managing the internal processes of firms and considerations of strategic advantage — for both young and growing, as well as established organizations.Some of the courses are:EntrepreneurshipTechnology StrategyVenture ImplementationAdvanced Global StrategyValue Creation & Value Capture In American Business HistoryStudents will have the opportunity to develop a background that will make them well suited to general management and leadership positions in firms and to serve these firms in advisory roles with leading consulting firms.The student-faculty ratio at the University of Pennsylvaniais 6:1.The average salary goes upto106,757 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6165120₹6043440Health Insurance₹314259₹314259Books and supply₹132226₹132226Compulsory Fees₹288138₹288138Other Fees₹298359₹136119Total Fees₹7198102₹6914182",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d931db1f40769fcaf5cd79"
-              },
-              title: "Master of Business Administration [M.B.A] (Entrepreneurial Management)",
-              info: "Whether a student wants to start a business while in school, join an emerging business, or set the groundwork to launch a new firm later in his or her career, the program aims to provide preparation for all of these exciting options. Entrepreneurial skills and thinking are actively sought by more competitive and profitable growing businesses. The special strength of this program is that it combines theory with practice, providing students the opportunity to test the theories, models, and strategies learned in the classroom by creating real business plans, working on other field projects, and gaining access and insight from leaders in the entrepreneurial business community.Endowed in 1997 by Robert B. Goergen WG?62, The Goergen Entrepreneurial Management Program is based on the leading research conducted by Wharton faculty. The program is distinguished by its ability to combine theory with practice, allowing students to gain access and insight from the entrepreneurial business community. His generous gift endows the teaching programs in entrepreneurship at Wharton, including a Robert B. Goergen Professorship, funds for course development, and fellowships for new faculty.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6165120₹6043440Health Insurance₹314259₹314259Books and supply₹132226₹132226Compulsory Fees₹288138₹288138Other Fees₹298359₹136119Total Fees₹7198102₹6914182",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d931db1f40769fcaf5cd7b"
-              },
-              title: "Master of Business Administration [M.B.A] (Finance)",
-              info: "The University of Pennsylvaniaoffers MBA inFinancewith a duration of 2 years.This course is offered ona full-time basis.This program is providedon-campus.Finance is both an approach to decision making and a key set of analytic and theoretical tools.Primary emphasis is placed on the analytical foundations of the discipline, emphasizing theory and methods of analysis and making extensive use of relevant techniques of micro and macroeconomic theory, mathematics, and statistics.The course will also analyze corporate financial policy, including:capital structurecost of capitaldividend policy, and related issues.The field prepares students for highly successful careers in asset management, investment banks, broker-dealers, and management consulting firms, other financial institutions, as well as CFO positions in non-financial corporations, not-for-profit entities, and key positions in central banks and government.The student-faculty ratio at the University of Pennsylvaniais 6:1.According to PayScale, the average salary goes upto 106,757 USD.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6884979₹6722739Health Insurance₹327644₹314259Books and supply₹549831₹549831Compulsory Fees₹162240₹162240Other Fees₹136119₹136119Total Fees₹8060813₹8047428",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d89be4a8cdeca87458dce7"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d9311f022909bdcb49026d"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: "MBA at the University of Pennsylvania is offered in two main formats - full-time MBA and Executive MBA. The full-time MBA degree program offered by University of Pennsylvania ranks #1 in Financial Times MBA ranking 2022. The program also ranks #1 in best business school as per US News and World Report.The School also offers joint MBA degree programs. This includes MBA/MA Lauder Joint Degree in International Studies, MBA in health care management, Wharton MBA for Engineering, MBA/JD degree and MBA/MSW.The Wharton School at University of Pennsylvania also offers dual MBA programs in partnership with Universities such as Johns Hopkins University and Harvard Kennedy School.Application Deadlines: The University of Pennsylvania is currently accepting applications for MBA for 2022-23. Deadline to apply for round 1 is on September 7, 2022. Round 2 application deadline is on January 4, 2023. March 29, 2023 is the final date to apply for MBA at the Wharton School.Class Profile: 897 students in total enrolled for the MBA class of 2023 at Wharton School. The admissions policy is quite selective with an acceptance rate of 12%. International students representing 83 countries comprised 36% of the entire class. The class of 2023 holds an average full-time work experience of 5 years.Admission Statistics: The class of 2023 admissions profile includes an average undergraduate GPA of 3.6 out of 4.0. The average GMAT score was 733.Tuition Costs and Scholarships: Students applying for admission to Wharton School are required to pay a tuition fee of $82,874. An array of scholarships are available for international students including the Forte fellowship, Joseph Wharton Fellowship and Emerging Economy Fellowship.Top Employers: Companies that hired two or more students from Wharton MBA class of 2021 include Amazon, American Express, Bain and Company, Samsung, Facebook, PepsiCo, Deloitte Consulting etc.Compensation offered to Wharton MBA class of 2021. Source: University of PennsylvaniaCheck: University of Pennsylvania Student reviewsCourse DescriptionWharton full-time MBA program is offered for a duration of 20 months including a summer internship for 3.5 months.Students need to complete a minimum of 19 credit units to graduate. Core courses include 9.5 credit units, Electives include 4.5 credit units and major requirements carry 5.0 credit units.Wharton MBA core curriculum includes six mandatory core courses along with choices in flexible core.Students have the option to choose from over 200 courses across 10 academic departments for electives. In addition to this, the school also offers 18 MBA concentration.Wharton School also offers global career treks, international conferences, international study abroad exchange programs, consulting projects in emerging countries, and Global Immersion program.Wharton School provides leadership coursework, coaching, experiential learning, and a wide range of student-run activities. This enables students to develop their leadership styles.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6884979₹6722739Health Insurance₹327644₹314259Books and supply₹549831₹549831Compulsory Fees₹162240₹162240Other Fees₹136119₹136119Total Fees₹8060813₹8047428",
+                      Exams: "MBA applicants must meet the following eligibility requirements for admission to the University of Pennsylvania -Academic requirementsFour-year US undergraduate degree or international equivalentUndergraduate GPA over 3.00GMAT/GRE scoresThe Wharton School does not have any minimum GMAT/GRE score requirements.of Applicants. MBA class of 2023 submitted the following scores -Average GMAT score 733GRE Verbal 162; GRE Quant 162English Language testInternational applicants whose native language is not English are required to provide either TOEFL or PTE scores as proof of proficiency.Average TOEFL score of 115 (submitted by MBA class of 2023)Equivalent PTE scoresNote: PTE scores need to be reported directly to the Wharton MBA program and the TOEFL institution code for the Wharton MBA program is 2926.EssaysEssay 1: How do you plan to use the Wharton MBA program to help you achieve your future professional goals? (500 words)Essay 2: Taking into consideration your background – personal, professional, and/or academic – how do you plan to make specific, meaningful contributions to the Wharton community? (400 words)Essay 3: This essay can be used to share additional information or address any extenuating circumstances (optional/500 words)Work ExperienceWork experience is not mandatory for admission to Wharton MBA. However, the Admissions Committee considers applicants with diverse experiences and professional maturity. MBA class of 2023 has an average work experience of 5 years.The program also accepts candidates who demonstrate limited or no experience but demonstrate strong managerial and professional potential.InterviewCandidates can take part in an Interview for the MBA program at Wharton through invitation only",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d931da1f40769fcaf5cd71"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Business Analytics)",
+                      info: "The University of Pennsylvaniaoffers aMaster of Business Administration (MBA) inBusiness Analytics with a duration of 2years.This course is offered ona full-time basis.This program is providedon-campus.The Business Analytics MBA major is designed to build deep competency in the skills needed to implement and oversee data-driven business decisions, includingcollecting, managing and describing datasets,forming inferences and predictions from data,making optimal and robust decisions.Itmakes extensive use of statistical analysis, and the applications of business analytics span all functional areas.Students choosing the Business Analytics MBA major are ideally suited for the growing set of careers broadly defined under the header of “data science” with responsibilities for managing and analyzing data.Some of the coursework is given below:Financial Reporting and Business AnalysisFinancial Statements & Disclosure AnalysisApplied Data AnalysisFinancial DerivativesInvestment ManagementFin-TechHealthcare Data & AnalyticsBig Data, Big Responsibilities: The Law and Ethics of Business AnalyticsPeople Analytics and many more.The student-faculty ratio at the University of Pennsylvaniais 6:1.The average salary of goes upto is 100,000USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6884979₹6722739Health Insurance₹327644₹314259Books and supply₹549831₹549831Compulsory Fees₹162240₹162240Other Fees₹136119₹136119Total Fees₹8060813₹8047428",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d931db1f40769fcaf5cd73"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Marketing)",
+                      info: "Marketing majors choose courses to prepare themselves for careers in corporate or not-for-profit management, or in marketing fields that range from product management, advertising, and sales and account management to retailing, e-business, distribution management, and strategic marketing planning. Students can look forward to career opportunities in large and small organizations representing a spectrum of industrial, consumer goods, service, electronic commerce, and consulting firms in public- and private-sector institutions.Students begin by taking Marketing Management core courses which provide an overview of the role of marketing in the development of business strategies. Using a combination of lectures, readings, case studies, and computer simulations, these core courses review fundamental approaches in product/market selection, product line management, communications management, pricing, distribution, and marketing research.Beyond the required courses, students can choose among many electives to structure a program of study to match their interests and career objectives. In particular, students select from full-semester classes and from a set of \"mini-courses,\" which are half-semester classes, approximating one course in a quarter system, that focus on a specific facet of marketing.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6165120₹6043440Health Insurance₹314259₹314259Books and supply₹132226₹132226Compulsory Fees₹288138₹288138Other Fees₹298359₹136119Total Fees₹7198102₹6914182",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d931db1f40769fcaf5cd75"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Accounting)",
+                      info: "The University of Pennsylvaniaoffers aMaster of Business Administration (MBA) inAccounting with aduration of 2years.This course is offered ona full-time basis.This program is providedon-campus.The Accounting major helps students acquire the skills to measure and communicate an organization's economic activities.The data shed light on current financial status and liquidity, as well as past profitability and funds-generating capability.Its users include corporate shareholders, lenders, management, employees, research organizations, and taxing and regulatory agencies.The department's flexible curriculum also allows interested students to take the required courses toward certification as a CPA (certified public accountant) or CMA (chartered management accountant).Some of the courses are:Cost ManagementProblems in Financial ReportingAccounting for Mergers, Acquisitions, and Complex Financial StructuresFinancial Statement and Disclosure AnalysisTaxes and Business StrategyValuationThe student-faculty ratio at the University of Pennsylvaniais 6:1.According to PayScale, the average salary of Yale University Graduatesis 85,000USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6884979₹6722739Health Insurance₹327644₹314259Books and supply₹549831₹549831Compulsory Fees₹162240₹162240Other Fees₹136119₹136119Total Fees₹8060813₹8047428",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d931db1f40769fcaf5cd77"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Actuarial Science)",
+                      info: "Modern computing systems now produce large volumes of information whereas previously one could often only rely upon intuition and guesses. Yet this information does not directly answer important business questions. What combination of features is most desirable for consumers? What will sales be next month? How did we do last month? Data analysis and statistics offer a systematic approach that can help provide answers to these questions.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6165120₹6043440Health Insurance₹314259₹314259Books and supply₹132226₹132226Compulsory Fees₹288138₹288138Other Fees₹298359₹136119Total Fees₹7198102₹6914182",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d931dc1f40769fcaf5cd7d"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Management)",
+                      info: "The University of Pennsylvaniaoffers anMBA in Management with a duration of 2 years.This course is offered ona full-time basis.This program is providedon-campus.This major allows a student to flexibly choose among the full set of the department's offerings.Students can mold a curriculum that spans issues of managing the internal processes of firms and considerations of strategic advantage — for both young and growing, as well as established organizations.Some of the courses are:EntrepreneurshipTechnology StrategyVenture ImplementationAdvanced Global StrategyValue Creation & Value Capture In American Business HistoryStudents will have the opportunity to develop a background that will make them well suited to general management and leadership positions in firms and to serve these firms in advisory roles with leading consulting firms.The student-faculty ratio at the University of Pennsylvaniais 6:1.The average salary goes upto106,757 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6165120₹6043440Health Insurance₹314259₹314259Books and supply₹132226₹132226Compulsory Fees₹288138₹288138Other Fees₹298359₹136119Total Fees₹7198102₹6914182",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d931db1f40769fcaf5cd79"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Entrepreneurial Management)",
+                      info: "Whether a student wants to start a business while in school, join an emerging business, or set the groundwork to launch a new firm later in his or her career, the program aims to provide preparation for all of these exciting options. Entrepreneurial skills and thinking are actively sought by more competitive and profitable growing businesses. The special strength of this program is that it combines theory with practice, providing students the opportunity to test the theories, models, and strategies learned in the classroom by creating real business plans, working on other field projects, and gaining access and insight from leaders in the entrepreneurial business community.Endowed in 1997 by Robert B. Goergen WG?62, The Goergen Entrepreneurial Management Program is based on the leading research conducted by Wharton faculty. The program is distinguished by its ability to combine theory with practice, allowing students to gain access and insight from the entrepreneurial business community. His generous gift endows the teaching programs in entrepreneurship at Wharton, including a Robert B. Goergen Professorship, funds for course development, and fellowships for new faculty.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6165120₹6043440Health Insurance₹314259₹314259Books and supply₹132226₹132226Compulsory Fees₹288138₹288138Other Fees₹298359₹136119Total Fees₹7198102₹6914182",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d931db1f40769fcaf5cd7b"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Finance)",
+                      info: "The University of Pennsylvaniaoffers MBA inFinancewith a duration of 2 years.This course is offered ona full-time basis.This program is providedon-campus.Finance is both an approach to decision making and a key set of analytic and theoretical tools.Primary emphasis is placed on the analytical foundations of the discipline, emphasizing theory and methods of analysis and making extensive use of relevant techniques of micro and macroeconomic theory, mathematics, and statistics.The course will also analyze corporate financial policy, including:capital structurecost of capitaldividend policy, and related issues.The field prepares students for highly successful careers in asset management, investment banks, broker-dealers, and management consulting firms, other financial institutions, as well as CFO positions in non-financial corporations, not-for-profit entities, and key positions in central banks and government.The student-faculty ratio at the University of Pennsylvaniais 6:1.According to PayScale, the average salary goes upto 106,757 USD.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6884979₹6722739Health Insurance₹327644₹314259Books and supply₹549831₹549831Compulsory Fees₹162240₹162240Other Fees₹136119₹136119Total Fees₹8060813₹8047428",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMATexam score, the minimum score should be 730out of 800.Students must be qualified inIELTSorTOEFLto get admission to this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Stanford University",
               Details: "Stanford University is a private research university located in Stanford USA. Established in 1885, Stanford comprises seven academic schools and 18 interdisciplinary schools. International students choose Stanford majorly for graduate-level courses. There are 200+ graduate courses in 90+ subject areas for you to choose from. If we talk about popular programs, Stanford MBA is one of the best in the world. The student enrollments indicate the popularity of engineering courses. In recent academic year, around 40% incoming graduate students enrolled in engineering courses. The Stanford University acceptance rate of engineering programs is 5.03%. ",
               CoursesN: "MBA",
               img: "https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/1862/1048/stanford-2-iStock.jpg?ve=1&tl=1?ve=1&tl=1",
-              title: "Master of Business Administration [M.B.A]",
-              info: "Master of Business Administration is a 2-year degree program.It is delivered as a full-time, on-campus program.The student-faculty ratio at Stanford University is5:1, and the school has 69.3% of its classes with fewer than 20 students.MBA Program acceptance rate for Stanford University is 3.95%The specializations available for MBA at Stanford University are:AccountancyAccountancy & FinancialBrand ManagementE-Commerce / BusinessEntrepreneurshipFinanceGeneral ManagementHealth Care ManagementHuman Resource ManagementIT ManagementInformation ManagementInnovation / Knowledge ManagementInternational Management / BusinessLeadershipLogisticsStudents will learn through case studies, lectures, small-group seminars, simulations, prototyping, role-playing scenarios, hands-on experiences, project-based courses, and multifunctional teams.The average salary of MBA graduate is 120,900 USD.Read More",
-              fees: "YearYear 1Tuition Fees₹6242184Books and supply₹142366Total Fees₹6384550",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program.The average cumulative high schoolGPAof students admitted toStanford University is 3.0 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency throughIELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89bfe4b99841648940cf4"
-              },
-              title: "Master of Business Administration [M.B.A] (Finance)",
-              info: "Master of Business Administration is a 2-year degree program offered at Stanford Graduate School of Business.It is delivered as a full-time, on-campus program.The Stanford MBA Program will help students to develop their vision and the substance required to achieve it.The specializations available for MBA at Stanford University are:AccountancyAccountancy andFinancialBrand ManagementEntrepreneurshipFinanceGeneral ManagementHealth Care ManagementHuman Resource ManagementIT ManagementInformation ManagementLeadershipLogisticsThe first year mostly comprises core courses with potential room for one to two electives in the winter and spring quarters.Thecourses can help broaden students experience and perspective, deepen their knowledge in a specific disciplineStudents will learn through case studies, lectures, small-group seminars, simulations, prototyping, role-playing scenarios, hands-on experiences, project-based courses, and multifunctional teams.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹6242184₹6242184Health Insurance₹549020₹549020Books and supply₹215374₹215374Total Fees₹7006578₹7006578",
-              Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program.The average cumulative high schoolGPAof students admitted toStanford University is 3.0 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency throughIELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d91f3c7a554edc5b910a6e"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d89be4a8cdeca87458dce7"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: "Master of Business Administration is a 2-year degree program.It is delivered as a full-time, on-campus program.The student-faculty ratio at Stanford University is5:1, and the school has 69.3% of its classes with fewer than 20 students.MBA Program acceptance rate for Stanford University is 3.95%The specializations available for MBA at Stanford University are:AccountancyAccountancy & FinancialBrand ManagementE-Commerce / BusinessEntrepreneurshipFinanceGeneral ManagementHealth Care ManagementHuman Resource ManagementIT ManagementInformation ManagementInnovation / Knowledge ManagementInternational Management / BusinessLeadershipLogisticsStudents will learn through case studies, lectures, small-group seminars, simulations, prototyping, role-playing scenarios, hands-on experiences, project-based courses, and multifunctional teams.The average salary of MBA graduate is 120,900 USD.Read More",
+                      fees: "YearYear 1Tuition Fees₹6242184Books and supply₹142366Total Fees₹6384550",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program.The average cumulative high schoolGPAof students admitted toStanford University is 3.0 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency throughIELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89bfe4b99841648940cf4"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Finance)",
+                      info: "Master of Business Administration is a 2-year degree program offered at Stanford Graduate School of Business.It is delivered as a full-time, on-campus program.The Stanford MBA Program will help students to develop their vision and the substance required to achieve it.The specializations available for MBA at Stanford University are:AccountancyAccountancy andFinancialBrand ManagementEntrepreneurshipFinanceGeneral ManagementHealth Care ManagementHuman Resource ManagementIT ManagementInformation ManagementLeadershipLogisticsThe first year mostly comprises core courses with potential room for one to two electives in the winter and spring quarters.Thecourses can help broaden students experience and perspective, deepen their knowledge in a specific disciplineStudents will learn through case studies, lectures, small-group seminars, simulations, prototyping, role-playing scenarios, hands-on experiences, project-based courses, and multifunctional teams.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6242184₹6242184Health Insurance₹549020₹549020Books and supply₹215374₹215374Total Fees₹7006578₹7006578",
+                      Exams: "Academic Eligibility:Students must complete a 4 years bachelor's degree from a recognized institution.Students who meet the above degree requirement with a strong technical background in engineering, physics, or a comparable science program.The average cumulative high schoolGPAof students admitted toStanford University is 3.0 on a 4.0 scale.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency throughIELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Yale University",
               Details: "Yale University is an Ivy-League School ranked #1 Best Value School by US News & World Report. For an Indian student, Yale University's fees is approximately 60 lakhs per annum. The university supports its students by offering them scholarships worth 38 lakhs which reduces the overall cost of attendance to 22 lakhs. The affordable fees for Yale University courses is the reason for 22% international student presence at the campus. The international students represent over 120 diverse nationalities and countries. Compared to undergraduate courses, international student enrollments are slightly higher for Yale University graduate courses. Law and Management disciplines at Yale have the highest enrollment of 21%, and 28% respectively. Being an Ivy league college, Yale administers a competitive selection process. The university's acceptance rate is only 6.3% for the recent admissions. Yale University admission requirements for master courses included GPA above 3.5 (83%-86%) and 100 in TOEFL-IBT. For courses like MBA, Yale asks for GMAT score above 720. ",
               CoursesN: "MBA",
               img: "https://images.collegedunia.com/public/asset/img/homepage/banner/yale.jpg?h=1080&w=1920&mode=stretch",
-              title: "Master of Business Administration [M.B.A]",
-              info: "MBA at Yale University ranks #7 in the best business schools by US News and World Report. The program also ranks #9 as per Financial Times MBA 2022. Aside from a two-year, full-time MBA Yale University offers an Executive MBA program for accomplished professionals.Application Deadlines: Yale School of Management is currently accepting applications for MBA. The school holds three MBA application rounds. The deadline for MBA application round 1 is on September 13, 2022. Round 2 application deadline is on January 5, 2023. The final date to apply for MBA at SOM is April 11, 2023.Class Profile: 349 total students were accepted for the MBA class of 2023. International students comprise 44% of the total class. The class holds an average work experience of 4.4 years. Admission profile for the MBA Class of 2023 includes an average undergraduate GPA of 3.69 and an average GMAT score of 730.Placements: 94% of students from Yale SOM MBA Class of 2021 accepted job offers within 3 months of post-graduation. Recruiters who hired MBA class of 2021 graduates are Accenture, NESTLE USA, Apex Clean Energy, American Express, Johnson & Johnson, Paramount Pictures Corporation, and Amazon.Check: Student reviews at Yale UniversityYale School of Management also offers students the opportunity to pursue an MBA in combination with a degree from Yale School of Medicine, Law School, Yale School of Architecture, or School of Environment.Course CurriculumYear 1 MBA curriculum includes only core courses. The core courses are divided into three sections. This includes Orientation to Management, Organizational Perspectives courses, and The Executive.In year 2, students will be able to design their course of study by opting for electives in areas such as Finance, Consulting, Social Impact, Data Analytics & Consulting, Marketing etc.MBA Students may pursue an optional concentration in Management Science. Students who opt for the management science concentration must complete a minimum of 16 units.All Yale MBA students need to fulfill the Leadership Distribution Requirement by taking one elective that focuses on leadership in a particular industry.Yale SOM MBA students also need to meet the Global Studies requirement. To fulfil this requirement, international students need to participate in one of the following courses:International experienceGlobal Network WeeksGlobal Network CoursesGlobal Social Entrepreneurship CoursesExchange ProgramsCheck: Admission at Yale School of ManagementRead More",
-              fees: "YearYear 1Year 2Tuition Fees₹6449040₹6449040Health Insurance₹223567₹223567Books and supply₹81120₹81120Total Fees₹6753727₹6753727",
-              Exams: "Candidates applying for an MBA at Yale School of Management must meet the following eligibility requirements -Academic Requirements:4-year bachelor's degreeUndergraduate GPA over 3.3+ (on a scale of 4.0) Check:What is GPA?Note: International students with a three-year degree can also applyTOEFL-Score:TOEFL-iBT Score of 100 is mandatory. Equivalent IELTS Score is accepted.Essay Requirement:Candidates are required to complete only one essay question for admission to MBA at Yale SOM.Essay Question at Yale SOM: Describe the biggest commitment you have ever made.Work Experience:Work experience is not required for entry to the Yale SOM MBA Program. However, it is strongly encouraged.Class of 2023 holds an average of 4.4 years of work experience.Behavioural Assessment Tool:The Behavioral Assessment is an online admissions tool that measures a set of interpersonal and intrapersonal competencies associated with business school success.Interview:All applicants who are offered admission will be invited for an interview by the Admissions Committee.Video QuestionsAfter submitting the online application and paying the fee, candidates will receive access to the video questions.Every candidate will be provided with an arbitrary and previously recorded set of questions prepared by an admissions team member.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d91f5344903121520b1986"
-              },
-              title: "Master of Business Administration [M.B.A] (Finance)",
-              info: "The Yale School of Managementoffers aMaster of Business Administration in Financeduration of 2years.It is an on-campus program offered ona full-time basis.MBAintegrated core curriculumprepares students to lead in business and society by providing both a strong foundation in finance and specialized courses to enhance and deepen their knowledge of the many contours of the industry.The school also offers specialized degrees in asset management and systemic risk.The focus areas of the programinclude:Behavioral FinanceFinancial StabilityGlobal MarketsCorporate FinanceAsset ManagementSecurity ValuationBankingPrivate EquityRead More",
-              fees: "YearYear 1Year 2Tuition Fees₹6449040₹6449040Health Insurance₹223567₹223567Books and supply₹81120₹81120Total Fees₹6753727₹6753727",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified inIELTSorTOEFLto get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d924b9073b952de79db5d1"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d91f3c7a554edc5b910a6e"
+                      },
+                      title: "Master of Business Administration [M.B.A]",
+                      info: "MBA at Yale University ranks #7 in the best business schools by US News and World Report. The program also ranks #9 as per Financial Times MBA 2022. Aside from a two-year, full-time MBA Yale University offers an Executive MBA program for accomplished professionals.Application Deadlines: Yale School of Management is currently accepting applications for MBA. The school holds three MBA application rounds. The deadline for MBA application round 1 is on September 13, 2022. Round 2 application deadline is on January 5, 2023. The final date to apply for MBA at SOM is April 11, 2023.Class Profile: 349 total students were accepted for the MBA class of 2023. International students comprise 44% of the total class. The class holds an average work experience of 4.4 years. Admission profile for the MBA Class of 2023 includes an average undergraduate GPA of 3.69 and an average GMAT score of 730.Placements: 94% of students from Yale SOM MBA Class of 2021 accepted job offers within 3 months of post-graduation. Recruiters who hired MBA class of 2021 graduates are Accenture, NESTLE USA, Apex Clean Energy, American Express, Johnson & Johnson, Paramount Pictures Corporation, and Amazon.Check: Student reviews at Yale UniversityYale School of Management also offers students the opportunity to pursue an MBA in combination with a degree from Yale School of Medicine, Law School, Yale School of Architecture, or School of Environment.Course CurriculumYear 1 MBA curriculum includes only core courses. The core courses are divided into three sections. This includes Orientation to Management, Organizational Perspectives courses, and The Executive.In year 2, students will be able to design their course of study by opting for electives in areas such as Finance, Consulting, Social Impact, Data Analytics & Consulting, Marketing etc.MBA Students may pursue an optional concentration in Management Science. Students who opt for the management science concentration must complete a minimum of 16 units.All Yale MBA students need to fulfill the Leadership Distribution Requirement by taking one elective that focuses on leadership in a particular industry.Yale SOM MBA students also need to meet the Global Studies requirement. To fulfil this requirement, international students need to participate in one of the following courses:International experienceGlobal Network WeeksGlobal Network CoursesGlobal Social Entrepreneurship CoursesExchange ProgramsCheck: Admission at Yale School of ManagementRead More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6449040₹6449040Health Insurance₹223567₹223567Books and supply₹81120₹81120Total Fees₹6753727₹6753727",
+                      Exams: "Candidates applying for an MBA at Yale School of Management must meet the following eligibility requirements -Academic Requirements:4-year bachelor's degreeUndergraduate GPA over 3.3+ (on a scale of 4.0) Check:What is GPA?Note: International students with a three-year degree can also applyTOEFL-Score:TOEFL-iBT Score of 100 is mandatory. Equivalent IELTS Score is accepted.Essay Requirement:Candidates are required to complete only one essay question for admission to MBA at Yale SOM.Essay Question at Yale SOM: Describe the biggest commitment you have ever made.Work Experience:Work experience is not required for entry to the Yale SOM MBA Program. However, it is strongly encouraged.Class of 2023 holds an average of 4.4 years of work experience.Behavioural Assessment Tool:The Behavioral Assessment is an online admissions tool that measures a set of interpersonal and intrapersonal competencies associated with business school success.Interview:All applicants who are offered admission will be invited for an interview by the Admissions Committee.Video QuestionsAfter submitting the online application and paying the fee, candidates will receive access to the video questions.Every candidate will be provided with an arbitrary and previously recorded set of questions prepared by an admissions team member.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d91f5344903121520b1986"
+                      },
+                      title: "Master of Business Administration [M.B.A] (Finance)",
+                      info: "The Yale School of Managementoffers aMaster of Business Administration in Financeduration of 2years.It is an on-campus program offered ona full-time basis.MBAintegrated core curriculumprepares students to lead in business and society by providing both a strong foundation in finance and specialized courses to enhance and deepen their knowledge of the many contours of the industry.The school also offers specialized degrees in asset management and systemic risk.The focus areas of the programinclude:Behavioral FinanceFinancial StabilityGlobal MarketsCorporate FinanceAsset ManagementSecurity ValuationBankingPrivate EquityRead More",
+                      fees: "YearYear 1Year 2Tuition Fees₹6449040₹6449040Health Insurance₹223567₹223567Books and supply₹81120₹81120Total Fees₹6753727₹6753727",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified inIELTSorTOEFLto get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognizedinstitution.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Columbia University",
               Details: "Columbia University is a private research university known for its academics, placements, and international student percentage. There are more than 17,000 international students at Columbia. In fall 2021, it saw an enrollment of 1,134 Indian students at the graduate level. As an Ivy League' institution that's located in NY, Columbia's cost of attendance is high-end. The annual tuition fees for Columbia University courses is around 58.2 Lakhs INR.",
               CoursesN: "Ph.D",
               img: "https://images.collegedunia.com/public/asset/img/homepage/banner/columbia1.jpg?h=1080&w=1920&mode=stretch",
-              title: "Doctor of Philosophy [Ph.D] (Biochemistry and Molecular Biophysics)",
-              info: "The Doctor of Philosophy in Biochemistry and Molecular Biophysics at Columbia University is a 5-year program.Researchers in the Department of Biochemistry and Molecular Biophysics uses the full spectrum of contemporary biophysical, biochemical, molecular biological, and cellular techniques.Students learn developmental biology, gene expression, regulation, and signal transduction, macromolecular structure, function, and Dynamics, and molecular neurobiology.Columbia University offers Financial aid for students who pursue a doctorate.The student-faculty ratio of this college is 6:1.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹3610327₹3610327₹3610327₹3610327Health Insurance₹52079₹52079₹52079₹52079Books and supply₹162240₹162240₹162240₹162240Miscellaneous expenses₹438048₹438048₹438048₹438048Total Fees₹4262694₹4262694₹4262694₹4262694",
-              Exams: "Students must have a master of science degree to get admission in this program.Students required to maintain at least a 3.0 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92532499b1a588d3ed6c0"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Ecology, Evolution and Environmental Biology)",
-              info: "The Ph.D. Program in Ecology, Evolution and Environmental Biology in the E3B department at Columbia University is inclusive.University encourages students of all races, ethnicities, gender identities, sexual orientations, (dis)abilities, nationalities, religions, and every other demographic group. There are typically around 30 students in the EEB Ph.D. program.University provides the flexibility to complete the program in a minimum of 5 years and a maximum of 6 years.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹3610327₹3610327₹3610327₹3610327Health Insurance₹52079₹52079₹52079₹52079Books and supply₹162240₹162240₹162240₹162240Miscellaneous expenses₹438048₹438048₹438048₹438048Total Fees₹4262694₹4262694₹4262694₹4262694",
-              Exams: "Students must have a master of science degree to get admission in this program.Students are required to maintain at least a 3.0 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92532499b1a588d3ed6c2"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Music)",
-              info: "The Doctor of Philosophy in Music at Columbia University is a 5-year program.The Musicology program incorporates three areas: Historical musicologyEthnomusicologyMusic theoryThe program offers students the opportunity to deepen their knowledge in the latest and most important topics in Music.Some of the main topics students learn through this program are:Music and culturesPopular and urban musicJazzAnalytical methodsMusic cognitionMusic aesthetics, and the philosophy of musicColumbia University offers Financial aid for students who pursue a doctorate.The student-faculty ratio of this college is 6:1.The Musicology program is supported by a first-class library, the Gabe Wiener Music & Arts Library, located in Dodge Hall, as well as the extensive sound archives of the Center for Ethnomusicology.The department is home to the oldest and most prestigious journal edited by graduate students, Current Musicology.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹3610327₹3610327₹3610327₹3610327Health Insurance₹52079₹52079₹52079₹52079Books and supply₹162240₹162240₹162240₹162240Miscellaneous expenses₹438048₹438048₹438048₹438048Total Fees₹4262694₹4262694₹4262694₹4262694",
-              Exams: "Students must have a master's degree in a related field to get admission in this program.Students required to maintain at least a 3.0 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d92533499b1a588d3ed6c4"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Material Science and Engineering)",
-              info: "The Doctor of Philosophy in Material Science and Engineering at Columbia University is a 5-year program.The Department of Applied Physics and Applied Mathematics offers a Materials Science and Engineering program.This program focused on understanding and developing new and better materials for use in innovative engineering applications. This program is for those students who are interested in solid-state science and engineering especially enroll in the doctoral program.This program will enable students to be involved in jobs concerned with producing, selecting, testing, and developing new materials with desirable properties, lower cost, or lower environmental impact.Columbia University offers Financial aid for students who pursue a doctorate.The student-faculty ratio of this college is 6:1.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹3610327₹3610327₹3610327₹3610327Health Insurance₹52079₹52079₹52079₹52079Books and supply₹162240₹162240₹162240₹162240Miscellaneous expenses₹438048₹438048₹438048₹438048Total Fees₹4262694₹4262694₹4262694₹4262694",
-              Exams: "Students must have a master of science degree to get admission in this program.Students required to maintain at least a 3.0 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d80e7d6e75ed30060f6466"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d924b9073b952de79db5d1"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Biochemistry and Molecular Biophysics)",
+                      info: "The Doctor of Philosophy in Biochemistry and Molecular Biophysics at Columbia University is a 5-year program.Researchers in the Department of Biochemistry and Molecular Biophysics uses the full spectrum of contemporary biophysical, biochemical, molecular biological, and cellular techniques.Students learn developmental biology, gene expression, regulation, and signal transduction, macromolecular structure, function, and Dynamics, and molecular neurobiology.Columbia University offers Financial aid for students who pursue a doctorate.The student-faculty ratio of this college is 6:1.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹3610327₹3610327₹3610327₹3610327Health Insurance₹52079₹52079₹52079₹52079Books and supply₹162240₹162240₹162240₹162240Miscellaneous expenses₹438048₹438048₹438048₹438048Total Fees₹4262694₹4262694₹4262694₹4262694",
+                      Exams: "Students must have a master of science degree to get admission in this program.Students required to maintain at least a 3.0 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92532499b1a588d3ed6c0"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Ecology, Evolution and Environmental Biology)",
+                      info: "The Ph.D. Program in Ecology, Evolution and Environmental Biology in the E3B department at Columbia University is inclusive.University encourages students of all races, ethnicities, gender identities, sexual orientations, (dis)abilities, nationalities, religions, and every other demographic group. There are typically around 30 students in the EEB Ph.D. program.University provides the flexibility to complete the program in a minimum of 5 years and a maximum of 6 years.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹3610327₹3610327₹3610327₹3610327Health Insurance₹52079₹52079₹52079₹52079Books and supply₹162240₹162240₹162240₹162240Miscellaneous expenses₹438048₹438048₹438048₹438048Total Fees₹4262694₹4262694₹4262694₹4262694",
+                      Exams: "Students must have a master of science degree to get admission in this program.Students are required to maintain at least a 3.0 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92532499b1a588d3ed6c2"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Music)",
+                      info: "The Doctor of Philosophy in Music at Columbia University is a 5-year program.The Musicology program incorporates three areas: Historical musicologyEthnomusicologyMusic theoryThe program offers students the opportunity to deepen their knowledge in the latest and most important topics in Music.Some of the main topics students learn through this program are:Music and culturesPopular and urban musicJazzAnalytical methodsMusic cognitionMusic aesthetics, and the philosophy of musicColumbia University offers Financial aid for students who pursue a doctorate.The student-faculty ratio of this college is 6:1.The Musicology program is supported by a first-class library, the Gabe Wiener Music & Arts Library, located in Dodge Hall, as well as the extensive sound archives of the Center for Ethnomusicology.The department is home to the oldest and most prestigious journal edited by graduate students, Current Musicology.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹3610327₹3610327₹3610327₹3610327Health Insurance₹52079₹52079₹52079₹52079Books and supply₹162240₹162240₹162240₹162240Miscellaneous expenses₹438048₹438048₹438048₹438048Total Fees₹4262694₹4262694₹4262694₹4262694",
+                      Exams: "Students must have a master's degree in a related field to get admission in this program.Students required to maintain at least a 3.0 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d92533499b1a588d3ed6c4"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Material Science and Engineering)",
+                      info: "The Doctor of Philosophy in Material Science and Engineering at Columbia University is a 5-year program.The Department of Applied Physics and Applied Mathematics offers a Materials Science and Engineering program.This program focused on understanding and developing new and better materials for use in innovative engineering applications. This program is for those students who are interested in solid-state science and engineering especially enroll in the doctoral program.This program will enable students to be involved in jobs concerned with producing, selecting, testing, and developing new materials with desirable properties, lower cost, or lower environmental impact.Columbia University offers Financial aid for students who pursue a doctorate.The student-faculty ratio of this college is 6:1.The acceptance rate of Columbia University is 5.8%.Columbia University is ranked #19 in QS Global World Rankings 2021.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹3610327₹3610327₹3610327₹3610327Health Insurance₹52079₹52079₹52079₹52079Books and supply₹162240₹162240₹162240₹162240Miscellaneous expenses₹438048₹438048₹438048₹438048Total Fees₹4262694₹4262694₹4262694₹4262694",
+                      Exams: "Students must have a master of science degree to get admission in this program.Students required to maintain at least a 3.0 overall GPA.Language Requirments:Students whose official language is not English are required to submit IELTS or TOEFL scores. ",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Harvard University",
               Details: "Harvard University is the oldest higher education institution in USA offering admission in Fall, Winter, Spring or Summer intakes. Established in 1636, Harvard has three campus locations- Cambridge, Allston, and Boston. The Ivy League USA institution is home to 16% international students hailing from 150+ countries including 613 Indian students and scholars.Harvard University acceptance rate is merely 4.7% for undergraduate programs and 10.3% for MBA program, for the Fall intake. There are around 90 undergraduate degrees and 150 graduate degree courses to choose from. Of these, popular Harvard University programs include Business Administration, Law, and Medicine. The eligibility requirements for Harvard is similar to any other Ivy League colleges, yet admission are granted to only academic elites. Applications for 2023 admissions commence from mid-August.",
               CoursesN: "Ph.D",
               img: "https://tse1.mm.bing.net/th?id=OIP.lx4VflmiPC-5defzMkrGDAHaDc&pid=Api&P=0",
-              title: "Doctor of Philosophy [Ph.D] (Business Administration)",
-              info: "Doctor of Philosophy in Business Administration at Harvard University allows students to complete this course in 5 years.There are two options to complete this program. They are thesis-based and non-thesis-based or project-based. The students to faculty ratio for this program is 16:1.Some of the main courses that students will study in this program are:Accounting for ManagementSales and NegotiationsLaunching a New BusinessCreating a Business PlanFinancing a New BusinessPh.D. in business administration grounds students in disciplinary theories and methods, trains them to apply these theories and methods in academic research on important business problems.Explore the economic, political, and social factors driving change, and learn how decisions affect global markets and their business.The job opportunities after this program that students get are:Chief Technology OfficerComputer and Information Systems ManagerFinancial ManagerHealth Services ManagerHigh-End Management Consultant, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹2065640₹2065640₹2065640₹2065640₹2065640Health Insurance₹327725₹327725₹327725₹327725₹327725Others₹100751₹100751₹100751₹100751₹100751Total Fees₹2494116₹2494116₹2494116₹2494116₹2494116",
-              Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d80ee829ecc6d955130e54"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Computer Science)",
-              info: "Doctor of Philosophy in Computer Science at Harvard University allows students to complete this course in 5 years.There are two options to complete this program. They are thesis-based and non-thesis-based or project-based. The students to faculty ratio for this program is 16:1.Some of the main courses that students will study in this program are:Artificial intelligenceComputer systems and networksDatabase systemsHuman-computer interactionVision and graphicsNumerical analysisThe Computer Science curriculum is designed to offer students a great deal of flexibility.Computational Science and Engineering provides rigorous training in the mathematical and computing foundation. Independent research projects and elective courses focusing on the application of computation to one or more domains complement the foundational coursework.It is an exciting and rapidly evolving field that exploits the power of computation as an approach to major challenges at the frontiers of natural and social science and all engineering fields.The program offers students experience with mathematical techniques for modeling and simulation of complex systems; parallel programming and collaborative software development; and methods for organizing, exploring, visualizing, processing, and analyzing very large data sets.Career positions may include: IT consultantCybersecurity consultantInformation systems managerDatabase administratorMultimedia programmerSystems analystGames developer, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹2065640₹2065640₹2065640₹2065640₹2065640Health Insurance₹327725₹327725₹327725₹327725₹327725Others₹100751₹100751₹100751₹100751₹100751Total Fees₹2494116₹2494116₹2494116₹2494116₹2494116",
-              Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d80ee829ecc6d955130e56"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Statistics)",
-              info: "Doctor of Philosophy in Statistics at Harvard University allows students to complete this course in 5 years.There are two options to complete this program. They are thesis-based and non-thesis-based or project-based. The students to faculty ratio for this program is 16:1.Some of the main courses that students will study in this program are:Probability theoryGame theory,Data collection and sampling methodsStatistical modelingThe field in research on a multitude of topics that include statistical inference, statistical computing and Monte-Carlo methods, analysis of missing data, causal inference, stochastic processes, multilevel models, experimental design, network models and the interface of statistics, and the social, physical, and biological sciences.A unique feature of the department lies in the fact that apart from methodological research, all the faculty members are also heavily involved in applied research, developing novel methodology that can be applied to a wide array of fields like astrophysics, biology, chemistry, economics, engineering, public policy, sociology, education, and many others.Career positions may include:StatisticianBusiness Analyst, Finance/BankingStatistician TrainerEconometricianSenior Data AnalystMathematician, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹2065640₹2065640₹2065640₹2065640₹2065640Health Insurance₹327725₹327725₹327725₹327725₹327725Others₹100751₹100751₹100751₹100751₹100751Total Fees₹2494116₹2494116₹2494116₹2494116₹2494116",
-              Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d80ee929ecc6d955130e58"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Molecular and Cellular Biology)",
-              info: "Doctor of Philosophy in Molecular and Cellular Biology at Harvard University allows students to complete this course in 5 years.There are two options to complete this program. They are thesis-based and non-thesis-based or project-based. The students to faculty ratio for this program is 16:1.Some of the main courses that students will study in this program are:Cell metabolismCell communicationCell cycleBiochemistryCell compositionThe unique approach to the biological sciences Ph.D. cultivates versatility as well as the depth of expertise by exposing its students to the full spectrum of modern biology.The MCO Ph.D. training program features an unparalleled range of research areas within the biological sciences, including biochemistry, biophysics, cellular biology, chemical, and structural biology, computational biology, developmental biology, engineering, evolutionary biology, genetics, genomics, microbiology, molecular biology, neurobiology, physical biology, stem cell biology, and systems biology.Career positions may include:Biomedical engineerBiotechnologistChemistChemical laboratory technicianClinical research specialistEpidemiologist, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹2065640₹2065640₹2065640₹2065640₹2065640Health Insurance₹327725₹327725₹327725₹327725₹327725Others₹100751₹100751₹100751₹100751₹100751Total Fees₹2494116₹2494116₹2494116₹2494116₹2494116",
-              Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d80ee929ecc6d955130e5c"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Neuroscience)",
-              info: "Doctor of Philosophy in Neuroscience at Harvard University allows students to complete this course in 5 years.There are two options to complete this program. They are thesis-based and non-thesis-based or project-based. The students to faculty ratio for this program is 16:1.Some of the main courses that students will study in this program are:ImmunologyCognitive PsychologyHormones and BehaviorPsychopharmacologyCell Structure and FunctionThe Program in Neuroscience is an interdepartmental Ph.D. program dedicated to training PhDs in neuroscience. The program provides students with the instruction, research experience, and mentoring they need to become leaders in research and education.The program offers students options for thesis research with neuroscientists in departments throughout the University, including in labs based on the Cambridge campus and at Harvard-affiliated hospitals. The enormous number and diversity of affiliated labs mean that students have a wide range of options in choosing research experiences.Career positions may include:Clinical sciencesBiotechnology and contract researchPharmaceutical industryNeuropsychology and psychiatryRegulatory affairs, policy and research administrationAcademic organization and administration, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹2065640₹2065640₹2065640₹2065640₹2065640Health Insurance₹327725₹327725₹327725₹327725₹327725Others₹100751₹100751₹100751₹100751₹100751Total Fees₹2494116₹2494116₹2494116₹2494116₹2494116",
-              Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d80ee929ecc6d955130e5a"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Neuroscience)",
-              info: "Doctor of Philosophy in Neuroscience at Harvard University allows students to complete this course in 5 years.There are two options to complete this program. They are thesis-based and non-thesis-based or project-based. The students to faculty ratio for this program is 16:1.Some of the main courses that students will study in this program are:ImmunologyCognitive PsychologyHormones and BehaviorPsychopharmacologyCell Structure and FunctionThe Program in Neuroscience is an interdepartmental Ph.D. program dedicated to training PhDs in neuroscience. The program provides students with the instruction, research experience, and mentoring they need to become leaders in research and education.The program offers students options for thesis research with neuroscientists in departments throughout the University, including in labs based on the Cambridge campus and at Harvard-affiliated hospitals. The enormous number and diversity of affiliated labs mean that students have a wide range of options in choosing research experiences.Career positions may include:Clinical sciencesBiotechnology and contract researchPharmaceutical industryNeuropsychology and psychiatryRegulatory affairs, policy and research administrationAcademic organization and administration, etc with an average salary of 36,475 USD per year.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹2065640₹2065640₹2065640₹2065640₹2065640Health Insurance₹327725₹327725₹327725₹327725₹327725Others₹100751₹100751₹100751₹100751₹100751Total Fees₹2494116₹2494116₹2494116₹2494116₹2494116",
-              Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d938a0990f3a306dbc3638"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d80e7d6e75ed30060f6466"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Business Administration)",
+                      info: "Doctor of Philosophy in Business Administration at Harvard University allows students to complete this course in 5 years.There are two options to complete this program. They are thesis-based and non-thesis-based or project-based. The students to faculty ratio for this program is 16:1.Some of the main courses that students will study in this program are:Accounting for ManagementSales and NegotiationsLaunching a New BusinessCreating a Business PlanFinancing a New BusinessPh.D. in business administration grounds students in disciplinary theories and methods, trains them to apply these theories and methods in academic research on important business problems.Explore the economic, political, and social factors driving change, and learn how decisions affect global markets and their business.The job opportunities after this program that students get are:Chief Technology OfficerComputer and Information Systems ManagerFinancial ManagerHealth Services ManagerHigh-End Management Consultant, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹2065640₹2065640₹2065640₹2065640₹2065640Health Insurance₹327725₹327725₹327725₹327725₹327725Others₹100751₹100751₹100751₹100751₹100751Total Fees₹2494116₹2494116₹2494116₹2494116₹2494116",
+                      Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d80ee829ecc6d955130e54"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Computer Science)",
+                      info: "Doctor of Philosophy in Computer Science at Harvard University allows students to complete this course in 5 years.There are two options to complete this program. They are thesis-based and non-thesis-based or project-based. The students to faculty ratio for this program is 16:1.Some of the main courses that students will study in this program are:Artificial intelligenceComputer systems and networksDatabase systemsHuman-computer interactionVision and graphicsNumerical analysisThe Computer Science curriculum is designed to offer students a great deal of flexibility.Computational Science and Engineering provides rigorous training in the mathematical and computing foundation. Independent research projects and elective courses focusing on the application of computation to one or more domains complement the foundational coursework.It is an exciting and rapidly evolving field that exploits the power of computation as an approach to major challenges at the frontiers of natural and social science and all engineering fields.The program offers students experience with mathematical techniques for modeling and simulation of complex systems; parallel programming and collaborative software development; and methods for organizing, exploring, visualizing, processing, and analyzing very large data sets.Career positions may include: IT consultantCybersecurity consultantInformation systems managerDatabase administratorMultimedia programmerSystems analystGames developer, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹2065640₹2065640₹2065640₹2065640₹2065640Health Insurance₹327725₹327725₹327725₹327725₹327725Others₹100751₹100751₹100751₹100751₹100751Total Fees₹2494116₹2494116₹2494116₹2494116₹2494116",
+                      Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d80ee829ecc6d955130e56"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Statistics)",
+                      info: "Doctor of Philosophy in Statistics at Harvard University allows students to complete this course in 5 years.There are two options to complete this program. They are thesis-based and non-thesis-based or project-based. The students to faculty ratio for this program is 16:1.Some of the main courses that students will study in this program are:Probability theoryGame theory,Data collection and sampling methodsStatistical modelingThe field in research on a multitude of topics that include statistical inference, statistical computing and Monte-Carlo methods, analysis of missing data, causal inference, stochastic processes, multilevel models, experimental design, network models and the interface of statistics, and the social, physical, and biological sciences.A unique feature of the department lies in the fact that apart from methodological research, all the faculty members are also heavily involved in applied research, developing novel methodology that can be applied to a wide array of fields like astrophysics, biology, chemistry, economics, engineering, public policy, sociology, education, and many others.Career positions may include:StatisticianBusiness Analyst, Finance/BankingStatistician TrainerEconometricianSenior Data AnalystMathematician, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹2065640₹2065640₹2065640₹2065640₹2065640Health Insurance₹327725₹327725₹327725₹327725₹327725Others₹100751₹100751₹100751₹100751₹100751Total Fees₹2494116₹2494116₹2494116₹2494116₹2494116",
+                      Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d80ee929ecc6d955130e58"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Molecular and Cellular Biology)",
+                      info: "Doctor of Philosophy in Molecular and Cellular Biology at Harvard University allows students to complete this course in 5 years.There are two options to complete this program. They are thesis-based and non-thesis-based or project-based. The students to faculty ratio for this program is 16:1.Some of the main courses that students will study in this program are:Cell metabolismCell communicationCell cycleBiochemistryCell compositionThe unique approach to the biological sciences Ph.D. cultivates versatility as well as the depth of expertise by exposing its students to the full spectrum of modern biology.The MCO Ph.D. training program features an unparalleled range of research areas within the biological sciences, including biochemistry, biophysics, cellular biology, chemical, and structural biology, computational biology, developmental biology, engineering, evolutionary biology, genetics, genomics, microbiology, molecular biology, neurobiology, physical biology, stem cell biology, and systems biology.Career positions may include:Biomedical engineerBiotechnologistChemistChemical laboratory technicianClinical research specialistEpidemiologist, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹2065640₹2065640₹2065640₹2065640₹2065640Health Insurance₹327725₹327725₹327725₹327725₹327725Others₹100751₹100751₹100751₹100751₹100751Total Fees₹2494116₹2494116₹2494116₹2494116₹2494116",
+                      Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d80ee929ecc6d955130e5c"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Neuroscience)",
+                      info: "Doctor of Philosophy in Neuroscience at Harvard University allows students to complete this course in 5 years.There are two options to complete this program. They are thesis-based and non-thesis-based or project-based. The students to faculty ratio for this program is 16:1.Some of the main courses that students will study in this program are:ImmunologyCognitive PsychologyHormones and BehaviorPsychopharmacologyCell Structure and FunctionThe Program in Neuroscience is an interdepartmental Ph.D. program dedicated to training PhDs in neuroscience. The program provides students with the instruction, research experience, and mentoring they need to become leaders in research and education.The program offers students options for thesis research with neuroscientists in departments throughout the University, including in labs based on the Cambridge campus and at Harvard-affiliated hospitals. The enormous number and diversity of affiliated labs mean that students have a wide range of options in choosing research experiences.Career positions may include:Clinical sciencesBiotechnology and contract researchPharmaceutical industryNeuropsychology and psychiatryRegulatory affairs, policy and research administrationAcademic organization and administration, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹2065640₹2065640₹2065640₹2065640₹2065640Health Insurance₹327725₹327725₹327725₹327725₹327725Others₹100751₹100751₹100751₹100751₹100751Total Fees₹2494116₹2494116₹2494116₹2494116₹2494116",
+                      Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d80ee929ecc6d955130e5a"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Neuroscience)",
+                      info: "Doctor of Philosophy in Neuroscience at Harvard University allows students to complete this course in 5 years.There are two options to complete this program. They are thesis-based and non-thesis-based or project-based. The students to faculty ratio for this program is 16:1.Some of the main courses that students will study in this program are:ImmunologyCognitive PsychologyHormones and BehaviorPsychopharmacologyCell Structure and FunctionThe Program in Neuroscience is an interdepartmental Ph.D. program dedicated to training PhDs in neuroscience. The program provides students with the instruction, research experience, and mentoring they need to become leaders in research and education.The program offers students options for thesis research with neuroscientists in departments throughout the University, including in labs based on the Cambridge campus and at Harvard-affiliated hospitals. The enormous number and diversity of affiliated labs mean that students have a wide range of options in choosing research experiences.Career positions may include:Clinical sciencesBiotechnology and contract researchPharmaceutical industryNeuropsychology and psychiatryRegulatory affairs, policy and research administrationAcademic organization and administration, etc with an average salary of 36,475 USD per year.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹2065640₹2065640₹2065640₹2065640₹2065640Health Insurance₹327725₹327725₹327725₹327725₹327725Others₹100751₹100751₹100751₹100751₹100751Total Fees₹2494116₹2494116₹2494116₹2494116₹2494116",
+                      Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. ",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Johns Hopkins University",
               Details: "Johns Hopkins University is the first research university of USA. JHU campus comprises 9 academic divisions and laboratories spread across 3 continents. The university is globally acknowledged for health science and medical courses. It ranks #4 in the USA for the Best Hospital according to the U.S. News 2022. The university is offering research opportunities at more than 1300 sites across 154 countries. Prospective students are offered with 400+ programs with a variety of graduate certificates and non-degree programs.International students comprise 20% of the total student population and represent 120 countries. The national average of international students in the USA is merely 4.6%. Johns Hopkins University admissions are offered in 3 intakes- Fall, Spring and Summer. Johns Hopkins University Acceptance Rate is 9% which demonstrates a highly selective admission process. Students need a GPA of 3.9+/4 (94%+) and a GMAT score of 670+",
               CoursesN: "Ph.D",
               img: "https://images.collegedunia.com/public/college_data/SAcampusimage/156334653961141188_763169067410763_8657253837118834045_n.jpg?h=180&w=180&mode=stretch",
-              title: "Doctor of Philosophy [Ph.D] (Chemistry)",
-              info: "The thesis research project represents an opportunity for graduate students to make a mark on the world. Working in conjunction with a faculty member or team, individually tailored thesis projects enable students to think independently about cutting-edge research areas that are of critical importance. Thesis research is the most important step toward becoming a Ph.D. scientist, and our program provides an outstanding base with a proven track record of success.Graduate students make up the heart of the Chemistry Department, and the department strives to support students' individual needs. Each student is carefully advised and classes are traditionally quite small. Multidisciplinary research and course offerings that increase scientific breadth and innovation are hallmarks of the program.The normal program leads to a Ph.D. degree. A student is not usually accepted for a terminal M.A. degree.The graduate program provides students with the background and technical expertise required to be leaders in their field and to pursue independent research.Students will be studying subjects like Organometallic Chemistry, Chemistry of Inorganic Compounds, Spectroscopy, Materials, and Surface, etc.Thesis research is the most important step toward becoming a Ph.D. scientist, and the program provides an outstanding base with a proven track record of success.Read More",
-              fees: "YearYear 1Year 2Tuition Fees₹4763366₹4763366Total Fees₹4763366₹4763366",
-              Exams: "Academic Eligibility:Applicants must hold an undergraduate degree.Applicants who have a degree in chemistry, biology, earth sciences, mathematics, or physics may apply, as well as well-qualified individuals who will have received a B.A. degree.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.Six one-semester graduate courses in chemistry and related sciences. Three of those six courses must be chosen from the list of Core Courses. Exceptionally well-prepared students may ask for a reduction of these requirements. Minimally, an overall B (3.0) grade average must be attained.Participation in a departmental seminar series.A research dissertation is worthy of publication.Knowledge of chemistry and related material as demonstrated in a Graduate Board Oral examination.Serve as a teaching assistant for at least one year.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d8972a819be30152f8ba5d"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d938a0990f3a306dbc3638"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Chemistry)",
+                      info: "The thesis research project represents an opportunity for graduate students to make a mark on the world. Working in conjunction with a faculty member or team, individually tailored thesis projects enable students to think independently about cutting-edge research areas that are of critical importance. Thesis research is the most important step toward becoming a Ph.D. scientist, and our program provides an outstanding base with a proven track record of success.Graduate students make up the heart of the Chemistry Department, and the department strives to support students' individual needs. Each student is carefully advised and classes are traditionally quite small. Multidisciplinary research and course offerings that increase scientific breadth and innovation are hallmarks of the program.The normal program leads to a Ph.D. degree. A student is not usually accepted for a terminal M.A. degree.The graduate program provides students with the background and technical expertise required to be leaders in their field and to pursue independent research.Students will be studying subjects like Organometallic Chemistry, Chemistry of Inorganic Compounds, Spectroscopy, Materials, and Surface, etc.Thesis research is the most important step toward becoming a Ph.D. scientist, and the program provides an outstanding base with a proven track record of success.Read More",
+                      fees: "YearYear 1Year 2Tuition Fees₹4763366₹4763366Total Fees₹4763366₹4763366",
+                      Exams: "Academic Eligibility:Applicants must hold an undergraduate degree.Applicants who have a degree in chemistry, biology, earth sciences, mathematics, or physics may apply, as well as well-qualified individuals who will have received a B.A. degree.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.Six one-semester graduate courses in chemistry and related sciences. Three of those six courses must be chosen from the list of Core Courses. Exceptionally well-prepared students may ask for a reduction of these requirements. Minimally, an overall B (3.0) grade average must be attained.Participation in a departmental seminar series.A research dissertation is worthy of publication.Knowledge of chemistry and related material as demonstrated in a Graduate Board Oral examination.Serve as a teaching assistant for at least one year.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Massachusetts Institute of Technology",
               Details: "Massachusetts Institute of Technology is a private institution located in Cambridge, Massachusetts. MIT is a diverse university with a 29.1% ( 3411) international student population. The largest communities at MIT are from China with 971 students followed by 340 students from India. The majority of international students pursue masters-level STEM courses at MIT university. In 2021, the university's most enrolled programs were MS Management Studies and MS Mechanical Engineering.Ranking #1 in the world, Massachusetts Institute of Technology is globally acknowledged for its affordability. The average tuition fees for MIT programs is USD 57,590. MIT University offers need-blind scholarships with an average award amount of USD 40,000 to all students. With this significant financial aid, the annual tuition fees for MIT is reduced to almost USD 17,590.",
               CoursesN: "Ph.D",
               img: "https://tse4.mm.bing.net/th?id=OIP.9o4yZc6r47IaOyyqjZH7dwHaDS&pid=Api&P=0",
-              title: "Doctor of Philososphy [Ph.D] (Polymers and Soft Matter)",
-              info: "The core curriculum, taken by all students, provides a common base in the field of polymers and soft matter. It is broad, rigorous, and covers both elementary and advanced subjects spanning the entire range from the molecular level to the continuum.This curriculum takes up the first two terms in the graduate program.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
-              Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8986c7111838aa1a0b80e"
-              },
-              title: "Doctor of Philososphy [Ph.D] (Computational Science and Engineering)",
-              info: "The Computational Science and Engineering PhD program allows students to specialize at the doctoral level in a computation-related field of their choice, including Aeronautics and Astronautics, through focused coursework and a doctoral thesis.Students enrolled in the CSE PhD program through AeroAstro will reside in the department; the degree will highlight their specialization in computational science and engineering via the specially crafted thesis field, \"Computational Science and Engineering.\"Applications from candidates who have a strong foundation in core disciplinary areas of mathematics, engineering, physics, or related fields are strongly encouraged.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
-              Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8986d7111838aa1a0b812"
-              },
-              title: "Doctor of Philososphy [Ph.D] (Work And Employment Research)",
-              info: "The Institute for Work & Employment Research (IWER) is a multidisciplinary research group devoted to the full range of issues related to work, labor, and employment relations as well as human resource management, labor market issues, and related public policies.Coursework for PhD students in the IWER group addresses industrial relations theory and research, labor economics, comparative systems of industrial relations, collective bargaining and labor management relations, management of human resources, labor law, and public policy. A weekly seminar brings together PhD students and faculty from associated disciplines to discuss current research.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
-              Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8986c7111838aa1a0b810"
-              },
-              title: "Doctor of Philososphy [Ph.D] (Information Technology)",
-              info: "Doctor of Philosophy in Information Technology at Massachusetts Institute of Technology(MIT) is a 5-year program.The program is full-time.This program has two years of coursework and approximately three years of research and writing of the dissertation.Information Technology produces frontier research on the economic, business, and organizational implications of digital technologies.PhD students in the IT group are expected to acquire a solid grasp of underlying information technologies and principles of information theory, along with their organizational and economic implications.Students and faculty address research questions raised by the emerging digital economy, the transformation of organizations and markets, and opportunities for new business models.MIT aims for a class size of just 19 students.PhD students in the Accounting Group benefit from the teaching, research, and mentorship of MIT Sloan's world-renowned faculty.MIT ranks #1 in the world among the other universities by US News Rankings 2020.The student to faculty ratio in this program is 3:1 which increases the interaction between students and faculty.Classes with fewer than 20 students in this program are 70.8% which creates an environment suitable to acquire knowledge.The average salary of the graduates after getting placed is 109,908 USD.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
-              Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8986d7111838aa1a0b814"
-              },
-              title: "Doctor of Philososphy [Ph.D] (Medical Engineering and Medical Physics)",
-              info: "The program trains students as engineers or physical scientists who also have extensive knowledge of the medical sciences.By understanding engineering and physical science applications, as well as their clinical implications, graduates of this program are well positioned to define new questions and formulate novel approaches in biomedical research.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
-              Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8986d7111838aa1a0b816"
-              },
-              title: "Doctor of Philososphy [Ph.D] (Operations Research)",
-              info: "Operations research (OR) is the discipline of applying advanced analytical methods to help make better decisions.It uses mathematical modeling, analysis, and optimization in a holistic approach to improving their knowledge of systems and designing useful, efficient systems. Its applications range from engineering to management, and from industry to the public sector.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
-              Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8986d7111838aa1a0b818"
-              },
-              title: "Doctor of Philososphy [Ph.D] (Mathematics)",
-              info: "Mathematics provides a language and tools for understanding the physical world around us and the abstract world within us.MIT's Mathematics Department is one of the strongest in the world, representing a broad spectrum of fields ranging from the traditional areas of pure mathematics such as analysis, algebra, geometry, and topology, to applied mathematics areas such as combinatorics, computational biology, fluid dynamics, theoretical computer science, and theoretical physics.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
-              Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d932417e4311b4e0a0d6f5"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d8972a819be30152f8ba5d"
+                      },
+                      title: "Doctor of Philososphy [Ph.D] (Polymers and Soft Matter)",
+                      info: "The core curriculum, taken by all students, provides a common base in the field of polymers and soft matter. It is broad, rigorous, and covers both elementary and advanced subjects spanning the entire range from the molecular level to the continuum.This curriculum takes up the first two terms in the graduate program.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
+                      Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8986c7111838aa1a0b80e"
+                      },
+                      title: "Doctor of Philososphy [Ph.D] (Computational Science and Engineering)",
+                      info: "The Computational Science and Engineering PhD program allows students to specialize at the doctoral level in a computation-related field of their choice, including Aeronautics and Astronautics, through focused coursework and a doctoral thesis.Students enrolled in the CSE PhD program through AeroAstro will reside in the department; the degree will highlight their specialization in computational science and engineering via the specially crafted thesis field, \"Computational Science and Engineering.\"Applications from candidates who have a strong foundation in core disciplinary areas of mathematics, engineering, physics, or related fields are strongly encouraged.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
+                      Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8986d7111838aa1a0b812"
+                      },
+                      title: "Doctor of Philososphy [Ph.D] (Work And Employment Research)",
+                      info: "The Institute for Work & Employment Research (IWER) is a multidisciplinary research group devoted to the full range of issues related to work, labor, and employment relations as well as human resource management, labor market issues, and related public policies.Coursework for PhD students in the IWER group addresses industrial relations theory and research, labor economics, comparative systems of industrial relations, collective bargaining and labor management relations, management of human resources, labor law, and public policy. A weekly seminar brings together PhD students and faculty from associated disciplines to discuss current research.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
+                      Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8986c7111838aa1a0b810"
+                      },
+                      title: "Doctor of Philososphy [Ph.D] (Information Technology)",
+                      info: "Doctor of Philosophy in Information Technology at Massachusetts Institute of Technology(MIT) is a 5-year program.The program is full-time.This program has two years of coursework and approximately three years of research and writing of the dissertation.Information Technology produces frontier research on the economic, business, and organizational implications of digital technologies.PhD students in the IT group are expected to acquire a solid grasp of underlying information technologies and principles of information theory, along with their organizational and economic implications.Students and faculty address research questions raised by the emerging digital economy, the transformation of organizations and markets, and opportunities for new business models.MIT aims for a class size of just 19 students.PhD students in the Accounting Group benefit from the teaching, research, and mentorship of MIT Sloan's world-renowned faculty.MIT ranks #1 in the world among the other universities by US News Rankings 2020.The student to faculty ratio in this program is 3:1 which increases the interaction between students and faculty.Classes with fewer than 20 students in this program are 70.8% which creates an environment suitable to acquire knowledge.The average salary of the graduates after getting placed is 109,908 USD.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
+                      Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8986d7111838aa1a0b814"
+                      },
+                      title: "Doctor of Philososphy [Ph.D] (Medical Engineering and Medical Physics)",
+                      info: "The program trains students as engineers or physical scientists who also have extensive knowledge of the medical sciences.By understanding engineering and physical science applications, as well as their clinical implications, graduates of this program are well positioned to define new questions and formulate novel approaches in biomedical research.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
+                      Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8986d7111838aa1a0b816"
+                      },
+                      title: "Doctor of Philososphy [Ph.D] (Operations Research)",
+                      info: "Operations research (OR) is the discipline of applying advanced analytical methods to help make better decisions.It uses mathematical modeling, analysis, and optimization in a holistic approach to improving their knowledge of systems and designing useful, efficient systems. Its applications range from engineering to management, and from industry to the public sector.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
+                      Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8986d7111838aa1a0b818"
+                      },
+                      title: "Doctor of Philososphy [Ph.D] (Mathematics)",
+                      info: "Mathematics provides a language and tools for understanding the physical world around us and the abstract world within us.MIT's Mathematics Department is one of the strongest in the world, representing a broad spectrum of fields ranging from the traditional areas of pure mathematics such as analysis, algebra, geometry, and topology, to applied mathematics areas such as combinatorics, computational biology, fluid dynamics, theoretical computer science, and theoretical physics.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4064112₹4064112₹4064112₹4064112₹4064112Books and supply₹265181₹265181₹265181₹265181₹265181Total Fees₹4329293₹4329293₹4329293₹4329293₹4329293",
+                      Exams: "Academic Eligibility:Students require a Bachelor's degree or equivalent.Students should have a strong quantitative background (the Accounting group requires calculus)Students need to have exposure to microeconomics and macroeconomics (the Accounting group requires microeconomics)Students should have at least a 3.5 GPA. Indian Student Eligibility:The student has graduated from senior secondary school or equivalent (those applying for a postgraduate program must have graduated from a university or college).Students completed a bachelor's degree from an accredited institution with a grade point average of 3.5 or 60% in the final years of the program.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit the scores (minimum 300) for a better chance of admission.Along with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "University of Pennsylvania",
               Details: "University of Pennsylvania or UPenn is a private Ivy League school established in 1740. The university owns one of the first medical schools and Wharton B-School. As of 2022, UPenn is home to 28,000+ students including 13% international student population. UPenn graduate courses are quite popular, most of all, its courses offered by the School of Arts and Science, Wharton B-School, and School of Engineering. This indicates that admissions at Penn are highly competitive. University of Pennsylvania acceptance rate is 5.9% overall. Students with a GPA of 3.9/4 (94%) or higher have shown more successful selection than others",
               CoursesN: "Ph.D",
               img: "https://www.easyuni.co.id/media/institution/photo/2016/06/27/df375dba-a3e4-4aef-8732-e35a35510320.JPG",
-              title: "Doctor of Philosophy [Ph.D] (Ethics and Legal Studies)",
-              info: "The Ethics & Legal Studies Doctoral Program at Wharton trains students in the fields of ethics and law in business. Students are encouraged to combine this work with investigation of related fields, including Philosophy, Law, Psychology, Management, Finance, and Marketing.Students take a core set of courses in the area of ethics and law in business, together with courses in an additional disciplinary concentration such as management, philosophy/ethical theory, finance, marketing, or accounting.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
-              Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9331ebde8b87645dccb7a"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Management)",
-              info: "Wharton's Management program prepares students to apply rigorous social science disciplinary theory and research methods to the demands of current management and leadership challenges in the public and private sectors. The faculty has a broad range of interests ranging from the behavior of individuals, teams, and groups to organizational strategy of multinational firms.Major areas of faculty research currently include: new venture formation, growth, and corporate entrepreneurship; human resources and competitiveness; emotions, identity, creativity and motivation; political and social influence strategies; technology and practice adoption, diffusion, and transfer within and across organizations; organizational learning and adaptation; and the strategic management of complementary resources and capabilities within an organization, alliance, network or ecosystems.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
-              Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9331fbde8b87645dccb7c"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Health Care Management and Economics)",
-              info: "Wharton's doctoral program is unique among similar programs because it provides a strong background in microeconomic theory, advanced teaching of econometric and statistical techniques, a comprehensive analysis of both health economics and health care services research, and grounding in management/strategy theory and research.The doctoral program complements the course work with numerous opportunities to collaborate with faculty members in research projects exploring a wide variety of topics in the health economics and management fields.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
-              Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9331fbde8b87645dccb7e"
-              },
-              title: "Doctor of Philososphy [Ph.D] (Operations, Information and Decisions)",
-              info: "The faculty trains scholars in decision making, information and operations/operations research.Our faculty leads in the development and application of an innovative blend of analytical and empirical approaches to important problems facing the private and public sectors, including: supply chain management; service delivery systems; product development and innovation processes; decision support systems; information-based strategy; systems development and implementation; risk and environmental management; and behavioral approaches to individual and managerial decision making.Our PhD program provides a unique mix of behavioral, economic, statistical and analytical training to its students, and its strength is reflected in our students' record of placement and achievement.Areas of Specialization:Decision Making (DM)Our interdisciplinary Decision-Making PhD program focuses on training students to conduct and publish academic research that helps to answer these important questions. Along the way, students receive rigorous quantitative/statistical training, and acquire a deep understanding of the literature on judgment and decision-making, significant exposure to the fields of psychology, economics, organizational behavior, and marketing.Information Systems (IS)The IS track covers a broad range of research interests. Students interested in information and decision technology (IDT) focuses on the analytical and information technology-based methods for managing complex organizations. Those interested in information strategy and economics (ISE) focus on understanding the strategic aspects of information and information management.Operations Management / Operations Research (OM / OR)OM/OR focuses on the processes that define an organization's outputs, as well as the methods commonly used to analyze these processes. Students specializing in OM are interested in a wide range of functions and organizational types, including operations strategy, product design, process design, technology management, capacity planning, inventory control, supply chain management and service system planning. Students interested in OR focus more on the application of mathematical models to these areas.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
-              Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9331fbde8b87645dccb80"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Applied Economics)",
-              info: "Wharton's Applied Economics program leverages the breadth and depth of its faculty to prepare students for careers doing frontier theoretical and empirical research.Students can focus on a variety of research areas, including Behavioral Economics, Development and International Economics, Energy and Environmental Economics, Health Economics, Industrial Organization and Regulation, Labor Economics, Law and Economics, Market Design, Public Economics, Risk and Insurance, Urban Economics and Real Estate.Students may also develop an interdisciplinary focus by taking courses and working with faculty in some of the other departments at Wharton such as Finance, Health Care Management, Management, and Marketing.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
-              Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9331fbde8b87645dccb82"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Finance)",
-              info: "The program prepares students for careers in research and teaching at the world's leading academic institutions, focusing on Asset Pricing and Portfolio Management, Corporate Finance, International Finance, Financial Institutions, and Macroeconomics. Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
-              Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9331fbde8b87645dccb84"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Operation,Information and Decisions)",
-              info: "The faculty trains scholars in decision making, information and operations/operations research. The faculty leads in the development and application of an innovative blend of analytical and empirical approaches to important problems facing the private and public sectors, including: supply chain management; service delivery systems; product development and innovation processes; decision support systems; information-based strategy; systems development and implementation; risk and environmental management; and behavioral approaches to individual and managerial decision making. PhD program provides a unique mix of behavioral, economic, statistical and analytical training to its students, and its strength is reflected in our students' record of placement and achievement.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
-              Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d93320bde8b87645dccb86"
-              },
-              title: "Doctor of Philososphy [Ph.D] (Economics)",
-              info: "The primary goal of the program is to produce outstanding research economists. The program is designed to ensure that students acquire a thorough knowledge of economic theory, econometric methods, and the structure of modern economies, before beginning their own research under faculty supervision. While the program covers all major areas of economics, it has particular strengths in micro theory (especially game theory), empirical microeconomics, and modern macroeconomics.The Graduate Group in Economics requires that students complete at least 16 courses in economics or related fields, of which a maximum of eight may be transferred from other institutions. Some of these course units may be earned by attending and participating in workshops. After two years in the program, students are expected to begin their dissertations.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹1570970₹1570970₹1570970₹1570970₹1570970Compulsory Fees₹144069₹144069₹144069₹144069₹144069Total Fees₹1715039₹1715039₹1715039₹1715039₹1715039",
-              Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d8a93d91db9caa3282a971"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d932417e4311b4e0a0d6f5"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Ethics and Legal Studies)",
+                      info: "The Ethics & Legal Studies Doctoral Program at Wharton trains students in the fields of ethics and law in business. Students are encouraged to combine this work with investigation of related fields, including Philosophy, Law, Psychology, Management, Finance, and Marketing.Students take a core set of courses in the area of ethics and law in business, together with courses in an additional disciplinary concentration such as management, philosophy/ethical theory, finance, marketing, or accounting.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
+                      Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9331ebde8b87645dccb7a"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Management)",
+                      info: "Wharton's Management program prepares students to apply rigorous social science disciplinary theory and research methods to the demands of current management and leadership challenges in the public and private sectors. The faculty has a broad range of interests ranging from the behavior of individuals, teams, and groups to organizational strategy of multinational firms.Major areas of faculty research currently include: new venture formation, growth, and corporate entrepreneurship; human resources and competitiveness; emotions, identity, creativity and motivation; political and social influence strategies; technology and practice adoption, diffusion, and transfer within and across organizations; organizational learning and adaptation; and the strategic management of complementary resources and capabilities within an organization, alliance, network or ecosystems.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
+                      Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9331fbde8b87645dccb7c"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Health Care Management and Economics)",
+                      info: "Wharton's doctoral program is unique among similar programs because it provides a strong background in microeconomic theory, advanced teaching of econometric and statistical techniques, a comprehensive analysis of both health economics and health care services research, and grounding in management/strategy theory and research.The doctoral program complements the course work with numerous opportunities to collaborate with faculty members in research projects exploring a wide variety of topics in the health economics and management fields.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
+                      Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9331fbde8b87645dccb7e"
+                      },
+                      title: "Doctor of Philososphy [Ph.D] (Operations, Information and Decisions)",
+                      info: "The faculty trains scholars in decision making, information and operations/operations research.Our faculty leads in the development and application of an innovative blend of analytical and empirical approaches to important problems facing the private and public sectors, including: supply chain management; service delivery systems; product development and innovation processes; decision support systems; information-based strategy; systems development and implementation; risk and environmental management; and behavioral approaches to individual and managerial decision making.Our PhD program provides a unique mix of behavioral, economic, statistical and analytical training to its students, and its strength is reflected in our students' record of placement and achievement.Areas of Specialization:Decision Making (DM)Our interdisciplinary Decision-Making PhD program focuses on training students to conduct and publish academic research that helps to answer these important questions. Along the way, students receive rigorous quantitative/statistical training, and acquire a deep understanding of the literature on judgment and decision-making, significant exposure to the fields of psychology, economics, organizational behavior, and marketing.Information Systems (IS)The IS track covers a broad range of research interests. Students interested in information and decision technology (IDT) focuses on the analytical and information technology-based methods for managing complex organizations. Those interested in information strategy and economics (ISE) focus on understanding the strategic aspects of information and information management.Operations Management / Operations Research (OM / OR)OM/OR focuses on the processes that define an organization's outputs, as well as the methods commonly used to analyze these processes. Students specializing in OM are interested in a wide range of functions and organizational types, including operations strategy, product design, process design, technology management, capacity planning, inventory control, supply chain management and service system planning. Students interested in OR focus more on the application of mathematical models to these areas.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
+                      Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9331fbde8b87645dccb80"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Applied Economics)",
+                      info: "Wharton's Applied Economics program leverages the breadth and depth of its faculty to prepare students for careers doing frontier theoretical and empirical research.Students can focus on a variety of research areas, including Behavioral Economics, Development and International Economics, Energy and Environmental Economics, Health Economics, Industrial Organization and Regulation, Labor Economics, Law and Economics, Market Design, Public Economics, Risk and Insurance, Urban Economics and Real Estate.Students may also develop an interdisciplinary focus by taking courses and working with faculty in some of the other departments at Wharton such as Finance, Health Care Management, Management, and Marketing.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
+                      Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9331fbde8b87645dccb82"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Finance)",
+                      info: "The program prepares students for careers in research and teaching at the world's leading academic institutions, focusing on Asset Pricing and Portfolio Management, Corporate Finance, International Finance, Financial Institutions, and Macroeconomics. Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
+                      Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9331fbde8b87645dccb84"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Operation,Information and Decisions)",
+                      info: "The faculty trains scholars in decision making, information and operations/operations research. The faculty leads in the development and application of an innovative blend of analytical and empirical approaches to important problems facing the private and public sectors, including: supply chain management; service delivery systems; product development and innovation processes; decision support systems; information-based strategy; systems development and implementation; risk and environmental management; and behavioral approaches to individual and managerial decision making. PhD program provides a unique mix of behavioral, economic, statistical and analytical training to its students, and its strength is reflected in our students' record of placement and achievement.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3141940₹3141940₹3141940₹3141940₹3141940Compulsory Fees₹413712₹413712₹413712₹413712₹413712Total Fees₹3555652₹3555652₹3555652₹3555652₹3555652",
+                      Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d93320bde8b87645dccb86"
+                      },
+                      title: "Doctor of Philososphy [Ph.D] (Economics)",
+                      info: "The primary goal of the program is to produce outstanding research economists. The program is designed to ensure that students acquire a thorough knowledge of economic theory, econometric methods, and the structure of modern economies, before beginning their own research under faculty supervision. While the program covers all major areas of economics, it has particular strengths in micro theory (especially game theory), empirical microeconomics, and modern macroeconomics.The Graduate Group in Economics requires that students complete at least 16 courses in economics or related fields, of which a maximum of eight may be transferred from other institutions. Some of these course units may be earned by attending and participating in workshops. After two years in the program, students are expected to begin their dissertations.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹1570970₹1570970₹1570970₹1570970₹1570970Compulsory Fees₹144069₹144069₹144069₹144069₹144069Total Fees₹1715039₹1715039₹1715039₹1715039₹1715039",
+                      Exams: "Academic Eligibility:Applicants should have completed a master's degree, or its equivalent, from a recognized university.A strong undergraduate preparation in microeconomics and mathematics is an advantage, as is some prior training at the undergraduate or graduate level in accounting, finance, or economics.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 730 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Princeton University",
               Details: "Princeton University is one of the best research institutes in USA and a member of the ''Ivy League'. The university manifests interdisciplinary research collaborations and is known for Computer Science (12.5%), Econometrics and Quantitative Economics (9.9%) discipline. Princeton University campus is vast with voguish facilities in 5 schools and colleges, 200+ campus buildings, 6 residential colleges, 17 campus chaplains, and 10 libraries.The university houses over 8,000 students with 98% undergraduate students and 70% graduate students living on campus. At Princeton, the acceptance rate is 3.8% reflecting a highly selective admission policy. International students constitute 14% of the total student body at Princeton. Students from 140 countries applied for admissions to Princeton University, among whom, candidates from 70 countries received offer. ",
               CoursesN: "Ph.D",
               img: "https://tse1.mm.bing.net/th?id=OIP.odrnJoWuj6tgKH-g30YlNwHaDt&pid=Api&P=0",
-              title: "Doctor of Philososphy [Ph.D] (Applied and Computational Math)",
-              info: "Students must choose three areas in which to be examined out of a list of six possibilities specified below. The student should choose their specific topics by the end of October. The director of graduate studies, in consultation with the student, appoints a set of advisers from among the faculty and associated faculty. The adviser in each topic meets regularly with the student, monitors progress and assigns additional reading material. Advisers are traditionally members of the Princeton University faculty within the department, but members of the faculty from other departments may serve as advisers with approval. They can be any member of the University faculty, but are normally either program or associated faculty. In consultation with the topic advisers, the first-year student should choose three topics from among the following six applied mathematics categories:Asymptotics, analysis, numerical analysis and signal processing; Discrete mathematics, combinatorics, algorithms, computational geometry and graphics; Mechanics and field theories (including computational physics/chemistry/biology); Optimization (including linear and nonlinear programming and control theory); Partial differential equations and ordinary differential equations (including dynamical systems); and Stochastic modeling, probability, statistics and information theory. Additional topics may be considered with prior approval by the director of graduate studies.Typically, students take regular or reading courses with their advisers in the three topic areas of their choice, completing the regular exams and course work for these courses. Pre-Generals Requirement(s):At the end of the first year, students will also take a preliminary exam, consisting of a joint interview by their three first-year topic advisers. Each student should decide with their first-year advisers which courses are relevant for their examination areas.Students should assess their level of preparation for the preliminary examination by reviewing homework and examinations from the previous year's work.  Students who fail the preliminary examination, may, with the support of the first-year advisers, take the examination a second time.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4900459₹4900459₹4900459₹4900459₹4900459Health Insurance₹175219₹175219₹175219₹175219₹175219Total Fees₹5075678₹5075678₹5075678₹5075678₹5075678",
-              Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d8a9ac9958fda921bd954e"
-              },
-              title: "Doctor of Philososphy [Ph.D] (East Asian Studies)",
-              info: "With its current full-time faculty of 40 professors and language instructors in the EAS department, frequent international visiting professors, and an additional 10 professors specializing on East Asia in the Departments of Art and Archaeology, Comparative Literature, Sociology, Religion, and Politics, Princeton is home to a vibrant community of scholars and students working on the civilizations of East Asia in all their rich historical and contemporary dimensions. All EAS historians have joint appointments in the Department of History, and Professor Erin Huang has a joint appointment in the Department of  Comparative Literature.The department is committed to interdisciplinary research and training, and most of our students take seminars across a range of different disciplines. At the same time, EAS also allows for a clear focus in a particular discipline. At Princeton, historians, literature scholars, and social scientists are full members of our department. Graduate students in the fields of history, literature, and anthropology are eligible to take the core introductory seminars in the Departments of History, Comparative Literature, and Anthropology. Students in EAS have their advisers in the EAS department but in addition have the opportunity—and are strongly encouraged—to take any number of courses in the relevant disciplinary department. Furthermore, faculty from relevant disciplinary departments routinely serve on EAS dissertation committees.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4900459₹4900459₹4900459₹4900459₹4900459Health Insurance₹175219₹175219₹175219₹175219₹175219Total Fees₹5075678₹5075678₹5075678₹5075678₹5075678",
-              Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d89c64c26b38f50b298dd5"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d8a93d91db9caa3282a971"
+                      },
+                      title: "Doctor of Philososphy [Ph.D] (Applied and Computational Math)",
+                      info: "Students must choose three areas in which to be examined out of a list of six possibilities specified below. The student should choose their specific topics by the end of October. The director of graduate studies, in consultation with the student, appoints a set of advisers from among the faculty and associated faculty. The adviser in each topic meets regularly with the student, monitors progress and assigns additional reading material. Advisers are traditionally members of the Princeton University faculty within the department, but members of the faculty from other departments may serve as advisers with approval. They can be any member of the University faculty, but are normally either program or associated faculty. In consultation with the topic advisers, the first-year student should choose three topics from among the following six applied mathematics categories:Asymptotics, analysis, numerical analysis and signal processing; Discrete mathematics, combinatorics, algorithms, computational geometry and graphics; Mechanics and field theories (including computational physics/chemistry/biology); Optimization (including linear and nonlinear programming and control theory); Partial differential equations and ordinary differential equations (including dynamical systems); and Stochastic modeling, probability, statistics and information theory. Additional topics may be considered with prior approval by the director of graduate studies.Typically, students take regular or reading courses with their advisers in the three topic areas of their choice, completing the regular exams and course work for these courses. Pre-Generals Requirement(s):At the end of the first year, students will also take a preliminary exam, consisting of a joint interview by their three first-year topic advisers. Each student should decide with their first-year advisers which courses are relevant for their examination areas.Students should assess their level of preparation for the preliminary examination by reviewing homework and examinations from the previous year's work.  Students who fail the preliminary examination, may, with the support of the first-year advisers, take the examination a second time.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4900459₹4900459₹4900459₹4900459₹4900459Health Insurance₹175219₹175219₹175219₹175219₹175219Total Fees₹5075678₹5075678₹5075678₹5075678₹5075678",
+                      Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d8a9ac9958fda921bd954e"
+                      },
+                      title: "Doctor of Philososphy [Ph.D] (East Asian Studies)",
+                      info: "With its current full-time faculty of 40 professors and language instructors in the EAS department, frequent international visiting professors, and an additional 10 professors specializing on East Asia in the Departments of Art and Archaeology, Comparative Literature, Sociology, Religion, and Politics, Princeton is home to a vibrant community of scholars and students working on the civilizations of East Asia in all their rich historical and contemporary dimensions. All EAS historians have joint appointments in the Department of History, and Professor Erin Huang has a joint appointment in the Department of  Comparative Literature.The department is committed to interdisciplinary research and training, and most of our students take seminars across a range of different disciplines. At the same time, EAS also allows for a clear focus in a particular discipline. At Princeton, historians, literature scholars, and social scientists are full members of our department. Graduate students in the fields of history, literature, and anthropology are eligible to take the core introductory seminars in the Departments of History, Comparative Literature, and Anthropology. Students in EAS have their advisers in the EAS department but in addition have the opportunity—and are strongly encouraged—to take any number of courses in the relevant disciplinary department. Furthermore, faculty from relevant disciplinary departments routinely serve on EAS dissertation committees.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹4900459₹4900459₹4900459₹4900459₹4900459Health Insurance₹175219₹175219₹175219₹175219₹175219Total Fees₹5075678₹5075678₹5075678₹5075678₹5075678",
+                      Exams: "Academic Eligibility:Students must register full-time until receipt of the degree, for a minimum of two years.At the discretion of the program, this requirement can be reduced up to one year (eight courses: 32 credits) if academic credit is given for work done elsewhere.In addition, those admitted must have completed the equivalent of a senior-level course in the area of theoretical courses related to this program.Minimum grade point ''B+' (75% – 79%) is required to enroll in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Or, completed a master's degree with first-class in a relevant field from a recognized institution.Or, completed a 3-year UG degree with a first-class from a NAAC-accredited institution.English Language proficiency:Applicants from India, China, Vietnam, Philippines, and Pakistan should note that IELTS is the only proficiency score accepted by the Study Direct Stream (SDS) program.Meeting the minimum English requirements does not guarantee admission. Students with higher English proficiency scores will receive priority in the admission assessment process.Not all students will qualify for EAP-3106 in place of the required IELTS or TOEFL test scores.Submission of GRE scores is not compulsory for this program, however, it is recommended to submit a minimum of 292 for better a chance of admission.The above requirements are the minimum requirements and do not guarantee admission. The admissions committee will consider all evidence in the file and decide. To know more about the requirem….Read More",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Stanford University",
               Details: "Stanford University is a private research university located in Stanford USA. Established in 1885, Stanford comprises seven academic schools and 18 interdisciplinary schools. International students choose Stanford majorly for graduate-level courses. There are 200+ graduate courses in 90+ subject areas for you to choose from. If we talk about popular programs, Stanford MBA is one of the best in the world. The student enrollments indicate the popularity of engineering courses. In recent academic year, around 40% incoming graduate students enrolled in engineering courses. The Stanford University acceptance rate of engineering programs is 5.03%. ",
               CoursesN: "Ph.D",
               img: "https://a57.foxnews.com/a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/1862/1048/stanford-2-iStock.jpg?ve=1&tl=1?ve=1&tl=1",
-              title: "Doctor of Philosophy [Ph.D] (Economic Analysis and Policy)",
-              info: "The Doctoral program in the field of economic analysis and policy prepares students for research careers in economics. The program offers rigorous training.First, enrollment in the program is small. This encourages close faculty-student contact and allows students to become involved in research very early. Students work first as assistants on faculty research projects and, as their interests and skills develop, on their own research.Second, the program is flexible and innovative; students can draw on both the school's and the university's distinguished faculty.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89d4b47b2c69ea3eeec5f"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Materials Science and Engineering)",
-              info: "The PhD program is designed to give students a broad and deep understanding of materials science and engineering so that they will have long and fruitful careers as researchers.Students who graduate from the program will be among the world's leading experts in the areas of their dissertation research. They also will have the intellectual tools to move into new research areas as the field grows and develops.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89d4c47b2c69ea3eeec61"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Civil and Environmental Engineering)",
-              info: "At Stanford's Civil and Environmental Engineering Department, its mission is to advance education and research in engineering the built and natural environments, with a particular emphasis on long-term sustainability.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89d4c47b2c69ea3eeec63"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Energy Resources Engineering)",
-              info: "Stanford trains future leaders in the science and engineering of Earth's energy resources.They combine theory, experiments, and computation to understand and influence the global energy resources landscape.They are committed to leading the way to provide the people, methods, and tools for sustainable management of the Earth's energy resources.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89d4c47b2c69ea3eeec65"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Aeronautics and Astronautics)",
-              info: "Aerospace engineering is the primary field of engineering concerned with the development of aircraft and spacecraft.It has two major and overlapping branches: aeronautical engineering and astronautical engineering.",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89d4c47b2c69ea3eeec67"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Operations Information and Technology)",
-              info: "In the Operations, Information, and Technology field universities use mathematical models to improve technological systems. University develops new methods, improve the use of emerging technologies, study a wide variety of systems, and impact practice, using tools from operations research, game theory, econometrics, computer science, probability, and statistics.Faculty research interests include health care systems, product design and manufacturing processes, supply networks, information systems, energy and environmental systems, homeland security systems, financial systems, social networks, and online markets.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d89d4c47b2c69ea3eeec69"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Management Science and Engineering)",
-              info: "The Ph.D. is conferred upon candidates who have demonstrated substantial scholarship and the ability to conduct independent research. Through course work and guided research, the program prepares students to make original contributions in Management Science and Engineering and related fields. The program requires three years of full-time graduate study, at least two years of which must be at Stanford. Typically, however, students take four to five years after entering the program to complete all Ph.D. requirements.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
-              Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
-              __v: 0
-            },
-          ]
-        },
-        {
-
-          College: [
-            {
-              _id: {
-                $oid: "63d91fcebad26e805aa95681"
-              },
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d89c64c26b38f50b298dd5"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Economic Analysis and Policy)",
+                      info: "The Doctoral program in the field of economic analysis and policy prepares students for research careers in economics. The program offers rigorous training.First, enrollment in the program is small. This encourages close faculty-student contact and allows students to become involved in research very early. Students work first as assistants on faculty research projects and, as their interests and skills develop, on their own research.Second, the program is flexible and innovative; students can draw on both the school's and the university's distinguished faculty.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89d4b47b2c69ea3eeec5f"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Materials Science and Engineering)",
+                      info: "The PhD program is designed to give students a broad and deep understanding of materials science and engineering so that they will have long and fruitful careers as researchers.Students who graduate from the program will be among the world's leading experts in the areas of their dissertation research. They also will have the intellectual tools to move into new research areas as the field grows and develops.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89d4c47b2c69ea3eeec61"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Civil and Environmental Engineering)",
+                      info: "At Stanford's Civil and Environmental Engineering Department, its mission is to advance education and research in engineering the built and natural environments, with a particular emphasis on long-term sustainability.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89d4c47b2c69ea3eeec63"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Energy Resources Engineering)",
+                      info: "Stanford trains future leaders in the science and engineering of Earth's energy resources.They combine theory, experiments, and computation to understand and influence the global energy resources landscape.They are committed to leading the way to provide the people, methods, and tools for sustainable management of the Earth's energy resources.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89d4c47b2c69ea3eeec65"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Aeronautics and Astronautics)",
+                      info: "Aerospace engineering is the primary field of engineering concerned with the development of aircraft and spacecraft.It has two major and overlapping branches: aeronautical engineering and astronautical engineering.",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89d4c47b2c69ea3eeec67"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Operations Information and Technology)",
+                      info: "In the Operations, Information, and Technology field universities use mathematical models to improve technological systems. University develops new methods, improve the use of emerging technologies, study a wide variety of systems, and impact practice, using tools from operations research, game theory, econometrics, computer science, probability, and statistics.Faculty research interests include health care systems, product design and manufacturing processes, supply networks, information systems, energy and environmental systems, homeland security systems, financial systems, social networks, and online markets.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d89d4c47b2c69ea3eeec69"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Management Science and Engineering)",
+                      info: "The Ph.D. is conferred upon candidates who have demonstrated substantial scholarship and the ability to conduct independent research. Through course work and guided research, the program prepares students to make original contributions in Management Science and Engineering and related fields. The program requires three years of full-time graduate study, at least two years of which must be at Stanford. Typically, however, students take four to five years after entering the program to complete all Ph.D. requirements.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Tuition Fees₹2643620₹2643620₹2643620₹2643620Books and supply₹111946₹111946₹111946₹111946Miscellaneous expenses₹739814₹739814₹739814₹739814Total Fees₹3495380₹3495380₹3495380₹3495380",
+                      Exams: "Academic Eligibility:Students must complete a master's degree from a recognized institution.The average cumulative high school GPA of students admitted to Stanford is 3.96 on a 4.0 scale.GRE general test scores optional.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a graduate degree with first-class in a relevant field from a recognized institutionAlong with the minimum eligibility requirements, international students hailing from non-English speaking countries need to prove English proficiency through IELTS/TOEFL/any equivalent test to get admission to this program.",
+                      __v: 0
+                  },
+              ]
+          },
+          {
+      
               Names: "Yale University",
               Details: "Yale University is an Ivy-League School ranked #1 Best Value School by US News & World Report. For an Indian student, Yale University's fees is approximately 60 lakhs per annum. The university supports its students by offering them scholarships worth 38 lakhs which reduces the overall cost of attendance to 22 lakhs. The affordable fees for Yale University courses is the reason for 22% international student presence at the campus. The international students represent over 120 diverse nationalities and countries. Compared to undergraduate courses, international student enrollments are slightly higher for Yale University graduate courses. Law and Management disciplines at Yale have the highest enrollment of 21%, and 28% respectively. Being an Ivy league college, Yale administers a competitive selection process. The university's acceptance rate is only 6.3% for the recent admissions. Yale University admission requirements for master courses included GPA above 3.5 (83%-86%) and 100 in TOEFL-IBT. For courses like MBA, Yale asks for GMAT score above 720. ",
               CoursesN: "Ph.D",
               img: "https://images.collegedunia.com/public/asset/img/homepage/banner/yale.jpg?h=1080&w=1920&mode=stretch",
-              title: "Doctor of Philosophy [Ph.D] (Computer Science)",
-              info: "The Yale University offers a Ph.D. in Computer Science duration of 5 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.This program is focused on research and there are course requirements in the first three terms, but starting in the third term the main focus is on research, guided by an advisor and supervisory committee.The goal of every student in the program is the production of a doctoral dissertation. Some of the milestones along the way are:Passing an area exam administered by the supervisory committee, which tests mastery of the general subject area and context of the student's research interests.Writing a paper on the subject of the first year of research (called the 690 paper because the first year is classified as a course with this number).Submitting a dissertation prospectus and being admitted to candidacy.Writing and defending the dissertation.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3707184₹3707184₹3707184₹3707184₹3707184Other Fees₹59785₹59785₹59785₹59785₹59785Total Fees₹3766969₹3766969₹3766969₹3766969₹3766969",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GRE exam score, the minimum score should be 328 out of 340.Students must be qualified in IELTS or TOEFL to get admission in this program.Other:Applicants to the Ph.D. program who already have Master's degrees may under some circumstances waive some of the requirements.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9207d9d3db342c09f0377"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Statistics and Data Science)",
-              info: "The Yale University offers a Ph.D. in Statistics and Data Science duration of 5 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.In this program, the fields of study include the main areas of statistical theory, probability theory, information theory, bioinformatics and genetics, classification, data mining, and machine learning, neural nets, network science, and etc.After this course, graduates have found excellent positions in universities, industry, and government.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3707184₹3707184₹3707184₹3707184₹3707184Other Fees₹59785₹59785₹59785₹59785₹59785Total Fees₹3766969₹3766969₹3766969₹3766969₹3766969",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GRE exam score, the minimum score should be 328 out of 340.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9207d9d3db342c09f0379"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Pharmacology)",
-              info: "The Yale University offers a Ph.D. in Pharmacology duration of 5 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.Pharmacology at Yale University has a rich history of pre-eminence in drug discovery, indeed the first cancer chemotherapy clinical trials were conducted here.In this program, the research in the department encompasses a broad range of fields, with researchers aiming to both understand and treat human disease.This ranked as the number one Pharmacology program among the medical schools of the USA by the National Research Council of the National Academy of Sciences.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3707184₹3707184₹3707184₹3707184₹3707184Other Fees₹59785₹59785₹59785₹59785₹59785Total Fees₹3766969₹3766969₹3766969₹3766969₹3766969",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GRE exam score, the minimum score should be 328 out of 340.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9207d9d3db342c09f037b"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Marketing)",
-              info: "The Yale University offers a Ph.D. in Marketing duration of 5 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.The Ph.D. in Marketing is a research degree that prepares students for academic positions at top research universities.In this program, students can specialize in either the behavioral (psychology-based) or quantitative (economics, statistics, and machine learning-based) approaches to marketing.Students interested in the psychological aspects of consumer behavior, how consumers make decisions, how they react to marketing stimuli, choose the consumer behavior track.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3707184₹3707184₹3707184₹3707184₹3707184Other Fees₹59785₹59785₹59785₹59785₹59785Total Fees₹3766969₹3766969₹3766969₹3766969₹3766969",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.The average undergraduate Grade Point Average (GPA) is 3.6.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GRE exam score, the minimum score should be 328 out of 340.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9207d9d3db342c09f037f"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Accounting)",
-              info: "The Yale University offers a Ph.D. in Accounting duration of 5 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.Through this program, students become accounting scholars engaged in research and teaching at the highest levels in the general areas of financial information and contracting within and across organizations.This specialization program is designed to develop strong theoretical and empirical skills.The program maintains a 1:1 faculty-to-student ratio. Students interact with emerging research in a host of ways, from conferences held on campus to weekly seminars where faculty and fellow Ph.D. students present and discuss their work.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3707184₹3707184₹3707184₹3707184₹3707184Other Fees₹59785₹59785₹59785₹59785₹59785Total Fees₹3766969₹3766969₹3766969₹3766969₹3766969",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.The average undergraduate Grade Point Average (GPA) is 3.6.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            },
-            {
-              _id: {
-                $oid: "63d9207d9d3db342c09f037d"
-              },
-              title: "Doctor of Philosophy [Ph.D] (Finance)",
-              info: "The Yale University offers a Ph.D. in Finance duration of 5 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.The specialization in finance is designed to give the student a strong background for study and research in both theoretical and empirical work in finance and related areas.In this program, students understanding important concepts and models.The program offers two courses specifically in financial theory and its applications.Examples of potential areas of research for the financial economics dissertation:Principal-agent relationshipsFinancial intermediationEfficiency of marketsPortfolio selectionThe university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
-              fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3707184₹3707184₹3707184₹3707184₹3707184Other Fees₹59785₹59785₹59785₹59785₹59785Total Fees₹3766969₹3766969₹3766969₹3766969₹3766969",
-              Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 690 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
-              __v: 0
-            }
-          ]
-        }
+              College: [
+                  {
+                      _id: {
+                          $oid: "63d91fcebad26e805aa95681"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Computer Science)",
+                      info: "The Yale University offers a Ph.D. in Computer Science duration of 5 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.This program is focused on research and there are course requirements in the first three terms, but starting in the third term the main focus is on research, guided by an advisor and supervisory committee.The goal of every student in the program is the production of a doctoral dissertation. Some of the milestones along the way are:Passing an area exam administered by the supervisory committee, which tests mastery of the general subject area and context of the student's research interests.Writing a paper on the subject of the first year of research (called the 690 paper because the first year is classified as a course with this number).Submitting a dissertation prospectus and being admitted to candidacy.Writing and defending the dissertation.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3707184₹3707184₹3707184₹3707184₹3707184Other Fees₹59785₹59785₹59785₹59785₹59785Total Fees₹3766969₹3766969₹3766969₹3766969₹3766969",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GRE exam score, the minimum score should be 328 out of 340.Students must be qualified in IELTS or TOEFL to get admission in this program.Other:Applicants to the Ph.D. program who already have Master's degrees may under some circumstances waive some of the requirements.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9207d9d3db342c09f0377"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Statistics and Data Science)",
+                      info: "The Yale University offers a Ph.D. in Statistics and Data Science duration of 5 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.In this program, the fields of study include the main areas of statistical theory, probability theory, information theory, bioinformatics and genetics, classification, data mining, and machine learning, neural nets, network science, and etc.After this course, graduates have found excellent positions in universities, industry, and government.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3707184₹3707184₹3707184₹3707184₹3707184Other Fees₹59785₹59785₹59785₹59785₹59785Total Fees₹3766969₹3766969₹3766969₹3766969₹3766969",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GRE exam score, the minimum score should be 328 out of 340.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9207d9d3db342c09f0379"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Pharmacology)",
+                      info: "The Yale University offers a Ph.D. in Pharmacology duration of 5 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.Pharmacology at Yale University has a rich history of pre-eminence in drug discovery, indeed the first cancer chemotherapy clinical trials were conducted here.In this program, the research in the department encompasses a broad range of fields, with researchers aiming to both understand and treat human disease.This ranked as the number one Pharmacology program among the medical schools of the USA by the National Research Council of the National Academy of Sciences.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3707184₹3707184₹3707184₹3707184₹3707184Other Fees₹59785₹59785₹59785₹59785₹59785Total Fees₹3766969₹3766969₹3766969₹3766969₹3766969",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GRE exam score, the minimum score should be 328 out of 340.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9207d9d3db342c09f037b"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Marketing)",
+                      info: "The Yale University offers a Ph.D. in Marketing duration of 5 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.The Ph.D. in Marketing is a research degree that prepares students for academic positions at top research universities.In this program, students can specialize in either the behavioral (psychology-based) or quantitative (economics, statistics, and machine learning-based) approaches to marketing.Students interested in the psychological aspects of consumer behavior, how consumers make decisions, how they react to marketing stimuli, choose the consumer behavior track.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3707184₹3707184₹3707184₹3707184₹3707184Other Fees₹59785₹59785₹59785₹59785₹59785Total Fees₹3766969₹3766969₹3766969₹3766969₹3766969",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.The average undergraduate Grade Point Average (GPA) is 3.6.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GRE exam score, the minimum score should be 328 out of 340.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9207d9d3db342c09f037f"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Accounting)",
+                      info: "The Yale University offers a Ph.D. in Accounting duration of 5 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.Through this program, students become accounting scholars engaged in research and teaching at the highest levels in the general areas of financial information and contracting within and across organizations.This specialization program is designed to develop strong theoretical and empirical skills.The program maintains a 1:1 faculty-to-student ratio. Students interact with emerging research in a host of ways, from conferences held on campus to weekly seminars where faculty and fellow Ph.D. students present and discuss their work.The university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3707184₹3707184₹3707184₹3707184₹3707184Other Fees₹59785₹59785₹59785₹59785₹59785Total Fees₹3766969₹3766969₹3766969₹3766969₹3766969",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.The average undergraduate Grade Point Average (GPA) is 3.6.Proof of English proficiency may be required for international applicants, whose first language is not English.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  },
+                  {
+                      _id: {
+                          $oid: "63d9207d9d3db342c09f037d"
+                      },
+                      title: "Doctor of Philosophy [Ph.D] (Finance)",
+                      info: "The Yale University offers a Ph.D. in Finance duration of 5 years.This course is offered on a full-time basis.This program is provided on-campus and off-campus.The specialization in finance is designed to give the student a strong background for study and research in both theoretical and empirical work in finance and related areas.In this program, students understanding important concepts and models.The program offers two courses specifically in financial theory and its applications.Examples of potential areas of research for the financial economics dissertation:Principal-agent relationshipsFinancial intermediationEfficiency of marketsPortfolio selectionThe university offers a plethora of courses for international students including 84 majors and 2,000 courses in different fields at the undergraduate level.In 2019, 2,694 students nearly 20.7% of international students took admission at Yale representing 123 countries.The student-faculty ratio at Yale University is 6:1, and the school has 72.6% of its classes with fewer than 20 students.Yale University is ranked 1st in the list of Colleges with the Best Professors in America in 2020 by Niche.According to PayScale, the average salary of Yale University Graduates is 88,000 USD.Read More",
+                      fees: "YearYear 1Year 2Year 3Year 4Year 5Tuition Fees₹3707184₹3707184₹3707184₹3707184₹3707184Other Fees₹59785₹59785₹59785₹59785₹59785Total Fees₹3766969₹3766969₹3766969₹3766969₹3766969",
+                      Exams: "Academic Eligibility:Applicants should have completed a bachelor's/master's degree, or its equivalent, from a recognized university.Proof of English proficiency may be required for international applicants, whose first language is not English.Students need to submit the result of the GMAT exam score, the minimum score should be 690 out of 800.Students must be qualified in IELTS or TOEFL to get admission in this program.Indian Student Eligibility:Indian students are eligible to apply if they meet one of the following eligibility criteria:Completed a 4-year UG degree with first class in a relevant field from a recognized institution.Completed a master's degree with first-class in a relevant field from a recognized institution.",
+                      __v: 0
+                  }
+              ]
+          }
       ]
     },
 
@@ -4637,7 +5633,8 @@ const PGMapping =
 
 export default PGMapping;
 
-export function getPGMapping(CollegeName, CourseNames) {
-  return PGMapping[2].Universities.find((list) => (list.Names === CollegeName && list.CoursesN === CourseNames));
+export function getPGMapping(CollegeName, CourseNames,CountryNames) {
+  const PGraduation = PGMapping.find((GMapping) => (GMapping.CNames === CountryNames))
+  return PGraduation.Universities.find((list) => (list.Names === CollegeName && list.CoursesN === CourseNames ));
 
 }

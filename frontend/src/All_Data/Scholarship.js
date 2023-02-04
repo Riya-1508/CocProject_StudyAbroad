@@ -45,48 +45,47 @@ const scholarshipdata =
                 }]
         },
         {
-            scholarship: [
-                {
-                    _id: {
-                        $oid: "63daa83bf41c1263b0644930"
-                    },
-                    heading: "University of Toronto Scholarships for Masters and Doctoral Students",
-                    Scholarship: ["Connaught International Scholarship", "Delta Kappa Gamma World Fellowships", "Mackenzie King Open & Travelling Scholarship", "Dean's Master of Information Scholarships"],
-                    Benefits: ["Varies", "4,000 CAD", "10,500 CAD", "5,000 CAD"],
-                    Eligibility: ["Doctoral", "Doctoral and Masters", "Masters", "Masters"]
-                }, {
-                    _id: {
-                        $oid: "63daa8e218948dd1c18ed66b"
-                    },
-                    heading: "University of British Columbia Scholarships for Bachelor Programs",
-                    Scholarship: ["International Major Entrance Scholarship", "Outstanding International Student Award", "International Community Achievement Award", "Faculty and School-Specific Scholarships", "Vantage One Excellence Award"],
-                    Benefits: ["16,000 CAD- 20,000 CAD (renewable for up to 3 years)", "6,000 CAD- 14,000 CAD", "5,000 CAD", "10,000 CAD", "Tuition + living expenses"],
-                    Eligibility: ["New student; Academically excellent", "New student; No gap year; academic merit", "Continuing student; Demonstrated significant contribution to UBC community", "Continuing student; strong academic achievement; engagement in their faculty", "Enrolled in a Vantage pathway program"]
-                }, {
-                    _id: {
-                        $oid: "63daa9b402cb7ae8c82ffdec"
-                    },
-                    heading: "University of Alberta Scholarships for Bachelor Students",
-                    Scholarship: ["University of Alberta India Centenary Scholarship", "International Entrance Leadership Scholarship", "University of Alberta- India First Year Excellence Scholarship", "International Student Scholarship", "University of Alberta Gold Standard Scholarship"],
-                    Benefits: ["20,000 CAD payable over 4 years", "5,000 CAD", "5,000 CAD", "Up to 9,000 CAD", "Up to 6,000 CAD"],
-                    Eligibility: ["Indian high school graduate with excellent academic standing", "International UG applicants with admission average of over 80%", "Indian student with outstanding academic grades", "International students with outstanding academic score and leadership skills", "Must be in Top 5% of the chosen faculty"]
-                }, {
-                    _id: {
-                        $oid: "63daaa2cc552cb9fdc327335"
-                    },
-                    heading: "University of Ottawa Scholarships for Undergraduate Programs",
-                    Scholarship: ["President's Scholarship for International Students", "Chancellor's Scholarship for International Students", "Dean of the Faculty of Arts’ Merit Scholarship", "Faculty of Engineering Undergraduate Entrance Scholarship – India", "Dean’s Merit Scholarship – Faculty of Engineering", "Engineering Memorial Scholarships", "Dean’s Excellence Award – Faculty of Social Sciences for International Students"],
-                    Benefits: ["30,000 (7,500 per year)", "26,000 (6,500 per year)", "4,000 (1,000 per year)", "5,000/year (2,500 per term)", "5,000 (Admission average: 95% - 100%); 4,000 (Admission average: 90% - 94.9%)", "2,000", "1,500"],
-                    Eligibility: ["Over 92% (or equivalent); Leadership qualities;\r\n\t\t\tCommitment to academic and extracurricular activities", "Over 92% (or equivalent); Leadership qualities;\r\n\t\t\tCommitment to academic and extracurricular activities", "Over 92% (or equivalent); CGPA of 9.0 or higher for renewability", "Indian citizen; CGPA of 5.0 or higher for renewability", "Minimum admission average of 90% (or equivalent)", "Be a female student; Minimum admission average of 80%", "Minimum admission average of 92%"]
-                }, {
-                    _id: {
-                        $oid: "63daacbe660cac6adbbabf2f"
-                    },
-                    heading: "University of Waterloo Scholarships for Bachelor Students",
-                    Scholarship: ["President’s Scholarship", "International Student Entrance Scholarships", "Merit Scholarship", "School of Accounting and Finance Fellowships", "Arthur F. Church Mechanical Engineering Scholarships", "Entrance Scholarships sponsored by Alumni", "Computing and Financial Management entrance scholarships"],
-                    Benefits: ["2,000 CAD", "10,000 CAD", "1,000 CAD", "9,000 CAD", "10,000", "1,000 CAD- 5,000 CAD", "3,000 CAD- 4,000 CAD"],
-                    Eligibility: ["Early May admission average of 95+; Beginning program in September", "Admission average of 90% or higher", "Admission average of 85% to 89.9%", "Academic performance; interview; trait assessment", "Academic performance", "Academic performance", "Academic performance"]
-                }]
+            scholarship: [{
+                _id: {
+                    $oid: "63dba527bc876fbd075916e9"
+                },
+                HeadingColumn2: "Grants",
+                heading: "Technical University of Berlin Scholarships",
+                Scholarship: ["Deutschlandstipendium", "Friedrich Ebert Foundation", "Erwin-Stephan-Preis", "DAAD Study Scholarships", "PROMOS", "ERASMUS+"],
+                column2: ["Provides financial and non-material support to high-achieving international students. Grants 300 euros per month.", "Provided to 40 students each year with outstanding academics and dedication towards social democratic values. Grants 830 euros per month.", "Awarded biannually to graduates completing their course quickly and with excellent grades.", "Awarded to Master’s Degree students. Grants :\r\n\t\t\t\n861 euros per month\nHealth, accident, and personal liability insurance\nTravel allowance\nOne-off study allowance", "Partial scholarships are awarded for abroad internships. Grants between 350-550 euros per month.", "This is an internship scheme. Grants 435-555 euros per day."]
+            }, {
+                _id: {
+                    $oid: "63dba8f26dfea3c838f13fe8"
+                },
+                HeadingColumn2: "Eligibility",
+                heading: "Ludwig Maximilian University Munich Scholarships",
+                Scholarship: ["SIST LMU Study Scholarship", "SIST LMU Study Completion Scholarship", "LMU Nothilfe", "BESUD Scholarship", "Oskar Karl Forster Scholarship"],
+                column2: ["Awarded to students with brilliant academic record,highly proficient in the applicant’s field of study", "Awarded to meritorious students with a stellar academic record", "Awarded to students who are in short-term and unanticipated financial requirements.", "Granted to the students who are highly fluent in German language.only.", "Granted to the students and doctoral candidates of LMU Munich."]
+            }, {
+                _id: {
+                    $oid: "63dba9aeeaa315bb87b09dd6"
+                },
+                HeadingColumn2: "Award Value",
+                heading: "University of Leipzig Scholarships",
+                Scholarship: ["DAAD (Deutscher Akademischer Austauschdienst) scholarship programs", "The Heinrich Böll Foundation scholarships", "DeutschlandStipendium National scholarship program", "Friedrich-Ebert-Stiftung scholarship"],
+                column2: ["€850 for postgraduate students €1200 for doctoral students", "€850 for master’s students €1200 for doctoral students", "€300", "€650 (basic scholarship programme €1000 (graduate scholarship programme)"]
+            }, {
+                _id: {
+                    $oid: "63dbac4e3392750c141d22c3"
+                },
+                HeadingColumn2: "Details",
+                heading: "ESMT Berlin Scholarships",
+                Scholarship: ["Early Bird Discount", "GMAT or GRE Scholarships", "Women’s scholarships", "ESMT Asia Scholarship"],
+                column2: ["Total scholarships: unlimited; Value: 3,000 Euro", "GMAT (or GRE equivalent) of 700 or higher; value of scholarship: 4,000 Euro GMAT (or GRE equivalent) of 650 to 690’ value 2,000 Euro", "Value: up to 10,000 Euro(no other scholarship can be combined with the GMAT/GRE scholarship)", "Number of scholarships available: two; Eligibility: Candidates with permanent residence in Asia."]
+            }, {
+                _id: {
+                    $oid: "63dbb030fb54eb76b50076ac"
+                },
+                HeadingColumn2: "Award (in EUR)",
+                heading: "Technical University of Braunschweig Scholarships",
+                Scholarship: ["Germany Scholarship", "Carolo Wilhelmina Grant", "Karl Goldschmidt Prize", "Idealo Stipendium", "Go Your Way Scholarship"],
+                column2: ["300/month", "Variable", "Variable", "9000", "Variable"]
+            }]
         },
         {
             scholarship: [

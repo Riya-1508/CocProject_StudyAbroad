@@ -160,7 +160,7 @@ const UniversitiesInfo = () => {
               <div className="flex justify-center items-center m-2">
                 <h1 className="text-center p-2 border-2 border-gray-300 w-96 h-10 font-bold text-sm ">{list.SNo}</h1>
                 <p className="text-center p-2  border-y-2 border-gray-300 w-96 h-10 center text-sm">{list.College}</p>
-                <Link to={`/GCountryNames/${list.CNames}/${Countries.Courses[0]}/${list.College}`} className="text-center p-2  border-2 border-gray-300 w-96 h-10 center text-sm hover:bg-gray-800 hover:text-white ">Know More</Link>
+                <Link to={`/GCountryNames/${Countries.CNames}/${Countries.Courses[0]}/${list.College}`} className="text-center p-2  border-2 border-gray-300 w-96 h-10 center text-sm hover:bg-gray-800 hover:text-white ">Know More</Link>
               </div>
             </>
           )
@@ -189,7 +189,7 @@ const UniversitiesInfo2 = () => {
               <div className="flex justify-center items-center m-2">
                 <h1 className="text-center p-2 border-2 border-gray-300 w-96 h-10 font-bold text-sm ">{list.SNo}</h1>
                 <p className="text-center p-2  border-y-2 border-gray-300 w-96 h-10 center text-sm">{list.College}</p>
-                <Link to={`/GCountryNames/${list.CNames}/${Countries.Courses[1]}/${list.College}`} className="text-center p-2  border-2 border-gray-300 w-96 h-10 center text-sm hover:bg-gray-800 hover:text-white ">Know More</Link>
+                <Link to={`/GCountryNames/${Countries.CNames}/${Countries.Courses[1]}/${list.College}`} className="text-center p-2  border-2 border-gray-300 w-96 h-10 center text-sm hover:bg-gray-800 hover:text-white ">Know More</Link>
               </div>
             </>
           )
@@ -218,7 +218,7 @@ const UniversitiesInfo3 = () => {
               <div className="flex justify-center items-center m-2">
                 <h1 className="text-center p-2 border-2 border-gray-300 w-96 h-10 font-bold text-sm ">{list.SNo}</h1>
                 <p className="text-center p-2  border-y-2 border-gray-300 w-96 h-10 center text-sm">{list.College}</p>
-                <Link to={`/GCountryNames/${list.CNames}/${Countries.Courses[2]}/${list.College}`} className="text-center p-2  border-2 border-gray-300 w-96 h-10 center text-sm hover:bg-gray-800 hover:text-white ">Know More</Link>                        </div>
+                <Link to={`/GCountryNames/${Countries.CNames}/${Countries.Courses[2]}/${list.College}`} className="text-center p-2  border-2 border-gray-300 w-96 h-10 center text-sm hover:bg-gray-800 hover:text-white ">Know More</Link>                        </div>
             </>
           )
         })}

@@ -197,10 +197,7 @@ const UniversitiesInfo2 = () => {
                                                             Scholarship Names
                                                         </th>
                                                         <th class="px-6 py-3">
-                                                            Benfits
-                                                        </th>
-                                                        <th class="px-6 py-3">
-                                                            Eligibility
+                                                            {lists.HeadingColumn2}
                                                         </th>
                                                     </tr>
                                                 </thead>
@@ -216,17 +213,7 @@ const UniversitiesInfo2 = () => {
                                                         })}
                                                     </tr>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Benefits.map((list) => {
-                                                            return (
-                                                                <>
-                                                                    <th class="block px-6 py-3">
-                                                                        {list}</th>
-                                                                </>
-                                                            )
-                                                        })}
-                                                    </tr>
-                                                    <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.Eligibility.map((list) => {
+                                                        {lists.column2.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3">

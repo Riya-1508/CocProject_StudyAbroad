@@ -46,9 +46,9 @@ function Navigation() {
                                     </span>
                                 </button>
                                 <ul className="rounded-sm absolute top-0 right-0 transition duration-150 ease-in-out origin-top-left min-w-32">
-                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">USA</a></li>
-                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">Germany</a></li>
-                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">Canada</a></li>
+                                    <Link to={`/GCountryNames/USA`} className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap">USA</Link>
+                                    <Link to={`/GCountryNames/Germany`} className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap">Germany</Link>
+                                    <Link to={`/GCountryNames/Canada`} className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap">Canada</Link>
                                 </ul>
                             </li>
                             <li className="rounded-lg relative text-white px-4 py-2 hover:bg-purple-500">
@@ -69,9 +69,9 @@ function Navigation() {
                                     </span>
                                 </button>
                                 <ul className="rounded-sm absolute top-0 right-0 transition duration-150 ease-in-out origin-top-left min-w-32">
-                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">Canada</a></li>
-                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">Germany</a></li>
-                                    <li className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" href="/">USA</a></li>
+                                    <Link to={`/PGCountryNames/Australia`} className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap">Australia</Link>
+                                    <Link to={`/PGCountryNames/UK`} className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap">UK</Link>
+                                    <Link to={`/PGCountryNames/Canada`} className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap">Canada</Link>
                                 </ul>
                             </li>
                             <li className="rounded-lg relative text-white px-4 py-2 hover:bg-purple-500">
@@ -81,13 +81,13 @@ function Navigation() {
                                     <Link to="/accomodation">Accommodation</Link>
                                 </button>
                             </li>
-                            <Link to="/scholarship" className=""><a className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap" >Scholarship</a></Link>
+                            <Link to="/scholarship" className="bg-purple-400 text-white hover:bg-purple-500 py-2 px-4 hover:rounded-lg block whitespace-no-wrap">Scholarship</Link>
                         </ul>
                     </div>
                     {/* SearchBar */}
-                    <div className="flex list-none my-auto ml-[700px] space-x-32">
+                    <div className="flex list-none my-auto ml-[38rem] space-x-36">
                         <Link to={`/Search`} className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Search College</Link>
-                        <li className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Contact</li>
+                        <Link to={`/`} className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Home Page</Link>
                         <Link to="/login" className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Sign In</Link>
                     </div>
                 </nav >

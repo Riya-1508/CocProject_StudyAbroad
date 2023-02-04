@@ -76,7 +76,7 @@ const GCountries =
                     },
                     {
                         SNo: 6,
-                        College: "University of Ot tawa"
+                        College: "University of Ottawa"
                     },
                     {
                         SNo: 7,
@@ -206,7 +206,7 @@ const GCountries =
                 ],
             Courses:
                 [
-                    "BTech",
+                    "Engineering",
                     "MBBS",
                     "BBA"
                 ],

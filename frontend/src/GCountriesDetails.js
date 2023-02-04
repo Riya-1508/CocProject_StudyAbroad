@@ -49,8 +49,8 @@ const GCountries =
             Courses:
                 [
                     "Engineering",
-                    "BBA",
-                    "MBBS"
+                    "Business",
+                    "Medicine"
                 ],
             Courses1:
                 [
@@ -95,11 +95,11 @@ const GCountries =
                     },
                     {
                         SNo: 2,
-                        College: "The University of British Columbia"
+                        College: "University of British Columbia"
                     },
                     {
                         SNo: 3,
-                        College: "Conestoga Collegey"
+                        College: "Conestoga College"
                     },
                     {
                         SNo: 4,
@@ -138,15 +138,15 @@ const GCountries =
                     },
                     {
                         SNo: 4,
-                        College: "University of Mont real"
+                        College: "University of Montreal"
                     },
                     {
                         SNo: 5,
-                        College: "McMaster University's"
+                        College: "McMaster University"
                     },
                     {
                         SNo: 6,
-                        College: "Queen's University."
+                        College: "Queen's University"
                     },
                     {
                         SNo: 7,
@@ -206,7 +206,7 @@ const GCountries =
                 ],
             Courses:
                 [
-                    "BTech",
+                    "Engineering",
                     "MBBS",
                     "BBA"
                 ],
@@ -231,36 +231,24 @@ const GCountries =
                     {
                         SNo: 5,
                         College: "Karlsruhe Institute of Technology"
-                    },
-                    {
-                        SNo: 6,
-                        College: "Technical University of Braunschweig"
                     }
                 ],
             Courses2:
                 [
                     {
                         SNo: 1,
-                        College: "Heidelberg University"
-                    },
-                    {
-                        SNo: 2,
                         College: "University of Freiburg"
                     },
                     {
-                        SNo: 3,
+                        SNo: 2,
                         College: "University of Hamburg"
                     },
                     {
-                        SNo: 4,
-                        College: "Leipzig University"
-                    },
-                    {
-                        SNo: 5,
+                        SNo: 3,
                         College: "Ludwig Maximilian University of Munich"
                     },
                     {
-                        SNo: 6,
+                        SNo: 4,
                         College: "RWTH Aachen University"
                     },
                 ],
@@ -280,7 +268,7 @@ const GCountries =
                     },
                     {
                         SNo: 4,
-                        College: "Leipzig University"
+                        College: "University of Leipzig"
                     },
                     {
                         SNo: 5,
@@ -1229,7 +1217,7 @@ const GCountries =
                     },
                     {
                         SNo: 4,
-                        College: "Carnegie University"
+                        College: "Columbia University"
                     },
                     {
                         SNo: 5,
@@ -1291,7 +1279,7 @@ const GCountries =
                     },
                     {
                         SNo: 2,
-                        College: "Northeastern University "
+                        College: "Northeastern University"
                     },
                     {
                         SNo: 3,
@@ -1303,18 +1291,14 @@ const GCountries =
                     },
                     {
                         SNo: 5,
-                        College: "Arizona State Universityy"
+                        College: "Arizona State University"
                     },
                     {
                         SNo: 6,
-                        College: "Concord University"
-                    },
-                    {
-                        SNo: 7,
                         College: "Queen's College"
                     },
                     {
-                        SNo: 8,
+                        SNo: 7,
                         College: "Long Island University"
                     }
                 ],

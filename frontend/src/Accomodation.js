@@ -200,9 +200,6 @@ const UniversitiesInfo2 = () => {
                                                         <th class="px-6 py-3">
                                                             {lists.column[1]}
                                                         </th>
-                                                        <th class="px-6 py-3">
-                                                            {lists.column[2]}
-                                                        </th>
                                                     </tr>
                                                 </thead>
                                                 <tbody>
@@ -218,16 +215,6 @@ const UniversitiesInfo2 = () => {
                                                     </tr>
                                                     <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
                                                         {lists.column2.map((list) => {
-                                                            return (
-                                                                <>
-                                                                    <th class="block px-6 py-3">
-                                                                        {list}</th>
-                                                                </>
-                                                            )
-                                                        })}
-                                                    </tr>
-                                                    <tr class="bg-white table-cell border-b dark:bg-gray-800 dark:border-gray-700">
-                                                        {lists.column3.map((list) => {
                                                             return (
                                                                 <>
                                                                     <th class="block px-6 py-3">

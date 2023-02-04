@@ -6,9 +6,9 @@ import { useParams } from "react-router-dom"
 
 
 export default function College_PGraduation() {
-    const {CNames,Courses} = useParams();
-    const PGUniversities = getPGMapping(CNames,Courses)
-    // console.log(PGUniversities);
+    const {CNames,Courses,name} = useParams();
+    const PGUniversities = getPGMapping(CNames,Courses,name)
+    console.log(PGUniversities);
     return (
         <div>
             <Navigation />

@@ -50,53 +50,49 @@ const accomodationdata =
                 }]
         },
         {
-            accomodation: [
-                {
-                    _id: {
-                        $oid: "63db54bfa06f48f33dc0aae8"
-                    },
-                    heading: "University of Toronto Residence",
-                    column: ["Hall", "Housing Style", "Cost(CAD)"],
-                    column1: ["Chestnut Residence", "Graduate House", "Innis College", "Loretto College (part of St. Michaels)", "New College", "St. Michaels", "Student Family Housing", "Trinity College", "University College", "Victoria College", "Woodsworth College"],
-                    column2: ["Traditional Dormitory", "Shared Apartment", "Shared Apartment", "Dormitory", "Dormitory", "Dormitory", "Bachelor Apartments", "Dormitory", "Dormitory", "Dormitory and Shared Apartment", "Private & Shared Apartments"],
-                    column3: ["17,635.22-21,567.22/year\r\n\t\t\t(including a mandatory meal plan)", "7,360-10,752/month\r\n\t\t\t(meal plan excluded)", "11,016/year\r\n\t\t\t(meal plan excluded)", "14,550 - 15,550/year", "15,945 - 17,370/year", "15,889 – 18,1623/year", "Bachelor Apartment: 796/month\r\n\t\t\tStandard 1 Bedroom: 987/month\r\n\t\t\tLarge 1 Bedroom: 1,003 - 1,297/month\r\n\t\t\t2 Bedroom: 1,305/month", "16,120 - 17,520/year", "14,719-16,333/year", "12,714.74-17,936.74/year", "11,203/year"]
-                }, {
-                    _id: {
-                        $oid: "63db55d3b5246465932291d5"
-                    },
-                    heading: "University of British Columbia Hostel",
-                    column: ["Student Residence", "Housing Style", "Charges(in CAD)/month"],
-                    column1: ["Totem Park", "Place Vanier", "Marine Drive", "Walter Gage", "Ponderosa Commons", "Orchard Commons", "Fairview Crescent", "Exchange", "Thunderbird", "Brock Commons Tallwood House", "Ritsumeikan- UBC House", "Fraser Hall", "Iona House", "Arcadia Park (Student Family Residence)"],
-                    column2: ["Single Traditional room; Shared room; Connected single room", "Single traditional; Shared room", "Studio suite; Two-bedroom suite; Three-bedroom suite; Four bedroom suite", "Studio Suite; One-bedroom Suite; Six bedroom Suite", "Studio Suite; Two Bedroom Suite; Four bedroom Suite", "Connected; Shared Single Room", "One-bedroom Suite; Four bedroom Suite; Six bedroom Suite", "Nano Studio; Studio; One bedroom; Townhouse; Two bedroom; Four bedroom", "Studio Suite; One bedroom Suite; Two bedroom suite; Four bedroom suite", "Studio Suite; Four bedroom Suite", "Four bedroom Suite", "Six bedroom Suite", "Studio suite; One Bedroom Suite; Two Bedroom Suite", "One bedroom; Two bedroom; Three bedroom; Four bedroom"],
-                    column3: ["Currently Closed\r\n\t\t\t(includes Meal plan)", "Currently Closed\r\n\t\t\t(includes Meal plan)", "963- 1,258", "933-1,713", "973-1,278", "994-1,123\r\n\t\t\t(includes Meal plan)", "866- 1,485", "738-1,491", "845- 1,358", "1,002-1,209", "Currently Closed\r\n\t\t\t(includes Meal plan)", "860-1,349", "950-1,427", "1,226- 2,092"]
-                }, {
-                    _id: {
-                        $oid: "63db56bcd2048acc1c168e0a"
-                    },
-                    heading: "University of Waterloo Accommodation",
-                    column: ["Residence Hall", "Housing Style", "Cost (CAD)"],
-                    column1: ["Ron Eydt Village", "Claudette Millar Hall", "Village 1", "Mackenzie King Village", "UW Place", "Columbia Lake Village - South", "Columbia Lake Village - North (Grads)", "Minota Hagey"],
-                    column2: ["Traditional", "Traditional", "Traditional", "Suite", "Suite", "Suite", "Suite", "Hybrid (shared kitchen at each floor and optional meal plans)"],
-                    column3: ["11,000-13,500 (including mandatory meal plan)", "11,900-14,000 (including mandatory meal plan)", "11,500-14,000 (including mandatory meal plan)", "12,500-14,400 (including mandatory meal plan)", "12,000-14,500 (including mandatory meal plan)", "11,500-14,000 (including mandatory meal plan)", "11,500-14,000 (including mandatory meal plan)", "12,000-14,500 (including mandatory meal plan)"]
-                }, {
-                    _id: {
-                        $oid: "63db59bccfbc5edb991f950f"
-                    },
-                    heading: "Centennial College Accommodation Cost",
-                    column: ["Specifications", "Residence Type", "Cost (in CAD)"],
-                    column1: ["4 Bed/2 Bath", "2 Bed/1 Bath Shared Bedroom", "2 Bed/1 Bath Standard Bedroom", "2 Bed/1 Bath Deluxe"],
-                    column2: ["Room (In-Campus Residence)", "Room (In-Campus Residence)", "Room (In-Campus Residence)", "Room (In-Campus Residence)"],
-                    column3: ["Starting at 1109", "Starting at 1000", "Starting at 1000", "Starting at 1000"]
-                }, {
-                    _id: {
-                        $oid: "63db5afbd67021bc1a873c31"
-                    },
-                    heading: "University of Windsor Accommodations",
-                    column: ["Residence Type", "Cost in INR for Fall", "Cost in INR for Winter"],
-                    column1: ["Alumni Hall (Single)", "Cartier Hall (Double)", "Laurier Hall & Macdonald Hall (Single)", "Macdonald Hall (Double)"],
-                    column2: ["2.75 lakhs", "2.4 lakhs", "2.5 lakhs", "2.09 lakhs"],
-                    column3: ["2.32 lakhs", "2.01 lakhs", "2.1 lakhs", "1.75 lakhs"]
-                }]
+            accomodation:
+                [
+                    {
+                        _id: {
+                            $oid: "63dba5fd75713329c8605cc2"
+                        },
+                        heading: "Technical University of Berlin Accommodation",
+                        column: ["Accommodation Type", "Average Cost per Month (in INR)"],
+                        column1: ["Shared Room", "Private Room", "Apartment", "Studio"],
+                        column2: ["32 thousand", "74 thousand", "3.88 lakhs", "1.82 lakhs"]
+                    }, {
+                        _id: {
+                            $oid: "63dba7c954eb0b7d97f50490"
+                        },
+                        heading: "Heidelberg University Accommodation",
+                        column: ["Room", "Rent per Month"],
+                        column1: ["Heidelberg (sharing)*", "Heilbronn*", "Bad Mergentheim*", "Mannheim*", "Mosbach*"],
+                        column2: ["€250-€350", "€231 and €315", "€231 and €315", "€315 and €363", "€ 180 - € 282"]
+                    }, {
+                        _id: {
+                            $oid: "63dba80322b8dc439f66f61f"
+                        },
+                        heading: "University of Cologne Accommodation",
+                        column: ["Residence Type", "Rates"],
+                        column1: ["Students’ Dormitory", "Own Apartment", "Shared Apartment"],
+                        column2: ["141 EUR and 361 EUR", "500 EUR", "350-450 EUR"]
+                    }, {
+                        _id: {
+                            $oid: "63dbaab5584bf1c0322d9f6f"
+                        },
+                        heading: "Frankfurt School of Finance & Management Accomodation",
+                        column: ["Category", "Rent/Month"],
+                        column1: ["S", "S (apartment with a lounge)", "M", "L", "XL (Apartment)", "XXL (Apartment)", "Handicapped accessible housing"],
+                        column2: ["32", "54", "111", "29", "4", "4", "2"]
+                    }, {
+                        _id: {
+                            $oid: "63dbad13a3256885e16900f9"
+                        },
+                        heading: "Munich Business School Accommodation",
+                        column: ["Apartment Type", "Cost in Euro"],
+                        column1: ["Room in a shared apartment", "Studio (one room with kitchen and own bath)", "Apartments"],
+                        column2: ["600 to 800", "900 to 1,000", "1,000 to 1,300 (1 bedroom), 1,400 to 1,800 (2 bedrooms)"]
+                    }]
         },
         {
             accomodation:
