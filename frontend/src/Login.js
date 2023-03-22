@@ -1,11 +1,14 @@
 import React from "react";
 import "./Login.css"
-//import Photo_Login from './Photo_LoginPage.png';
+import Photo_Login from './image/Photo_LoginPage.png';
 //import {useNavigate} from 'react-router-dom'
 import {useState} from "react";
 import axios from "axios"
+import { Link } from "react-router-dom";
 import ErrorMessage from "./ErrorMesssge";
-import { json } from "react-router-dom";
+// import { json } from "react-router-dom";
+
+
 function LogIn() {
     
     const [email,setEmail] = useState("")
@@ -45,7 +48,7 @@ setLoading(false)
         <div className="flex space-x-48 md:flex-shrink-0">
             <div className="mt-20" >
                 <p className="ml-40 text-3xl font-bold font-serif">Sign in to access our content</p>
-                    {/* <img className="w-[500px] h-[500px] ml-36"src={Photo_Login} alt=""/> */}
+                    <img className="w-[500px] h-[500px] ml-36"src={Photo_Login} alt=""/>
             </div>
                     <div className="border-4 border-white h-screen "></div>
             <div className="flex justify-end py-36 pr-40">
@@ -66,7 +69,7 @@ setLoading(false)
                     </form>
                     <div className="my-2 text-white">
                         <p>Don't have account?</p>
-                        <p className="text-center underline cursor-pointer">Create Account</p>
+                        <Link to={`/signup`} className="text-center ml-4 underline cursor-pointer">Create Account</Link>
                     </div>
                 </div>
             </div>

@@ -1,8 +1,9 @@
 import React from "react";
 import "./SignUp.css"
-//import Photo_Sign from './image/Photo_SignUp.png';
+import Photo_Sign from './image/Photo_SignUp.png';
 import {useState} from "react";
 import axios from "axios"
+import { Link } from "react-router-dom";
 import ErrorMessage from "./ErrorMesssge";
 // import { json } from "react-router-dom";
 //  import { json } from "react-router-dom";
@@ -68,7 +69,7 @@ function SignUp()
                 <div className="mt-20" >
                 <p className="ml-[330px] text-4xl capitalize font-bold font-mono">Create</p>
                 <span className="ml-80 text-4xl capitalize font-bold font-mono">Account</span>
-                    <img className="w-[700px] h-[500px] ml-36"  alt="" />
+                    <img className="w-[700px] h-[500px] ml-36" src={Photo_Sign}  alt="" />
                 </div>
                 <div className="border-4 border-white h-screen "></div>
                 <div className="flex justify-end py-1 pr-40">
@@ -117,8 +118,8 @@ function SignUp()
                             <button type="submit" className="inline-block px-6 py-1.5 bg-purple-100 text-pink-violent font-medium text-lg leading-tight uppercase rounded-full shadow-md hover:bg-white hover:shadow-lg focus:bg-pink-violent focus:text-white focus:shadow-lg focus:outline-none focus:ring-0 active:bg-pink-violent active:text-white active:shadow-lg transition duration-150 ease-in-out" >Submit</button>
                         </form>
                         {/* <div className="my-10 text-white"> */}
-                            <a href="/" className="text-white text-md mt-4 hover:underline">Already have account?</a>
-                            <button type="submit" className="inline-block mt-2 px-6 py-2 bg-purple-100 text-pink-violent font-medium text-lg leading-tight uppercase rounded-full shadow-md hover:bg-white hover:shadow-lg focus:bg-pink-violent focus:text-white focus:shadow-lg focus:outline-none focus:ring-0 active:bg-pink-violent active:text-white active:shadow-lg transition duration-150 ease-in-out">Log In</button>
+                            <Link to={`/login`} className="text-white text-md mt-4 hover:underline">Already have account?</Link>
+                            <Link to={`/`} className="inline-block mt-2 px-6 py-2 bg-purple-100 text-pink-violent font-medium text-lg leading-tight uppercase rounded-full shadow-md hover:bg-white hover:shadow-lg focus:bg-pink-violent focus:text-white focus:shadow-lg focus:outline-none focus:ring-0 active:bg-pink-violent active:text-white active:shadow-lg transition duration-150 ease-in-out">Home Page</Link>
                         {/* </div> */}
                     </div>
                 </div>
