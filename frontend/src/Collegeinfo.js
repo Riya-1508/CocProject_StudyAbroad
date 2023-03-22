@@ -1,11 +1,11 @@
 import React from "react";
 import "./PostGraduation.css";
 import { getCollegeList } from "./All_Data/CollegeList";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import Navigation from "./Navigation.js";
-import Footer from "./Footer";
+// import Footer from "./Footer";
 import { useParams } from "react-router-dom";
-import { Col } from "react-bootstrap";
+// import { Col } from "react-bootstrap";
 
 
 function CollegeInfo()

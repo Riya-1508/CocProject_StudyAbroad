@@ -4,18 +4,18 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './index.css';
 import Home from './home.js';
 import LogIn from './Login.js';
-import Practice from './practice.js'
+// import Practice from './practice.js'
 import SignUp from './SignUp.js';
-import G from './h.js';
+// import G from './h.js';
 import Accomodation from './Accomodation';
-import Navigation from './Navigation';
+// import Navigation from './Navigation';
 import Graduation from './Graduation.js';
 import PostGraduation from './PostGraduation.js';
 import GraduationCountry from './GraduationCountries.js';
 import PostGraduationCountry from './PostGraduationCountries'
-import GCountryNames from './GCountryNames.js';
+// import GCountryNames from './GCountryNames.js';
 import CollegeGraduation from './College_Graduation';
-import College_PGraduation from './College_PGraduation';
+import CollegePGraduation from './College_PGraduation';
 import Searchbar from './New_search';
 import CollegeInfo from './Collegeinfo';
 import Scholarship from './scholarship';
@@ -41,7 +41,7 @@ const GraduationCollegePages = () => {
         <Route path="/PGCountryNames" element={<PostGraduation />} />
         <Route path="/PGCountryNames/:name" element={<PostGraduationCountry />} />
         <Route path="/PGCountryNames/:name/:Courses" element={< PostGraduationCountry />}/>
-        <Route path="/PGCountryNames/:name/:Courses/:CNames" element={<College_PGraduation />} />
+        <Route path="/PGCountryNames/:name/:Courses/:CNames" element={<CollegePGraduation />} />
       </Routes>
     </BrowserRouter>
   )
