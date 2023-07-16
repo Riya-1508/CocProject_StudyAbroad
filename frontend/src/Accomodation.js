@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import './Accomodation.css';
 import Navigation from "./Navigation.js";
-// import Footer from "./Footer";
+import Footer from "./Footer";
 import accomodationdata from "./All_Data/Australia_Accomodation.js";
 
 function Accomodation() {

@@ -1,20 +1,21 @@
 import React from "react";
 import "./Login.css"
+
 import Photo_Login from './image/Photo_LoginPage.png';
 //import {useNavigate} from 'react-router-dom'
-import {useState} from "react";
+import {useState,useEffect} from "react";
 import axios from "axios"
-import { Link } from "react-router-dom";
 import ErrorMessage from "./ErrorMesssge";
-// import { json } from "react-router-dom";
-
-
+import { Link } from "react-router-dom";
+import { json } from "react-router-dom";
 function LogIn() {
     
     const [email,setEmail] = useState("")
     const[password,setPassword] = useState("")
     const[error,setError] = useState(false)
     const[loading,setLoading] = useState(false)
+   
+
     const submitHandler = async (e) => {
         e.preventDefault()
        try {
@@ -34,12 +35,14 @@ function LogIn() {
 console.log(data)
 localStorage.setItem('userInfo',JSON.stringify(data))
 setLoading(false)
+window.location = "/home";
     }
     catch(error)
     {
         setError(error.response.data.message)
         setLoading(false)
-        alert("Invalid credentials")
+       alert("Invalid Credentials")
+       
     }
  
 }
@@ -69,7 +72,11 @@ setLoading(false)
                     </form>
                     <div className="my-2 text-white">
                         <p>Don't have account?</p>
-                        <Link to={`/signup`} className="text-center ml-4 underline cursor-pointer">Create Account</Link>
+                        <Link to='/SignUp' className="text-center underline cursor-pointer">Create Account</Link>
+                    </div>
+                    <div className="my-2 text-white">
+                        
+                        <Link to='/forgot-password' className="text-center underline cursor-pointer">Forgot Password</Link>
                     </div>
                 </div>
             </div>

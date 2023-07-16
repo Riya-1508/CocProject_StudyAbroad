@@ -1,5 +1,5 @@
 import React from "react";
-// import { useState } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import "./Navigation.css";
 
@@ -87,7 +87,7 @@ function Navigation() {
                     {/* SearchBar */}
                     <div className="flex list-none my-auto ml-[38rem] space-x-36">
                         <Link to={`/Search`} className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Search College</Link>
-                        <Link to={`/`} className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Home Page</Link>
+                        <Link to={`/home`} className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Home Page</Link>
                         <Link to="/login" className='text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg'>Sign In</Link>
                     </div>
                 </nav >

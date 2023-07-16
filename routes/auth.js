@@ -59,6 +59,7 @@ router.post('/createUser', [
 
   } catch (error) {
     console.error(error.message);
+    console.log(error)
     res.status(500).send("Internal Server Error");
   }
 })

@@ -1,21 +1,21 @@
-// import { list } from 'postcss';
+import { list } from 'postcss';
 import React from 'react'
 import { useState } from 'react'
-// import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import CollegeList from './All_Data/CollegeList';
 
 function Searchbar() {
-  // const data1 = ["University of Toronto", "McGill University","University of Waterloo", "Conestoga College", "York University","Queen's University", "Dalhousie University", "University of Sherbrooke", "`More College...  `"]
+  const data1 = ["University of Toronto", "McGill University","University of Waterloo", "Conestoga College", "York University","Queen's University", "Dalhousie University", "University of Sherbrooke", "`More College...  `"]
 
-  // const data10 = () => {
-  //   return (
-  //     <>
-  //       {data1.map((item, index) => (
-  //         <li key={index}>{item}</li>
-  //       ))}
-  //     </>
-  //   )
-  // }
+  const data10 = () => {
+    return (
+      <>
+        {data1.map((item, index) => (
+          <li key={index}>{item}</li>
+        ))}
+      </>
+    )
+  }
 
   const filter10 = () => {
     return (

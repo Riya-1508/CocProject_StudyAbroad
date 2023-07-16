@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import './scholarship.css';
 import Navigation from "./Navigation.js";
-// import Footer from "./Footer";
+import Footer from "./Footer";
 import scholarshipdata from "./All_Data/Scholarship";
 
 function Scholarship() {

@@ -4,30 +4,32 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './index.css';
 import Home from './home.js';
 import LogIn from './Login.js';
-// import Practice from './practice.js'
+import Practice from './practice.js'
 import SignUp from './SignUp.js';
-// import G from './h.js';
+import G from './h.js';
 import Accomodation from './Accomodation';
-// import Navigation from './Navigation';
+import Navigation from './Navigation';
 import Graduation from './Graduation.js';
 import PostGraduation from './PostGraduation.js';
 import GraduationCountry from './GraduationCountries.js';
 import PostGraduationCountry from './PostGraduationCountries'
-// import GCountryNames from './GCountryNames.js';
+import GCountryNames from './GCountryNames.js';
 import CollegeGraduation from './College_Graduation';
-import CollegePGraduation from './College_PGraduation';
+import College_PGraduation from './College_PGraduation';
 import Searchbar from './New_search';
 import CollegeInfo from './Collegeinfo';
 import Scholarship from './scholarship';
 import reportWebVitals from './reportWebVitals';
-
+import ForgotPassword from "./ForgotPassword";
+import PasswordReset from "./ResetPassword";
 
 const GraduationCollegePages = () => {
   document.title = "Study Abroad";
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/" element={<LogIn />} />
+        <Route path="/home" element={<Home />} />
         <Route path="/Search" element={<Searchbar />} />
         <Route path="/login" element={<LogIn />} />
         <Route path="/signup" element={<SignUp />} />
@@ -36,15 +38,32 @@ const GraduationCollegePages = () => {
         <Route path="/Search/:collegename" element={<CollegeInfo />} />
         <Route path="/GCountryNames" element={<Graduation />} />
         <Route path="/GCountryNames/:name" element={<GraduationCountry />} />
-        <Route path="/GCountryNames/:name/:Courses" element={< GraduationCountry />}/>
-        <Route path="/GCountryNames/:name/:Courses/:CNames" element={<CollegeGraduation />} />
+        <Route
+          path="/GCountryNames/:name/:Courses"
+          element={<GraduationCountry />}
+        />
+        <Route
+          path="/GCountryNames/:name/:Courses/:CNames"
+          element={<CollegeGraduation />}
+        />
         <Route path="/PGCountryNames" element={<PostGraduation />} />
-        <Route path="/PGCountryNames/:name" element={<PostGraduationCountry />} />
-        <Route path="/PGCountryNames/:name/:Courses" element={< PostGraduationCountry />}/>
-        <Route path="/PGCountryNames/:name/:Courses/:CNames" element={<CollegePGraduation />} />
+        <Route
+          path="/PGCountryNames/:name"
+          element={<PostGraduationCountry />}
+        />
+        <Route
+          path="/PGCountryNames/:name/:Courses"
+          element={<PostGraduationCountry />}
+        />
+        <Route
+          path="/PGCountryNames/:name/:Courses/:CNames"
+          element={<College_PGraduation />}
+        />
+        <Route path="/forgot-password" element={<ForgotPassword />} />
+        <Route path="/password-reset/:id/:token" element={<PasswordReset />} />
       </Routes>
     </BrowserRouter>
-  )
+  );
 }
 
 
@@ -64,6 +83,7 @@ root.render(
     {/* <GraduationCountry /> */}
     {/* <PostGraduation /> */}
     {/* <Home /> */}
+    {/* <ForgotPassword /> */}
   </React.StrictMode>
 );
 
