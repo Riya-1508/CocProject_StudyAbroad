@@ -1,11 +1,18 @@
 const mongoose = require('mongoose');
 
-const mongoURI = "mongodb://127.0.0.1:27017/inotebook?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+1.6.1"
+require("dotenv").config();
 
-const connectToMongo = ()=>{
-    mongoose.connect(mongoURI, ()=>{
-        console.log("Connected to Mongo Successfully");
-    })
-}
+const atlasConnectionString = process.env.ATLAS_CONNECTION_STRING;
+
+const connectToMongo = async () => {
+  try {
+    mongoose.connect(atlasConnectionString, () => {
+      console.log("Connected to Mongo Successfully");
+    });
+  } catch (error) {
+    console.log(error);
+    process.exit();
+  }
+};
 
 module.exports = connectToMongo;
