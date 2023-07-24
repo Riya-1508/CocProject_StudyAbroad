@@ -1,36 +1,84 @@
 @tailwind base;
 @tailwind components;
 
+@media (min-width: 768px) {
+    .gap-x-8 {
+      gap: 2rem;
+    }
+    .md:gap-x-12 {
+      gap: 3rem;
+    }
+    /* Adjust font size and padding for different screen sizes */
+    .text-3xl {
+      font-size: 1.5rem; /* For medium screens and above */
+    }
+    .font-serif {
+      font-size: 0.875rem; /* For medium screens and above */
+      padding: 0.5rem; /* Add padding to fit the text better */
+    }
+    /* Truncate long texts and add ellipses for overflow */
+    .truncate {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    /* Add spacing between cards */
+    .md:gap-y-8 {
+      gap: 2rem; /* Adjust the vertical spacing between cards for medium screens and above */
+    }
+    /* Adjust text size on the backside of the card for different screen sizes */
+    .md:text-2xl {
+      font-size: 1.25rem; /* For medium screens and above */
+    }
+    .md:font-serif {
+      font-size: 0.75rem; /* For medium screens and above */
+      padding: 0.5rem; /* Add padding to fit the text better */
+    }
+  }
+  
+
+@media (min-width: 1024px) {
+  /* Adjust the gap for larger screens */
+  .gap-x-8 {
+    gap: 2rem;
+  }
+  .md:gap-x-12 {
+    gap: 3rem;
+  }
+}
+
+/* Add the hover effect styles */
 li>ul {
-    transform: translatex(100%) scale(0)
+  transform: translatex(100%) scale(0);
 }
 
 li:hover>ul {
-    transform: translatex(101%) scale(1)
+  transform: translatex(101%) scale(1);
 }
 
 li>button svg {
-    transform: rotate(-90deg)
+  transform: rotate(-90deg);
 }
 
 li:hover>button svg {
-    transform: rotate(-270deg)
+  transform: rotate(-270deg);
 }
 
 .group:hover .group-hover\:scale-100 {
-    transform: scale(1)
+  transform: scale(1);
 }
 
 .group:hover .group-hover\:-rotate-180 {
-    transform: rotate(180deg)
+  transform: rotate(180deg);
 }
 
 .scale-0 {
-    transform: scale(0)
+  transform: scale(0);
 }
 
 .min-w-32 {
-    min-width: 8rem
+  min-width: 8rem;
 }
+
 
 @tailwind utilities;

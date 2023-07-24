@@ -28,13 +28,13 @@ const GraduationCollegePages = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<LogIn />} />
-        <Route path="/home" element={<Home />} />
+        {/* <Route path="/" element={<LogIn />} /> */}
+        <Route path="/" element={<Home />} />
         <Route path="/Search" element={<Searchbar />} />
         <Route path="/login" element={<LogIn />} />
         <Route path="/signup" element={<SignUp />} />
         <Route path="/scholarship" element={<Scholarship />} />
-        <Route path="/accomodation" element={<Accomodation />} />
+        <Route path="/accommodation" element={<Accomodation />} />
         <Route path="/Search/:collegename" element={<CollegeInfo />} />
         <Route path="/GCountryNames" element={<Graduation />} />
         <Route path="/GCountryNames/:name" element={<GraduationCountry />} />
