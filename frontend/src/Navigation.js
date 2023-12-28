@@ -381,6 +381,12 @@ function Navigation() {
             >
               Home Page
             </Link>
+            <Link
+              to={`/home`}
+              className="text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg"
+            >
+              Log In
+            </Link>
             <button
               className="text-black font-semibold hover:dark:bg-gray-900 hover:text-white rounded-lg px-4 py-2 animate-fadein"
               onClick={handleLogout}
