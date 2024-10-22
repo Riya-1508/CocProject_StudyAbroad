@@ -57,8 +57,10 @@ function SignUp() {
 
         console.log(data)
         localStorage.setItem('userInfo', JSON.stringify(data))
-        window.location = "/";
         diffToast("User Registered", "success");
+        setTimeout(() => {
+          window.location = "/login";
+      }, 3000);
       }
 
       catch (error) {
