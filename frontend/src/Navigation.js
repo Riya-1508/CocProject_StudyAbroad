@@ -382,7 +382,7 @@ function Navigation() {
               Home Page
             </Link>
             <Link
-              to={`/home`}
+              to={`/login`}
               className="text-black p-2 font-semibold hover:bg-purple-500 hover:text-white rounded-lg"
             >
               Log In
